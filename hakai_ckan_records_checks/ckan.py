@@ -6,6 +6,9 @@ class CKAN:
         self.base_url = base_url
         self.api_key = api_key
 
+    def __equal__(self, other):
+        return self.base_url == other.base_url and self.api_key == other.api_key
+
     def get_all_records(self):
         url = f"{self.base_url}/api/3/action/package_list"
         headers = {"Authorization": self.api_key}

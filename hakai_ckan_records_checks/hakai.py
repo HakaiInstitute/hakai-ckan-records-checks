@@ -50,7 +50,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     _test(
         record["distributor"][0]["organisation-name"] == "Hakai Institute",
         "ERROR",
-        "Invalid distributor organisation name",
+        f"Invalid distributor organisation-name={record['distributor'][0]['organisation-name']}",
     )
 
     # Review publisher
@@ -85,7 +85,7 @@ def get_record_summary(record):
         "title": record["title"],
         "licence": record["license_id"],
         "private": record["private"],
-        "projects": record["projects"],
+        "projects": ", ".join(record["projects"]),
         "progress": record["progress"],
         "state": record["state"],
         "type": record["type"],
@@ -93,5 +93,5 @@ def get_record_summary(record):
         "resources_count": len(record["resources"]),
         "spatial": record["spatial"],
         "vertical-extent": record["vertical-extent"],
-        "eov": record["eov"],
+        "eov": ", ".join(record["eov"]),
     }
