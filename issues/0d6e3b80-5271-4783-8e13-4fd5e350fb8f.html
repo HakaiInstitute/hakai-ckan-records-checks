@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_251aef08-4017-4493-b9d8-c4583913b511' target='_blank'>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</a></title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<style>
+#map { 
+  height: 380px; 
+  width: 100%;
+  margin: 10px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  margin: 30px;
+  background-color: lightsalmon;
+  padding: 10px 140px;
+  border-radius: 10px;
+  font-size: 30px;
+}
+h2 {
+  margin: 0px 0 20px 0;
+  font-size: 25px;
+  max-width: 1000px;
+  text-align: center;
+}
+h3 {
+  font-size: 20px;
+  background-color: lightgrey;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+}
+table {
+  max-width: 800px;
+  text-align: left;
+}
+th {
+  text-align: left;
+}
+</style>
+<body>
+    <h1>Issue Report</h1>
+    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_251aef08-4017-4493-b9d8-c4583913b511' target='_blank'>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</a></h2>
+    <h3>Information</h3>
+    <ul>
+    
+        <li><strong>name</strong>: ca-cioos_251aef08-4017-4493-b9d8-c4583913b511</li>
+    
+        <li><strong>organization</strong>: Hakai Institute</li>
+    
+        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_251aef08-4017-4493-b9d8-c4583913b511' target='_blank'>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</a></li>
+    
+        <li><strong>licence</strong>: CC-BY-4.0</li>
+    
+        <li><strong>private</strong>: False</li>
+    
+        <li><strong>projects</strong>: Geospatial</li>
+    
+        <li><strong>progress</strong>: completed</li>
+    
+        <li><strong>state</strong>: active</li>
+    
+        <li><strong>type</strong>: dataset</li>
+    
+        <li><strong>distributor</strong>: Hakai Geospatial</li>
+    
+        <li><strong>resources_count</strong>: 1</li>
+    
+        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.7, 51.38], [-127.5, 51.38], [-127.5, 52.23], [-128.7, 52.23], [-128.7, 51.38]]]}</li>
+    
+        <li><strong>vertical-extent</strong>: [{'max': '200.0', 'min': '0.0'}]</li>
+    
+        <li><strong>eov</strong>: other</li>
+    
+        <li><strong>issues</strong>: <a title='0d6e3b80-5271-4783-8e13-4fd5e350fb8f' href='issues/0d6e3b80-5271-4783-8e13-4fd5e350fb8f.html' target='_blank'>ERROR=1</a></li>
+    
+    </ul>
+    <div id='map'></div>
+    <h3>Issues</h3>
+    <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>level</th>
+      <th>message</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=Hakai Geospatial</td>
+    </tr>
+  </tbody>
+</table>
+    <small>Last update: 2024-02-09T17:55:56.211211+00:00</small>
+</body>
+ <!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+<script>
+    var map = L.map('map').setView([51.505, -125.09], 5);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    var geojsonFeature = {
+        "type": "Feature",
+        "properties": {
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_251aef08-4017-4493-b9d8-c4583913b511' target='_blank'>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</a>"
+        },
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.7, 51.38], [-127.5, 51.38], [-127.5, 52.23], [-128.7, 52.23], [-128.7, 51.38]]]}
+    }
+    L.geoJSON(geojsonFeature).addTo(map);
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</html>
