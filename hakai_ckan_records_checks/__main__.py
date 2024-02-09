@@ -21,11 +21,12 @@ def format_summary(summary):
     def link_issue_page(record_row):
         if pd.isna(record_row["issues"]):
             return ""
-        return f"[{record_row['issues']}](issues/{record_row['id']}.md)"
-
+        return f"<a title='{record_row['id']}' href='issues/{record_row['id']}.html' target='_blank'>{record_row['issues']}</a>"
+    
+    summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary["issues"] = summary.apply(link_issue_page, axis=1)
 
-    summary = summary.replace({None: "", np.nan: "", pd.NA: ""})
+    summary = summary.fillna('')
     return summary
 
 
@@ -119,19 +120,19 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
 
     # save results
     Path(output).mkdir(parents=True, exist_ok=True)
-    environment.get_template("home.md.jinja").stream(
+    environment.get_template("index.html.jinja").stream(
         catalog_summary=format_summary(results["catalog_summary"]),
         time=pd.Timestamp.utcnow(),
-    ).dump(f"{output}/home.md")
+    ).dump(f"{output}/index.html")
     # create record specific pages
     catalog_summary = results["catalog_summary"].set_index("id")
     Path(output, "issues").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
-        environment.get_template("record.md.jinja").stream(
+        environment.get_template("record.html.jinja").stream(
             record=catalog_summary.loc[record_id],
             issues=issues,
             time=pd.Timestamp.utcnow(),
-        ).dump(f"{output}/issues/{record_id}.md")
+        ).dump(f"{output}/issues/{record_id}.html")
 
 
 if __name__ == "__main__":
