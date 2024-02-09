@@ -92,7 +92,7 @@ def review_records(ckan: str, max_workers) -> dict:
 @click.option("--api_key", default=None, help="The API key for the CKAN instance")
 @click.option(
     "--output",
-    type=click.Path(exists=True, file_okay=False, dir_okay=True),
+    type=click.Path(file_okay=False, dir_okay=True),
     default="output",
     help="directory where to save the output",
 )
