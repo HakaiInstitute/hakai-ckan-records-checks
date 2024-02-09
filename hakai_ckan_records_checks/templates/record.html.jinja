@@ -10,19 +10,56 @@
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 <style>
-#map { height: 380px; }
+#map { 
+  height: 380px; 
+  width: 100%;
+  margin: 10px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  margin: 30px;
+  background-color: lightsalmon;
+  padding: 10px 140px;
+  border-radius: 10px;
+  font-size: 30px;
+}
+h2 {
+  margin: 0px 0 20px 0;
+  font-size: 25px;
+  max-width: 1000px;
+  text-align: center;
+}
+h3 {
+  font-size: 20px;
+  background-color: lightgrey;
+  width: 100%;
+  text-align: center;
+  padding: 5px;
+}
+table {
+  max-width: 800px;
+  text-align: left;
+}
+th {
+  text-align: left;
+}
 </style>
 <body>
-    <h1>Issue Report: {{ record['title'] }}</h1>
-    <h2>Information</h2>
+    <h1>Issue Report</h1>
+    <h2> {{ record['title'] }}</h2>
+    <h3>Information</h3>
     <ul>
     {% for key,value in record.to_dict().items() %}
         <li><strong>{{ key }}</strong>: {{value}}</li>
     {% endfor %}
     </ul>
     <div id='map'></div>
-    <h2>Issues</h2>
-    {{ issues.drop(columns=['record_id']).to_html(index=False, table_id='issues-table')}}
+    <h3>Issues</h3>
+    {{ issues.drop(columns=['record_id']).to_html(index=False, table_id='issues-table', classes='table table-striped table-hover table-sm')}}
     <small>Last update: {{ time.isoformat() }}</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
