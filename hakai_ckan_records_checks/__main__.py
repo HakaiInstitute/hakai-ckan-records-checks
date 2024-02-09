@@ -15,17 +15,23 @@ from hakai_ckan_records_checks.ckan import CKAN
 
 environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templates"))
 CACHE_FILE = Path("cache.pkl")
-
+pd.set_option('future.no_silent_downcasting', True)
 
 def format_summary(summary):
     def link_issue_page(record_row):
         if pd.isna(record_row["issues"]):
             return ""
         return f"<a title='{record_row['id']}' href='issues/{record_row['id']}.html' target='_blank'>{record_row['issues']}</a>"
+
+    def link_record_page_title(record_row):
+        if pd.isna(record_row["issues"]):
+            return ""
+        return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>{record_row['title']}</a>"
     
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary["issues"] = summary.apply(link_issue_page, axis=1)
-
+    summary['title'] = summary.apply(link_record_page_title,axis=1)
+    summary = summary.astype({'resources_count': 'int32'})
     summary = summary.fillna('')
     return summary
 
@@ -123,6 +129,7 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
     environment.get_template("index.html.jinja").stream(
         catalog_summary=format_summary(results["catalog_summary"]),
         time=pd.Timestamp.utcnow(),
+        ckan_url=ckan_url,
     ).dump(f"{output}/index.html")
     # create record specific pages
     catalog_summary = results["catalog_summary"].set_index("id")

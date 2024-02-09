@@ -70,6 +70,9 @@ def test_record_requirements(record) -> pd.DataFrame:
             "ERROR",
             f"Invalid ressources[{index}].url.status_code={requests.get(ressource['url']).status_code}",
         )
+    
+    # test spatial
+    _test("spatial" in record, "ERROR", "No spatial information available")
 
     summary = pd.DataFrame(results, columns=["level", "message"])
     summary.insert(0, "record_id", record["id"])
