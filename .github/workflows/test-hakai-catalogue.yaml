@@ -1,39 +1,39 @@
 name: Hakai CKAN Record Checks
 
 on:
-    push:
-        branches:
-            - main
-    cronjob:
-        - '0 0 * * *'
+  push:
+    branches:
+      - main
+  cronjob:
+    - "0 0 * * *"
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Checkout repository
-                uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-            - name: Set up Python
-                uses: actions/setup-python@v3
-                with:
-                    python-version: 3.11
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.11
 
-            - name: Install dependencies
-                run: pip install .
+      - name: Install dependencies
+        run: pip install .
 
-            - name: Run Hakai CKAN Record Checks
-                run: python hakai_ckan_record_checks --ckan_url https://catalogue.hakai.org
+      - name: Run Hakai CKAN Record Checks
+        run: python hakai_ckan_record_checks --ckan_url https://catalogue.hakai.org
 
-            - name: Upload artifact
-                uses: actions/upload-artifact@v2
-                with:
-                    name: Hakai CKAN Record Checks Artifact
-                    path: output/
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Hakai CKAN Record Checks Artifact
+          path: output/
 
-            - name: Publish artifact as GitHub Pages
-                uses: peaceiris/actions-gh-pages@v3
-                with:
-                    github_token: ${{ secrets.GITHUB_TOKEN }}
-                    publish_dir: output/
+      - name: Publish artifact as GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: output/
