@@ -24,7 +24,7 @@ jobs:
         run: pip install .
 
       - name: Run Hakai CKAN Record Checks
-        run: python hakai_ckan_record_checks --ckan_url https://catalogue.hakai.org
+        run: python hakai_ckan_record_checks --ckan_url https://catalogue.hakai.org --no-cache
 
       - name: Upload artifact
         uses: actions/upload-artifact@v2
