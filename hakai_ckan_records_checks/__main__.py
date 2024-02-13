@@ -27,14 +27,14 @@ def format_summary(summary):
     def link_record_page_title(record_row):
         if pd.isna(record_row["issues"]):
             return ""
-        return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>{record_row['title']}</a>"
+        return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>Hakai CKAN Record</a>"
 
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
-    summary["issues"] = summary.apply(link_issue_page, axis=1)
-    summary["title"] = summary.apply(link_record_page_title, axis=1)
-    summary = summary.astype({"resources_count": "int32"})
-    summary = summary.fillna("")
-    return summary
+    summary = summary.assign(
+        issues=summary.apply(link_issue_page, axis=1),
+        links=summary.apply(link_record_page_title, axis=1),
+    )
+    return summary.astype({"resources_count": "int32"}).fillna("")
 
 
 def review_records(ckan: str, max_workers) -> dict:
@@ -115,9 +115,10 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
             results = pickle.load(file)
     else:
         results = review_records(ckan, max_workers)
-        with open(CACHE_FILE, "wb") as file:
-            logger.info("Caching results")
-            pickle.dump(results, file)
+        if cache:
+            with open(CACHE_FILE, "wb") as file:
+                logger.info("Caching results")
+                pickle.dump(results, file)
 
     if not output:
         return
