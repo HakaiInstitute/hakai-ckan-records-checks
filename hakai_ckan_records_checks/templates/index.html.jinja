@@ -8,6 +8,7 @@
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+     <script src="https://cdn.plot.ly/plotly-2.27.0.min.js" charset="utf-8"></script>
 </head>
 <style>
 #map { 
@@ -20,6 +21,8 @@ body {
   flex-direction: column;
   align-items: center;
   text-align: center;
+  max-width:1200px;
+  margin: auto;
 }
 h1 {
   margin: 30px;
@@ -40,22 +43,43 @@ h2 {
 }
 h3 {
   font-size: 20px;
-  background-color: lightgrey;
+  background-color: blue;
+  color: white;
   width: 100%;
   text-align: center;
   padding: 5px;
+  margin: 60px 0 30px 0
 }
 #table_wrapper {
     padding: 10px;
 }
+
+#pie-chart {
+    width: 100%;
+    heigh: 380px;
+}
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Report Summary<br><a href="{{ckan_url}}">{{ckan_url}}</a></h1>
-    <p>This page present a summary of the different record hosted on the CKAN Catalogue.</p>
-    <div id='map'></div>
-    <h3>Records Summary</h3>
-    {{ catalog_summary.drop(columns=['id','name','spatial','vertical-extent','organization','private']).to_html( index=False, render_links=True, table_id='table', escape=False, classes='table table-striped table-hover table-sm')}}
+    <p>This page present a summary of: 
+    <br><a href="#records_summary">Records hosted on the catalogue</a> 
+    <br><a href="#issues_summary">Issues detected in some records</a>
+    </p>
 
+    <div id='map'></div>
+    <div id='pie-chart'>{{ issues_pie_chart }}</div>
+    <h3 id="records_summary">Records Summary</h3>
+    {{ catalog_summary.drop(columns=['id','name','spatial','vertical-extent','organization','private']).to_html( index=False, render_links=True, table_id='records_table', escape=False, classes='table table-striped table-hover table-sm')}}
+    <h3 id="issues_summary">Issues Summary</h3>
+    {{ issues_table[['title','level','message','links']].to_html( index=False, render_links=True, table_id='issues_table', escape=False, classes='table table-striped table-hover table-sm')}}
     <small>Last update: {{ time.isoformat() }}</small>
 </body>
 <!-- Make sure you put this AFTER Leaflet's CSS -->
@@ -88,7 +112,10 @@ h3 {
      <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
 <script>
 $(document).ready( function () {
-    $('#table').DataTable();
+    $('#records_table').DataTable();
+} );
+$(document).ready( function () {
+    $('#issues_table').DataTable();
 } );
 </script>
 </html>

@@ -55,20 +55,20 @@ def test_record_requirements(record) -> pd.DataFrame:
 
     # Review publisher
 
-    # Review ressources
-    for index, ressource in enumerate(record["resources"]):
-        _test(ressource["name"] != "", "ERROR", "Empty ressource name")
-        _test(ressource["url"] != "", "ERROR", "Empty ressource url")
-        _test(ressource["format"] != "", "ERROR", "Empty ressource format")
+    # Review resources
+    for index, resource in enumerate(record["resources"]):
+        _test(resource["name"] != "", "ERROR", "Empty resource name")
+        _test(resource["url"] != "", "ERROR", "Empty resource url")
+        _test(resource["format"] != "", "ERROR", "Empty resource format")
         _test(
-            ressource["format"] in ["HTML"],
+            resource["format"] in ["HTML","ERDDAP","OBIS"],
             "ERROR",
-            f"Invalid ressource format: resources[{index}].format={ressource['format']}",
+            f"Invalid resource format: resources[{index}].format={resource['format']}",
         )
         _test(
-            requests.get(ressource["url"]).status_code == 200,
+            requests.get(resource["url"]).status_code == 200,
             "ERROR",
-            f"Invalid ressources[{index}].url.status_code={requests.get(ressource['url']).status_code}",
+            f"Invalid resources[{index}].url.status_code={requests.get(resource['url']).status_code}",
         )
 
     # test spatial
