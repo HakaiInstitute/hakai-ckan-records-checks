@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,12 +42,21 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
 }
 th {
   text-align: left;
+}
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
 }
 </style>
 <body>
