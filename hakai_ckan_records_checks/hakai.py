@@ -53,6 +53,18 @@ def test_record_requirements(record) -> pd.DataFrame:
         f"Invalid distributor organisation-name={record['distributor'][0]['organisation-name']}",
     )
 
+    # Review funder
+    funders = [
+        item for item in record["cited-responsible-party"] if "funder" in item["role"]
+    ]
+    _test(len(funders) > 0, "WARNING", "No funder")
+    if funders:
+        _test(
+            [funder["organisation-name"] == "Hakai Institute" for funder in funders],
+            "WARNING",
+            f"'Hakai Institute' isn't listed as funder in record",
+        )
+
     # Review publisher
 
     # Review resources
@@ -61,7 +73,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         _test(resource["url"] != "", "ERROR", "Empty resource url")
         _test(resource["format"] != "", "ERROR", "Empty resource format")
         _test(
-            resource["format"] in ["HTML","ERDDAP","OBIS"],
+            resource["format"] in ["HTML", "ERDDAP", "OBIS"],
             "ERROR",
             f"Invalid resource format: resources[{index}].format={resource['format']}",
         )

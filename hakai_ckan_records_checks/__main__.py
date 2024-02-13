@@ -5,10 +5,10 @@ from pathlib import Path
 
 import click
 import pandas as pd
+import plotly.express as px
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
 from tqdm import tqdm
-import plotly.express as px
 
 from hakai_ckan_records_checks import hakai
 from hakai_ckan_records_checks.ckan import CKAN
@@ -115,10 +115,10 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
             results = pickle.load(file)
     else:
         results = review_records(ckan, max_workers)
-        if cache:
-            with open(CACHE_FILE, "wb") as file:
-                logger.info("Caching results")
-                pickle.dump(results, file)
+
+        with open(CACHE_FILE, "wb") as file:
+            logger.info("Caching results")
+            pickle.dump(results, file)
 
     if not output:
         return
@@ -127,14 +127,25 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
     results["catalog_summary"] = format_summary(results["catalog_summary"])
 
     # Combine summary and issues
-    combined_issues = results['test_results'].merge(results['catalog_summary'], left_on='record_id', right_on='id').drop(columns=['id'])
+    combined_issues = (
+        results["test_results"]
+        .merge(results["catalog_summary"], left_on="record_id", right_on="id")
+        .drop(columns=["id"])
+    )
     standardized_issues = combined_issues.copy()
-    standardized_issues['message'] = standardized_issues['message'].str.replace('resources\[[0-9]+\]','resources[...]',regex=True)
+    standardized_issues["message"] = standardized_issues["message"].str.replace(
+        "resources\[[0-9]+\]", "resources[...]", regex=True
+    )
 
     # Generate figures
-    pie_chart = px.pie(standardized_issues, names='message',title=f'Hakai Records Issues Distribution: {len(standardized_issues)} issues detected')
-    pie_chart.update_traces(textposition='inside')
-    pie_chart.update_layout(uniformtext_minsize=12, uniformtext_mode='hide')
+    pie_chart = px.pie(
+        standardized_issues,
+        names="message",
+        title=f"Hakai Records Issues Distribution: {len(standardized_issues)} issues detected",
+        facet_col="level",
+    )
+    pie_chart.update_traces(textposition="inside")
+    pie_chart.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
     pie_chart_html = pie_chart.to_html(full_html=False)
 
     # save results
@@ -142,7 +153,7 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
     environment.get_template("index.html.jinja").stream(
         catalog_summary=format_summary(results["catalog_summary"]),
         issues_pie_chart=pie_chart_html,
-        issues_table = combined_issues,
+        issues_table=combined_issues,
         time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
     ).dump(f"{output}/index.html")
@@ -156,9 +167,10 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
             time=pd.Timestamp.utcnow(),
         ).dump(f"{output}/issues/{record_id}.html")
 
-    # save results 
-    results['catalog_summary'].to_csv(f"{output}/catalog_summary.csv", index=False)
-    results['test_results'].to_csv(f"{output}/test_results.csv", index=False)
+    # save results
+    results["catalog_summary"].to_csv(f"{output}/catalog_summary.csv", index=False)
+    results["test_results"].to_csv(f"{output}/test_results.csv", index=False)
+
 
 if __name__ == "__main__":
     main()
