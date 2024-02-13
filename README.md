@@ -2,6 +2,9 @@
 
 This repository contains a set of tests that can be executed on each CKAN record available on the Hakai Institute CKAN catalogue. These tests are designed specifically for the Hakai Institute CKAN catalogue.
 
+The result is summarized via the github page:
+https://hakaiinstitute.github.io/hakai-ckan-records-checks/
+
 ## Purpose
 
 The purpose of this repository is to ensure the quality and integrity of the CKAN records in the Hakai Institute CKAN catalogue. By running these tests, we can identify any issues or inconsistencies in the data and take appropriate actions to resolve them.
