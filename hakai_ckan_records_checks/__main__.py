@@ -132,7 +132,7 @@ def main(ckan_url, api_key, output, max_workers, log_level, cache):
     standardized_issues['message'] = standardized_issues['message'].str.replace('resources\[[0-9]+\]','resources[...]',regex=True)
 
     # Generate figures
-    pie_chart = px.pie(standardized_issues, names='message',title='Hakai Records Issues Distribution')
+    pie_chart = px.pie(standardized_issues, names='message',title=f'Hakai Records Issues Distribution: {len(standardized_issues)} issues detected')
     pie_chart.update_traces(textposition='inside')
     pie_chart.update_layout(uniformtext_minsize=12, uniformtext_mode='hide')
     pie_chart_html = pie_chart.to_html(full_html=False)

@@ -66,7 +66,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             f"Invalid resource format: resources[{index}].format={resource['format']}",
         )
         _test(
-            requests.get(resource["url"]).status_code == 200,
+            int(requests.get(resource["url"]).status_code) in (200, 201),
             "ERROR",
             f"Invalid resources[{index}].url.status_code={requests.get(resource['url']).status_code}",
         )
