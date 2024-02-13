@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></title>
+    <title>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,6 +42,7 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
@@ -47,10 +50,18 @@ table {
 th {
   text-align: left;
 }
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></h2>
+    <h2> Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</h2>
     <h3>Information</h3>
     <ul>
     
@@ -58,7 +69,7 @@ th {
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></li>
+        <li><strong>title</strong>: Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -84,6 +95,8 @@ th {
     
         <li><strong>issues</strong>: <a title='62eb910d-0919-4b2a-9e7e-e63284d8a50a' href='issues/62eb910d-0919-4b2a-9e7e-e63284d8a50a.html' target='_blank'>ERROR=1</a></li>
     
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>Hakai CKAN Record</a></li>
+    
     </ul>
     <div id='map'></div>
     <h3>Issues</h3>
@@ -97,11 +110,11 @@ th {
   <tbody>
     <tr>
       <td>ERROR</td>
-      <td>Invalid ressources[3].url.status_code=403</td>
+      <td>Invalid resources[3].url.status_code=403</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-13T00:18:41.032773+00:00</small>
+    <small>Last update: 2024-02-13T16:20:39.131410+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -116,7 +129,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>"
+            "name" : "Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.60227432, 51.39074678], [-127.47434441, 51.39074678], [-127.47434441, 52.07117353], [-128.60227432, 52.07117353], [-128.60227432, 51.39074678]]]}
     }

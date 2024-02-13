@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></title>
+    <title>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,6 +42,7 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
@@ -47,10 +50,18 @@ table {
 th {
   text-align: left;
 }
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></h2>
+    <h2> High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</h2>
     <h3>Information</h3>
     <ul>
     
@@ -58,7 +69,7 @@ th {
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></li>
+        <li><strong>title</strong>: High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -82,7 +93,9 @@ th {
     
         <li><strong>eov</strong>: inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity</li>
     
-        <li><strong>issues</strong>: <a title='e9e51678-aa19-46a0-bb7b-87a786ef01ad' href='issues/e9e51678-aa19-46a0-bb7b-87a786ef01ad.html' target='_blank'>ERROR=2</a></li>
+        <li><strong>issues</strong>: <a title='e9e51678-aa19-46a0-bb7b-87a786ef01ad' href='issues/e9e51678-aa19-46a0-bb7b-87a786ef01ad.html' target='_blank'>ERROR=1</a></li>
+    
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>Hakai CKAN Record</a></li>
     
     </ul>
     <div id='map'></div>
@@ -97,15 +110,11 @@ th {
   <tbody>
     <tr>
       <td>ERROR</td>
-      <td>Invalid ressource format: resources[1].format=ERDDAP</td>
-    </tr>
-    <tr>
-      <td>ERROR</td>
-      <td>Invalid ressources[1].url.status_code=401</td>
+      <td>Invalid resources[1].url.status_code=401</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-13T00:18:41.071096+00:00</small>
+    <small>Last update: 2024-02-13T16:20:39.163253+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -120,7 +129,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a>"
+            "name" : "High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA"
         },
         "geometry": {'type': 'Point', 'coordinates': [-131.5954, 55.315]}
     }

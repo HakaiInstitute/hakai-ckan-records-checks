@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></title>
+    <title>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,6 +42,7 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
@@ -47,10 +50,18 @@ table {
 th {
   text-align: left;
 }
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></h2>
+    <h2> Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</h2>
     <h3>Information</h3>
     <ul>
     
@@ -58,7 +69,7 @@ th {
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></li>
+        <li><strong>title</strong>: Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -84,6 +95,8 @@ th {
     
         <li><strong>issues</strong>: <a title='1615b3c4-5d7c-43f9-956e-ebe3785af92e' href='issues/1615b3c4-5d7c-43f9-956e-ebe3785af92e.html' target='_blank'>ERROR=1</a></li>
     
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>Hakai CKAN Record</a></li>
+    
     </ul>
     <div id='map'></div>
     <h3>Issues</h3>
@@ -101,7 +114,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-13T00:18:41.013215+00:00</small>
+    <small>Last update: 2024-02-13T16:20:39.112641+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -116,7 +129,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a>"
+            "name" : "Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0."
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.23772561, 51.55090182], [-127.87151456, 51.55090182], [-127.87151456, 51.75810598], [-128.23772561, 51.75810598], [-128.23772561, 51.55090182]]]}
     }

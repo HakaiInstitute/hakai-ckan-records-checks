@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d' target='_blank'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a></title>
+    <title>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,6 +42,7 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
@@ -47,10 +50,18 @@ table {
 th {
   text-align: left;
 }
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d' target='_blank'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a></h2>
+    <h2> Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</h2>
     <h3>Information</h3>
     <ul>
     
@@ -58,7 +69,7 @@ th {
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d' target='_blank'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a></li>
+        <li><strong>title</strong>: Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -84,6 +95,8 @@ th {
     
         <li><strong>issues</strong>: <a title='2ad19f28-6ce8-4309-94a0-0114d8d6ad69' href='issues/2ad19f28-6ce8-4309-94a0-0114d8d6ad69.html' target='_blank'>ERROR=1</a></li>
     
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d' target='_blank'>Hakai CKAN Record</a></li>
+    
     </ul>
     <div id='map'></div>
     <h3>Issues</h3>
@@ -101,7 +114,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-13T00:18:41.023170+00:00</small>
+    <small>Last update: 2024-02-13T16:20:39.120834+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -116,7 +129,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d' target='_blank'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a>"
+            "name" : "Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-125.099, 50.03], [-125.08, 50.03], [-125.08, 50.0307], [-125.099, 50.0307], [-125.099, 50.03]]]}
     }

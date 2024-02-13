@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_05d92ed0-25a0-4108-bce5-0425a934361e' target='_blank'>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</a></title>
+    <title>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,6 +42,7 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
@@ -47,10 +50,18 @@ table {
 th {
   text-align: left;
 }
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_05d92ed0-25a0-4108-bce5-0425a934361e' target='_blank'>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</a></h2>
+    <h2> Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</h2>
     <h3>Information</h3>
     <ul>
     
@@ -58,7 +69,7 @@ th {
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_05d92ed0-25a0-4108-bce5-0425a934361e' target='_blank'>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</a></li>
+        <li><strong>title</strong>: Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -84,6 +95,8 @@ th {
     
         <li><strong>issues</strong>: <a title='92b7a1eb-87a7-4a55-9093-6e5b354041fa' href='issues/92b7a1eb-87a7-4a55-9093-6e5b354041fa.html' target='_blank'>ERROR=5</a></li>
     
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_05d92ed0-25a0-4108-bce5-0425a934361e' target='_blank'>Hakai CKAN Record</a></li>
+    
     </ul>
     <div id='map'></div>
     <h3>Issues</h3>
@@ -97,27 +110,27 @@ th {
   <tbody>
     <tr>
       <td>ERROR</td>
-      <td>Invalid ressources[1].url.status_code=404</td>
+      <td>Invalid resources[1].url.status_code=404</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Empty ressource name</td>
+      <td>Empty resource name</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid ressource format: resources[2].format=PDF</td>
+      <td>Invalid resource format: resources[2].format=PDF</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Empty ressource name</td>
+      <td>Empty resource name</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid ressource format: resources[3].format=PDF</td>
+      <td>Invalid resource format: resources[3].format=PDF</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-13T00:18:41.050005+00:00</small>
+    <small>Last update: 2024-02-13T16:20:39.145405+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -132,7 +145,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_05d92ed0-25a0-4108-bce5-0425a934361e' target='_blank'>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</a>"
+            "name" : "Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.18865863, 51.63201591], [-127.98747149, 51.63201591], [-127.98747149, 51.73504091], [-128.18865863, 51.73504091], [-128.18865863, 51.63201591]]]}
     }

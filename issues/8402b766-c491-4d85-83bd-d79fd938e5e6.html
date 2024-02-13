@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a></title>
+    <title>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,6 +42,7 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
@@ -47,10 +50,18 @@ table {
 th {
   text-align: left;
 }
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a></h2>
+    <h2> Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</h2>
     <h3>Information</h3>
     <ul>
     
@@ -58,7 +69,7 @@ th {
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a></li>
+        <li><strong>title</strong>: Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -84,6 +95,8 @@ th {
     
         <li><strong>issues</strong>: <a title='8402b766-c491-4d85-83bd-d79fd938e5e6' href='issues/8402b766-c491-4d85-83bd-d79fd938e5e6.html' target='_blank'>ERROR=1</a></li>
     
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>Hakai CKAN Record</a></li>
+    
     </ul>
     <div id='map'></div>
     <h3>Issues</h3>
@@ -97,11 +110,11 @@ th {
   <tbody>
     <tr>
       <td>ERROR</td>
-      <td>Invalid ressource format: resources[1].format=PDF</td>
+      <td>Invalid resource format: resources[1].format=PDF</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-13T00:18:41.045708+00:00</small>
+    <small>Last update: 2024-02-13T16:20:39.141065+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -116,7 +129,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a>"
+            "name" : "Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-126.83607287, 50.06090487], [-125.0663222, 50.06090487], [-125.0663222, 50.65060241], [-126.83607287, 50.65060241], [-126.83607287, 50.06090487]]]}
     }

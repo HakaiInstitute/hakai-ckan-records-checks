@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</a></title>
+    <title>Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -19,6 +19,8 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
+  max-width: 1200px;
 }
 h1 {
   margin: 30px;
@@ -40,6 +42,7 @@ h3 {
   text-align: center;
   padding: 5px;
 }
+
 table {
   max-width: 800px;
   text-align: left;
@@ -47,18 +50,26 @@ table {
 th {
   text-align: left;
 }
+@media (min-width: 1200px) {
+  h3 {
+    border-radius: 10px;
+  }
+  #map {
+    border-radius: 10px;
+  }
+}
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> <a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</a></h2>
+    <h2> Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</h2>
     <h3>Information</h3>
     <ul>
     
-        <li><strong>name</strong>: ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e</li>
+        <li><strong>name</strong>: ca-cioos_c24f23f0-8d16-4bfd-835a-5475f1ecd8e8</li>
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</a></li>
+        <li><strong>title</strong>: Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -66,7 +77,7 @@ th {
     
         <li><strong>projects</strong>: </li>
     
-        <li><strong>progress</strong>: onGoing</li>
+        <li><strong>progress</strong>: completed</li>
     
         <li><strong>state</strong>: active</li>
     
@@ -74,15 +85,17 @@ th {
     
         <li><strong>distributor</strong>: Hakai Institute</li>
     
-        <li><strong>resources_count</strong>: 1</li>
+        <li><strong>resources_count</strong>: 4</li>
     
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.2, 51.61], [-128.6, 51.95], [-128.2, 52.04], [-127.8, 51.61], [-125.0, 50.12], [-125.2, 50.04], [-125.2, 50.04], [-125.2, 50.04], [-128.2, 51.61]]]}</li>
+        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.6993408203125, 51.31001339554933], [-127.65014648437497, 51.31001339554933], [-127.65014648437497, 52.221069523572794], [-128.6993408203125, 52.221069523572794], [-128.6993408203125, 51.31001339554933]]]}</li>
     
-        <li><strong>vertical-extent</strong>: [{'max': '90.0', 'min': '0.0'}]</li>
+        <li><strong>vertical-extent</strong>: [{'max': '30.0', 'min': '0.0'}]</li>
     
-        <li><strong>eov</strong>: subSurfaceCurrents, subSurfaceTemperature, seaSurfaceHeight</li>
+        <li><strong>eov</strong>: other, macroalgalCanopyCoverAndComposition</li>
     
-        <li><strong>issues</strong>: <a title='709f3c42-30e9-45de-a34b-4bb241c1054f' href='issues/709f3c42-30e9-45de-a34b-4bb241c1054f.html' target='_blank'>ERROR=1</a></li>
+        <li><strong>issues</strong>: <a title='5a27fac7-ba35-4ad7-95f9-fd4dc560d76d' href='issues/5a27fac7-ba35-4ad7-95f9-fd4dc560d76d.html' target='_blank'>ERROR=1</a></li>
+    
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_c24f23f0-8d16-4bfd-835a-5475f1ecd8e8' target='_blank'>Hakai CKAN Record</a></li>
     
     </ul>
     <div id='map'></div>
@@ -97,11 +110,11 @@ th {
   <tbody>
     <tr>
       <td>ERROR</td>
-      <td>Invalid ressource format: resources[0].format=ERDDAP</td>
+      <td>Invalid resources[1].url.status_code=200</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-13T00:18:41.037097+00:00</small>
+    <small>Last update: 2024-02-13T16:20:39.126987+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -116,9 +129,9 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</a>"
+            "name" : "Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia"
         },
-        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2, 51.61], [-128.6, 51.95], [-128.2, 52.04], [-127.8, 51.61], [-125.0, 50.12], [-125.2, 50.04], [-125.2, 50.04], [-125.2, 50.04], [-128.2, 51.61]]]}
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.6993408203125, 51.31001339554933], [-127.65014648437497, 51.31001339554933], [-127.65014648437497, 52.221069523572794], [-128.6993408203125, 52.221069523572794], [-128.6993408203125, 51.31001339554933]]]}
     }
     L.geoJSON(geojsonFeature).addTo(map);
 </script>
