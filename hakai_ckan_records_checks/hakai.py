@@ -73,7 +73,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         _test(resource["url"] != "", "ERROR", "Empty resource url")
         _test(resource["format"] != "", "ERROR", "Empty resource format")
         _test(
-            resource["format"] in ["HTML", "ERDDAP", "OBIS"],
+            resource["format"] in ["HTML", "ERDDAP", "OBIS","PDF","ZIP"],
             "ERROR",
             f"Invalid resource format: resources[{index}].format={resource['format']}",
         )
