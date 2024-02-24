@@ -1,109 +1,106 @@
 record_id,level,message
-f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,No funder
-996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No funder
-37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,No funder
-203f5c98-e8be-4c41-b523-dddea723ccbf,ERROR,Invalid distributor organisation-name=Hakai Geospatial
-203f5c98-e8be-4c41-b523-dddea723ccbf,WARNING,No funder
+3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No funder
+8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No funder
 0b2d2b69-9a1c-493f-9769-ae94eac40ca5,WARNING,No funder
 bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,No funder
-8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No funder
-3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No funder
+203f5c98-e8be-4c41-b523-dddea723ccbf,ERROR,Invalid distributor organisation-name=Hakai Geospatial
+203f5c98-e8be-4c41-b523-dddea723ccbf,WARNING,No funder
+f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,No funder
 d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,No funder
-7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,ERROR,Invalid distributor organisation-name=Hakai Geospatial
-7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,WARNING,No funder
-0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,No funder
-1661f318-6d3c-47b2-9b3a-51f139684f21,WARNING,No funder
-b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,WARNING,No funder
-62eb910d-0919-4b2a-9e7e-e63284d8a50a,WARNING,No funder
-62eb910d-0919-4b2a-9e7e-e63284d8a50a,ERROR,Invalid resources[3].url.status_code=403
-2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No funder
 92b7a1eb-87a7-4a55-9093-6e5b354041fa,WARNING,No funder
 92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,Invalid resources[1].url.status_code=404
 92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,Empty resource name
 92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,Empty resource name
-f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,No funder
+996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No funder
+37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,No funder
+0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,No funder
+7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,ERROR,Invalid distributor organisation-name=Hakai Geospatial
+7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,WARNING,No funder
+1661f318-6d3c-47b2-9b3a-51f139684f21,WARNING,No funder
+62eb910d-0919-4b2a-9e7e-e63284d8a50a,WARNING,No funder
+62eb910d-0919-4b2a-9e7e-e63284d8a50a,ERROR,Invalid resources[3].url.status_code=403
+b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,WARNING,No funder
+2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No funder
 c02a2940-3686-41c0-b184-4585f31384e7,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 c02a2940-3686-41c0-b184-4585f31384e7,WARNING,No funder
+f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,No funder
 7617e6b5-a968-40b0-b284-8625c01db1bd,WARNING,No funder
+e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,No funder
+ee47e2f6-2483-4a1d-80a4-90b79c2587b0,WARNING,No funder
+322e1c1c-377f-4d17-959f-765cd22d3686,WARNING,No funder
 27849c15-1105-4214-a4ac-ad2e3c65aefc,WARNING,No funder
 27849c15-1105-4214-a4ac-ad2e3c65aefc,ERROR,Invalid resources[0].url.status_code=401
 27849c15-1105-4214-a4ac-ad2e3c65aefc,ERROR,Invalid resources[1].url.status_code=401
 27849c15-1105-4214-a4ac-ad2e3c65aefc,ERROR,Invalid resources[2].url.status_code=403
-e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,No funder
-322e1c1c-377f-4d17-959f-765cd22d3686,WARNING,No funder
-ee47e2f6-2483-4a1d-80a4-90b79c2587b0,WARNING,No funder
 a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,WARNING,No funder
-12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,No funder
 bc6c70d9-8802-4b85-accc-3c0e14cbb38f,WARNING,No funder
+12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,No funder
 0d6e3b80-5271-4783-8e13-4fd5e350fb8f,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 0d6e3b80-5271-4783-8e13-4fd5e350fb8f,WARNING,No funder
 2a2892d4-588a-4f63-9b89-474ec61ba246,WARNING,No funder
 826f7081-386b-43da-be5c-4caa30cefaed,WARNING,No funder
-e505277d-f96d-4c91-9524-977797cd5d09,WARNING,No funder
-e505277d-f96d-4c91-9524-977797cd5d09,ERROR,Invalid resources[1].url.status_code=403
-a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,No funder
-5726e403-dc96-4423-bfb9-e0b86102dc81,WARNING,No funder
 0f964720-21d9-4464-88c0-e1615444c68a,WARNING,No funder
+5726e403-dc96-4423-bfb9-e0b86102dc81,WARNING,No funder
+a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,No funder
 e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,No funder
 2a18846a-d083-4b60-9569-ec6ea738ac08,ERROR,Invalid distributor organisation-name=University of British Columbia
 2a18846a-d083-4b60-9569-ec6ea738ac08,WARNING,No funder
+e505277d-f96d-4c91-9524-977797cd5d09,WARNING,No funder
+e505277d-f96d-4c91-9524-977797cd5d09,ERROR,Invalid resources[1].url.status_code=403
 82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,No funder
 5f471b7d-adc4-41bd-acb5-9320b4422eb4,WARNING,No funder
 5285dbc6-1cb4-4f85-9740-eaa48795803d,WARNING,No funder
 32c70425-67ed-4ee3-8ef8-b8f1b9a07166,WARNING,No funder
 10e33315-1a9e-473a-850f-73182cc12c1c,WARNING,No funder
-22bcdb63-23c2-4f34-8721-76fb95c2167d,WARNING,No funder
 e6400f92-769f-4b55-a141-1e148e1cc0b7,ERROR,Invalid distributor organisation-name=Hakai institute
 e6400f92-769f-4b55-a141-1e148e1cc0b7,WARNING,No funder
-8759103c-abea-415a-9571-a86b39db6205,WARNING,No funder
+22bcdb63-23c2-4f34-8721-76fb95c2167d,WARNING,No funder
 bfaf2b48-94fe-48b6-b9f3-ce0916ada686,WARNING,No funder
+8759103c-abea-415a-9571-a86b39db6205,WARNING,No funder
 8926136d-980e-48f2-9591-4ec85f95a31c,ERROR,Invalid distributor organisation-name=Hakai Institue
 8926136d-980e-48f2-9591-4ec85f95a31c,WARNING,No funder
 7410b272-dfe3-42e5-b51a-2754142caba8,WARNING,No funder
+40416c03-d88a-4f15-aea3-a7b275612c4f,WARNING,No funder
+2b0c442d-3b34-4662-ae27-e762085d7f8c,WARNING,No funder
 bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,WARNING,No funder
 bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Invalid resources[1].url.status_code=404
 bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
 bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
-40416c03-d88a-4f15-aea3-a7b275612c4f,WARNING,No funder
 3ad5a99e-9e19-41e8-8bc7-a4d9547f3d52,WARNING,No funder
-2b0c442d-3b34-4662-ae27-e762085d7f8c,WARNING,No funder
-0315e710-5cef-4089-acfc-253d0e114b36,WARNING,No funder
 ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,WARNING,No funder
-ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,No funder
+0315e710-5cef-4089-acfc-253d0e114b36,WARNING,No funder
 968111e6-7afb-43a9-9304-f804dd5f14a2,WARNING,No funder
+ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,No funder
 76aeea5b-addd-4646-94fc-b292de54f25c,WARNING,No funder
 248ceb8c-678f-4678-88b7-159796ef6487,WARNING,No funder
 169f2e88-5780-44a6-87ae-96d0fc6e84f3,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 169f2e88-5780-44a6-87ae-96d0fc6e84f3,WARNING,No funder
+0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,No funder
 5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,ERROR,Invalid distributor organisation-name=Wild Salmon Centre
 5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,WARNING,No funder
-0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,No funder
 943bc8dd-642d-411b-9865-d364f14da911,WARNING,No funder
 5c2d5e0a-bfea-4bcf-b1c8-b7f92b16647f,WARNING,No funder
 314809ba-c43e-4a55-a2be-d47fcae35b54,WARNING,No funder
-56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No funder
 a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,No funder
 07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No funder
 95f22f64-593a-4415-b968-e3867240fec4,WARNING,No funder
+56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No funder
 a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,No funder
 f74a4d00-7471-4fd6-83d2-265527dd2786,ERROR,Invalid distributor organisation-name=Hakai Institute - Vancouver Island University
 f74a4d00-7471-4fd6-83d2-265527dd2786,WARNING,No funder
-d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,WARNING,No funder
-e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,No funder
-e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,Invalid resources[1].url.status_code=401
-cd3dffb5-70e5-4c52-a748-b73af6390f81,ERROR,Invalid distributor organisation-name=Hakai Geospatial
-cd3dffb5-70e5-4c52-a748-b73af6390f81,WARNING,No funder
-9b09f1b8-4350-47d2-bce3-d14e836d7fb8,WARNING,No funder
+245e6f57-a369-4b7e-a19c-265a2c03727e,WARNING,No funder
 63b49955-e4c3-431a-8493-590e4762eaf7,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 63b49955-e4c3-431a-8493-590e4762eaf7,WARNING,No funder
-245e6f57-a369-4b7e-a19c-265a2c03727e,WARNING,No funder
+d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,WARNING,No funder
+cd3dffb5-70e5-4c52-a748-b73af6390f81,ERROR,Invalid distributor organisation-name=Hakai Geospatial
+cd3dffb5-70e5-4c52-a748-b73af6390f81,WARNING,No funder
 a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,No funder
-b229aee4-969c-4046-9ac3-65f31391d90b,WARNING,No funder
+9b09f1b8-4350-47d2-bce3-d14e836d7fb8,WARNING,No funder
 10bbdbb2-2f67-483b-8350-70264904be77,WARNING,No funder
+b229aee4-969c-4046-9ac3-65f31391d90b,WARNING,No funder
 bcb0e6c1-c47a-4f72-bb80-745ee047a65c,WARNING,No funder
 bcb0e6c1-c47a-4f72-bb80-745ee047a65c,ERROR,Empty resource name
 7138a06e-3e90-4beb-8c84-7b763a4a6bdf,WARNING,No funder
-57706dbb-09f0-4938-8596-69b9a2fc37c0,WARNING,No funder
 75c9c4fd-02fa-4b7a-9212-3d290953d5c2,WARNING,No funder
 dc9c2df9-e523-41e9-93b0-4133afd7c2d6,WARNING,No funder
 cf662b7c-3df7-42ef-8027-65a77268639b,WARNING,No funder
@@ -117,48 +114,47 @@ ea12c489-306e-44c4-95d3-c62879f2fc2e,WARNING,No funder
 94544fc8-507a-4de7-ab58-6f09e96b7ecb,WARNING,No funder
 3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,No funder
 67c1b724-fb73-4484-8a03-c87908db5566,WARNING,No funder
-f507a9ba-716d-451b-99a0-f42047a3a7c2,WARNING,No funder
+48882087-6866-4f5e-9634-f544596612b2,WARNING,No funder
 19c1a880-e902-4ca2-81cd-fdab846ba191,ERROR,Invalid licence=CC-BY-NC-4.0
 19c1a880-e902-4ca2-81cd-fdab846ba191,WARNING,No funder
+f507a9ba-716d-451b-99a0-f42047a3a7c2,WARNING,No funder
+57706dbb-09f0-4938-8596-69b9a2fc37c0,WARNING,No funder
 d00cf1fa-68f6-4545-b05d-3322d1cc42d5,WARNING,No funder
-48882087-6866-4f5e-9634-f544596612b2,WARNING,No funder
 5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,ERROR,Invalid distributor organisation-name=University of Victoria
 5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,WARNING,No funder
-cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,No funder
-08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,WARNING,No funder
-1615b3c4-5d7c-43f9-956e-ebe3785af92e,ERROR,Invalid distributor organisation-name=
-1615b3c4-5d7c-43f9-956e-ebe3785af92e,WARNING,No funder
-75a4b3b7-5cc9-45f6-81e3-ce98f6961488,WARNING,No funder
 7baa4e01-61e0-4504-a84e-34350c79536a,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 7baa4e01-61e0-4504-a84e-34350c79536a,WARNING,No funder
 7baa4e01-61e0-4504-a84e-34350c79536a,ERROR,Invalid resources[1].url.status_code=403
+08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,WARNING,No funder
+cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,No funder
+1615b3c4-5d7c-43f9-956e-ebe3785af92e,ERROR,Invalid distributor organisation-name=
+1615b3c4-5d7c-43f9-956e-ebe3785af92e,WARNING,No funder
+75a4b3b7-5cc9-45f6-81e3-ce98f6961488,WARNING,No funder
 fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,No funder
 ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,ERROR,Invalid distributor organisation-name=University of British Columbia
 ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,WARNING,No funder
 8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,WARNING,No funder
-b352aa68-d03a-4d8f-a0bc-b36539008241,WARNING,No funder
-b352aa68-d03a-4d8f-a0bc-b36539008241,ERROR,Invalid resources[2].url.status_code=403
 43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,WARNING,No funder
 9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,No funder
 71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,No funder
 c7e86d80-2159-4fb8-8a88-7d58221334ee,WARNING,No funder
 c7e86d80-2159-4fb8-8a88-7d58221334ee,ERROR,Invalid resources[1].url.status_code=401
-ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,No funder
 c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,No funder
+ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,No funder
 22f39317-855c-46ca-938f-e3a9273bd9bc,WARNING,No funder
 6e8e8de0-f036-462e-86ac-9d165843935c,WARNING,No funder
 c1485bcd-2b82-4f5e-a38e-a22269521a04,WARNING,No funder
 93e3d25f-11ee-4065-b653-2e8fc3cbb663,WARNING,No funder
-7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,No funder
+ed500223-5e6a-43ef-9126-ba0a4c58a6ea,WARNING,No funder
 5cbd59f7-f24c-428b-aca9-73760131586e,WARNING,No funder
 9896301f-f57d-4c03-9548-89f1c86900d6,WARNING,No funder
+7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,No funder
 fe02340b-1fa3-4eeb-b7b8-4f52476f95c4,WARNING,No funder
 709f3c42-30e9-45de-a34b-4bb241c1054f,WARNING,No funder
 7dcdf013-66f1-4d91-9596-4b0bebad6b3a,WARNING,No funder
 7dcdf013-66f1-4d91-9596-4b0bebad6b3a,ERROR,Invalid resources[0].url.status_code=404
 bf872a6c-217c-4e48-8d7d-0e8b196ab35f,WARNING,No funder
 8402b766-c491-4d85-83bd-d79fd938e5e6,WARNING,No funder
-ed500223-5e6a-43ef-9126-ba0a4c58a6ea,WARNING,No funder
 65b65197-910e-4058-a5c4-34e3750cb6b0,WARNING,No funder
 e191b744-6d69-423c-bd42-75f6e466a460,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 e191b744-6d69-423c-bd42-75f6e466a460,WARNING,No funder
@@ -166,23 +162,27 @@ e191b744-6d69-423c-bd42-75f6e466a460,WARNING,No funder
 44e8eeb5-b67f-4719-a5e8-c86590e20197,WARNING,No funder
 9d84c839-e2b6-4fd7-8908-74b98d779de1,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 9d84c839-e2b6-4fd7-8908-74b98d779de1,WARNING,No funder
-4d668de2-45b2-47c7-9180-f1b24b154b9e,WARNING,No funder
+b352aa68-d03a-4d8f-a0bc-b36539008241,WARNING,No funder
+b352aa68-d03a-4d8f-a0bc-b36539008241,ERROR,Invalid resources[2].url.status_code=403
 75cb83ee-bcf0-4806-89a0-d400afdb5112,WARNING,No funder
+4d668de2-45b2-47c7-9180-f1b24b154b9e,WARNING,No funder
 a30d7fce-421d-49b7-81ff-8f35d76dd96e,WARNING,No funder
 a30d7fce-421d-49b7-81ff-8f35d76dd96e,ERROR,Invalid resources[1].url.status_code=404
 8a0d2d2b-b4e2-44d6-9a70-90916d7f1fd9,WARNING,No funder
 8cdd33c6-0501-4ed1-a05b-e75f2542e249,WARNING,No funder
-7fae8221-2907-4721-a15a-561b6d36caae,WARNING,No funder
 ca359476-7adb-4201-8cf6-19b8822c9df5,WARNING,No funder
+7fae8221-2907-4721-a15a-561b6d36caae,WARNING,No funder
+e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,No funder
+e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,Invalid resources[1].url.status_code=401
 1c8f2953-0655-4c32-8127-16e8df3fa5b2,ERROR,Invalid distributor organisation-name=University of Victoria
 1c8f2953-0655-4c32-8127-16e8df3fa5b2,WARNING,No funder
 6ff8052b-1018-47c7-9423-d3f14113f752,WARNING,No funder
 e5c142ad-3471-499e-81ed-5f5210d3e662,WARNING,No funder
 e6d9b79d-0b80-45f4-9b49-bc6a6bc463a5,ERROR,Invalid distributor organisation-name=Hakai Institute - Vancouver Island University
 e6d9b79d-0b80-45f4-9b49-bc6a6bc463a5,WARNING,No funder
-e55ce907-5836-4a74-a0d5-04e3855b5b4b,WARNING,No funder
-f3dec6f6-ee64-4a68-aadc-7e0cb10c2088,WARNING,No funder
 35e49a67-a8b7-4053-a9c8-6e049ef9398c,WARNING,No funder
+f3dec6f6-ee64-4a68-aadc-7e0cb10c2088,WARNING,No funder
+e55ce907-5836-4a74-a0d5-04e3855b5b4b,WARNING,No funder
 34c4abe9-a6ae-4c9d-9a77-8206077e3fec,ERROR,Invalid distributor organisation-name=Simon Fraser University
 34c4abe9-a6ae-4c9d-9a77-8206077e3fec,WARNING,No funder
 1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,No funder
@@ -198,33 +198,33 @@ d66edb9e-d725-46e5-b5ab-0447fb25224b,WARNING,No funder
 5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,ERROR,Invalid resources[1].url.status_code=404
 27904ff6-58b1-4854-bf77-3e586deb9596,WARNING,No funder
 32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,No funder
-c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,No funder
 fded0aa6-8bd1-470e-8264-31313ae3fdc4,WARNING,No funder
+c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,No funder
 04d6798b-9cda-4868-abb6-133395d50098,WARNING,No funder
 88d47cd1-4ea8-4272-91fd-29a90352c254,ERROR,Invalid licence=CC-BY-NC-4.0
 88d47cd1-4ea8-4272-91fd-29a90352c254,WARNING,No funder
-163e58d5-617f-4f10-867e-b52bf5e3ed51,WARNING,No funder
 ebebc30a-57d5-41db-863b-0303d1d72790,ERROR,Invalid licence=CC-BY-NC-4.0
 ebebc30a-57d5-41db-863b-0303d1d72790,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 ebebc30a-57d5-41db-863b-0303d1d72790,WARNING,No funder
+163e58d5-617f-4f10-867e-b52bf5e3ed51,WARNING,No funder
 948cb2e5-9e45-4c21-aec4-6f71e0010f12,WARNING,No funder
 6e5bf145-eb8e-47d5-8f58-50d38841b381,WARNING,No funder
 6e5bf145-eb8e-47d5-8f58-50d38841b381,ERROR,Invalid resources[0].url.status_code=401
-5a27fac7-ba35-4ad7-95f9-fd4dc560d76d,WARNING,No funder
 0c0a4a6e-ac9a-4763-92ed-33852a5efa6f,WARNING,No funder
-af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No funder
-af780933-5d2b-437d-980f-29a9cb9f10da,ERROR,Invalid resources[0].url.status_code=503
 5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,No funder
-15d215bc-fd39-489e-8876-c707a031f820,WARNING,No funder
 1b1e54eb-635d-4c30-b255-e9bf2a98eda5,WARNING,No funder
+5a27fac7-ba35-4ad7-95f9-fd4dc560d76d,WARNING,No funder
+15d215bc-fd39-489e-8876-c707a031f820,WARNING,No funder
 352ef738-415d-46f7-a94f-13e06ee95d80,WARNING,No funder
-a1059137-5bed-4ebd-838c-cafc590e9a0e,WARNING,No funder
 d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,No funder
 e1a581ca-2921-4302-9022-694c16bbe318,WARNING,No funder
 11ab5b35-5242-4848-8c60-0847d8fea904,WARNING,No funder
 11ab5b35-5242-4848-8c60-0847d8fea904,ERROR,Invalid resources[1].url.status_code=401
-b5548ded-e62b-48e5-98f8-958399064628,WARNING,No funder
+a1059137-5bed-4ebd-838c-cafc590e9a0e,WARNING,No funder
+af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No funder
+af780933-5d2b-437d-980f-29a9cb9f10da,ERROR,Invalid resources[0].url.status_code=503
 24251acf-598c-4457-b6dc-90eef0309879,WARNING,No funder
+b5548ded-e62b-48e5-98f8-958399064628,WARNING,No funder
 3b04e30c-9a08-428b-8bd7-7ce93a8f8d39,WARNING,No funder
 599f1f68-db1f-4dbc-9d87-a32aa108b048,WARNING,No funder
 925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,No funder
@@ -233,8 +233,8 @@ b0a7c171-e740-4fd4-a33a-163e6ed5ded0,WARNING,No funder
 21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,Invalid resources[1].url.status_code=404
 21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,Empty resource name
 4119835e-e185-4c76-bb59-6b026ea2879a,WARNING,No funder
-462d060b-b659-437f-9ceb-8b3d801c6260,WARNING,No funder
 f4481f06-e94c-4344-8082-a28a175c665d,WARNING,No funder
+462d060b-b659-437f-9ceb-8b3d801c6260,WARNING,No funder
 e6b3fcce-fec8-4bc8-a4b4-269861620966,WARNING,No funder
 1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,No funder
 7eeba571-1811-433d-9105-7dbd46773261,ERROR,Invalid distributor organisation-name=Hakai Geospatial
@@ -244,8 +244,8 @@ e6b3fcce-fec8-4bc8-a4b4-269861620966,WARNING,No funder
 0df9f2e1-d2e1-4bb1-8c8a-e847a8dd3204,WARNING,No funder
 ae21afc2-2da3-4c92-8452-5d356c9beccd,WARNING,No funder
 47c03f6e-0f8b-414d-a51f-6f9dfb7582dc,WARNING,No funder
-bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,No funder
-bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid resources[1].url.status_code=404
+1813d4ac-307e-44c9-bad9-1bfd064714d8,WARNING,No funder
+1813d4ac-307e-44c9-bad9-1bfd064714d8,ERROR,Invalid resources[1].url.status_code=404
 2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,WARNING,No funder
 a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,No funder
 8598da5b-ef61-4287-a601-72e666a3ea14,WARNING,No funder
@@ -256,28 +256,28 @@ fddeed08-872a-44da-b2e1-89df5a54abf4,WARNING,No funder
 3b4d1cc2-c682-438a-88c2-0d08f2845ca3,WARNING,No funder
 5be87ce5-5533-4812-ba7e-b7f88db37899,ERROR,Invalid distributor organisation-name=Hakai Institute - McGill University
 5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,No funder
+bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,No funder
+bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid resources[1].url.status_code=404
 fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,No funder
-1813d4ac-307e-44c9-bad9-1bfd064714d8,WARNING,No funder
-1813d4ac-307e-44c9-bad9-1bfd064714d8,ERROR,Invalid resources[1].url.status_code=404
 8cce8805-4065-46bb-a200-d891443c6218,WARNING,No funder
-f7196355-3dec-4991-9ee9-451769c82cbe,WARNING,No funder
-f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[1].url.status_code=404
-f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[4].url.status_code=418
-f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[5].url.status_code=418
 65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,No funder
 4ac069e0-08c4-484b-b9e4-3f7856773f59,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 4ac069e0-08c4-484b-b9e4-3f7856773f59,WARNING,No funder
-3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,No funder
-3e5cce03-ecf7-42d8-87a2-529fc04a7faa,ERROR,Invalid resources[0].url.status_code=503
 d300a7f5-69a6-4747-9050-aa7e7cd947ef,WARNING,No funder
 14202e87-f7b0-482d-8722-e02df68f797c,WARNING,No funder
 8ede3f9c-b985-4e82-b530-3704ac46ab64,WARNING,No funder
 24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,No funder
 9b8d9495-d848-440c-a5b6-8eb74f29a15c,WARNING,No funder
-14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,No funder
-14b416a4-1730-4e7c-a899-228ab5c05b56,ERROR,Invalid resources[0].url.status_code=404
+f7196355-3dec-4991-9ee9-451769c82cbe,WARNING,No funder
+f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[1].url.status_code=404
+f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[4].url.status_code=418
+f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[5].url.status_code=418
 f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,No funder
 f65af1aa-1dff-4b88-a570-9a9185c88791,ERROR,Invalid resources[0].url.status_code=503
+14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,No funder
+14b416a4-1730-4e7c-a899-228ab5c05b56,ERROR,Invalid resources[0].url.status_code=404
+3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,No funder
+3e5cce03-ecf7-42d8-87a2-529fc04a7faa,ERROR,Invalid resources[0].url.status_code=503
 736679b3-89d6-4168-84b7-38b81b563f14,WARNING,No funder
 736679b3-89d6-4168-84b7-38b81b563f14,ERROR,Invalid resources[0].url.status_code=404
 d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,No funder
