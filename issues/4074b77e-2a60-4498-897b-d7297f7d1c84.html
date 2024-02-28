@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</title>
+    <title>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -61,21 +61,21 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</h2>
+    <h2> Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</h2>
     <h3>Information</h3>
     <ul>
     
-        <li><strong>name</strong>: ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710</li>
+        <li><strong>name</strong>: ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7</li>
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</li>
+        <li><strong>title</strong>: Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
         <li><strong>private</strong>: False</li>
     
-        <li><strong>projects</strong>: </li>
+        <li><strong>projects</strong>: Juvenile Salmon Program</li>
     
         <li><strong>progress</strong>: completed</li>
     
@@ -85,17 +85,17 @@ th {
     
         <li><strong>distributor</strong>: Hakai Institute</li>
     
-        <li><strong>resources_count</strong>: 1</li>
+        <li><strong>resources_count</strong>: 4</li>
     
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-125.57747949, 49.70969514], [-124.52984083, 49.70969514], [-124.52984083, 50.11496976], [-125.57747949, 50.11496976], [-125.57747949, 49.70969514]]]}</li>
+        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-127.2, 49.92], [-124.6, 49.92], [-124.6, 50.8], [-127.2, 50.8], [-127.2, 49.92]]]}</li>
     
-        <li><strong>vertical-extent</strong>: [{'max': '0.0', 'min': '0.0'}]</li>
+        <li><strong>vertical-extent</strong>: [{'max': '418.0', 'min': '0.0'}]</li>
     
-        <li><strong>eov</strong>: other, inorganicCarbon</li>
+        <li><strong>eov</strong>: oxygen, particulateMatter, subSurfaceTemperature, subSurfaceSalinity, seaSurfaceSalinity, seaSurfaceTemperature</li>
     
-        <li><strong>issues</strong>: <a title='e55ce907-5836-4a74-a0d5-04e3855b5b4b' href='issues/e55ce907-5836-4a74-a0d5-04e3855b5b4b.html' target='_blank'>WARNING=1</a></li>
+        <li><strong>issues</strong>: <a title='4074b77e-2a60-4498-897b-d7297f7d1c84' href='issues/4074b77e-2a60-4498-897b-d7297f7d1c84.html' target='_blank'>WARNING=1</a></li>
     
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710' target='_blank'>Hakai CKAN Record</a></li>
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>Hakai CKAN Record</a></li>
     
     </ul>
     <div id='map'></div>
@@ -114,7 +114,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-02-28T00:17:50.368270+00:00</small>
+    <small>Last update: 2024-02-28T00:17:50.256313+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -129,9 +129,9 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018"
+            "name" : "Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional"
         },
-        "geometry": {'type': 'Polygon', 'coordinates': [[[-125.57747949, 49.70969514], [-124.52984083, 49.70969514], [-124.52984083, 50.11496976], [-125.57747949, 50.11496976], [-125.57747949, 49.70969514]]]}
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-127.2, 49.92], [-124.6, 49.92], [-124.6, 50.8], [-127.2, 50.8], [-127.2, 49.92]]]}
     }
     L.geoJSON(geojsonFeature).addTo(map);
 </script>
