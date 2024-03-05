@@ -1,3 +1,5 @@
+import re
+
 import pandas as pd
 import requests
 from loguru import logger
@@ -37,30 +39,31 @@ def test_record_requirements(record) -> pd.DataFrame:
 
     # Review licence
     _test("license_id" in record, "ERROR", "No licence")
-    _test(record["license_id"] != "", "ERROR", "Empty licence")
+    _test(record.get("license_id") != "", "ERROR", "Empty licence")
     _test(
-        record["license_id"] == "CC-BY-4.0",
+        record.get("license_id") == "CC-BY-4.0",
         "ERROR",
-        f"Invalid licence={record['license_id'] }",
+        f"Invalid licence={record.get('license_id') }",
     )
 
     # Review distributor
     _test("distributor" in record, "ERROR", "No distributor")
-    _test(record["distributor"] != "", "ERROR", "Empty distributor")
+    _test(record.get("distributor") != "", "ERROR", "Empty distributor")
+    organization_name = record.get("distributor", [{}])[0].get("organisation-name")
     _test(
-        record["distributor"][0]["organisation-name"] == "Hakai Institute",
+        organization_name == "Hakai Institute",
         "ERROR",
-        f"Invalid distributor organisation-name={record['distributor'][0]['organisation-name']}",
+        f"Invalid distributor organisation-name={organization_name}",
     )
 
     # Review funder
     funders = [
-        item for item in record["cited-responsible-party"] if "funder" in item["role"]
+        item for item in record.get("cited-responsible-party",[])if "funder" in item["role"]
     ]
     _test(len(funders) > 0, "WARNING", "No funder")
     if funders:
         _test(
-            [funder["organisation-name"] == "Hakai Institute" for funder in funders],
+            [funder.get("organisation-name") == "Hakai Institute" for funder in funders],
             "WARNING",
             f"'Hakai Institute' isn't listed as funder in record",
         )
@@ -68,12 +71,12 @@ def test_record_requirements(record) -> pd.DataFrame:
     # Review publisher
 
     # Review resources
-    for index, resource in enumerate(record["resources"]):
+    for index, resource in enumerate(record.get("resources",[])):
         _test(resource["name"] != "", "ERROR", "Empty resource name")
         _test(resource["url"] != "", "ERROR", "Empty resource url")
         _test(resource["format"] != "", "ERROR", "Empty resource format")
         _test(
-            resource["format"] in ["HTML", "ERDDAP", "OBIS","PDF","ZIP"],
+            resource["format"] in ["HTML", "ERDDAP", "OBIS", "PDF", "ZIP"],
             "ERROR",
             f"Invalid resource format: resources[{index}].format={resource['format']}",
         )
@@ -108,15 +111,15 @@ def get_record_summary(record):
         "name": record["name"],
         "organization": record["organization"]["title"],
         "title": record["title"],
-        "licence": record["license_id"],
-        "private": record["private"],
-        "projects": ", ".join(record["projects"]),
-        "progress": record["progress"],
-        "state": record["state"],
-        "type": record["type"],
-        "distributor": record["distributor"][0]["organisation-name"],
-        "resources_count": len(record["resources"]),
-        "spatial": record["spatial"],
-        "vertical-extent": record["vertical-extent"],
-        "eov": ", ".join(record["eov"]),
+        "licence": record.get("license_id"),
+        "private": record.get("private"),
+        "projects": ", ".join(record.get("projects",[])),
+        "progress": record.get("progress"),
+        "state": record.get("state"),
+        "type": record.get("type"),
+        "distributor": record.get("distributor",[{}])[0].get("organisation-name"),
+        "resources_count": len(record.get("resources",[])),
+        "spatial": record.get("spatial"),
+        "vertical-extent": record.get("vertical-extent"),
+        "eov": ", ".join(record.get("eov",[])),
     }
