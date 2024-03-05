@@ -83,6 +83,16 @@ def test_record_requirements(record) -> pd.DataFrame:
             f"Invalid resources[{index}].url.status_code={requests.get(resource['url']).status_code}",
         )
 
+    # Data Access via Standardized Repositories
+    _test(
+        any([
+            re.match("obis|erddap|argis", resource["url"], re.IGNORECASE)
+            for resource in record.get("resources",[])
+        ]),
+        "WARNING",
+        "Record isn't accesible via a general public repository",
+    )
+
     # test spatial
     _test("spatial" in record, "ERROR", "No spatial information available")
 
