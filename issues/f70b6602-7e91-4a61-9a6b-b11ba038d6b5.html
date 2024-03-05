@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</title>
+    <title>Hakai Metadata Form data</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -61,41 +61,41 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</h2>
+    <h2> Hakai Metadata Form data</h2>
     <h3>Information</h3>
     <ul>
     
-        <li><strong>name</strong>: ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373</li>
+        <li><strong>name</strong>: hakai-metadata-form-data</li>
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</li>
+        <li><strong>title</strong>: Hakai Metadata Form data</li>
     
-        <li><strong>licence</strong>: CC-BY-4.0</li>
+        <li><strong>licence</strong>: </li>
     
         <li><strong>private</strong>: False</li>
     
         <li><strong>projects</strong>: </li>
     
-        <li><strong>progress</strong>: onGoing</li>
+        <li><strong>progress</strong>: </li>
     
         <li><strong>state</strong>: active</li>
     
-        <li><strong>type</strong>: dataset</li>
+        <li><strong>type</strong>: harvest</li>
     
-        <li><strong>distributor</strong>: Hakai Institute</li>
+        <li><strong>distributor</strong>: </li>
     
-        <li><strong>resources_count</strong>: 1</li>
+        <li><strong>resources_count</strong>: 0</li>
     
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.25940955, 51.55841821], [-127.87488807, 51.55841821], [-127.87488807, 51.75224257], [-128.25940955, 51.75224257], [-128.25940955, 51.55841821]]]}</li>
+        <li><strong>spatial</strong>: </li>
     
-        <li><strong>vertical-extent</strong>: [{'max': '0.0', 'min': '0.0'}]</li>
+        <li><strong>vertical-extent</strong>: </li>
     
-        <li><strong>eov</strong>: other</li>
+        <li><strong>eov</strong>: </li>
     
-        <li><strong>issues</strong>: <a title='0b2d2b69-9a1c-493f-9769-ae94eac40ca5' href='issues/0b2d2b69-9a1c-493f-9769-ae94eac40ca5.html' target='_blank'>WARNING=2</a></li>
+        <li><strong>issues</strong>: <a title='f70b6602-7e91-4a61-9a6b-b11ba038d6b5' href='issues/f70b6602-7e91-4a61-9a6b-b11ba038d6b5.html' target='_blank'>ERROR=5; WARNING=2</a></li>
     
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373' target='_blank'>Hakai CKAN Record</a></li>
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/hakai-metadata-form-data' target='_blank'>Hakai CKAN Record</a></li>
     
     </ul>
     <div id='map'></div>
@@ -109,6 +109,22 @@ th {
   </thead>
   <tbody>
     <tr>
+      <td>ERROR</td>
+      <td>No licence</td>
+    </tr>
+    <tr>
+      <td>ERROR</td>
+      <td>Invalid licence=None</td>
+    </tr>
+    <tr>
+      <td>ERROR</td>
+      <td>No distributor</td>
+    </tr>
+    <tr>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=None</td>
+    </tr>
+    <tr>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -116,9 +132,13 @@ th {
       <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
+    <tr>
+      <td>ERROR</td>
+      <td>No spatial information available</td>
+    </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-05T16:13:34.559496+00:00</small>
+    <small>Last update: 2024-03-05T16:13:34.747686+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -133,9 +153,9 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0"
+            "name" : "Hakai Metadata Form data"
         },
-        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.25940955, 51.55841821], [-127.87488807, 51.55841821], [-127.87488807, 51.75224257], [-128.25940955, 51.75224257], [-128.25940955, 51.55841821]]]}
+        "geometry": 
     }
     L.geoJSON(geojsonFeature).addTo(map);
 </script>

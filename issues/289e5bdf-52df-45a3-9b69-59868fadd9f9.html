@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</title>
+    <title>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -61,15 +61,15 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</h2>
+    <h2> Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</h2>
     <h3>Information</h3>
     <ul>
     
-        <li><strong>name</strong>: ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373</li>
+        <li><strong>name</strong>: ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880</li>
     
         <li><strong>organization</strong>: Hakai Institute</li>
     
-        <li><strong>title</strong>: Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</li>
+        <li><strong>title</strong>: Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</li>
     
         <li><strong>licence</strong>: CC-BY-4.0</li>
     
@@ -77,7 +77,7 @@ th {
     
         <li><strong>projects</strong>: </li>
     
-        <li><strong>progress</strong>: onGoing</li>
+        <li><strong>progress</strong>: underDevelopment</li>
     
         <li><strong>state</strong>: active</li>
     
@@ -85,17 +85,17 @@ th {
     
         <li><strong>distributor</strong>: Hakai Institute</li>
     
-        <li><strong>resources_count</strong>: 1</li>
+        <li><strong>resources_count</strong>: 2</li>
     
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.25940955, 51.55841821], [-127.87488807, 51.55841821], [-127.87488807, 51.75224257], [-128.25940955, 51.75224257], [-128.25940955, 51.55841821]]]}</li>
+        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-125.3704833984375, 49.9229354544957], [-124.75524902343749, 49.9229354544957], [-124.75524902343749, 50.291094042311386], [-125.3704833984375, 50.291094042311386], [-125.3704833984375, 49.9229354544957]]]}</li>
     
-        <li><strong>vertical-extent</strong>: [{'max': '0.0', 'min': '0.0'}]</li>
+        <li><strong>vertical-extent</strong>: [{'max': '500.0', 'min': '0.0'}]</li>
     
         <li><strong>eov</strong>: other</li>
     
-        <li><strong>issues</strong>: <a title='0b2d2b69-9a1c-493f-9769-ae94eac40ca5' href='issues/0b2d2b69-9a1c-493f-9769-ae94eac40ca5.html' target='_blank'>WARNING=2</a></li>
+        <li><strong>issues</strong>: <a title='289e5bdf-52df-45a3-9b69-59868fadd9f9' href='issues/289e5bdf-52df-45a3-9b69-59868fadd9f9.html' target='_blank'>WARNING=1</a></li>
     
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373' target='_blank'>Hakai CKAN Record</a></li>
+        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>Hakai CKAN Record</a></li>
     
     </ul>
     <div id='map'></div>
@@ -110,15 +110,11 @@ th {
   <tbody>
     <tr>
       <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-05T16:13:34.559496+00:00</small>
+    <small>Last update: 2024-03-05T16:13:34.592572+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -133,9 +129,9 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0"
+            "name" : "Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada"
         },
-        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.25940955, 51.55841821], [-127.87488807, 51.55841821], [-127.87488807, 51.75224257], [-128.25940955, 51.75224257], [-128.25940955, 51.55841821]]]}
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-125.3704833984375, 49.9229354544957], [-124.75524902343749, 49.9229354544957], [-124.75524902343749, 50.291094042311386], [-125.3704833984375, 50.291094042311386], [-125.3704833984375, 49.9229354544957]]]}
     }
     L.geoJSON(geojsonFeature).addTo(map);
 </script>
