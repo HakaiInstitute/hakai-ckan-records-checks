@@ -131,6 +131,7 @@ def main(ckan_url,records_ids, api_key, output, max_workers, log_level, cache):
 
     logger.info(f"Saving results to: '{output}'")
     results["catalog_summary"] = format_summary(results["catalog_summary"])
+    results['catalog_summary'].to_excel(f"{output}/catalog_summary.xlsx", index=False)
 
     # Combine summary and issues
     combined_issues = (

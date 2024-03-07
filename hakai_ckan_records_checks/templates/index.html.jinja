@@ -69,15 +69,15 @@ h3 {
 </style>
 <body>
     <h1>Report Summary<br><a href="{{ckan_url}}">{{ckan_url}}</a></h1>
-    <p>This page present a summary of:</p>
-    <ul>
-    <li><a href="#records_summary">records hosted on the catalogue</a></li>
-    <li><a href="#issues_summary">issues detected in some records</a></li>
-    </ul>
-
+    <p>
+      This page present a summary of:<br>
+      <a href="#records_summary">records hosted on the catalogue</a><br>
+      <a href="#issues_summary">issues detected in some records</a>
+    </p>
     <div id='map'></div>
     <div id='pie-chart'>{{ issues_pie_chart }}</div>
     <h3 id="records_summary">Records Summary</h3>
+    <div class="download-area"> Download <a id="download-summary-excel" href='catalog_summary.xlsx' class="btn btn-primary">Excel</a> <a id="download-summary-csv" href='catalog_summary.csv' class="btn btn-primary">CSV</a></div>
     {{ catalog_summary.drop(columns=['id','name','spatial','vertical-extent','organization','private']).to_html( index=False, render_links=True, table_id='records_table', escape=False, classes='table table-striped table-hover table-sm')}}
     <h3 id="issues_summary">Issues Summary</h3>
     {{ issues_table[['title','level','message','links']].to_html( index=False, render_links=True, table_id='issues_table', escape=False, classes='table table-striped table-hover table-sm')}}
