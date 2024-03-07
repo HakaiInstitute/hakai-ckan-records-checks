@@ -36,6 +36,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         "ERROR",
         f"Unknown organization title: {record['organization']['title']}",
     )
+    _test(record["organization"].get('projects'), "ERROR", "No projects associated")
 
     # Review licence
     _test("license_id" in record, "ERROR", "No licence")
@@ -45,6 +46,42 @@ def test_record_requirements(record) -> pd.DataFrame:
         "ERROR",
         f"Invalid licence={record.get('license_id') }",
     )
+
+    # Review identifier
+    unique_identifiers = record.get("unique-resource-identifier-full",[])
+    dois = [item for item in unique_identifiers if "doi.org" in item.get("code","")]
+    _test(unique_identifiers,"WARNING", "No unique-ressource-identifier-full")
+    if unique_identifiers:
+        _test(
+            len(unique_identifiers) == 1,
+            "ERROR",
+            f"Multiple unique-ressource-identifier-full={unique_identifiers}",
+        )
+    
+    _test(
+        dois,
+        "WARNING",
+        f"no DOI defined",
+    )
+    if dois:
+        _test(
+            len(dois) < 2,
+            "ERROR",
+            f"Multiple doi={dois}?",
+        )
+        DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
+        _test(
+            all([re.match("https://doi.org",doi.get('code','')) for doi in dois]),
+            "ERROR",
+            f"Some dois do not match the exected format{DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
+        )
+        for doi in dois:
+            status_code = requests.get(doi.get("code")).status_code
+            _test(
+                status_code in (200, 201),
+                "ERROR",
+                f"Invalid HTTPS {doi.get('code')} status_code={status_code}",
+            )
 
     # Review distributor
     _test("distributor" in record, "ERROR", "No distributor")
