@@ -48,20 +48,11 @@ def test_record_requirements(record) -> pd.DataFrame:
     )
 
     # Review identifier
-    unique_identifiers = record.get("unique-resource-identifier-full", [])
-    dois = [item for item in unique_identifiers if "doi.org" in item.get("code", "")]
-    _test(unique_identifiers, "WARNING", "No unique-ressource-identifier-full")
-    if unique_identifiers:
-        _test(
-            len(unique_identifiers) == 1,
-            "ERROR",
-            f"Multiple unique-ressource-identifier-full={unique_identifiers}",
-        )
-
+    dois = [item for item in record.get("unique-resource-identifier-full", []) if "doi.org" in item.get("code", "")]
     _test(
         dois,
         "WARNING",
-        f"no DOI defined",
+        f"No DOI defined",
     )
     if dois:
         _test(
@@ -76,6 +67,11 @@ def test_record_requirements(record) -> pd.DataFrame:
             f"Some dois do not match the exected format{DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
         )
         for doi in dois:
+            _test(
+                re.match("https://doi.org", doi.get("code", "")),
+                "ERROR",
+                f"Some dois do not match the exected format{DOI_CODE_FORMAT}: doi={doi.get('code')}",
+            )
             status_code = requests.get(doi.get("code")).status_code
             _test(
                 status_code in (200, 201),
