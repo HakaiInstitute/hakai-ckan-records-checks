@@ -8,6 +8,7 @@
 
 
 
+
         
 
         {
@@ -17,6 +18,14 @@
             "program": "hakai_ckan_records_checks",
             "console": "integratedTerminal",
             "args": ["-c","https://catalogue.hakai.org","--no-cache"]
+        },
+        {
+            "name": "Hakai CKAN Records Checks Cached",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "hakai_ckan_records_checks",
+            "console": "integratedTerminal",
+            "args": ["-c","https://catalogue.hakai.org","--cache"]
         },
         {
             "name": "Hakai CKAN  Juvenile Salmon Program Time Series Checks",
