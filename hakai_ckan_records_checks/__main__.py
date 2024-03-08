@@ -19,25 +19,26 @@ pd.set_option("future.no_silent_downcasting", True)
 
 
 def format_summary(summary):
-    def link_issue_page(record_row):
-        if pd.isna(record_row["issues"]):
+    def link_issue_page(record_row,var):
+        if pd.isna(record_row[var]):
             return ""
-        return f"<a title='{record_row['id']}' href='issues/{record_row['id']}.html' target='_blank'>{record_row['issues']}</a>"
+        return f"<a title='{record_row['id']}' href='issues/{record_row['id']}.html' target='_blank'>{record_row[var]}</a>"
 
     def link_record_page_title(record_row):
-        if pd.isna(record_row["issues"]):
+        if pd.isna(record_row["name"]):
             return ""
         return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>Hakai CKAN Record</a>"
 
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary = summary.assign(
-        issues=summary.apply(link_issue_page, axis=1),
+        WARNING=summary.apply(lambda x: link_issue_page(x,'WARNING'), axis=1),
+        ERROR=summary.apply(lambda x: link_issue_page(x,'ERROR'), axis=1),
         links=summary.apply(link_record_page_title, axis=1),
     )
     return summary.astype({"resources_count": "int32"}).fillna("")
 
 
-def review_records(ckan: str, max_workers,records_ids: list=None) -> dict:
+def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
     @logger.catch(default={})
     def _review_record(record_id) -> dict:
         record = ckan.get_record(record_id)
@@ -45,20 +46,14 @@ def review_records(ckan: str, max_workers,records_ids: list=None) -> dict:
         test_results = hakai.test_record_requirements(record["result"])
         summary = hakai.get_record_summary(record["result"])
         if not test_results.empty:
-            summary["issues"] = "; ".join(
-                [
-                    f"{key}={value}"
-                    for key, value in test_results.groupby("level")
-                    .count()["record_id"]
-                    .to_dict()
-                    .items()
-                ]
-            )
+            summary.update(test_results.groupby("level").count()["record_id"].to_dict())
+
         return {
             "record_id": record_id,
             "test_results": test_results,
             "summary": summary,
         }
+
     if not records_ids:
         records = ckan.get_all_records()
     else:
@@ -92,7 +87,7 @@ def review_records(ckan: str, max_workers,records_ids: list=None) -> dict:
 
 @click.command()
 @click.option("-c", "--ckan_url", help="The base URL of the CKAN instance")
-@click.option("--records_ids",default=None, type=str, help="The records to check")
+@click.option("--records_ids", default=None, type=str, help="The records to check")
 @click.option("--api_key", default=None, help="The API key for the CKAN instance")
 @click.option(
     "--output",
@@ -105,7 +100,7 @@ def review_records(ckan: str, max_workers,records_ids: list=None) -> dict:
 @click.option(
     "--cache/--no-cache", is_flag=True, default=True, help="Use cache if available"
 )
-def main(ckan_url,records_ids, api_key, output, max_workers, log_level, cache):
+def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
     logger.remove()
     logger.add(sys.stderr, level=log_level)
 
@@ -120,7 +115,7 @@ def main(ckan_url,records_ids, api_key, output, max_workers, log_level, cache):
             logger.info("Loading cached results")
             results = pickle.load(file)
     else:
-        results = review_records(ckan, max_workers,records_ids)
+        results = review_records(ckan, max_workers, records_ids)
 
         with open(CACHE_FILE, "wb") as file:
             logger.info("Caching results")
@@ -131,7 +126,7 @@ def main(ckan_url,records_ids, api_key, output, max_workers, log_level, cache):
 
     logger.info(f"Saving results to: '{output}'")
     results["catalog_summary"] = format_summary(results["catalog_summary"])
-    results['catalog_summary'].to_excel(f"{output}/catalog_summary.xlsx", index=False)
+    results["catalog_summary"].to_excel(f"{output}/catalog_summary.xlsx", index=False)
 
     # Combine summary and issues
     combined_issues = (
