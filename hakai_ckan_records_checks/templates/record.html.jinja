@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ record['title'] }}</title>
+    <title> Catalogue Issue Report </title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -11,8 +11,8 @@
 </head>
 <style>
 #map { 
-  height: 380px; 
-  width: 100%;
+  height: 300px; 
+  width: 300px;
   margin: 10px;
 }
 body {
@@ -43,6 +43,12 @@ h3 {
   padding: 5px;
 }
 
+#summary {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
 table {
   max-width: 800px;
   text-align: left;
@@ -61,14 +67,18 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> {{ record['title'] }}</h2>
+    <h2> {{ record['organization'] }}<br><hr>{{ record['title'] }}</h2>
     <h3>Information</h3>
-    <ul>
-    {% for key,value in record.to_dict().items() %}
-        <li><strong>{{ key }}</strong>: {{value}}</li>
-    {% endfor %}
-    </ul>
-    <div id='map'></div>
+    <div id="summary">
+      <div id='map'></div>
+      <div id='info-summary'>
+        <p>
+        {% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','title','spatial') %}
+            <strong>{{ key.replace(('-'),' ').replace('_',' ').title() }}</strong>: {{value}}<br>
+        {% endfor %}
+        </p>
+      </div>
+    </div>
     <h3>Issues</h3>
     {{ issues.drop(columns=['record_id']).to_html(index=False, table_id='issues-table', classes='table table-striped table-hover table-sm')}}
     <small>Last update: {{ time.isoformat() }}</small>

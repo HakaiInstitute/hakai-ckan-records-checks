@@ -16,7 +16,9 @@ from hakai_ckan_records_checks.ckan import CKAN
 environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templates"))
 CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
-
+IGNORE_RECORD_IDS= (
+    "hakai-metadata-form-data"
+)
 
 def format_summary(summary):
     def link_issue_page(record_row,var):
@@ -24,16 +26,16 @@ def format_summary(summary):
             return ""
         return f"<a title='{record_row['id']}' href='issues/{record_row['id']}.html' target='_blank'>{record_row[var]}</a>"
 
-    def link_record_page_title(record_row):
+    def link_record_page_title(record_row,var='Catalogue Page'):
         if pd.isna(record_row["name"]):
             return ""
-        return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>Hakai CKAN Record</a>"
+        return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>{record_row[var]}</a>"
 
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary = summary.assign(
         WARNING=summary.apply(lambda x: link_issue_page(x,'WARNING'), axis=1),
         ERROR=summary.apply(lambda x: link_issue_page(x,'ERROR'), axis=1),
-        links=summary.apply(link_record_page_title, axis=1),
+        title=summary.apply(lambda x: link_record_page_title(x, 'title'), axis=1),
     )
     return summary.astype({"resources_count": "int32"}).fillna("")
 
@@ -68,6 +70,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
             futures = [
                 executor.submit(_review_record, record_id)
                 for record_id in records["result"]
+                if record_id not in IGNORE_RECORD_IDS
             ]
             for future in as_completed(futures):
                 results.append(future.result())
