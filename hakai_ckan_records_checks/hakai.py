@@ -36,7 +36,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         "ERROR",
         f"Unknown organization title: {record['organization']['title']}",
     )
-    _test(record["organization"].get('projects'), "ERROR", "No projects associated")
+    _test(record["organization"].get("projects"), "ERROR", "No projects associated")
 
     # Review licence
     _test("license_id" in record, "ERROR", "No licence")
@@ -48,16 +48,16 @@ def test_record_requirements(record) -> pd.DataFrame:
     )
 
     # Review identifier
-    unique_identifiers = record.get("unique-resource-identifier-full",[])
-    dois = [item for item in unique_identifiers if "doi.org" in item.get("code","")]
-    _test(unique_identifiers,"WARNING", "No unique-ressource-identifier-full")
+    unique_identifiers = record.get("unique-resource-identifier-full", [])
+    dois = [item for item in unique_identifiers if "doi.org" in item.get("code", "")]
+    _test(unique_identifiers, "WARNING", "No unique-ressource-identifier-full")
     if unique_identifiers:
         _test(
             len(unique_identifiers) == 1,
             "ERROR",
             f"Multiple unique-ressource-identifier-full={unique_identifiers}",
         )
-    
+
     _test(
         dois,
         "WARNING",
@@ -71,7 +71,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         )
         DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
         _test(
-            all([re.match("https://doi.org",doi.get('code','')) for doi in dois]),
+            all([re.match("https://doi.org", doi.get("code", "")) for doi in dois]),
             "ERROR",
             f"Some dois do not match the exected format{DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
         )
@@ -95,12 +95,17 @@ def test_record_requirements(record) -> pd.DataFrame:
 
     # Review funder
     funders = [
-        item for item in record.get("cited-responsible-party",[])if "funder" in item["role"]
+        item
+        for item in record.get("cited-responsible-party", [])
+        if "funder" in item["role"]
     ]
     _test(len(funders) > 0, "WARNING", "No funder")
     if funders:
         _test(
-            [funder.get("organisation-name") == "Hakai Institute" for funder in funders],
+            [
+                funder.get("organisation-name") == "Hakai Institute"
+                for funder in funders
+            ],
             "WARNING",
             f"'Hakai Institute' isn't listed as funder in record",
         )
@@ -108,7 +113,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     # Review publisher
 
     # Review resources
-    for index, resource in enumerate(record.get("resources",[])):
+    for index, resource in enumerate(record.get("resources", [])):
         _test(resource["name"] != "", "ERROR", "Empty resource name")
         _test(resource["url"] != "", "ERROR", "Empty resource url")
         _test(resource["format"] != "", "ERROR", "Empty resource format")
@@ -125,10 +130,12 @@ def test_record_requirements(record) -> pd.DataFrame:
 
     # Data Access via Standardized Repositories
     _test(
-        any([
-            re.match("obis|erddap|argis", resource["url"], re.IGNORECASE)
-            for resource in record.get("resources",[])
-        ]),
+        any(
+            [
+                re.match("obis|erddap|argis", resource["url"], re.IGNORECASE)
+                for resource in record.get("resources", [])
+            ]
+        ),
         "WARNING",
         "Record isn't accesible via a general public repository",
     )
@@ -150,13 +157,13 @@ def get_record_summary(record):
         "title": record["title"],
         "licence": record.get("license_id"),
         "private": record.get("private"),
-        "projects": ", ".join(record.get("projects",[])),
+        "projects": ", ".join(record.get("projects", [])),
         "progress": record.get("progress"),
         "state": record.get("state"),
         "type": record.get("type"),
-        "distributor": record.get("distributor",[{}])[0].get("organisation-name"),
-        "resources_count": len(record.get("resources",[])),
+        "distributor": record.get("distributor", [{}])[0].get("organisation-name"),
+        "resources_count": len(record.get("resources", [])),
         "spatial": record.get("spatial"),
         "vertical-extent": record.get("vertical-extent"),
-        "eov": ", ".join(record.get("eov",[])),
+        "eov": ", ".join(record.get("eov", [])),
     }
