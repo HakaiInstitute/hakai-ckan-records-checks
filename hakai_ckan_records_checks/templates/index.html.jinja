@@ -80,6 +80,7 @@ h3 {
     <div class="download-area"> Download <a id="download-summary-excel" href='catalog_summary.xlsx' class="btn btn-primary">Excel</a> <a id="download-summary-csv" href='catalog_summary.csv' class="btn btn-primary">CSV</a></div>
     {{ catalog_summary.drop(columns=['id','name','spatial','vertical-extent','organization','private']).to_html( index=False, render_links=True, table_id='records_table', escape=False, classes='table table-striped table-hover table-sm')}}
     <h3 id="issues_summary">Issues Summary</h3>
+    <div class="download-area"> Download <a id="download-summary-excel" href='issues_list.xlsx' class="btn btn-primary">Excel</a> <a id="download-summary-csv" href='issues_list.csv' class="btn btn-primary">CSV</a></div>
     {{ issues_table[['title','level','message']].to_html( index=False, render_links=True, table_id='issues_table', escape=False, classes='table table-striped table-hover table-sm')}}
     <small>Last update: {{ time.isoformat() }}</small>
 </body>

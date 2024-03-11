@@ -128,9 +128,6 @@ def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
         return
 
     logger.info(f"Saving results to: '{output}'")
-    results["catalog_summary"] = format_summary(results["catalog_summary"])
-    results["catalog_summary"].to_excel(f"{output}/catalog_summary.xlsx", index=False)
-
     # Combine summary and issues
     combined_issues = (
         results["test_results"]
@@ -173,8 +170,10 @@ def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
         ).dump(f"{output}/issues/{record_id}.html")
 
     # save results
-    results["catalog_summary"].to_csv(f"{output}/catalog_summary.csv", index=False)
-    results["test_results"].to_csv(f"{output}/test_results.csv", index=False)
+    results["catalog_summary"].to_excel(f"{output}/catalog_summary.xlsx", index=True)
+    results["catalog_summary"].to_csv(f"{output}/catalog_summary.csv", index=True)
+    results["test_results"].to_csv(f"{output}/issues_list.csv", index=True)
+    results["test_results"].to_excel(f"{output}/issues_list.xlsx", index=True)
 
 
 if __name__ == "__main__":
