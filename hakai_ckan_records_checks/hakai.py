@@ -37,6 +37,15 @@ def test_record_requirements(record) -> pd.DataFrame:
         f"Unknown organization title: {record['organization']['title']}",
     )
     _test(record["organization"].get("projects"), "ERROR", "No projects associated")
+    _test([uri for uri in record['organization']['organization-uri'] if uri['authority'] =='ROR'],"WARNING", "Organization is missing an ROR URI") 
+
+    # review title
+    _test(record.get("title") != "", "ERROR", "No title")
+    _test( not re.findall(r"[A-Z\.]{3,}", record.get("title","")), "WARNING", "Title contains acronyms potentially")
+    _test(not re.match(r"v\d+|version", record.get("title",""), re.IGNORECASE), "WARNING", "Title contains versioning information")
+    _test(not re.match(r"dataset", record.get("title",""), re.IGNORECASE), "INFO", "Title contains the word dataset")
+    _test(len(record.get("title", "")) < 60, "INFO", "Title is greater than 60 characters")
+
 
     # Review licence
     _test("license_id" in record, "ERROR", "No licence")
@@ -107,6 +116,13 @@ def test_record_requirements(record) -> pd.DataFrame:
         )
 
     # Review publisher
+        
+
+    # Review contacts
+    for contact in record['cited-responsible-party']:
+        is_hakai_contact = "@hakai.org" in contact.get('organisation-info_email',"") or "Hakai Institute" in contact.get('organisation-name',"")
+        _test( contact.get('individual-name') in (None,"") or (contact.get('individual-name') and "orcid.org" in contact.get("individual-uri_code","")), "WARNING" if is_hakai_contact else "INFO", f"Contact missing ORCID {contact['individual-name']=}")
+        _test( contact.get('organisation-name') in (None, "") or (contact.get('organisation-name') and "ror.org" in contact.get("organisation-uri_code","")), "WARNING" if is_hakai_contact else "INFO", f"Contact {contact['individual-name']=} missing organization ROR {contact['organisation-name']=}")
 
     # Review resources
     for index, resource in enumerate(record.get("resources", [])):
@@ -151,6 +167,7 @@ def get_record_summary(record):
         "name": record["name"],
         "organization": record["organization"]["title"],
         "title": record["title"],
+        "ressource-type": record.get("resource-type"),
         "licence": record.get("license_id"),
         "private": record.get("private"),
         "projects": ", ".join(record.get("projects", [])),
@@ -162,4 +179,6 @@ def get_record_summary(record):
         "spatial": record.get("spatial"),
         "vertical-extent": record.get("vertical-extent"),
         "eov": ", ".join(record.get("eov", [])),
+        "metadata_created": record.get("metadata_created"),
+        "metadata_modified": record.get("metadata_modified"),
     }
