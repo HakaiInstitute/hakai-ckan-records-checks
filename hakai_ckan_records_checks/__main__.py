@@ -127,7 +127,7 @@ def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
     if not output:
         return
 
-    logger.info(f"Saving results to: '{output}'")
+    logger.info(f"Generate figures")
     # Combine summary and issues
     combined_issues = (
         results["test_results"]
@@ -151,6 +151,7 @@ def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
     pie_chart_html = pie_chart.to_html(full_html=False)
 
     # save results
+    logger.info(f"Saving results to: {output=}")
     Path(output).mkdir(parents=True, exist_ok=True)
     environment.get_template("index.html.jinja").stream(
         catalog_summary=format_summary(results["catalog_summary"]),
@@ -169,7 +170,7 @@ def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
             time=pd.Timestamp.utcnow(),
         ).dump(f"{output}/issues/{record_id}.html")
 
-    # save results
+    logger.info("Save excel and csv outputs")
     results["catalog_summary"].to_excel(f"{output}/catalog_summary.xlsx", index=True)
     results["catalog_summary"].to_csv(f"{output}/catalog_summary.csv", index=True)
     results["test_results"].to_csv(f"{output}/issues_list.csv", index=True)
