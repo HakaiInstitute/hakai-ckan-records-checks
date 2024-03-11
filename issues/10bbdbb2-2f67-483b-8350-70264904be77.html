@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</title>
+    <title> Catalogue Issue Report </title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -11,8 +11,8 @@
 </head>
 <style>
 #map { 
-  height: 380px; 
-  width: 100%;
+  height: 300px; 
+  width: 300px;
   margin: 10px;
 }
 body {
@@ -43,6 +43,12 @@ h3 {
   padding: 5px;
 }
 
+#summary {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
 table {
   max-width: 800px;
   text-align: left;
@@ -61,44 +67,40 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</h2>
+    <h2> Hakai Institute<br><hr>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</h2>
     <h3>Information</h3>
-    <ul>
-    
-        <li><strong>name</strong>: ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c</li>
-    
-        <li><strong>organization</strong>: Hakai Institute</li>
-    
-        <li><strong>title</strong>: Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</li>
-    
-        <li><strong>licence</strong>: CC-BY-4.0</li>
-    
-        <li><strong>private</strong>: False</li>
-    
-        <li><strong>projects</strong>: </li>
-    
-        <li><strong>progress</strong>: completed</li>
-    
-        <li><strong>state</strong>: active</li>
-    
-        <li><strong>type</strong>: dataset</li>
-    
-        <li><strong>distributor</strong>: Hakai Institute</li>
-    
-        <li><strong>resources_count</strong>: 2</li>
-    
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.65354407, 51.37817421], [-127.69773286, 51.37817421], [-127.69773286, 52.1127963], [-128.65354407, 52.1127963], [-128.65354407, 51.37817421]]]}</li>
-    
-        <li><strong>vertical-extent</strong>: [{'max': '0.0', 'min': '0.0'}]</li>
-    
-        <li><strong>eov</strong>: other</li>
-    
-        <li><strong>issues</strong>: <a title='10bbdbb2-2f67-483b-8350-70264904be77' href='issues/10bbdbb2-2f67-483b-8350-70264904be77.html' target='_blank'>ERROR=1; WARNING=2</a></li>
-    
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c' target='_blank'>Hakai CKAN Record</a></li>
-    
-    </ul>
-    <div id='map'></div>
+    <div id="summary">
+      <div id='map'></div>
+      <div id='info-summary'>
+        <p>
+        
+            <strong>Name</strong>: ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c<br>
+        
+            <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Licence</strong>: CC-BY-4.0<br>
+        
+            <strong>Private</strong>: False<br>
+        
+            <strong>Projects</strong>: <br>
+        
+            <strong>Progress</strong>: completed<br>
+        
+            <strong>State</strong>: active<br>
+        
+            <strong>Type</strong>: dataset<br>
+        
+            <strong>Distributor</strong>: Hakai Institute<br>
+        
+            <strong>Resources Count</strong>: 2<br>
+        
+            <strong>Vertical Extent</strong>: [{'max': '0.0', 'min': '0.0'}]<br>
+        
+            <strong>Eov</strong>: other<br>
+        
+        </p>
+      </div>
+    </div>
     <h3>Issues</h3>
     <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues-table">
   <thead>
@@ -122,7 +124,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-08T00:19:34.392656+00:00</small>
+    <small>Last update: 2024-03-11T19:16:30.536365+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

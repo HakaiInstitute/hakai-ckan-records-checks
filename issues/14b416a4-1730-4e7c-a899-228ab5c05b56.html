@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</title>
+    <title> Catalogue Issue Report </title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -11,8 +11,8 @@
 </head>
 <style>
 #map { 
-  height: 380px; 
-  width: 100%;
+  height: 300px; 
+  width: 300px;
   margin: 10px;
 }
 body {
@@ -43,6 +43,12 @@ h3 {
   padding: 5px;
 }
 
+#summary {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
 table {
   max-width: 800px;
   text-align: left;
@@ -61,44 +67,40 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</h2>
+    <h2> Hakai Institute<br><hr>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</h2>
     <h3>Information</h3>
-    <ul>
-    
-        <li><strong>name</strong>: ca-cioos_f7c3a2f1-29b5-4d4d-a1a7-03ec507fe1a2</li>
-    
-        <li><strong>organization</strong>: Hakai Institute</li>
-    
-        <li><strong>title</strong>: Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</li>
-    
-        <li><strong>licence</strong>: CC-BY-4.0</li>
-    
-        <li><strong>private</strong>: False</li>
-    
-        <li><strong>projects</strong>: </li>
-    
-        <li><strong>progress</strong>: onGoing</li>
-    
-        <li><strong>state</strong>: active</li>
-    
-        <li><strong>type</strong>: dataset</li>
-    
-        <li><strong>distributor</strong>: Hakai Institute</li>
-    
-        <li><strong>resources_count</strong>: 1</li>
-    
-        <li><strong>spatial</strong>: {'type': 'Point', 'coordinates': [-131.5954, 55.315]}</li>
-    
-        <li><strong>vertical-extent</strong>: [{'max': '4.0', 'min': '4.0'}]</li>
-    
-        <li><strong>eov</strong>: seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</li>
-    
-        <li><strong>issues</strong>: <a title='14b416a4-1730-4e7c-a899-228ab5c05b56' href='issues/14b416a4-1730-4e7c-a899-228ab5c05b56.html' target='_blank'>ERROR=2; WARNING=4</a></li>
-    
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_f7c3a2f1-29b5-4d4d-a1a7-03ec507fe1a2' target='_blank'>Hakai CKAN Record</a></li>
-    
-    </ul>
-    <div id='map'></div>
+    <div id="summary">
+      <div id='map'></div>
+      <div id='info-summary'>
+        <p>
+        
+            <strong>Name</strong>: ca-cioos_f7c3a2f1-29b5-4d4d-a1a7-03ec507fe1a2<br>
+        
+            <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Licence</strong>: CC-BY-4.0<br>
+        
+            <strong>Private</strong>: False<br>
+        
+            <strong>Projects</strong>: <br>
+        
+            <strong>Progress</strong>: onGoing<br>
+        
+            <strong>State</strong>: active<br>
+        
+            <strong>Type</strong>: dataset<br>
+        
+            <strong>Distributor</strong>: Hakai Institute<br>
+        
+            <strong>Resources Count</strong>: 1<br>
+        
+            <strong>Vertical Extent</strong>: [{'max': '4.0', 'min': '4.0'}]<br>
+        
+            <strong>Eov</strong>: seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity<br>
+        
+        </p>
+      </div>
+    </div>
     <h3>Issues</h3>
     <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues-table">
   <thead>
@@ -114,11 +116,7 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>No unique-ressource-identifier-full</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>no DOI defined</td>
+      <td>No DOI defined</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -134,7 +132,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-08T00:19:34.397254+00:00</small>
+    <small>Last update: 2024-03-11T19:16:30.541250+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</title>
+    <title> Catalogue Issue Report </title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -11,8 +11,8 @@
 </head>
 <style>
 #map { 
-  height: 380px; 
-  width: 100%;
+  height: 300px; 
+  width: 300px;
   margin: 10px;
 }
 body {
@@ -43,6 +43,12 @@ h3 {
   padding: 5px;
 }
 
+#summary {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
 table {
   max-width: 800px;
   text-align: left;
@@ -61,44 +67,40 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Fucus Dynamics - Point Intercept Surveys - BC Central Coast</h2>
+    <h2> Hakai Institute<br><hr>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</h2>
     <h3>Information</h3>
-    <ul>
-    
-        <li><strong>name</strong>: ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205</li>
-    
-        <li><strong>organization</strong>: Hakai Institute</li>
-    
-        <li><strong>title</strong>: Fucus Dynamics - Point Intercept Surveys - BC Central Coast</li>
-    
-        <li><strong>licence</strong>: CC-BY-4.0</li>
-    
-        <li><strong>private</strong>: False</li>
-    
-        <li><strong>projects</strong>: Nearshore</li>
-    
-        <li><strong>progress</strong>: onGoing</li>
-    
-        <li><strong>state</strong>: active</li>
-    
-        <li><strong>type</strong>: dataset</li>
-    
-        <li><strong>distributor</strong>: Hakai Institute</li>
-    
-        <li><strong>resources_count</strong>: 1</li>
-    
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.2, 51.63], [-128.1, 51.63], [-128.1, 51.67], [-128.2, 51.67], [-128.2, 51.63]]]}</li>
-    
-        <li><strong>vertical-extent</strong>: [{'max': '0.0', 'min': '-5.0'}]</li>
-    
-        <li><strong>eov</strong>: other, macroalgalCanopyCoverAndComposition</li>
-    
-        <li><strong>issues</strong>: <a title='a3571383-5d3b-4d4d-a555-d4afe2981d12' href='issues/a3571383-5d3b-4d4d-a555-d4afe2981d12.html' target='_blank'>ERROR=1; WARNING=2</a></li>
-    
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205' target='_blank'>Hakai CKAN Record</a></li>
-    
-    </ul>
-    <div id='map'></div>
+    <div id="summary">
+      <div id='map'></div>
+      <div id='info-summary'>
+        <p>
+        
+            <strong>Name</strong>: ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205<br>
+        
+            <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Licence</strong>: CC-BY-4.0<br>
+        
+            <strong>Private</strong>: False<br>
+        
+            <strong>Projects</strong>: Nearshore<br>
+        
+            <strong>Progress</strong>: onGoing<br>
+        
+            <strong>State</strong>: active<br>
+        
+            <strong>Type</strong>: dataset<br>
+        
+            <strong>Distributor</strong>: Hakai Institute<br>
+        
+            <strong>Resources Count</strong>: 1<br>
+        
+            <strong>Vertical Extent</strong>: [{'max': '0.0', 'min': '-5.0'}]<br>
+        
+            <strong>Eov</strong>: other, macroalgalCanopyCoverAndComposition<br>
+        
+        </p>
+      </div>
+    </div>
     <h3>Issues</h3>
     <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues-table">
   <thead>
@@ -122,7 +124,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-08T00:19:34.518693+00:00</small>
+    <small>Last update: 2024-03-11T19:16:30.666897+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

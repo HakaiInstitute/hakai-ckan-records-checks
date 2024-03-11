@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</title>
+    <title> Catalogue Issue Report </title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -11,8 +11,8 @@
 </head>
 <style>
 #map { 
-  height: 380px; 
-  width: 100%;
+  height: 300px; 
+  width: 300px;
   margin: 10px;
 }
 body {
@@ -43,6 +43,12 @@ h3 {
   padding: 5px;
 }
 
+#summary {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
 table {
   max-width: 800px;
   text-align: left;
@@ -61,44 +67,40 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</h2>
+    <h2> Hakai Institute<br><hr>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</h2>
     <h3>Information</h3>
-    <ul>
-    
-        <li><strong>name</strong>: ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e</li>
-    
-        <li><strong>organization</strong>: Hakai Institute</li>
-    
-        <li><strong>title</strong>: Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</li>
-    
-        <li><strong>licence</strong>: CC-BY-4.0</li>
-    
-        <li><strong>private</strong>: False</li>
-    
-        <li><strong>projects</strong>: </li>
-    
-        <li><strong>progress</strong>: onGoing</li>
-    
-        <li><strong>state</strong>: active</li>
-    
-        <li><strong>type</strong>: dataset</li>
-    
-        <li><strong>distributor</strong>: Hakai Institute</li>
-    
-        <li><strong>resources_count</strong>: 1</li>
-    
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-128.2, 51.61], [-128.6, 51.95], [-128.2, 52.04], [-127.8, 51.61], [-125.0, 50.12], [-125.2, 50.04], [-125.2, 50.04], [-125.2, 50.04], [-128.2, 51.61]]]}</li>
-    
-        <li><strong>vertical-extent</strong>: [{'max': '90.0', 'min': '0.0'}]</li>
-    
-        <li><strong>eov</strong>: subSurfaceCurrents, subSurfaceTemperature, seaSurfaceHeight</li>
-    
-        <li><strong>issues</strong>: <a title='709f3c42-30e9-45de-a34b-4bb241c1054f' href='issues/709f3c42-30e9-45de-a34b-4bb241c1054f.html' target='_blank'>ERROR=1; WARNING=4</a></li>
-    
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>Hakai CKAN Record</a></li>
-    
-    </ul>
-    <div id='map'></div>
+    <div id="summary">
+      <div id='map'></div>
+      <div id='info-summary'>
+        <p>
+        
+            <strong>Name</strong>: ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e<br>
+        
+            <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Licence</strong>: CC-BY-4.0<br>
+        
+            <strong>Private</strong>: False<br>
+        
+            <strong>Projects</strong>: <br>
+        
+            <strong>Progress</strong>: onGoing<br>
+        
+            <strong>State</strong>: active<br>
+        
+            <strong>Type</strong>: dataset<br>
+        
+            <strong>Distributor</strong>: Hakai Institute<br>
+        
+            <strong>Resources Count</strong>: 1<br>
+        
+            <strong>Vertical Extent</strong>: [{'max': '90.0', 'min': '0.0'}]<br>
+        
+            <strong>Eov</strong>: subSurfaceCurrents, subSurfaceTemperature, seaSurfaceHeight<br>
+        
+        </p>
+      </div>
+    </div>
     <h3>Issues</h3>
     <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues-table">
   <thead>
@@ -114,11 +116,7 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>No unique-ressource-identifier-full</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>no DOI defined</td>
+      <td>No DOI defined</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -130,7 +128,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-08T00:19:34.472176+00:00</small>
+    <small>Last update: 2024-03-11T19:16:30.618626+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

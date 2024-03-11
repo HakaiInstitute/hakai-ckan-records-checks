@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</title>
+    <title> Catalogue Issue Report </title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
@@ -11,8 +11,8 @@
 </head>
 <style>
 #map { 
-  height: 380px; 
-  width: 100%;
+  height: 300px; 
+  width: 300px;
   margin: 10px;
 }
 body {
@@ -43,6 +43,12 @@ h3 {
   padding: 5px;
 }
 
+#summary {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+}
+
 table {
   max-width: 800px;
   text-align: left;
@@ -61,44 +67,40 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</h2>
+    <h2> Hakai Institute<br><hr>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</h2>
     <h3>Information</h3>
-    <ul>
-    
-        <li><strong>name</strong>: ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea</li>
-    
-        <li><strong>organization</strong>: Hakai Institute</li>
-    
-        <li><strong>title</strong>: Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</li>
-    
-        <li><strong>licence</strong>: CC-BY-4.0</li>
-    
-        <li><strong>private</strong>: False</li>
-    
-        <li><strong>projects</strong>: </li>
-    
-        <li><strong>progress</strong>: completed</li>
-    
-        <li><strong>state</strong>: active</li>
-    
-        <li><strong>type</strong>: dataset</li>
-    
-        <li><strong>distributor</strong>: Hakai Institute</li>
-    
-        <li><strong>resources_count</strong>: 4</li>
-    
-        <li><strong>spatial</strong>: {'type': 'Polygon', 'coordinates': [[[-135.72, 48.62], [-122.51, 48.62], [-122.51, 59.45], [-135.72, 59.45], [-135.72, 48.62]]]}</li>
-    
-        <li><strong>vertical-extent</strong>: [{'max': '0.0', 'min': '0.0'}]</li>
-    
-        <li><strong>eov</strong>: seaSurfaceTemperature, inorganicCarbon, oxygen, seaSurfaceSalinity, other</li>
-    
-        <li><strong>issues</strong>: <a title='4d668de2-45b2-47c7-9180-f1b24b154b9e' href='issues/4d668de2-45b2-47c7-9180-f1b24b154b9e.html' target='_blank'>ERROR=1; WARNING=2</a></li>
-    
-        <li><strong>links</strong>: <a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea' target='_blank'>Hakai CKAN Record</a></li>
-    
-    </ul>
-    <div id='map'></div>
+    <div id="summary">
+      <div id='map'></div>
+      <div id='info-summary'>
+        <p>
+        
+            <strong>Name</strong>: ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea<br>
+        
+            <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Licence</strong>: CC-BY-4.0<br>
+        
+            <strong>Private</strong>: False<br>
+        
+            <strong>Projects</strong>: <br>
+        
+            <strong>Progress</strong>: completed<br>
+        
+            <strong>State</strong>: active<br>
+        
+            <strong>Type</strong>: dataset<br>
+        
+            <strong>Distributor</strong>: Hakai Institute<br>
+        
+            <strong>Resources Count</strong>: 4<br>
+        
+            <strong>Vertical Extent</strong>: [{'max': '0.0', 'min': '0.0'}]<br>
+        
+            <strong>Eov</strong>: seaSurfaceTemperature, inorganicCarbon, oxygen, seaSurfaceSalinity, other<br>
+        
+        </p>
+      </div>
+    </div>
     <h3>Issues</h3>
     <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues-table">
   <thead>
@@ -122,7 +124,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-08T00:19:34.447968+00:00</small>
+    <small>Last update: 2024-03-11T19:16:30.593540+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
