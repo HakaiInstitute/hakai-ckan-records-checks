@@ -90,7 +90,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
 
 @click.command()
 @click.option("-c", "--ckan_url", help="The base URL of the CKAN instance")
-@click.option("--records_ids", default=None, type=str, help="The records to check")
+@click.option("--record_ids", default=None, type=str, help="The records to check")
 @click.option("--api_key", default=None, help="The API key for the CKAN instance")
 @click.option(
     "--output",
@@ -103,14 +103,14 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
 @click.option(
     "--cache/--no-cache", is_flag=True, default=True, help="Use cache if available"
 )
-def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
+def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     logger.remove()
     logger.add(sys.stderr, level=log_level)
 
     logger.info("Starting checks for CKAN instance at {ckan_url}")
     ckan = CKAN(ckan_url, api_key)
-    if records_ids:
-        records_ids = records_ids.split(",")
+    if record_ids:
+        record_ids = record_ids.split(",")
 
     logger.info("Reviewing records")
     if cache and CACHE_FILE.exists():
@@ -118,7 +118,7 @@ def main(ckan_url, records_ids, api_key, output, max_workers, log_level, cache):
             logger.info("Loading cached results")
             results = pickle.load(file)
     else:
-        results = review_records(ckan, max_workers, records_ids)
+        results = review_records(ckan, max_workers, record_ids)
 
         with open(CACHE_FILE, "wb") as file:
             logger.info("Caching results")
