@@ -106,6 +106,8 @@ th {
         
             <strong>Info</strong>: <a title='27849c15-1105-4214-a4ac-ad2e3c65aefc' href='issues/27849c15-1105-4214-a4ac-ad2e3c65aefc.html' target='_blank'>8.0</a><br>
         
+            <strong>Sum</strong>: 18<br>
+        
         </p>
       </div>
     </div>
@@ -123,64 +125,68 @@ th {
       <td>No projects associated</td>
     </tr>
     <tr>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=Hakai Institute expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Allison A. Oliver'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Allison A. Oliver'contact.get('organisation-name')='University of Alberta, Department of Biological Sciences'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact contact['individual-name']='Allison A. Oliver' missing organization ROR contact['organisation-name']='University of Alberta, Department of Biological Sciences'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Allison A. Oliver' contact['organisation-name']='University of Alberta, Department of Biological Sciences'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Suzanne E. Tank'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Suzanne E. Tank'contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Ian Giesbrecht'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Ian Giesbrecht'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Ian Giesbrecht' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Ian Giesbrecht' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Maartje C. Korver'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Maartje C. Korver'contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='William C. Floyd'</td>
+      <td>Contact missing ORCID: contact['individual-name']='William C. Floyd'contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Paul Sanborn'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Paul Sanborn'contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Chuck Bulmer'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Chuck Bulmer'contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Ken P. Lertzman'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Ken P. Lertzman'contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid resources[0].url.status_code=401</td>
+      <td>Invalid resources.url.status_code: 401 for resources[0].url=https://drive.google.com/a/hakai.org/file/d/0Byed_WX-ZNMaM3BtUW5KQ2ZtLW8/view?usp=sharing</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid resources[1].url.status_code=401</td>
+      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://drive.google.com/a/hakai.org/file/d/0Byed_WX-ZNMaSkItaW5ocTY4UjQ/view?usp=sharing</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid resources[2].url.status_code=403</td>
+      <td>Invalid resources.url.status_code: 403 for resources[2].url=https://www.researchgate.net/publication/312575744_Globally_significant_yields_of_dissolved_organic_carbon_from_small_watersheds_of_the_Pacific_coastal_temperate_rainforest</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -188,7 +194,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-27-12T13:27 UTC</small>
+    <small>Last update: 2024-06-12T14:06 UTC</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

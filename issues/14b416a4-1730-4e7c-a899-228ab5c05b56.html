@@ -106,6 +106,8 @@ th {
         
             <strong>Info</strong>: <a title='14b416a4-1730-4e7c-a899-228ab5c05b56' href='issues/14b416a4-1730-4e7c-a899-228ab5c05b56.html' target='_blank'>3.0</a><br>
         
+            <strong>Sum</strong>: 12<br>
+        
         </p>
       </div>
     </div>
@@ -135,28 +137,32 @@ th {
       <td>No DOI defined</td>
     </tr>
     <tr>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=Hakai Institute expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Wiley Evans'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Wiley Evans' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='UAF Ocean Acidification Research Center'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='UAF Ocean Acidification Research Center'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='OceansAlaska'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='OceansAlaska'</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid resources[0].url.status_code=404</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/ HakaiKetchikanBoL5min.html</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -164,7 +170,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-27-12T13:27 UTC</small>
+    <small>Last update: 2024-06-12T14:06 UTC</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

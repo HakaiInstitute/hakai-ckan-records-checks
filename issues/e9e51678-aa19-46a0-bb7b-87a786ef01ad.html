@@ -106,6 +106,8 @@ th {
         
             <strong>Info</strong>: <a title='e9e51678-aa19-46a0-bb7b-87a786ef01ad' href='issues/e9e51678-aa19-46a0-bb7b-87a786ef01ad.html' target='_blank'>5.0</a><br>
         
+            <strong>Sum</strong>: 17<br>
+        
         </p>
       </div>
     </div>
@@ -131,52 +133,56 @@ th {
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=Hakai Institute expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Evans, Wiley'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Evans, Wiley' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Evans, Wiley' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Pocock, Katie'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Pocock, Katie'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Pocock, Katie' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Pocock, Katie' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Weekes, Carrie'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Weekes, Carrie'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Weekes, Carrie' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Weekes, Carrie' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Hales, Burke'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hales, Burke'contact.get('organisation-name')='Oregon State University'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact contact['individual-name']='Hales, Burke' missing organization ROR contact['organisation-name']='Oregon State University'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hales, Burke' contact['organisation-name']='Oregon State University'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='M. Monacci, Natalie'</td>
+      <td>Contact missing ORCID: contact['individual-name']='M. Monacci, Natalie'contact.get('organisation-name')='Universit of Alaska Fairbanks'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact contact['individual-name']='M. Monacci, Natalie' missing organization ROR contact['organisation-name']='Universit of Alaska Fairbanks'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='M. Monacci, Natalie' contact['organisation-name']='Universit of Alaska Fairbanks'</td>
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid resources[1].url.status_code=401</td>
+      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.html</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -184,7 +190,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-27-12T13:27 UTC</small>
+    <small>Last update: 2024-06-12T14:06 UTC</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

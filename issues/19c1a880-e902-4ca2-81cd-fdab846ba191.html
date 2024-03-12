@@ -106,6 +106,8 @@ th {
         
             <strong>Info</strong>: <a title='19c1a880-e902-4ca2-81cd-fdab846ba191' href='issues/19c1a880-e902-4ca2-81cd-fdab846ba191.html' target='_blank'>3.0</a><br>
         
+            <strong>Sum</strong>: 13<br>
+        
         </p>
       </div>
     </div>
@@ -128,11 +130,15 @@ th {
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid licence=CC-BY-NC-4.0</td>
+      <td>Invalid licence: CC-BY-NC-4.0</td>
     </tr>
     <tr>
       <td>WARNING</td>
       <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=Hakai Institute expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -140,27 +146,27 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Hakai Institute, Geospatial'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Institute, Geospatial'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Hakai Institute, Geospatial' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Institute, Geospatial' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Coastal Observatory, Airborne'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Coastal Observatory, Airborne' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='Menounos, Bian'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Menounos, Bian'contact.get('organisation-name')='University of Northern British Columbia'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact contact['individual-name']='Menounos, Bian' missing organization ROR contact['organisation-name']='University of Northern British Columbia'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Menounos, Bian' contact['organisation-name']='University of Northern British Columbia'</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -168,7 +174,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-27-12T13:27 UTC</small>
+    <small>Last update: 2024-06-12T14:06 UTC</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

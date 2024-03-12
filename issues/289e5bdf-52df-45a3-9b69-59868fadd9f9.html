@@ -106,6 +106,8 @@ th {
         
             <strong>Info</strong>: <a title='289e5bdf-52df-45a3-9b69-59868fadd9f9' href='issues/289e5bdf-52df-45a3-9b69-59868fadd9f9.html' target='_blank'>1.0</a><br>
         
+            <strong>Sum</strong>: 11<br>
+        
         </p>
       </div>
     </div>
@@ -135,24 +137,28 @@ th {
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='UNBC LiDAR Research Group'</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=Hakai Institute expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='UNBC LiDAR Research Group' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='UNBC LiDAR Research Group'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Hakai Geospatial Technology Team'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='UNBC LiDAR Research Group' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Hakai Geospatial Technology Team' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -160,7 +166,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-27-12T13:27 UTC</small>
+    <small>Last update: 2024-06-12T14:06 UTC</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

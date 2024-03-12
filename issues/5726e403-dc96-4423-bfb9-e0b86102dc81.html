@@ -106,6 +106,8 @@ th {
         
             <strong>Info</strong>: <a title='5726e403-dc96-4423-bfb9-e0b86102dc81' href='issues/5726e403-dc96-4423-bfb9-e0b86102dc81.html' target='_blank'>3.0</a><br>
         
+            <strong>Sum</strong>: 14<br>
+        
         </p>
       </div>
     </div>
@@ -127,44 +129,48 @@ th {
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name=Hakai Institute expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Santiago Gonzalez Arriola'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Santiago Gonzalez Arriola'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Santiago Gonzalez Arriola' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Santiago Gonzalez Arriola' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Ian J. W. Giesbrecht'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Ian J. W. Giesbrecht'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Ian J. W. Giesbrecht' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Ian J. W. Giesbrecht' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']='F. E. Biles'</td>
+      <td>Contact missing ORCID: contact['individual-name']='F. E. Biles'contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>INFO</td>
-      <td>Contact missing ORCID contact['individual-name']="D. V. D'Amore"</td>
+      <td>Contact missing ORCID: contact['individual-name']="D. V. D'Amore"contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID contact['individual-name']='Hakai Geospatial Technology Team'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team'contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='Hakai Geospatial Technology Team' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -172,7 +178,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-27-12T13:27 UTC</small>
+    <small>Last update: 2024-06-12T14:06 UTC</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
