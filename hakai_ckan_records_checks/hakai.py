@@ -120,7 +120,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     _test(
         "Hakai" in organization_name and organization_name != "Hakai Institute",
         "ERROR",
-        f"Invalid distributor organisation-name={organization_name} expects 'Hakai Institute'",
+        f"Invalid distributor organisation-name: {organization_name} expects 'Hakai Institute'",
     )
 
     # Review funder

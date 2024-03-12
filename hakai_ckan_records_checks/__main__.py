@@ -17,7 +17,7 @@ environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templ
 CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
 IGNORE_RECORD_IDS = "hakai-metadata-form-data"
-
+level_type = pd.CategoricalDtype(categories=["INFO", "WARNING", "ERROR"], ordered=True)
 
 def format_summary(summary):
     def link_issue_page(record_row, var):
@@ -95,33 +95,6 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
     }
 
 
-def make_pie_chart(issues, **kwargs):
-    pie_chart = px.pie(
-        issues,
-        **kwargs,
-    )
-    pie_chart.update_traces(textposition="inside")
-    pie_chart.update_layout(
-        autosize=False,
-        uniformtext_minsize=12,
-        uniformtext_mode="hide",
-        height=300,
-        width=300,
-        legend=dict(
-            orientation="h",
-            yanchor="bottom",
-            y=0.1,
-            xanchor="left",
-            x=1,
-            font=dict(size=10),
-            itemwidth=30,
-        ),
-        showlegend=False,
-        margin=dict(l=0, r=0, t=0, b=0),
-        waterfallgap=0.3,
-    )
-    return pie_chart.to_html(full_html=False)
-
 
 @click.command()
 @click.option("-c", "--ckan_url", help="The base URL of the CKAN instance")
@@ -171,28 +144,16 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     )
     standardized_issues = combined_issues.copy()
     standardized_issues["message"] = standardized_issues["message"].apply(lambda x: x.split(":")[0] if x else x)
+    standardized_issues["level"] = standardized_issues["level"].astype(level_type)
+    grouped_issues = standardized_issues.groupby(["level", "message"]).count()["record_id"].sort_index().reset_index()
 
-    # Generate figures
-    all_issues = []
-    for level, issues in standardized_issues.groupby("level"):
-        issues_count = (
-            issues.groupby("message")
-            .count()["record_id"]
-            .reset_index()
-            .sort_values("record_id", ascending=False)
-        )
-        issues_count.insert(0, "level", level)
-        # limit to 10 issues group the rest in other
-        if len(issues_count) > 10:
-            others = issues_count["record_id"][10:].sum()
-            issues_count = issues_count.head(10)
-            issues_count.loc[10] = [level, "...", others]
-        all_issues += [issues_count]
-    pie_chart = px.pie(
-        pd.concat(all_issues),
-        names="message",
-        values="record_id",
-        facet_col="level",
+    pie_chart = px.histogram(
+        grouped_issues,
+        x="message",
+        y="record_id",
+        color="level",
+        labels={"record_id": "Issue"},
+        color_discrete_map={"INFO": "lightblue", "WARNING": "orange", "ERROR": "red"},
     )
 
     pie_chart.update_layout(
@@ -201,11 +162,19 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         legend=dict(
             orientation="h",
             yanchor="bottom",
-            y=0.1,
+            y=1,
             xanchor="left",
-            x=1,
+            x=0,
             font=dict(size=10),
             itemwidth=30,
+        ),
+        plot_bgcolor='rgba(0,0,0,0)',
+        xaxis=dict(
+            tickfont=dict(
+                size=10,
+            ),
+            linecolor="black",
+            title=None
         ),
     )
     pie_chart.update_traces(textposition="inside")
