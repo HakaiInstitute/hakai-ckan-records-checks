@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Hakai Institute Sensor Network</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_30bb20f4-1d7a-4167-a00f-613d0ff3e2fc' target='_blank'>Hakai Institute Sensor Network</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_30bb20f4-1d7a-4167-a00f-613d0ff3e2fc<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -97,6 +99,12 @@ th {
             <strong>Vertical Extent</strong>: [{'max': '0.0', 'min': '0.0'}]<br>
         
             <strong>Eov</strong>: other<br>
+        
+            <strong>Metadata Created</strong>: 2023-11-09T06:19:55.927866<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:19:55.927872<br>
+        
+            <strong>Info</strong>: <br>
         
         </p>
       </div>
@@ -124,11 +132,31 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Hakai Geospatial Technology Team'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Hakai Geospatial Technology Team' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Will McInnes'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Will McInnes' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:13.863761+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.406358+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -143,7 +171,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Hakai Institute Sensor Network"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_30bb20f4-1d7a-4167-a00f-613d0ff3e2fc' target='_blank'>Hakai Institute Sensor Network</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.29833984375, 49.99361546254113], [-125.09033203125001, 49.99361546254113], [-125.09033203125001, 51.79502722582916], [-128.29833984375, 51.79502722582916], [-128.29833984375, 49.99361546254113]]]}
     }

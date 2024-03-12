@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_c1b9801b-742b-41b6-a69b-5e7ae6f09bce' target='_blank'>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_c1b9801b-742b-41b6-a69b-5e7ae6f09bce<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-NC-4.0<br>
         
@@ -98,6 +100,12 @@ th {
         
             <strong>Eov</strong>: other<br>
         
+            <strong>Metadata Created</strong>: 2023-11-09T06:15:17.825765<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:15:17.825770<br>
+        
+            <strong>Info</strong>: <a title='ebebc30a-57d5-41db-863b-0303d1d72790' href='issues/ebebc30a-57d5-41db-863b-0303d1d72790.html' target='_blank'>2.0</a><br>
+        
         </p>
       </div>
     </div>
@@ -113,6 +121,14 @@ th {
     <tr>
       <td>ERROR</td>
       <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>ERROR</td>
@@ -132,11 +148,19 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Geospatial'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:14.026383+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.594582+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -151,7 +175,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_c1b9801b-742b-41b6-a69b-5e7ae6f09bce' target='_blank'>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.7, 48.22], [-120.8, 48.22], [-120.8, 52.39], [-128.7, 52.39], [-128.7, 48.22]]]}
     }

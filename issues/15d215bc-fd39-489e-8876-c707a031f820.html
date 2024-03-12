@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Hakai Topographic Basemap</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_c5bf06e7-29f9-404a-a454-36a5d67b2e69' target='_blank'>Hakai Topographic Basemap</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_c5bf06e7-29f9-404a-a454-36a5d67b2e69<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -97,6 +99,12 @@ th {
             <strong>Vertical Extent</strong>: [{'max': '2000.0', 'min': '0.0'}]<br>
         
             <strong>Eov</strong>: other<br>
+        
+            <strong>Metadata Created</strong>: 2023-11-09T06:17:33.821021<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:17:33.821026<br>
+        
+            <strong>Info</strong>: <br>
         
         </p>
       </div>
@@ -124,11 +132,39 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Hakai Geospatial Technology Team'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Hakai Geospatial Technology Team' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Santiago Gonzalez Arriola'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Santiago Gonzalez Arriola' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Keith Holmes'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Keith Holmes' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:13.851141+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.391861+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -143,7 +179,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Hakai Topographic Basemap"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_c5bf06e7-29f9-404a-a454-36a5d67b2e69' target='_blank'>Hakai Topographic Basemap</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-130.000024, 49.750005], [-123.500016, 49.750005], [-123.500016, 53.00001], [-130.000024, 53.00001], [-130.000024, 49.750005]]]}
     }

@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Wind Fetch - BC Central Coast - Canada</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03' target='_blank'>Wind Fetch - BC Central Coast - Canada</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -97,6 +99,12 @@ th {
             <strong>Vertical Extent</strong>: [{'max': '0.0', 'min': '0.0'}]<br>
         
             <strong>Eov</strong>: other<br>
+        
+            <strong>Metadata Created</strong>: 2023-11-09T06:19:51.615088<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:19:51.615095<br>
+        
+            <strong>Info</strong>: <a title='826f7081-386b-43da-be5c-4caa30cefaed' href='issues/826f7081-386b-43da-be5c-4caa30cefaed.html' target='_blank'>1.0</a><br>
         
         </p>
       </div>
@@ -124,11 +132,35 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Hakai Geospatial Technology Team'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Hakai Geospatial Technology Team' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Keith Holmes'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Keith Holmes' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Research Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:13.942639+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.497604+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -143,7 +175,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Wind Fetch - BC Central Coast - Canada"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03' target='_blank'>Wind Fetch - BC Central Coast - Canada</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-131.7578125, 50.16193379], [-126.22070312, 50.16193379], [-126.22070312, 52.84175491], [-131.7578125, 52.84175491], [-131.7578125, 50.16193379]]]}
     }

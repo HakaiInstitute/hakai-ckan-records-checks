@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Eelgrass Extent - Coastal British Columbia</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_0219e1d6-8dfc-4718-b89b-ea3dff06a70d' target='_blank'>Eelgrass Extent - Coastal British Columbia</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_0219e1d6-8dfc-4718-b89b-ea3dff06a70d<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -97,6 +99,12 @@ th {
             <strong>Vertical Extent</strong>: [{'max': '50.0', 'min': '0.0'}]<br>
         
             <strong>Eov</strong>: other, seagrassCoverAndComposition<br>
+        
+            <strong>Metadata Created</strong>: 2023-11-09T06:15:12.784584<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:15:12.784590<br>
+        
+            <strong>Info</strong>: <br>
         
         </p>
       </div>
@@ -120,11 +128,23 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Luba Reshitnyk'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Luba Reshitnyk' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:14.012098+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.578089+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -139,7 +159,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Eelgrass Extent - Coastal British Columbia"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_0219e1d6-8dfc-4718-b89b-ea3dff06a70d' target='_blank'>Eelgrass Extent - Coastal British Columbia</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-133.7841801345348, 48.23443097294032], [-122.49023482203482, 48.23443097294032], [-122.49023482203482, 54.52958287232971], [-133.7841801345348, 54.52958287232971], [-133.7841801345348, 48.23443097294032]]]}
     }

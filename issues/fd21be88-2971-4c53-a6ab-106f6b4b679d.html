@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_7381aff7-a4fe-4309-81f1-8eebe183b4d8' target='_blank'>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_7381aff7-a4fe-4309-81f1-8eebe183b4d8<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -98,6 +100,12 @@ th {
         
             <strong>Eov</strong>: other<br>
         
+            <strong>Metadata Created</strong>: 2023-11-09T06:21:15.514009<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:21:15.514015<br>
+        
+            <strong>Info</strong>: <a title='fd21be88-2971-4c53-a6ab-106f6b4b679d' href='issues/fd21be88-2971-4c53-a6ab-106f6b4b679d.html' target='_blank'>3.0</a><br>
+        
         </p>
       </div>
     </div>
@@ -115,6 +123,10 @@ th {
       <td>No projects associated</td>
     </tr>
     <tr>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -123,12 +135,28 @@ th {
       <td>No funder</td>
     </tr>
     <tr>
+      <td>INFO</td>
+      <td>Contact missing ORCID contact['individual-name']='Sara Wickham'</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Contact contact['individual-name']='Sara Wickham' missing organization ROR contact['organisation-name']='University of Victoria'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Hakai Institute' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:14.039832+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.610165+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -143,7 +171,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_7381aff7-a4fe-4309-81f1-8eebe183b4d8' target='_blank'>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.6224365234375, 51.399205653553764], [-127.650146484375, 51.399205653553764], [-127.650146484375, 52.08625733233839], [-128.6224365234375, 52.08625733233839], [-128.6224365234375, 51.399205653553764]]]}
     }

@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Trails - Calvert Island - British Columbia - Canada</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c' target='_blank'>Trails - Calvert Island - British Columbia - Canada</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -97,6 +99,12 @@ th {
             <strong>Vertical Extent</strong>: [{'max': '125.0', 'min': '0.0'}]<br>
         
             <strong>Eov</strong>: other<br>
+        
+            <strong>Metadata Created</strong>: 2023-11-09T06:21:06.395721<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:21:06.395823<br>
+        
+            <strong>Info</strong>: <br>
         
         </p>
       </div>
@@ -124,11 +132,31 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Keith Holmes'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Keith Holmes' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Geospatial Technology Team'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Geospatial Technology Team' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:13.877356+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.421558+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -143,7 +171,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Trails - Calvert Island - British Columbia - Canada"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c' target='_blank'>Trails - Calvert Island - British Columbia - Canada</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1603240966797, 51.63805006307942], [-128.08685302734375, 51.63805006307942], [-128.08685302734375, 51.66914840783798], [-128.1603240966797, 51.66914840783798], [-128.1603240966797, 51.63805006307942]]]}
     }

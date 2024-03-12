@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_2834622b-33c4-4108-bf13-2e295473b4eb' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_2834622b-33c4-4108-bf13-2e295473b4eb<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -98,6 +100,12 @@ th {
         
             <strong>Eov</strong>: seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity<br>
         
+            <strong>Metadata Created</strong>: 2023-11-09T06:20:20.730663<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:20:20.730668<br>
+        
+            <strong>Info</strong>: <a title='e8ca939c-db12-4895-b516-9bc15c0ca035' href='issues/e8ca939c-db12-4895-b516-9bc15c0ca035.html' target='_blank'>2.0</a><br>
+        
         </p>
       </div>
     </div>
@@ -116,6 +124,14 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
@@ -124,11 +140,23 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Wiley Evans'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Wiley Evans' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:14.023529+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.591067+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -143,7 +171,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_2834622b-33c4-4108-bf13-2e295473b4eb' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA</a>"
         },
         "geometry": {'type': 'Point', 'coordinates': [-135.3456, 57.0526]}
     }

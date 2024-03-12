@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Mean Tidal Current - Coastal British Columbia - Canada</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6' target='_blank'>Mean Tidal Current - Coastal British Columbia - Canada</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -97,6 +99,12 @@ th {
             <strong>Vertical Extent</strong>: [{'max': '500.0', 'min': '0.0'}]<br>
         
             <strong>Eov</strong>: other, subSurfaceCurrents<br>
+        
+            <strong>Metadata Created</strong>: 2023-11-09T06:19:16.708625<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:19:16.708631<br>
+        
+            <strong>Info</strong>: <a title='2687a51e-c27e-42b7-89be-35d7d64773bf' href='issues/2687a51e-c27e-42b7-89be-35d7d64773bf.html' target='_blank'>2.0</a><br>
         
         </p>
       </div>
@@ -124,11 +132,31 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Keith Holmes'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Keith Holmes' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Contact missing ORCID contact['individual-name']='Dr. Mike Foreman'</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Contact contact['individual-name']='Dr. Mike Foreman' missing organization ROR contact['organisation-name']='The British Columbia Marine Conservation Analysis'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>Record isn't accesible via a general public repository</td>
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:13.869550+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.412719+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -143,7 +171,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Mean Tidal Current - Coastal British Columbia - Canada"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6' target='_blank'>Mean Tidal Current - Coastal British Columbia - Canada</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-129.74853515624997, 49.72447918871299], [-124.14550781249997, 49.72447918871299], [-124.14550781249997, 52.9883372533954], [-129.74853515624997, 52.9883372533954], [-129.74853515624997, 49.72447918871299]]]}
     }

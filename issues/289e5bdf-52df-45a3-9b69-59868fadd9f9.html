@@ -67,7 +67,7 @@ th {
 </style>
 <body>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
@@ -77,6 +77,8 @@ th {
             <strong>Name</strong>: ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
+        
+            <strong>Ressource Type</strong>: dataset<br>
         
             <strong>Licence</strong>: CC-BY-4.0<br>
         
@@ -98,6 +100,12 @@ th {
         
             <strong>Eov</strong>: other<br>
         
+            <strong>Metadata Created</strong>: 2023-11-09T06:20:26.003451<br>
+        
+            <strong>Metadata Modified</strong>: 2023-11-09T06:20:26.003457<br>
+        
+            <strong>Info</strong>: <a title='289e5bdf-52df-45a3-9b69-59868fadd9f9' href='issues/289e5bdf-52df-45a3-9b69-59868fadd9f9.html' target='_blank'>1.0</a><br>
+        
         </p>
       </div>
     </div>
@@ -116,7 +124,35 @@ th {
     </tr>
     <tr>
       <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
       <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='UNBC LiDAR Research Group'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='UNBC LiDAR Research Group' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID contact['individual-name']='Hakai Geospatial Technology Team'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='Hakai Geospatial Technology Team' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact contact['individual-name']='' missing organization ROR contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -124,7 +160,7 @@ th {
     </tr>
   </tbody>
 </table>
-    <small>Last update: 2024-03-12T00:18:13.873436+00:00</small>
+    <small>Last update: 2024-03-12T03:43:03.417165+00:00</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
@@ -139,7 +175,7 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-125.3704833984375, 49.9229354544957], [-124.75524902343749, 49.9229354544957], [-124.75524902343749, 50.291094042311386], [-125.3704833984375, 50.291094042311386], [-125.3704833984375, 49.9229354544957]]]}
     }
