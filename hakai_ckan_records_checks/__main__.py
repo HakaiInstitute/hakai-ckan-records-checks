@@ -47,8 +47,11 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         assert record["success"] == True
         test_results = hakai.test_record_requirements(record["result"])
         summary = hakai.get_record_summary(record["result"])
-        if not test_results.empty:
-            summary.update(test_results.groupby("level").count()["record_id"].to_dict())
+        if len(test_results) > 0:
+            issues_count = (
+                test_results.groupby("level").count()["record_id"].astype(int)
+            )
+            summary.update({**issues_count.to_dict(), "sum": issues_count.sum()})
 
         return {
             "record_id": record_id,
@@ -104,11 +107,18 @@ def make_pie_chart(issues, **kwargs):
         uniformtext_mode="hide",
         height=300,
         width=300,
-        legend=dict(orientation="h",yanchor="bottom",y=.1,xanchor="left",x=1,font=dict(size=10),itemwidth=30),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=0.1,
+            xanchor="left",
+            x=1,
+            font=dict(size=10),
+            itemwidth=30,
+        ),
         showlegend=False,
         margin=dict(l=0, r=0, t=0, b=0),
         waterfallgap=0.3,
-
     )
     return pie_chart.to_html(full_html=False)
 
@@ -160,15 +170,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         .drop(columns=["id"])
     )
     standardized_issues = combined_issues.copy()
-    standardized_issues["message"] = standardized_issues["message"].str.replace(
-        "resources\[[0-9]+\]", "resources[...]", regex=True
-    )
-    standardized_issues["message"] = standardized_issues["message"].str.replace(
-        "Contact missing ORCID.*", "Contact missing ORCID.*", regex=True
-    )
-    standardized_issues["message"] = standardized_issues["message"].str.replace(
-        ".*ROR.*", "Missing ROR", regex=True
-    )
+    standardized_issues["message"] = standardized_issues["message"].apply(lambda x: x.split(":")[0] if x else x)
 
     # Generate figures
     all_issues = []
@@ -179,24 +181,32 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             .reset_index()
             .sort_values("record_id", ascending=False)
         )
-        issues_count.insert(0, "level",level)
+        issues_count.insert(0, "level", level)
         # limit to 10 issues group the rest in other
         if len(issues_count) > 10:
             others = issues_count["record_id"][10:].sum()
             issues_count = issues_count.head(10)
-            issues_count.loc[10] = [level,"...",  others]
+            issues_count.loc[10] = [level, "...", others]
         all_issues += [issues_count]
     pie_chart = px.pie(
         pd.concat(all_issues),
         names="message",
-        values='record_id',
+        values="record_id",
         facet_col="level",
     )
 
     pie_chart.update_layout(
         autosize=False,
         width=1000,
-        legend=dict(orientation="h",yanchor="bottom",y=.1,xanchor="left",x=1,font=dict(size=10),itemwidth=30),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=0.1,
+            xanchor="left",
+            x=1,
+            font=dict(size=10),
+            itemwidth=30,
+        ),
     )
     pie_chart.update_traces(textposition="inside")
     pie_chart.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")

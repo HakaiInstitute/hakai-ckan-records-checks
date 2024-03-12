@@ -74,7 +74,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     _test(
         record.get("license_id") == "CC-BY-4.0",
         "ERROR",
-        f"Invalid licence={record.get('license_id') }",
+        f"Invalid licence: {record.get('license_id') }",
     )
 
     # Review identifier
@@ -98,7 +98,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         _test(
             all([re.match("https://doi.org", doi.get("code", "")) for doi in dois]),
             "ERROR",
-            f"Some dois do not match the exected format{DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
+            f"Some dois do not match the expected format {DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
         )
         for doi in dois:
             _test(
@@ -110,7 +110,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             _test(
                 status_code in (200, 201),
                 "ERROR",
-                f"Invalid HTTPS {doi.get('code')} status_code={status_code}",
+                f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={status_code}",
             )
 
     # Review distributor
@@ -118,9 +118,9 @@ def test_record_requirements(record) -> pd.DataFrame:
     _test(record.get("distributor") != "", "ERROR", "Empty distributor")
     organization_name = record.get("distributor", [{}])[0].get("organisation-name")
     _test(
-        organization_name == "Hakai Institute",
+        "Hakai" in organization_name and organization_name != "Hakai Institute",
         "ERROR",
-        f"Invalid distributor organisation-name={organization_name}",
+        f"Invalid distributor organisation-name={organization_name} expects 'Hakai Institute'",
     )
 
     # Review funder
@@ -154,7 +154,7 @@ def test_record_requirements(record) -> pd.DataFrame:
                 and "orcid.org" in contact.get("individual-uri_code", "")
             ),
             "WARNING" if is_hakai_contact else "INFO",
-            f"Contact missing ORCID {contact['individual-name']=}",
+            f"Contact missing ORCID: {contact['individual-name']=}{contact.get('organisation-name')=}",
         )
         _test(
             contact.get("organisation-name") in (None, "")
@@ -163,7 +163,7 @@ def test_record_requirements(record) -> pd.DataFrame:
                 and "ror.org" in contact.get("organisation-uri_code", "")
             ),
             "WARNING" if is_hakai_contact else "INFO",
-            f"Contact {contact['individual-name']=} missing organization ROR {contact['organisation-name']=}",
+            f"Contact missing organization ROR:  {contact['individual-name']=} {contact['organisation-name']=}",
         )
 
     # Review resources
@@ -176,10 +176,14 @@ def test_record_requirements(record) -> pd.DataFrame:
             "ERROR",
             f"Invalid resource format: resources[{index}].format={resource['format']}",
         )
+        try:
+            status_code = int(requests.get(resource["url"]).status_code)
+        except requests.exceptions.Timeout:
+            status_code = "timeout"
         _test(
-            int(requests.get(resource["url"]).status_code) in (200, 201),
+            status_code in (200, 201),
             "ERROR",
-            f"Invalid resources[{index}].url.status_code={requests.get(resource['url']).status_code}",
+            f"Invalid resources.url.status_code: {status_code} for resources[{index}].url={resource['url']}",
         )
 
     # Data Access via Standardized Repositories
