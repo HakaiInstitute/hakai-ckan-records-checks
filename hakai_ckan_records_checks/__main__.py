@@ -16,26 +16,26 @@ from hakai_ckan_records_checks.ckan import CKAN
 environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templates"))
 CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
-IGNORE_RECORD_IDS= (
-    "hakai-metadata-form-data"
-)
+IGNORE_RECORD_IDS = "hakai-metadata-form-data"
+
 
 def format_summary(summary):
-    def link_issue_page(record_row,var):
+    def link_issue_page(record_row, var):
         if pd.isna(record_row[var]):
             return ""
         return f"<a title='{record_row['id']}' href='issues/{record_row['id']}.html' target='_blank'>{record_row[var]}</a>"
 
-    def link_record_page_title(record_row,var='Catalogue Page'):
+    def link_record_page_title(record_row, var="Catalogue Page"):
         if pd.isna(record_row["name"]):
             return ""
         return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>{record_row[var]}</a>"
 
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary = summary.assign(
-        WARNING=summary.apply(lambda x: link_issue_page(x,'WARNING'), axis=1),
-        ERROR=summary.apply(lambda x: link_issue_page(x,'ERROR'), axis=1),
-        title=summary.apply(lambda x: link_record_page_title(x, 'title'), axis=1),
+        INFO=summary.apply(lambda x: link_issue_page(x, "INFO"), axis=1),
+        WARNING=summary.apply(lambda x: link_issue_page(x, "WARNING"), axis=1),
+        ERROR=summary.apply(lambda x: link_issue_page(x, "ERROR"), axis=1),
+        title=summary.apply(lambda x: link_record_page_title(x, "title"), axis=1),
     )
     return summary.astype({"resources_count": "int32"}).fillna("")
 
@@ -79,13 +79,38 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
     test_result_summary = pd.concat(
         [result["test_results"] for result in results if result]
     )
-    catalog_summary = pd.DataFrame([result["summary"] for result in results if result])
+    catalog_summary = (
+        pd.DataFrame([result["summary"] for result in results if result])
+        .sort_values("metadata_creader")
+        .reset_index(drop=True)
+    )
 
     return {
         "ckan_url": ckan.base_url,
         "catalog_summary": catalog_summary,
         "test_results": test_result_summary,
     }
+
+
+def make_pie_chart(issues, **kwargs):
+    pie_chart = px.pie(
+        issues,
+        **kwargs,
+    )
+    pie_chart.update_traces(textposition="inside")
+    pie_chart.update_layout(
+        autosize=False,
+        uniformtext_minsize=12,
+        uniformtext_mode="hide",
+        height=300,
+        width=300,
+        legend=dict(orientation="h",yanchor="bottom",y=.1,xanchor="left",x=1,font=dict(size=10),itemwidth=30),
+        showlegend=False,
+        margin=dict(l=0, r=0, t=0, b=0),
+        waterfallgap=0.3,
+
+    )
+    return pie_chart.to_html(full_html=False)
 
 
 @click.command()
@@ -138,34 +163,64 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     standardized_issues["message"] = standardized_issues["message"].str.replace(
         "resources\[[0-9]+\]", "resources[...]", regex=True
     )
+    standardized_issues["message"] = standardized_issues["message"].str.replace(
+        "Contact missing ORCID.*", "Contact missing ORCID.*", regex=True
+    )
+    standardized_issues["message"] = standardized_issues["message"].str.replace(
+        ".*ROR.*", "Missing ROR", regex=True
+    )
 
     # Generate figures
+    all_issues = []
+    for level, issues in standardized_issues.groupby("level"):
+        issues_count = (
+            issues.groupby("message")
+            .count()["record_id"]
+            .reset_index()
+            .sort_values("record_id", ascending=False)
+        )
+        issues_count.insert(0, "level",level)
+        # limit to 10 issues group the rest in other
+        if len(issues_count) > 10:
+            others = issues_count["record_id"][10:].sum()
+            issues_count = issues_count.head(10)
+            issues_count.loc[10] = [level,"...",  others]
+        all_issues += [issues_count]
     pie_chart = px.pie(
-        standardized_issues,
+        pd.concat(all_issues),
         names="message",
-        title=f"Hakai Records Issues Distribution: {len(standardized_issues)} issues detected",
+        values='record_id',
         facet_col="level",
+    )
+
+    pie_chart.update_layout(
+        autosize=False,
+        width=1000,
+        legend=dict(orientation="h",yanchor="bottom",y=.1,xanchor="left",x=1,font=dict(size=10),itemwidth=30),
     )
     pie_chart.update_traces(textposition="inside")
     pie_chart.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
     pie_chart_html = pie_chart.to_html(full_html=False)
 
     # save results
+    catalog_summary_for_html = format_summary(results["catalog_summary"])
+
     logger.info(f"Saving results to: {output=}")
     Path(output).mkdir(parents=True, exist_ok=True)
-    environment.get_template("index.html.jinja").stream(
-        catalog_summary=format_summary(results["catalog_summary"]),
-        issues_pie_chart=pie_chart_html,
+    environment.get_template("index.html").stream(
+        catalog_summary=catalog_summary_for_html,
+        pie_chart=pie_chart_html,
         issues_table=combined_issues,
         time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
     ).dump(f"{output}/index.html")
+
     # create record specific pages
-    catalog_summary = results["catalog_summary"].set_index("id")
+    catalog_summary_for_html = catalog_summary_for_html.set_index("id")
     Path(output, "issues").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
-        environment.get_template("record.html.jinja").stream(
-            record=catalog_summary.loc[record_id],
+        environment.get_template("record.html").stream(
+            record=catalog_summary_for_html.loc[record_id],
             issues=issues,
             time=pd.Timestamp.utcnow(),
         ).dump(f"{output}/issues/{record_id}.html")
