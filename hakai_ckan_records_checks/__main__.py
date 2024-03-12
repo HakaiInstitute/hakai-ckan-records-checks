@@ -81,7 +81,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
     )
     catalog_summary = (
         pd.DataFrame([result["summary"] for result in results if result])
-        .sort_values("metadata_creader")
+        .sort_values("metadata_creater")
         .reset_index(drop=True)
     )
 
