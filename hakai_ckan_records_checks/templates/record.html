@@ -81,7 +81,7 @@ th {
     </div>
     <h3>Issues</h3>
     {{ issues.drop(columns=['record_id']).to_html(index=False, table_id='issues-table', classes='table table-striped table-hover table-sm')}}
-    <small>Last update: {{ time.isoformat() }}</small>
+    <small>Last update: {{ time.strftime("%Y-%M-%dT%H:%M %Z") }}</small>
 </body>
  <!-- Make sure you put this AFTER Leaflet's CSS -->
  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

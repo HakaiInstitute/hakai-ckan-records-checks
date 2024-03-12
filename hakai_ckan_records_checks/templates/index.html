@@ -25,14 +25,12 @@
     #map {
       height: 380px;
       width: 100%;
-      margin: 10px;
     }
     body {
       display: flex;
       flex-direction: column;
       align-items: center;
       text-align: center;
-      max-width: 1200px;
       margin: auto;
     }
     h1 {
@@ -51,30 +49,26 @@
       font-size: 25px;
       max-width: 1000px;
       text-align: center;
-    }
-    h3 {
-      font-size: 20px;
-      background-color: blue;
+      background-color: lightblue;
       color: white;
       width: 100%;
-      text-align: center;
       padding: 5px;
       margin: 60px 0 30px 0;
-    }
-    #table_wrapper {
-      padding: 10px;
     }
 
     #records_summary_table {
       width: 100%;
       overflow-x: scroll;
     }
+    footer {
+      padding: 40px 0 10px 0;
+    }
     @media (min-width: 1200px) {
-      h3 {
+      h2 {
         border-radius: 10px;
       }
-      #map {
-        border-radius: 10px;
+      .table_section {
+        padding: 0 20px;
       }
     }
   </style>
@@ -89,7 +83,7 @@
     <div id="pie-chart">
         {{ pie_chart }}
     </div>
-    <h3 id="records_summary">Records Summary</h3>
+    <h2 id="records_summary">Records Summary</h2>
     <div class="download-area">
       Download
       <a
@@ -105,13 +99,13 @@
         >CSV</a
       >
     </div>
-    <div id="records_summary_table">
+    <div id="records_summary_table" class="table_section">
       {{
       catalog_summary.drop(columns=['id','name','spatial','vertical-extent','organization','private']).to_html(
       render_links=True, table_id='records_table', escape=False,
       classes='table table-striped table-hover table-sm')}}
     </div>
-    <h3 id="issues_summary">Issues Summary</h3>
+    <h2 id="issues_summary">Issues Summary</h2>
     <div class="download-area">
       Download
       <a
@@ -127,10 +121,14 @@
         >CSV</a
       >
     </div>
+    <div class="table_section">
     {{ issues_table[['title','level','message']].to_html( index=False,
     render_links=True, table_id='issues_table', escape=False, classes='table
     table-striped table-hover table-sm')}}
-    <small>Last update: {{ time.isoformat() }}</small>
+    </div>
+    <footer>
+      <small>Last update: {{ time.strftime("%Y-%M-%dT%H:%M %Z") }}</small>
+    </footer>
   </body>
   <!-- Make sure you put this AFTER Leaflet's CSS -->
   <script
