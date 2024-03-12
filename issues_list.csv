@@ -1,25 +1,33 @@
 ,record_id,level,message
-0,f2158f39-9a74-4f33-bd11-f2370d543a24,ERROR,No projects associated
-1,f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,No DOI defined
-2,f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,No funder
-3,f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,Record isn't accesible via a general public repository
+0,996ee978-d02e-499f-b7f0-79ffaedea219,ERROR,No projects associated
+1,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No DOI defined
+2,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No funder
+3,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,Record isn't accesible via a general public repository
+0,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,ERROR,No projects associated
+1,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No DOI defined
+2,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No funder
+3,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Record isn't accesible via a general public repository
+0,3e6e662a-f48c-47fc-8dcd-478a787f5131,ERROR,No projects associated
+1,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No DOI defined
+2,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No funder
+3,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Record isn't accesible via a general public repository
 0,203f5c98-e8be-4c41-b523-dddea723ccbf,ERROR,No projects associated
 1,203f5c98-e8be-4c41-b523-dddea723ccbf,WARNING,No DOI defined
 2,203f5c98-e8be-4c41-b523-dddea723ccbf,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,203f5c98-e8be-4c41-b523-dddea723ccbf,WARNING,No funder
 4,203f5c98-e8be-4c41-b523-dddea723ccbf,WARNING,Record isn't accesible via a general public repository
-0,bb8eb8d3-37d0-451f-ae77-fdcca9844223,ERROR,No projects associated
-1,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,No DOI defined
-2,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,No funder
-3,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,Record isn't accesible via a general public repository
 0,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,ERROR,No projects associated
 1,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,No DOI defined
 2,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,No funder
 3,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,Record isn't accesible via a general public repository
-0,3e6e662a-f48c-47fc-8dcd-478a787f5131,ERROR,No projects associated
-1,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No DOI defined
-2,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No funder
-3,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Record isn't accesible via a general public repository
+0,f2158f39-9a74-4f33-bd11-f2370d543a24,ERROR,No projects associated
+1,f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,No DOI defined
+2,f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,No funder
+3,f2158f39-9a74-4f33-bd11-f2370d543a24,WARNING,Record isn't accesible via a general public repository
+0,bb8eb8d3-37d0-451f-ae77-fdcca9844223,ERROR,No projects associated
+1,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,No DOI defined
+2,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,No funder
+3,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,Record isn't accesible via a general public repository
 0,92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,No projects associated
 1,92b7a1eb-87a7-4a55-9093-6e5b354041fa,WARNING,No DOI defined
 2,92b7a1eb-87a7-4a55-9093-6e5b354041fa,WARNING,No funder
@@ -27,19 +35,14 @@
 4,92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,Empty resource name
 5,92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,Empty resource name
 6,92b7a1eb-87a7-4a55-9093-6e5b354041fa,WARNING,Record isn't accesible via a general public repository
-0,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,ERROR,No projects associated
-1,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No DOI defined
-2,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No funder
-3,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Record isn't accesible via a general public repository
-0,996ee978-d02e-499f-b7f0-79ffaedea219,ERROR,No projects associated
-1,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No DOI defined
-2,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No funder
-3,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,Record isn't accesible via a general public repository
 0,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,ERROR,No projects associated
 1,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,WARNING,No DOI defined
 2,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,WARNING,No funder
 4,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,WARNING,Record isn't accesible via a general public repository
+0,d875b549-2a4c-4f4a-b389-69c97a26f506,ERROR,No projects associated
+1,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,No funder
+2,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Record isn't accesible via a general public repository
 0,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,ERROR,No projects associated
 1,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,WARNING,No funder
 2,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,WARNING,Record isn't accesible via a general public repository
@@ -47,51 +50,48 @@
 1,1661f318-6d3c-47b2-9b3a-51f139684f21,WARNING,No DOI defined
 2,1661f318-6d3c-47b2-9b3a-51f139684f21,WARNING,No funder
 3,1661f318-6d3c-47b2-9b3a-51f139684f21,WARNING,Record isn't accesible via a general public repository
-0,2687a51e-c27e-42b7-89be-35d7d64773bf,ERROR,No projects associated
-1,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No DOI defined
-2,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No funder
-3,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Record isn't accesible via a general public repository
 0,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,ERROR,No projects associated
 1,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,WARNING,No DOI defined
 2,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,WARNING,No funder
 3,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,WARNING,Record isn't accesible via a general public repository
-0,d875b549-2a4c-4f4a-b389-69c97a26f506,ERROR,No projects associated
-1,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,No funder
-2,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Record isn't accesible via a general public repository
+0,2687a51e-c27e-42b7-89be-35d7d64773bf,ERROR,No projects associated
+1,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No DOI defined
+2,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No funder
+3,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Record isn't accesible via a general public repository
 0,c02a2940-3686-41c0-b184-4585f31384e7,ERROR,No projects associated
 1,c02a2940-3686-41c0-b184-4585f31384e7,WARNING,No DOI defined
 2,c02a2940-3686-41c0-b184-4585f31384e7,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,c02a2940-3686-41c0-b184-4585f31384e7,WARNING,No funder
 4,c02a2940-3686-41c0-b184-4585f31384e7,WARNING,Record isn't accesible via a general public repository
-0,0cd2411c-e525-4e95-8825-b1ba51860e83,ERROR,No projects associated
-1,0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,No funder
-2,0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,Record isn't accesible via a general public repository
 0,62eb910d-0919-4b2a-9e7e-e63284d8a50a,ERROR,No projects associated
 1,62eb910d-0919-4b2a-9e7e-e63284d8a50a,WARNING,No funder
 2,62eb910d-0919-4b2a-9e7e-e63284d8a50a,ERROR,Invalid resources[3].url.status_code=403
 3,62eb910d-0919-4b2a-9e7e-e63284d8a50a,WARNING,Record isn't accesible via a general public repository
-0,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,ERROR,No projects associated
-1,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,No DOI defined
-2,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,No funder
-3,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,Record isn't accesible via a general public repository
+0,0cd2411c-e525-4e95-8825-b1ba51860e83,ERROR,No projects associated
+1,0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,No funder
+2,0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,Record isn't accesible via a general public repository
 0,322e1c1c-377f-4d17-959f-765cd22d3686,ERROR,No projects associated
 1,322e1c1c-377f-4d17-959f-765cd22d3686,WARNING,No DOI defined
 2,322e1c1c-377f-4d17-959f-765cd22d3686,WARNING,No funder
 3,322e1c1c-377f-4d17-959f-765cd22d3686,WARNING,Record isn't accesible via a general public repository
-0,12742e1b-b393-448a-8a42-5c169388fb9f,ERROR,No projects associated
-1,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,No DOI defined
-2,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,No funder
-3,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,Record isn't accesible via a general public repository
-0,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,ERROR,No projects associated
-1,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,WARNING,No DOI defined
-2,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,WARNING,No funder
-3,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,WARNING,Record isn't accesible via a general public repository
+0,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,ERROR,No projects associated
+1,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,No DOI defined
+2,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,No funder
+3,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,Record isn't accesible via a general public repository
 0,f8ee4a46-9582-4ba5-8c56-c63aea169152,ERROR,No projects associated
 1,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,No funder
 2,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Record isn't accesible via a general public repository
 0,7617e6b5-a968-40b0-b284-8625c01db1bd,ERROR,No projects associated
 1,7617e6b5-a968-40b0-b284-8625c01db1bd,WARNING,No funder
 2,7617e6b5-a968-40b0-b284-8625c01db1bd,WARNING,Record isn't accesible via a general public repository
+0,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,ERROR,No projects associated
+1,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,WARNING,No DOI defined
+2,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,WARNING,No funder
+3,a9227fa4-55f7-4ab1-b051-d83d2adcbfa2,WARNING,Record isn't accesible via a general public repository
+0,12742e1b-b393-448a-8a42-5c169388fb9f,ERROR,No projects associated
+1,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,No DOI defined
+2,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,No funder
+3,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,Record isn't accesible via a general public repository
 0,27849c15-1105-4214-a4ac-ad2e3c65aefc,ERROR,No projects associated
 1,27849c15-1105-4214-a4ac-ad2e3c65aefc,WARNING,No funder
 2,27849c15-1105-4214-a4ac-ad2e3c65aefc,ERROR,Invalid resources[0].url.status_code=401
@@ -106,10 +106,6 @@
 2,0d6e3b80-5271-4783-8e13-4fd5e350fb8f,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,0d6e3b80-5271-4783-8e13-4fd5e350fb8f,WARNING,No funder
 4,0d6e3b80-5271-4783-8e13-4fd5e350fb8f,WARNING,Record isn't accesible via a general public repository
-0,a7853e39-f66d-48c6-be02-adc8df537e70,ERROR,No projects associated
-1,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,No DOI defined
-2,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,No funder
-3,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Record isn't accesible via a general public repository
 0,bc6c70d9-8802-4b85-accc-3c0e14cbb38f,ERROR,No projects associated
 1,bc6c70d9-8802-4b85-accc-3c0e14cbb38f,WARNING,No funder
 2,bc6c70d9-8802-4b85-accc-3c0e14cbb38f,WARNING,Record isn't accesible via a general public repository
@@ -117,28 +113,32 @@
 1,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,No DOI defined
 2,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,No funder
 3,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,Record isn't accesible via a general public repository
-0,e505277d-f96d-4c91-9524-977797cd5d09,ERROR,No projects associated
-1,e505277d-f96d-4c91-9524-977797cd5d09,WARNING,No funder
-2,e505277d-f96d-4c91-9524-977797cd5d09,ERROR,Invalid resources[1].url.status_code=403
-3,e505277d-f96d-4c91-9524-977797cd5d09,WARNING,Record isn't accesible via a general public repository
-0,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,ERROR,No projects associated
-1,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,No DOI defined
-2,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,No funder
-3,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,Record isn't accesible via a general public repository
-0,e8ca939c-db12-4895-b516-9bc15c0ca035,ERROR,No projects associated
-1,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,No DOI defined
-2,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,No funder
-3,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,Record isn't accesible via a general public repository
+0,a7853e39-f66d-48c6-be02-adc8df537e70,ERROR,No projects associated
+1,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,No DOI defined
+2,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,No funder
+3,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Record isn't accesible via a general public repository
 0,2a18846a-d083-4b60-9569-ec6ea738ac08,ERROR,No projects associated
 1,2a18846a-d083-4b60-9569-ec6ea738ac08,ERROR,Invalid distributor organisation-name=University of British Columbia
 2,2a18846a-d083-4b60-9569-ec6ea738ac08,WARNING,No funder
 3,2a18846a-d083-4b60-9569-ec6ea738ac08,WARNING,Record isn't accesible via a general public repository
-0,5726e403-dc96-4423-bfb9-e0b86102dc81,ERROR,No projects associated
-1,5726e403-dc96-4423-bfb9-e0b86102dc81,WARNING,No funder
-2,5726e403-dc96-4423-bfb9-e0b86102dc81,WARNING,Record isn't accesible via a general public repository
+0,e8ca939c-db12-4895-b516-9bc15c0ca035,ERROR,No projects associated
+1,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,No DOI defined
+2,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,No funder
+3,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,Record isn't accesible via a general public repository
+0,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,ERROR,No projects associated
+1,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,No DOI defined
+2,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,No funder
+3,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,Record isn't accesible via a general public repository
+0,e505277d-f96d-4c91-9524-977797cd5d09,ERROR,No projects associated
+1,e505277d-f96d-4c91-9524-977797cd5d09,WARNING,No funder
+2,e505277d-f96d-4c91-9524-977797cd5d09,ERROR,Invalid resources[1].url.status_code=403
+3,e505277d-f96d-4c91-9524-977797cd5d09,WARNING,Record isn't accesible via a general public repository
 0,2a2892d4-588a-4f63-9b89-474ec61ba246,ERROR,No projects associated
 1,2a2892d4-588a-4f63-9b89-474ec61ba246,WARNING,No funder
 2,2a2892d4-588a-4f63-9b89-474ec61ba246,WARNING,Record isn't accesible via a general public repository
+0,5726e403-dc96-4423-bfb9-e0b86102dc81,ERROR,No projects associated
+1,5726e403-dc96-4423-bfb9-e0b86102dc81,WARNING,No funder
+2,5726e403-dc96-4423-bfb9-e0b86102dc81,WARNING,Record isn't accesible via a general public repository
 0,0f964720-21d9-4464-88c0-e1615444c68a,ERROR,No projects associated
 1,0f964720-21d9-4464-88c0-e1615444c68a,WARNING,No funder
 2,0f964720-21d9-4464-88c0-e1615444c68a,WARNING,Record isn't accesible via a general public repository
@@ -154,20 +154,13 @@
 1,22bcdb63-23c2-4f34-8721-76fb95c2167d,WARNING,No DOI defined
 2,22bcdb63-23c2-4f34-8721-76fb95c2167d,WARNING,No funder
 3,22bcdb63-23c2-4f34-8721-76fb95c2167d,WARNING,Record isn't accesible via a general public repository
+0,5f471b7d-adc4-41bd-acb5-9320b4422eb4,ERROR,No projects associated
+1,5f471b7d-adc4-41bd-acb5-9320b4422eb4,WARNING,No funder
+2,5f471b7d-adc4-41bd-acb5-9320b4422eb4,WARNING,Record isn't accesible via a general public repository
 0,8759103c-abea-415a-9571-a86b39db6205,ERROR,No projects associated
 1,8759103c-abea-415a-9571-a86b39db6205,WARNING,No DOI defined
 2,8759103c-abea-415a-9571-a86b39db6205,WARNING,No funder
 3,8759103c-abea-415a-9571-a86b39db6205,WARNING,Record isn't accesible via a general public repository
-0,5f471b7d-adc4-41bd-acb5-9320b4422eb4,ERROR,No projects associated
-1,5f471b7d-adc4-41bd-acb5-9320b4422eb4,WARNING,No funder
-2,5f471b7d-adc4-41bd-acb5-9320b4422eb4,WARNING,Record isn't accesible via a general public repository
-0,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,No projects associated
-1,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,WARNING,No DOI defined
-2,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,WARNING,No funder
-3,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Invalid resources[1].url.status_code=404
-4,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
-5,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
-6,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,WARNING,Record isn't accesible via a general public repository
 0,10e33315-1a9e-473a-850f-73182cc12c1c,ERROR,No projects associated
 1,10e33315-1a9e-473a-850f-73182cc12c1c,WARNING,No funder
 2,10e33315-1a9e-473a-850f-73182cc12c1c,WARNING,Record isn't accesible via a general public repository
@@ -179,13 +172,20 @@
 1,40416c03-d88a-4f15-aea3-a7b275612c4f,ERROR,Invalid HTTPS https://doi.org/10.21966/5n09-aq76 status_code=404
 2,40416c03-d88a-4f15-aea3-a7b275612c4f,WARNING,No funder
 3,40416c03-d88a-4f15-aea3-a7b275612c4f,WARNING,Record isn't accesible via a general public repository
-0,bfaf2b48-94fe-48b6-b9f3-ce0916ada686,ERROR,No projects associated
-1,bfaf2b48-94fe-48b6-b9f3-ce0916ada686,WARNING,No funder
-2,bfaf2b48-94fe-48b6-b9f3-ce0916ada686,WARNING,Record isn't accesible via a general public repository
+0,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,No projects associated
+1,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,WARNING,No DOI defined
+2,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,WARNING,No funder
+3,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Invalid resources[1].url.status_code=404
+4,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
+5,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
+6,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,WARNING,Record isn't accesible via a general public repository
 0,2b0c442d-3b34-4662-ae27-e762085d7f8c,ERROR,No projects associated
 1,2b0c442d-3b34-4662-ae27-e762085d7f8c,WARNING,No DOI defined
 2,2b0c442d-3b34-4662-ae27-e762085d7f8c,WARNING,No funder
 3,2b0c442d-3b34-4662-ae27-e762085d7f8c,WARNING,Record isn't accesible via a general public repository
+0,bfaf2b48-94fe-48b6-b9f3-ce0916ada686,ERROR,No projects associated
+1,bfaf2b48-94fe-48b6-b9f3-ce0916ada686,WARNING,No funder
+2,bfaf2b48-94fe-48b6-b9f3-ce0916ada686,WARNING,Record isn't accesible via a general public repository
 0,8926136d-980e-48f2-9591-4ec85f95a31c,ERROR,No projects associated
 1,8926136d-980e-48f2-9591-4ec85f95a31c,ERROR,Invalid distributor organisation-name=Hakai Institue
 2,8926136d-980e-48f2-9591-4ec85f95a31c,WARNING,No funder
@@ -193,10 +193,6 @@
 0,7410b272-dfe3-42e5-b51a-2754142caba8,ERROR,No projects associated
 1,7410b272-dfe3-42e5-b51a-2754142caba8,WARNING,No funder
 2,7410b272-dfe3-42e5-b51a-2754142caba8,WARNING,Record isn't accesible via a general public repository
-0,ced69a4a-fa78-4133-932b-de895ecb7de9,ERROR,No projects associated
-1,ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,No DOI defined
-2,ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,No funder
-3,ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,Record isn't accesible via a general public repository
 0,3ad5a99e-9e19-41e8-8bc7-a4d9547f3d52,ERROR,No projects associated
 1,3ad5a99e-9e19-41e8-8bc7-a4d9547f3d52,WARNING,No funder
 2,3ad5a99e-9e19-41e8-8bc7-a4d9547f3d52,WARNING,Record isn't accesible via a general public repository
@@ -204,6 +200,13 @@
 1,968111e6-7afb-43a9-9304-f804dd5f14a2,WARNING,No DOI defined
 2,968111e6-7afb-43a9-9304-f804dd5f14a2,WARNING,No funder
 3,968111e6-7afb-43a9-9304-f804dd5f14a2,WARNING,Record isn't accesible via a general public repository
+0,ced69a4a-fa78-4133-932b-de895ecb7de9,ERROR,No projects associated
+1,ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,No DOI defined
+2,ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,No funder
+3,ced69a4a-fa78-4133-932b-de895ecb7de9,WARNING,Record isn't accesible via a general public repository
+0,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,ERROR,No projects associated
+1,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,WARNING,No funder
+2,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,WARNING,Record isn't accesible via a general public repository
 0,76aeea5b-addd-4646-94fc-b292de54f25c,ERROR,No projects associated
 1,76aeea5b-addd-4646-94fc-b292de54f25c,WARNING,No DOI defined
 2,76aeea5b-addd-4646-94fc-b292de54f25c,WARNING,No funder
@@ -217,44 +220,41 @@
 2,169f2e88-5780-44a6-87ae-96d0fc6e84f3,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,169f2e88-5780-44a6-87ae-96d0fc6e84f3,WARNING,No funder
 4,169f2e88-5780-44a6-87ae-96d0fc6e84f3,WARNING,Record isn't accesible via a general public repository
-0,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,ERROR,No projects associated
-1,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,WARNING,No funder
-2,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,WARNING,Record isn't accesible via a general public repository
 0,0315e710-5cef-4089-acfc-253d0e114b36,ERROR,No projects associated
 1,0315e710-5cef-4089-acfc-253d0e114b36,WARNING,No funder
 2,0315e710-5cef-4089-acfc-253d0e114b36,WARNING,Record isn't accesible via a general public repository
-0,e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,No projects associated
-1,e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,No funder
-2,e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,Invalid resources[1].url.status_code=401
-3,e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,Record isn't accesible via a general public repository
 0,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,ERROR,No projects associated
 1,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,ERROR,Invalid distributor organisation-name=Wild Salmon Centre
 2,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,WARNING,No funder
 3,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,WARNING,Record isn't accesible via a general public repository
-0,56063f8a-4f16-4a59-a9b0-8b23d9e02578,ERROR,No projects associated
-1,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No DOI defined
-2,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No funder
-3,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,Record isn't accesible via a general public repository
+0,0d25c2d9-e246-417d-b546-32b38ec62525,ERROR,No projects associated
+1,0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,No funder
+2,0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,Record isn't accesible via a general public repository
 0,07a103e2-7fb1-4960-8842-22cc400ce04d,ERROR,No projects associated
 1,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No DOI defined
 2,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No funder
 3,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Record isn't accesible via a general public repository
+0,e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,No projects associated
+1,e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,No funder
+2,e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,Invalid resources[1].url.status_code=401
+3,e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,Record isn't accesible via a general public repository
 0,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,ERROR,No projects associated
 1,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,No DOI defined
 2,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,No funder
 3,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Record isn't accesible via a general public repository
-0,0d25c2d9-e246-417d-b546-32b38ec62525,ERROR,No projects associated
-1,0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,No funder
-2,0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,Record isn't accesible via a general public repository
 0,943bc8dd-642d-411b-9865-d364f14da911,ERROR,No projects associated
 1,943bc8dd-642d-411b-9865-d364f14da911,WARNING,No funder
 2,943bc8dd-642d-411b-9865-d364f14da911,WARNING,Record isn't accesible via a general public repository
-0,289e5bdf-52df-45a3-9b69-59868fadd9f9,ERROR,No projects associated
-1,289e5bdf-52df-45a3-9b69-59868fadd9f9,WARNING,No DOI defined
-2,289e5bdf-52df-45a3-9b69-59868fadd9f9,WARNING,Record isn't accesible via a general public repository
+0,56063f8a-4f16-4a59-a9b0-8b23d9e02578,ERROR,No projects associated
+1,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No DOI defined
+2,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No funder
+3,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,Record isn't accesible via a general public repository
 0,5c2d5e0a-bfea-4bcf-b1c8-b7f92b16647f,ERROR,No projects associated
 1,5c2d5e0a-bfea-4bcf-b1c8-b7f92b16647f,WARNING,No funder
 2,5c2d5e0a-bfea-4bcf-b1c8-b7f92b16647f,WARNING,Record isn't accesible via a general public repository
+0,289e5bdf-52df-45a3-9b69-59868fadd9f9,ERROR,No projects associated
+1,289e5bdf-52df-45a3-9b69-59868fadd9f9,WARNING,No DOI defined
+2,289e5bdf-52df-45a3-9b69-59868fadd9f9,WARNING,Record isn't accesible via a general public repository
 0,314809ba-c43e-4a55-a2be-d47fcae35b54,ERROR,No projects associated
 1,314809ba-c43e-4a55-a2be-d47fcae35b54,WARNING,No funder
 2,314809ba-c43e-4a55-a2be-d47fcae35b54,WARNING,Record isn't accesible via a general public repository
@@ -269,41 +269,41 @@
 1,245e6f57-a369-4b7e-a19c-265a2c03727e,WARNING,No DOI defined
 2,245e6f57-a369-4b7e-a19c-265a2c03727e,WARNING,No funder
 3,245e6f57-a369-4b7e-a19c-265a2c03727e,WARNING,Record isn't accesible via a general public repository
-0,a39ad8b7-8d89-4cae-82fb-734fc3889897,ERROR,No projects associated
-1,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,No DOI defined
-2,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,No funder
-3,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,Record isn't accesible via a general public repository
 0,cd3dffb5-70e5-4c52-a748-b73af6390f81,ERROR,No projects associated
 1,cd3dffb5-70e5-4c52-a748-b73af6390f81,WARNING,No DOI defined
 2,cd3dffb5-70e5-4c52-a748-b73af6390f81,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,cd3dffb5-70e5-4c52-a748-b73af6390f81,WARNING,No funder
 4,cd3dffb5-70e5-4c52-a748-b73af6390f81,WARNING,Record isn't accesible via a general public repository
+0,a39ad8b7-8d89-4cae-82fb-734fc3889897,ERROR,No projects associated
+1,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,No DOI defined
+2,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,No funder
+3,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,Record isn't accesible via a general public repository
+0,a3571383-5d3b-4d4d-a555-d4afe2981d12,ERROR,No projects associated
+1,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,No funder
+2,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,Record isn't accesible via a general public repository
 0,f74a4d00-7471-4fd6-83d2-265527dd2786,ERROR,No projects associated
 1,f74a4d00-7471-4fd6-83d2-265527dd2786,ERROR,Invalid distributor organisation-name=Hakai Institute - Vancouver Island University
 2,f74a4d00-7471-4fd6-83d2-265527dd2786,WARNING,No funder
 3,f74a4d00-7471-4fd6-83d2-265527dd2786,WARNING,Record isn't accesible via a general public repository
-0,a3571383-5d3b-4d4d-a555-d4afe2981d12,ERROR,No projects associated
-1,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,No funder
-2,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,Record isn't accesible via a general public repository
 0,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,ERROR,No projects associated
 1,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,WARNING,No DOI defined
 2,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,WARNING,No funder
 3,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,ERROR,Empty resource name
 4,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,WARNING,Record isn't accesible via a general public repository
+0,d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,ERROR,No projects associated
+1,d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,WARNING,No funder
+2,d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,WARNING,Record isn't accesible via a general public repository
 0,63b49955-e4c3-431a-8493-590e4762eaf7,ERROR,No projects associated
 1,63b49955-e4c3-431a-8493-590e4762eaf7,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 2,63b49955-e4c3-431a-8493-590e4762eaf7,WARNING,No funder
 3,63b49955-e4c3-431a-8493-590e4762eaf7,WARNING,Record isn't accesible via a general public repository
-0,d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,ERROR,No projects associated
-1,d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,WARNING,No funder
-2,d52bd0bd-2c4f-4268-9ed0-66e1d6f287a1,WARNING,Record isn't accesible via a general public repository
+0,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,ERROR,No projects associated
+1,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,WARNING,No funder
+2,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,WARNING,Record isn't accesible via a general public repository
 0,7138a06e-3e90-4beb-8c84-7b763a4a6bdf,ERROR,No projects associated
 1,7138a06e-3e90-4beb-8c84-7b763a4a6bdf,WARNING,No DOI defined
 2,7138a06e-3e90-4beb-8c84-7b763a4a6bdf,WARNING,No funder
 3,7138a06e-3e90-4beb-8c84-7b763a4a6bdf,WARNING,Record isn't accesible via a general public repository
-0,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,ERROR,No projects associated
-1,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,WARNING,No funder
-2,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,WARNING,Record isn't accesible via a general public repository
 0,57706dbb-09f0-4938-8596-69b9a2fc37c0,ERROR,No projects associated
 1,57706dbb-09f0-4938-8596-69b9a2fc37c0,WARNING,No DOI defined
 2,57706dbb-09f0-4938-8596-69b9a2fc37c0,WARNING,No funder
@@ -312,13 +312,13 @@
 1,75c9c4fd-02fa-4b7a-9212-3d290953d5c2,WARNING,No DOI defined
 2,75c9c4fd-02fa-4b7a-9212-3d290953d5c2,WARNING,No funder
 3,75c9c4fd-02fa-4b7a-9212-3d290953d5c2,WARNING,Record isn't accesible via a general public repository
+0,10bbdbb2-2f67-483b-8350-70264904be77,ERROR,No projects associated
+1,10bbdbb2-2f67-483b-8350-70264904be77,WARNING,No funder
+2,10bbdbb2-2f67-483b-8350-70264904be77,WARNING,Record isn't accesible via a general public repository
 0,dc9c2df9-e523-41e9-93b0-4133afd7c2d6,ERROR,No projects associated
 1,dc9c2df9-e523-41e9-93b0-4133afd7c2d6,WARNING,No DOI defined
 2,dc9c2df9-e523-41e9-93b0-4133afd7c2d6,WARNING,No funder
 3,dc9c2df9-e523-41e9-93b0-4133afd7c2d6,WARNING,Record isn't accesible via a general public repository
-0,10bbdbb2-2f67-483b-8350-70264904be77,ERROR,No projects associated
-1,10bbdbb2-2f67-483b-8350-70264904be77,WARNING,No funder
-2,10bbdbb2-2f67-483b-8350-70264904be77,WARNING,Record isn't accesible via a general public repository
 0,b229aee4-969c-4046-9ac3-65f31391d90b,ERROR,No projects associated
 1,b229aee4-969c-4046-9ac3-65f31391d90b,WARNING,No funder
 2,b229aee4-969c-4046-9ac3-65f31391d90b,WARNING,Record isn't accesible via a general public repository
@@ -335,14 +335,18 @@
 1,e08d2a77-fe0b-4017-9e17-ae35b0430667,WARNING,No DOI defined
 2,e08d2a77-fe0b-4017-9e17-ae35b0430667,WARNING,No funder
 3,e08d2a77-fe0b-4017-9e17-ae35b0430667,WARNING,Record isn't accesible via a general public repository
-0,3a05b770-f9b3-4624-b02c-0e0aca78f34a,ERROR,No projects associated
-1,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,No DOI defined
-2,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,No funder
-3,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,Record isn't accesible via a general public repository
 0,b352aa68-d03a-4d8f-a0bc-b36539008241,ERROR,No projects associated
 1,b352aa68-d03a-4d8f-a0bc-b36539008241,WARNING,No funder
 2,b352aa68-d03a-4d8f-a0bc-b36539008241,ERROR,Invalid resources[2].url.status_code=403
 3,b352aa68-d03a-4d8f-a0bc-b36539008241,WARNING,Record isn't accesible via a general public repository
+0,b00f913a-1c4c-415b-826c-6dc2ef413df6,ERROR,No projects associated
+1,b00f913a-1c4c-415b-826c-6dc2ef413df6,ERROR,Invalid distributor organisation-name=University of British Columbia
+2,b00f913a-1c4c-415b-826c-6dc2ef413df6,WARNING,No funder
+3,b00f913a-1c4c-415b-826c-6dc2ef413df6,WARNING,Record isn't accesible via a general public repository
+0,3a05b770-f9b3-4624-b02c-0e0aca78f34a,ERROR,No projects associated
+1,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,No DOI defined
+2,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,No funder
+3,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,Record isn't accesible via a general public repository
 0,19c1a880-e902-4ca2-81cd-fdab846ba191,ERROR,No projects associated
 1,19c1a880-e902-4ca2-81cd-fdab846ba191,ERROR,Invalid licence=CC-BY-NC-4.0
 2,19c1a880-e902-4ca2-81cd-fdab846ba191,WARNING,No DOI defined
@@ -354,54 +358,46 @@
 0,ea12c489-306e-44c4-95d3-c62879f2fc2e,ERROR,No projects associated
 1,ea12c489-306e-44c4-95d3-c62879f2fc2e,WARNING,No funder
 2,ea12c489-306e-44c4-95d3-c62879f2fc2e,WARNING,Record isn't accesible via a general public repository
-0,b00f913a-1c4c-415b-826c-6dc2ef413df6,ERROR,No projects associated
-1,b00f913a-1c4c-415b-826c-6dc2ef413df6,ERROR,Invalid distributor organisation-name=University of British Columbia
-2,b00f913a-1c4c-415b-826c-6dc2ef413df6,WARNING,No funder
-3,b00f913a-1c4c-415b-826c-6dc2ef413df6,WARNING,Record isn't accesible via a general public repository
-0,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,ERROR,No projects associated
-1,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,WARNING,No DOI defined
-2,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,ERROR,Invalid distributor organisation-name=University of Victoria
-3,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,WARNING,No funder
-4,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,WARNING,Record isn't accesible via a general public repository
 0,94544fc8-507a-4de7-ab58-6f09e96b7ecb,ERROR,No projects associated
 1,94544fc8-507a-4de7-ab58-6f09e96b7ecb,WARNING,No funder
 2,94544fc8-507a-4de7-ab58-6f09e96b7ecb,WARNING,Record isn't accesible via a general public repository
 0,67c1b724-fb73-4484-8a03-c87908db5566,ERROR,No projects associated
 1,67c1b724-fb73-4484-8a03-c87908db5566,WARNING,No funder
 2,67c1b724-fb73-4484-8a03-c87908db5566,WARNING,Record isn't accesible via a general public repository
-0,f507a9ba-716d-451b-99a0-f42047a3a7c2,ERROR,No projects associated
-1,f507a9ba-716d-451b-99a0-f42047a3a7c2,WARNING,No funder
-2,f507a9ba-716d-451b-99a0-f42047a3a7c2,WARNING,Record isn't accesible via a general public repository
 0,48882087-6866-4f5e-9634-f544596612b2,ERROR,No projects associated
 1,48882087-6866-4f5e-9634-f544596612b2,WARNING,No funder
 2,48882087-6866-4f5e-9634-f544596612b2,WARNING,Record isn't accesible via a general public repository
+0,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,ERROR,No projects associated
+1,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,WARNING,No DOI defined
+2,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,ERROR,Invalid distributor organisation-name=University of Victoria
+3,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,WARNING,No funder
+4,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,WARNING,Record isn't accesible via a general public repository
+0,f507a9ba-716d-451b-99a0-f42047a3a7c2,ERROR,No projects associated
+1,f507a9ba-716d-451b-99a0-f42047a3a7c2,WARNING,No funder
+2,f507a9ba-716d-451b-99a0-f42047a3a7c2,WARNING,Record isn't accesible via a general public repository
+0,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,ERROR,No projects associated
+1,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,WARNING,No funder
+2,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,WARNING,Record isn't accesible via a general public repository
 0,cd6c1c21-50c0-4fb0-b554-9380d7864bab,ERROR,No projects associated
 1,cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,No DOI defined
 2,cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,No funder
 3,cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,Record isn't accesible via a general public repository
-0,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,ERROR,No projects associated
-1,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,WARNING,No funder
-2,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,WARNING,Record isn't accesible via a general public repository
 0,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,ERROR,No projects associated
 1,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,WARNING,No DOI defined
 2,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,WARNING,No funder
 3,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,WARNING,Record isn't accesible via a general public repository
-0,fd21be88-2971-4c53-a6ab-106f6b4b679d,ERROR,No projects associated
-1,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,No DOI defined
-2,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,No funder
-3,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,Record isn't accesible via a general public repository
 0,75a4b3b7-5cc9-45f6-81e3-ce98f6961488,ERROR,No projects associated
 1,75a4b3b7-5cc9-45f6-81e3-ce98f6961488,WARNING,No DOI defined
 2,75a4b3b7-5cc9-45f6-81e3-ce98f6961488,WARNING,No funder
 3,75a4b3b7-5cc9-45f6-81e3-ce98f6961488,WARNING,Record isn't accesible via a general public repository
+0,fd21be88-2971-4c53-a6ab-106f6b4b679d,ERROR,No projects associated
+1,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,No DOI defined
+2,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,No funder
+3,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,Record isn't accesible via a general public repository
 0,8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,ERROR,No projects associated
 1,8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,WARNING,No DOI defined
 2,8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,WARNING,No funder
 3,8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,WARNING,Record isn't accesible via a general public repository
-0,9d01792a-427a-4ad8-87b1-3ef60124b07e,ERROR,No projects associated
-1,9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,No DOI defined
-2,9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,No funder
-3,9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,Record isn't accesible via a general public repository
 0,1615b3c4-5d7c-43f9-956e-ebe3785af92e,ERROR,No projects associated
 1,1615b3c4-5d7c-43f9-956e-ebe3785af92e,ERROR,Invalid distributor organisation-name=
 2,1615b3c4-5d7c-43f9-956e-ebe3785af92e,WARNING,No funder
@@ -410,21 +406,28 @@
 1,7baa4e01-61e0-4504-a84e-34350c79536a,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 2,7baa4e01-61e0-4504-a84e-34350c79536a,WARNING,No funder
 3,7baa4e01-61e0-4504-a84e-34350c79536a,WARNING,Record isn't accesible via a general public repository
+0,9d01792a-427a-4ad8-87b1-3ef60124b07e,ERROR,No projects associated
+1,9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,No DOI defined
+2,9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,No funder
+3,9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,Record isn't accesible via a general public repository
 0,ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,ERROR,No projects associated
 1,ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,ERROR,Invalid distributor organisation-name=University of British Columbia
 2,ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,WARNING,No funder
 3,ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,WARNING,Record isn't accesible via a general public repository
-0,c7e86d80-2159-4fb8-8a88-7d58221334ee,ERROR,No projects associated
-1,c7e86d80-2159-4fb8-8a88-7d58221334ee,WARNING,No funder
-2,c7e86d80-2159-4fb8-8a88-7d58221334ee,ERROR,Invalid resources[1].url.status_code=401
-3,c7e86d80-2159-4fb8-8a88-7d58221334ee,WARNING,Record isn't accesible via a general public repository
+0,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,ERROR,No projects associated
+1,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,WARNING,No funder
+2,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,WARNING,Record isn't accesible via a general public repository
 0,c631bd48-827d-4f0f-9fb4-4926001b1956,ERROR,No projects associated
 1,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,No DOI defined
 2,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,No funder
 3,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,Record isn't accesible via a general public repository
-0,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,ERROR,No projects associated
-1,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,WARNING,No funder
-2,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,WARNING,Record isn't accesible via a general public repository
+0,c7e86d80-2159-4fb8-8a88-7d58221334ee,ERROR,No projects associated
+1,c7e86d80-2159-4fb8-8a88-7d58221334ee,WARNING,No funder
+2,c7e86d80-2159-4fb8-8a88-7d58221334ee,ERROR,Invalid resources[1].url.status_code=401
+3,c7e86d80-2159-4fb8-8a88-7d58221334ee,WARNING,Record isn't accesible via a general public repository
+0,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,ERROR,No projects associated
+1,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,No funder
+2,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,Record isn't accesible via a general public repository
 0,22f39317-855c-46ca-938f-e3a9273bd9bc,ERROR,No projects associated
 1,22f39317-855c-46ca-938f-e3a9273bd9bc,WARNING,No DOI defined
 2,22f39317-855c-46ca-938f-e3a9273bd9bc,WARNING,No funder
@@ -433,40 +436,37 @@
 1,93e3d25f-11ee-4065-b653-2e8fc3cbb663,WARNING,No DOI defined
 2,93e3d25f-11ee-4065-b653-2e8fc3cbb663,WARNING,No funder
 3,93e3d25f-11ee-4065-b653-2e8fc3cbb663,WARNING,Record isn't accesible via a general public repository
-0,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,ERROR,No projects associated
-1,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,No funder
-2,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,Record isn't accesible via a general public repository
-0,ab40c8e6-9d88-40cf-b288-948f61612472,ERROR,No projects associated
-1,ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,No funder
-2,ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,Record isn't accesible via a general public repository
 0,c1485bcd-2b82-4f5e-a38e-a22269521a04,ERROR,No projects associated
 1,c1485bcd-2b82-4f5e-a38e-a22269521a04,WARNING,No DOI defined
 2,c1485bcd-2b82-4f5e-a38e-a22269521a04,WARNING,No funder
 3,c1485bcd-2b82-4f5e-a38e-a22269521a04,WARNING,Record isn't accesible via a general public repository
-0,7bbeb996-86f2-46d9-9702-a3dc89775fb4,ERROR,No projects associated
-1,7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,No DOI defined
-2,7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,No funder
-3,7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,Record isn't accesible via a general public repository
+0,ab40c8e6-9d88-40cf-b288-948f61612472,ERROR,No projects associated
+1,ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,No funder
+2,ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,Record isn't accesible via a general public repository
 0,5cbd59f7-f24c-428b-aca9-73760131586e,ERROR,No projects associated
 1,5cbd59f7-f24c-428b-aca9-73760131586e,WARNING,No DOI defined
 2,5cbd59f7-f24c-428b-aca9-73760131586e,WARNING,No funder
 3,5cbd59f7-f24c-428b-aca9-73760131586e,WARNING,Record isn't accesible via a general public repository
+0,7bbeb996-86f2-46d9-9702-a3dc89775fb4,ERROR,No projects associated
+1,7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,No DOI defined
+2,7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,No funder
+3,7bbeb996-86f2-46d9-9702-a3dc89775fb4,WARNING,Record isn't accesible via a general public repository
 0,9896301f-f57d-4c03-9548-89f1c86900d6,ERROR,No projects associated
 1,9896301f-f57d-4c03-9548-89f1c86900d6,WARNING,No DOI defined
 2,9896301f-f57d-4c03-9548-89f1c86900d6,WARNING,No funder
 3,9896301f-f57d-4c03-9548-89f1c86900d6,WARNING,Record isn't accesible via a general public repository
-0,709f3c42-30e9-45de-a34b-4bb241c1054f,ERROR,No projects associated
-1,709f3c42-30e9-45de-a34b-4bb241c1054f,WARNING,No DOI defined
-2,709f3c42-30e9-45de-a34b-4bb241c1054f,WARNING,No funder
-3,709f3c42-30e9-45de-a34b-4bb241c1054f,WARNING,Record isn't accesible via a general public repository
+0,6e8e8de0-f036-462e-86ac-9d165843935c,ERROR,No projects associated
+1,6e8e8de0-f036-462e-86ac-9d165843935c,WARNING,No funder
+2,6e8e8de0-f036-462e-86ac-9d165843935c,WARNING,Record isn't accesible via a general public repository
 0,7dcdf013-66f1-4d91-9596-4b0bebad6b3a,ERROR,No projects associated
 1,7dcdf013-66f1-4d91-9596-4b0bebad6b3a,WARNING,No DOI defined
 2,7dcdf013-66f1-4d91-9596-4b0bebad6b3a,WARNING,No funder
 3,7dcdf013-66f1-4d91-9596-4b0bebad6b3a,ERROR,Invalid resources[0].url.status_code=404
 4,7dcdf013-66f1-4d91-9596-4b0bebad6b3a,WARNING,Record isn't accesible via a general public repository
-0,6e8e8de0-f036-462e-86ac-9d165843935c,ERROR,No projects associated
-1,6e8e8de0-f036-462e-86ac-9d165843935c,WARNING,No funder
-2,6e8e8de0-f036-462e-86ac-9d165843935c,WARNING,Record isn't accesible via a general public repository
+0,709f3c42-30e9-45de-a34b-4bb241c1054f,ERROR,No projects associated
+1,709f3c42-30e9-45de-a34b-4bb241c1054f,WARNING,No DOI defined
+2,709f3c42-30e9-45de-a34b-4bb241c1054f,WARNING,No funder
+3,709f3c42-30e9-45de-a34b-4bb241c1054f,WARNING,Record isn't accesible via a general public repository
 0,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,ERROR,No projects associated
 1,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,WARNING,No funder
 2,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,WARNING,Record isn't accesible via a general public repository
@@ -493,23 +493,23 @@
 0,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,ERROR,No projects associated
 1,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,WARNING,No funder
 2,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,WARNING,Record isn't accesible via a general public repository
-0,4074b77e-2a60-4498-897b-d7297f7d1c84,ERROR,No projects associated
-1,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,No funder
-2,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,Record isn't accesible via a general public repository
 0,75cb83ee-bcf0-4806-89a0-d400afdb5112,ERROR,No projects associated
 1,75cb83ee-bcf0-4806-89a0-d400afdb5112,WARNING,No DOI defined
 2,75cb83ee-bcf0-4806-89a0-d400afdb5112,WARNING,No funder
 3,75cb83ee-bcf0-4806-89a0-d400afdb5112,WARNING,Record isn't accesible via a general public repository
+0,5f4ce516-9271-4e22-b605-9ba31d864509,ERROR,No projects associated
+1,5f4ce516-9271-4e22-b605-9ba31d864509,WARNING,No funder
+2,5f4ce516-9271-4e22-b605-9ba31d864509,WARNING,Record isn't accesible via a general public repository
 0,8cdd33c6-0501-4ed1-a05b-e75f2542e249,ERROR,No projects associated
 1,8cdd33c6-0501-4ed1-a05b-e75f2542e249,WARNING,No DOI defined
 2,8cdd33c6-0501-4ed1-a05b-e75f2542e249,WARNING,No funder
 3,8cdd33c6-0501-4ed1-a05b-e75f2542e249,WARNING,Record isn't accesible via a general public repository
-0,5f4ce516-9271-4e22-b605-9ba31d864509,ERROR,No projects associated
-1,5f4ce516-9271-4e22-b605-9ba31d864509,WARNING,No funder
-2,5f4ce516-9271-4e22-b605-9ba31d864509,WARNING,Record isn't accesible via a general public repository
 0,4d668de2-45b2-47c7-9180-f1b24b154b9e,ERROR,No projects associated
 1,4d668de2-45b2-47c7-9180-f1b24b154b9e,WARNING,No funder
 2,4d668de2-45b2-47c7-9180-f1b24b154b9e,WARNING,Record isn't accesible via a general public repository
+0,44e8eeb5-b67f-4719-a5e8-c86590e20197,ERROR,No projects associated
+1,44e8eeb5-b67f-4719-a5e8-c86590e20197,WARNING,No funder
+2,44e8eeb5-b67f-4719-a5e8-c86590e20197,WARNING,Record isn't accesible via a general public repository
 0,a30d7fce-421d-49b7-81ff-8f35d76dd96e,ERROR,No projects associated
 1,a30d7fce-421d-49b7-81ff-8f35d76dd96e,WARNING,No funder
 2,a30d7fce-421d-49b7-81ff-8f35d76dd96e,ERROR,Invalid resources[1].url.status_code=404
@@ -521,21 +521,21 @@
 0,8eff24e5-ec2b-48c2-a33e-49317b7ccbbe,ERROR,No projects associated
 1,8eff24e5-ec2b-48c2-a33e-49317b7ccbbe,WARNING,No DOI defined
 2,8eff24e5-ec2b-48c2-a33e-49317b7ccbbe,WARNING,Record isn't accesible via a general public repository
-0,44e8eeb5-b67f-4719-a5e8-c86590e20197,ERROR,No projects associated
-1,44e8eeb5-b67f-4719-a5e8-c86590e20197,WARNING,No funder
-2,44e8eeb5-b67f-4719-a5e8-c86590e20197,WARNING,Record isn't accesible via a general public repository
+0,8a0d2d2b-b4e2-44d6-9a70-90916d7f1fd9,ERROR,No projects associated
+1,8a0d2d2b-b4e2-44d6-9a70-90916d7f1fd9,WARNING,No funder
+2,8a0d2d2b-b4e2-44d6-9a70-90916d7f1fd9,WARNING,Record isn't accesible via a general public repository
 0,6ff8052b-1018-47c7-9423-d3f14113f752,ERROR,No projects associated
 1,6ff8052b-1018-47c7-9423-d3f14113f752,WARNING,No DOI defined
 2,6ff8052b-1018-47c7-9423-d3f14113f752,WARNING,No funder
 3,6ff8052b-1018-47c7-9423-d3f14113f752,WARNING,Record isn't accesible via a general public repository
-0,8a0d2d2b-b4e2-44d6-9a70-90916d7f1fd9,ERROR,No projects associated
-1,8a0d2d2b-b4e2-44d6-9a70-90916d7f1fd9,WARNING,No funder
-2,8a0d2d2b-b4e2-44d6-9a70-90916d7f1fd9,WARNING,Record isn't accesible via a general public repository
 0,e6d9b79d-0b80-45f4-9b49-bc6a6bc463a5,ERROR,No projects associated
 1,e6d9b79d-0b80-45f4-9b49-bc6a6bc463a5,WARNING,No DOI defined
 2,e6d9b79d-0b80-45f4-9b49-bc6a6bc463a5,ERROR,Invalid distributor organisation-name=Hakai Institute - Vancouver Island University
 3,e6d9b79d-0b80-45f4-9b49-bc6a6bc463a5,WARNING,No funder
 4,e6d9b79d-0b80-45f4-9b49-bc6a6bc463a5,WARNING,Record isn't accesible via a general public repository
+0,7fae8221-2907-4721-a15a-561b6d36caae,ERROR,No projects associated
+1,7fae8221-2907-4721-a15a-561b6d36caae,WARNING,No funder
+2,7fae8221-2907-4721-a15a-561b6d36caae,WARNING,Record isn't accesible via a general public repository
 0,f3dec6f6-ee64-4a68-aadc-7e0cb10c2088,ERROR,No projects associated
 1,f3dec6f6-ee64-4a68-aadc-7e0cb10c2088,WARNING,No DOI defined
 2,f3dec6f6-ee64-4a68-aadc-7e0cb10c2088,WARNING,No funder
@@ -544,32 +544,29 @@
 1,35e49a67-a8b7-4053-a9c8-6e049ef9398c,WARNING,No DOI defined
 2,35e49a67-a8b7-4053-a9c8-6e049ef9398c,WARNING,No funder
 3,35e49a67-a8b7-4053-a9c8-6e049ef9398c,WARNING,Record isn't accesible via a general public repository
-0,7fae8221-2907-4721-a15a-561b6d36caae,ERROR,No projects associated
-1,7fae8221-2907-4721-a15a-561b6d36caae,WARNING,No funder
-2,7fae8221-2907-4721-a15a-561b6d36caae,WARNING,Record isn't accesible via a general public repository
 0,1c8f2953-0655-4c32-8127-16e8df3fa5b2,ERROR,No projects associated
 1,1c8f2953-0655-4c32-8127-16e8df3fa5b2,ERROR,Invalid distributor organisation-name=University of Victoria
 2,1c8f2953-0655-4c32-8127-16e8df3fa5b2,WARNING,No funder
 3,1c8f2953-0655-4c32-8127-16e8df3fa5b2,WARNING,Record isn't accesible via a general public repository
-0,1736e39c-a369-4db0-a247-11d52bdb3009,ERROR,No projects associated
-1,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,No DOI defined
-2,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,No funder
-3,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,Record isn't accesible via a general public repository
+0,e5c142ad-3471-499e-81ed-5f5210d3e662,ERROR,No projects associated
+1,e5c142ad-3471-499e-81ed-5f5210d3e662,WARNING,No funder
+2,e5c142ad-3471-499e-81ed-5f5210d3e662,WARNING,Record isn't accesible via a general public repository
 0,34c4abe9-a6ae-4c9d-9a77-8206077e3fec,ERROR,No projects associated
 1,34c4abe9-a6ae-4c9d-9a77-8206077e3fec,WARNING,No DOI defined
 2,34c4abe9-a6ae-4c9d-9a77-8206077e3fec,ERROR,Invalid distributor organisation-name=Simon Fraser University
 3,34c4abe9-a6ae-4c9d-9a77-8206077e3fec,WARNING,No funder
 4,34c4abe9-a6ae-4c9d-9a77-8206077e3fec,WARNING,Record isn't accesible via a general public repository
-0,e5c142ad-3471-499e-81ed-5f5210d3e662,ERROR,No projects associated
-1,e5c142ad-3471-499e-81ed-5f5210d3e662,WARNING,No funder
-2,e5c142ad-3471-499e-81ed-5f5210d3e662,WARNING,Record isn't accesible via a general public repository
+0,1736e39c-a369-4db0-a247-11d52bdb3009,ERROR,No projects associated
+1,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,No DOI defined
+2,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,No funder
+3,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,Record isn't accesible via a general public repository
 0,e55ce907-5836-4a74-a0d5-04e3855b5b4b,ERROR,No projects associated
 1,e55ce907-5836-4a74-a0d5-04e3855b5b4b,WARNING,No funder
 2,e55ce907-5836-4a74-a0d5-04e3855b5b4b,WARNING,Record isn't accesible via a general public repository
-0,af780933-5d2b-437d-980f-29a9cb9f10da,ERROR,No projects associated
-1,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No DOI defined
-2,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No funder
-3,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,Record isn't accesible via a general public repository
+0,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,ERROR,No projects associated
+1,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,No funder
+2,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,ERROR,Invalid resources[1].url.status_code=403
+3,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Record isn't accesible via a general public repository
 0,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,ERROR,No projects associated
 1,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,WARNING,No DOI defined
 2,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,WARNING,No funder
@@ -579,50 +576,55 @@
 1,27904ff6-58b1-4854-bf77-3e586deb9596,WARNING,No DOI defined
 2,27904ff6-58b1-4854-bf77-3e586deb9596,WARNING,No funder
 3,27904ff6-58b1-4854-bf77-3e586deb9596,WARNING,Record isn't accesible via a general public repository
-0,32b5c5d3-25d8-43b0-a02f-3503bca02aab,ERROR,No projects associated
-1,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,No DOI defined
-2,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,No funder
-3,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,Record isn't accesible via a general public repository
-0,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,ERROR,No projects associated
-1,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,No funder
-2,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,ERROR,Invalid resources[1].url.status_code=403
-3,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Record isn't accesible via a general public repository
 0,6c317e7d-e4df-4511-9b5e-4a39f3518c44,ERROR,No projects associated
 1,6c317e7d-e4df-4511-9b5e-4a39f3518c44,ERROR,Invalid distributor organisation-name=
 2,6c317e7d-e4df-4511-9b5e-4a39f3518c44,WARNING,No funder
 3,6c317e7d-e4df-4511-9b5e-4a39f3518c44,WARNING,Record isn't accesible via a general public repository
-0,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,ERROR,No projects associated
-1,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,No DOI defined
-2,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,No funder
-3,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,Record isn't accesible via a general public repository
+0,32b5c5d3-25d8-43b0-a02f-3503bca02aab,ERROR,No projects associated
+1,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,No DOI defined
+2,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,No funder
+3,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,Record isn't accesible via a general public repository
+0,d66edb9e-d725-46e5-b5ab-0447fb25224b,ERROR,No projects associated
+1,d66edb9e-d725-46e5-b5ab-0447fb25224b,WARNING,No funder
+2,d66edb9e-d725-46e5-b5ab-0447fb25224b,WARNING,Record isn't accesible via a general public repository
 0,63f1b001-7b75-4f30-934c-ff76e5e14b87,ERROR,No projects associated
 1,63f1b001-7b75-4f30-934c-ff76e5e14b87,WARNING,No funder
 2,63f1b001-7b75-4f30-934c-ff76e5e14b87,WARNING,Record isn't accesible via a general public repository
-0,04d6798b-9cda-4868-abb6-133395d50098,ERROR,No projects associated
-1,04d6798b-9cda-4868-abb6-133395d50098,WARNING,No DOI defined
-2,04d6798b-9cda-4868-abb6-133395d50098,WARNING,No funder
-3,04d6798b-9cda-4868-abb6-133395d50098,WARNING,Record isn't accesible via a general public repository
 0,a13e37a0-8ef8-4772-a267-7f79a044d176,ERROR,No projects associated
 1,a13e37a0-8ef8-4772-a267-7f79a044d176,ERROR,Invalid licence=CC-BY-NC-ND-4.0
 2,a13e37a0-8ef8-4772-a267-7f79a044d176,WARNING,No funder
 3,a13e37a0-8ef8-4772-a267-7f79a044d176,WARNING,Record isn't accesible via a general public repository
-0,d66edb9e-d725-46e5-b5ab-0447fb25224b,ERROR,No projects associated
-1,d66edb9e-d725-46e5-b5ab-0447fb25224b,WARNING,No funder
-2,d66edb9e-d725-46e5-b5ab-0447fb25224b,WARNING,Record isn't accesible via a general public repository
 0,fded0aa6-8bd1-470e-8264-31313ae3fdc4,ERROR,No projects associated
 1,fded0aa6-8bd1-470e-8264-31313ae3fdc4,WARNING,No DOI defined
 2,fded0aa6-8bd1-470e-8264-31313ae3fdc4,WARNING,No funder
 3,fded0aa6-8bd1-470e-8264-31313ae3fdc4,WARNING,Record isn't accesible via a general public repository
+0,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,ERROR,No projects associated
+1,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,No DOI defined
+2,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,No funder
+3,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,Record isn't accesible via a general public repository
+0,04d6798b-9cda-4868-abb6-133395d50098,ERROR,No projects associated
+1,04d6798b-9cda-4868-abb6-133395d50098,WARNING,No DOI defined
+2,04d6798b-9cda-4868-abb6-133395d50098,WARNING,No funder
+3,04d6798b-9cda-4868-abb6-133395d50098,WARNING,Record isn't accesible via a general public repository
 0,ebebc30a-57d5-41db-863b-0303d1d72790,ERROR,No projects associated
 1,ebebc30a-57d5-41db-863b-0303d1d72790,ERROR,Invalid licence=CC-BY-NC-4.0
 2,ebebc30a-57d5-41db-863b-0303d1d72790,WARNING,No DOI defined
 3,ebebc30a-57d5-41db-863b-0303d1d72790,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 4,ebebc30a-57d5-41db-863b-0303d1d72790,WARNING,No funder
 5,ebebc30a-57d5-41db-863b-0303d1d72790,WARNING,Record isn't accesible via a general public repository
+0,af780933-5d2b-437d-980f-29a9cb9f10da,ERROR,No projects associated
+1,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No DOI defined
+2,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No funder
+3,af780933-5d2b-437d-980f-29a9cb9f10da,ERROR,Invalid resources[0].url.status_code=503
+4,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,Record isn't accesible via a general public repository
 0,948cb2e5-9e45-4c21-aec4-6f71e0010f12,ERROR,No projects associated
 1,948cb2e5-9e45-4c21-aec4-6f71e0010f12,WARNING,No DOI defined
 2,948cb2e5-9e45-4c21-aec4-6f71e0010f12,WARNING,No funder
 3,948cb2e5-9e45-4c21-aec4-6f71e0010f12,WARNING,Record isn't accesible via a general public repository
+0,88d47cd1-4ea8-4272-91fd-29a90352c254,ERROR,No projects associated
+1,88d47cd1-4ea8-4272-91fd-29a90352c254,ERROR,Invalid licence=CC-BY-NC-4.0
+2,88d47cd1-4ea8-4272-91fd-29a90352c254,WARNING,No funder
+3,88d47cd1-4ea8-4272-91fd-29a90352c254,WARNING,Record isn't accesible via a general public repository
 0,6e5bf145-eb8e-47d5-8f58-50d38841b381,ERROR,No projects associated
 1,6e5bf145-eb8e-47d5-8f58-50d38841b381,WARNING,No DOI defined
 2,6e5bf145-eb8e-47d5-8f58-50d38841b381,WARNING,No funder
@@ -632,29 +634,25 @@
 1,5a27fac7-ba35-4ad7-95f9-fd4dc560d76d,WARNING,No DOI defined
 2,5a27fac7-ba35-4ad7-95f9-fd4dc560d76d,WARNING,No funder
 3,5a27fac7-ba35-4ad7-95f9-fd4dc560d76d,WARNING,Record isn't accesible via a general public repository
-0,5e987043-f439-4a37-b8f3-2d8016bd0fe9,ERROR,No projects associated
-1,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,No DOI defined
-2,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,No funder
-3,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,Record isn't accesible via a general public repository
+0,163e58d5-617f-4f10-867e-b52bf5e3ed51,ERROR,No projects associated
+1,163e58d5-617f-4f10-867e-b52bf5e3ed51,WARNING,No funder
+2,163e58d5-617f-4f10-867e-b52bf5e3ed51,WARNING,Record isn't accesible via a general public repository
 0,0c0a4a6e-ac9a-4763-92ed-33852a5efa6f,ERROR,No projects associated
 1,0c0a4a6e-ac9a-4763-92ed-33852a5efa6f,ERROR,Invalid HTTPS https://doi.org/10.21966/0yk3-9b74 status_code=404
 2,0c0a4a6e-ac9a-4763-92ed-33852a5efa6f,WARNING,No funder
 3,0c0a4a6e-ac9a-4763-92ed-33852a5efa6f,WARNING,Record isn't accesible via a general public repository
+0,5e987043-f439-4a37-b8f3-2d8016bd0fe9,ERROR,No projects associated
+1,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,No DOI defined
+2,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,No funder
+3,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,Record isn't accesible via a general public repository
 0,15d215bc-fd39-489e-8876-c707a031f820,ERROR,No projects associated
 1,15d215bc-fd39-489e-8876-c707a031f820,WARNING,No DOI defined
 2,15d215bc-fd39-489e-8876-c707a031f820,WARNING,No funder
 3,15d215bc-fd39-489e-8876-c707a031f820,WARNING,Record isn't accesible via a general public repository
-0,88d47cd1-4ea8-4272-91fd-29a90352c254,ERROR,No projects associated
-1,88d47cd1-4ea8-4272-91fd-29a90352c254,ERROR,Invalid licence=CC-BY-NC-4.0
-2,88d47cd1-4ea8-4272-91fd-29a90352c254,WARNING,No funder
-3,88d47cd1-4ea8-4272-91fd-29a90352c254,WARNING,Record isn't accesible via a general public repository
 0,352ef738-415d-46f7-a94f-13e06ee95d80,ERROR,No projects associated
 1,352ef738-415d-46f7-a94f-13e06ee95d80,ERROR,Invalid HTTPS https://doi.org/10.21966/ns9h-1126 status_code=404
 2,352ef738-415d-46f7-a94f-13e06ee95d80,WARNING,No funder
 3,352ef738-415d-46f7-a94f-13e06ee95d80,WARNING,Record isn't accesible via a general public repository
-0,163e58d5-617f-4f10-867e-b52bf5e3ed51,ERROR,No projects associated
-1,163e58d5-617f-4f10-867e-b52bf5e3ed51,WARNING,No funder
-2,163e58d5-617f-4f10-867e-b52bf5e3ed51,WARNING,Record isn't accesible via a general public repository
 0,a1059137-5bed-4ebd-838c-cafc590e9a0e,ERROR,No projects associated
 1,a1059137-5bed-4ebd-838c-cafc590e9a0e,WARNING,No DOI defined
 2,a1059137-5bed-4ebd-838c-cafc590e9a0e,WARNING,No funder
@@ -666,14 +664,20 @@
 1,11ab5b35-5242-4848-8c60-0847d8fea904,WARNING,No funder
 2,11ab5b35-5242-4848-8c60-0847d8fea904,ERROR,Invalid resources[1].url.status_code=401
 3,11ab5b35-5242-4848-8c60-0847d8fea904,WARNING,Record isn't accesible via a general public repository
-0,b5548ded-e62b-48e5-98f8-958399064628,ERROR,No projects associated
-1,b5548ded-e62b-48e5-98f8-958399064628,WARNING,No DOI defined
-2,b5548ded-e62b-48e5-98f8-958399064628,WARNING,No funder
-3,b5548ded-e62b-48e5-98f8-958399064628,WARNING,Record isn't accesible via a general public repository
 0,24251acf-598c-4457-b6dc-90eef0309879,ERROR,No projects associated
 1,24251acf-598c-4457-b6dc-90eef0309879,WARNING,No DOI defined
 2,24251acf-598c-4457-b6dc-90eef0309879,WARNING,No funder
 3,24251acf-598c-4457-b6dc-90eef0309879,WARNING,Record isn't accesible via a general public repository
+0,b5548ded-e62b-48e5-98f8-958399064628,ERROR,No projects associated
+1,b5548ded-e62b-48e5-98f8-958399064628,WARNING,No DOI defined
+2,b5548ded-e62b-48e5-98f8-958399064628,WARNING,No funder
+3,b5548ded-e62b-48e5-98f8-958399064628,WARNING,Record isn't accesible via a general public repository
+0,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,ERROR,No projects associated
+1,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,No funder
+2,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Record isn't accesible via a general public repository
+0,e1a581ca-2921-4302-9022-694c16bbe318,ERROR,No projects associated
+1,e1a581ca-2921-4302-9022-694c16bbe318,WARNING,No funder
+2,e1a581ca-2921-4302-9022-694c16bbe318,WARNING,Record isn't accesible via a general public repository
 0,3b04e30c-9a08-428b-8bd7-7ce93a8f8d39,ERROR,No projects associated
 1,3b04e30c-9a08-428b-8bd7-7ce93a8f8d39,ERROR,Invalid HTTPS https://doi.org/10.21966/30m7-qc49 status_code=404
 2,3b04e30c-9a08-428b-8bd7-7ce93a8f8d39,WARNING,No funder
@@ -682,64 +686,45 @@
 1,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,No DOI defined
 2,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,No funder
 3,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Record isn't accesible via a general public repository
-0,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,ERROR,No projects associated
-1,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,No funder
-2,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Record isn't accesible via a general public repository
 0,21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,No projects associated
 1,21498c59-96e0-4bd8-8152-b65e5df30849,WARNING,No DOI defined
 2,21498c59-96e0-4bd8-8152-b65e5df30849,WARNING,No funder
 3,21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,Invalid resources[1].url.status_code=404
 4,21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,Empty resource name
 5,21498c59-96e0-4bd8-8152-b65e5df30849,WARNING,Record isn't accesible via a general public repository
-0,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,No projects associated
-1,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid HTTPS https://doi.org/10.21966/q5vm-8797 status_code=404
-2,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,No funder
-3,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid resources[1].url.status_code=404
-4,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,Record isn't accesible via a general public repository
-0,e1a581ca-2921-4302-9022-694c16bbe318,ERROR,No projects associated
-1,e1a581ca-2921-4302-9022-694c16bbe318,WARNING,No funder
-2,e1a581ca-2921-4302-9022-694c16bbe318,WARNING,Record isn't accesible via a general public repository
 0,599f1f68-db1f-4dbc-9d87-a32aa108b048,ERROR,No projects associated
 1,599f1f68-db1f-4dbc-9d87-a32aa108b048,ERROR,Invalid HTTPS https://doi.org/10.21966/nrmz-a516 status_code=404
 2,599f1f68-db1f-4dbc-9d87-a32aa108b048,WARNING,No funder
 3,599f1f68-db1f-4dbc-9d87-a32aa108b048,WARNING,Record isn't accesible via a general public repository
-0,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,ERROR,No projects associated
-1,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,No DOI defined
-2,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,No funder
-3,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,Record isn't accesible via a general public repository
-0,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,No projects associated
-1,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid HTTPS https://doi.org/10.21966/dveq-bt48 status_code=404
-2,f7196355-3dec-4991-9ee9-451769c82cbe,WARNING,No funder
-3,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[1].url.status_code=404
-4,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[4].url.status_code=418
-5,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[5].url.status_code=418
-6,f7196355-3dec-4991-9ee9-451769c82cbe,WARNING,Record isn't accesible via a general public repository
-0,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,ERROR,No projects associated
-1,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,No DOI defined
-2,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,No funder
-3,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,Record isn't accesible via a general public repository
 0,4119835e-e185-4c76-bb59-6b026ea2879a,ERROR,No projects associated
 1,4119835e-e185-4c76-bb59-6b026ea2879a,WARNING,No funder
 2,4119835e-e185-4c76-bb59-6b026ea2879a,WARNING,Record isn't accesible via a general public repository
-0,7eeba571-1811-433d-9105-7dbd46773261,ERROR,No projects associated
-1,7eeba571-1811-433d-9105-7dbd46773261,WARNING,No DOI defined
-2,7eeba571-1811-433d-9105-7dbd46773261,ERROR,Invalid distributor organisation-name=Hakai Geospatial
-3,7eeba571-1811-433d-9105-7dbd46773261,WARNING,No funder
-4,7eeba571-1811-433d-9105-7dbd46773261,WARNING,Record isn't accesible via a general public repository
 0,b0a7c171-e740-4fd4-a33a-163e6ed5ded0,ERROR,No projects associated
 1,b0a7c171-e740-4fd4-a33a-163e6ed5ded0,WARNING,No funder
 2,b0a7c171-e740-4fd4-a33a-163e6ed5ded0,WARNING,Record isn't accesible via a general public repository
 0,462d060b-b659-437f-9ceb-8b3d801c6260,ERROR,No projects associated
 1,462d060b-b659-437f-9ceb-8b3d801c6260,WARNING,No funder
 2,462d060b-b659-437f-9ceb-8b3d801c6260,WARNING,Record isn't accesible via a general public repository
+0,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,ERROR,No projects associated
+1,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,No DOI defined
+2,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,No funder
+3,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,Record isn't accesible via a general public repository
+0,f4481f06-e94c-4344-8082-a28a175c665d,ERROR,No projects associated
+1,f4481f06-e94c-4344-8082-a28a175c665d,WARNING,No funder
+2,f4481f06-e94c-4344-8082-a28a175c665d,WARNING,Record isn't accesible via a general public repository
+0,7eeba571-1811-433d-9105-7dbd46773261,ERROR,No projects associated
+1,7eeba571-1811-433d-9105-7dbd46773261,WARNING,No DOI defined
+2,7eeba571-1811-433d-9105-7dbd46773261,ERROR,Invalid distributor organisation-name=Hakai Geospatial
+3,7eeba571-1811-433d-9105-7dbd46773261,WARNING,No funder
+4,7eeba571-1811-433d-9105-7dbd46773261,WARNING,Record isn't accesible via a general public repository
+0,e6b3fcce-fec8-4bc8-a4b4-269861620966,ERROR,No projects associated
+1,e6b3fcce-fec8-4bc8-a4b4-269861620966,WARNING,No funder
+2,e6b3fcce-fec8-4bc8-a4b4-269861620966,WARNING,Record isn't accesible via a general public repository
 0,997abb81-3b8a-45cb-9d75-b5c507865742,ERROR,No projects associated
 1,997abb81-3b8a-45cb-9d75-b5c507865742,WARNING,No DOI defined
 2,997abb81-3b8a-45cb-9d75-b5c507865742,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,997abb81-3b8a-45cb-9d75-b5c507865742,WARNING,No funder
 4,997abb81-3b8a-45cb-9d75-b5c507865742,WARNING,Record isn't accesible via a general public repository
-0,f4481f06-e94c-4344-8082-a28a175c665d,ERROR,No projects associated
-1,f4481f06-e94c-4344-8082-a28a175c665d,WARNING,No funder
-2,f4481f06-e94c-4344-8082-a28a175c665d,WARNING,Record isn't accesible via a general public repository
 0,0df9f2e1-d2e1-4bb1-8c8a-e847a8dd3204,ERROR,No projects associated
 1,0df9f2e1-d2e1-4bb1-8c8a-e847a8dd3204,WARNING,No DOI defined
 2,0df9f2e1-d2e1-4bb1-8c8a-e847a8dd3204,WARNING,No funder
@@ -748,34 +733,37 @@
 1,47c03f6e-0f8b-414d-a51f-6f9dfb7582dc,WARNING,No DOI defined
 2,47c03f6e-0f8b-414d-a51f-6f9dfb7582dc,WARNING,No funder
 3,47c03f6e-0f8b-414d-a51f-6f9dfb7582dc,WARNING,Record isn't accesible via a general public repository
-0,e6b3fcce-fec8-4bc8-a4b4-269861620966,ERROR,No projects associated
-1,e6b3fcce-fec8-4bc8-a4b4-269861620966,WARNING,No funder
-2,e6b3fcce-fec8-4bc8-a4b4-269861620966,WARNING,Record isn't accesible via a general public repository
 0,2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,ERROR,No projects associated
 1,2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,WARNING,No DOI defined
 2,2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,WARNING,No funder
 3,2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,WARNING,Record isn't accesible via a general public repository
+0,ae21afc2-2da3-4c92-8452-5d356c9beccd,ERROR,No projects associated
+1,ae21afc2-2da3-4c92-8452-5d356c9beccd,WARNING,No funder
+2,ae21afc2-2da3-4c92-8452-5d356c9beccd,WARNING,Record isn't accesible via a general public repository
 0,fddeed08-872a-44da-b2e1-89df5a54abf4,ERROR,No projects associated
 1,fddeed08-872a-44da-b2e1-89df5a54abf4,ERROR,Invalid licence=CC-BY-NC-4.0
 2,fddeed08-872a-44da-b2e1-89df5a54abf4,WARNING,No funder
 3,fddeed08-872a-44da-b2e1-89df5a54abf4,WARNING,Record isn't accesible via a general public repository
-0,ae21afc2-2da3-4c92-8452-5d356c9beccd,ERROR,No projects associated
-1,ae21afc2-2da3-4c92-8452-5d356c9beccd,WARNING,No funder
-2,ae21afc2-2da3-4c92-8452-5d356c9beccd,WARNING,Record isn't accesible via a general public repository
-0,fa17c17d-20ec-4834-9c90-15c931494af9,ERROR,No projects associated
-1,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,No DOI defined
-2,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,No funder
-3,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,Record isn't accesible via a general public repository
-0,a05c3d68-ee40-4c66-825e-f4d0b62e5993,ERROR,No projects associated
-1,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,No funder
-2,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,Record isn't accesible via a general public repository
 0,1813d4ac-307e-44c9-bad9-1bfd064714d8,ERROR,No projects associated
 1,1813d4ac-307e-44c9-bad9-1bfd064714d8,WARNING,No funder
 2,1813d4ac-307e-44c9-bad9-1bfd064714d8,ERROR,Invalid resources[1].url.status_code=404
 3,1813d4ac-307e-44c9-bad9-1bfd064714d8,WARNING,Record isn't accesible via a general public repository
+0,a05c3d68-ee40-4c66-825e-f4d0b62e5993,ERROR,No projects associated
+1,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,No funder
+2,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,Record isn't accesible via a general public repository
+0,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,No projects associated
+1,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid HTTPS https://doi.org/10.21966/q5vm-8797 status_code=404
+2,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,No funder
+3,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid resources[1].url.status_code=404
+4,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,Record isn't accesible via a general public repository
 0,8598da5b-ef61-4287-a601-72e666a3ea14,ERROR,No projects associated
 1,8598da5b-ef61-4287-a601-72e666a3ea14,WARNING,No funder
 2,8598da5b-ef61-4287-a601-72e666a3ea14,WARNING,Record isn't accesible via a general public repository
+0,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,ERROR,No projects associated
+1,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,No DOI defined
+2,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,No funder
+3,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,ERROR,Invalid resources[0].url.status_code=503
+4,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,WARNING,Record isn't accesible via a general public repository
 0,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,ERROR,No projects associated
 1,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,ERROR,Invalid distributor organisation-name=University of British Columbia
 2,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,WARNING,No funder
@@ -784,6 +772,17 @@
 1,5be87ce5-5533-4812-ba7e-b7f88db37899,ERROR,Invalid distributor organisation-name=Hakai Institute - McGill University
 2,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,No funder
 3,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,Record isn't accesible via a general public repository
+0,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,No projects associated
+1,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid HTTPS https://doi.org/10.21966/dveq-bt48 status_code=404
+2,f7196355-3dec-4991-9ee9-451769c82cbe,WARNING,No funder
+3,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[1].url.status_code=404
+4,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[4].url.status_code=418
+5,f7196355-3dec-4991-9ee9-451769c82cbe,ERROR,Invalid resources[5].url.status_code=418
+6,f7196355-3dec-4991-9ee9-451769c82cbe,WARNING,Record isn't accesible via a general public repository
+0,fa17c17d-20ec-4834-9c90-15c931494af9,ERROR,No projects associated
+1,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,No DOI defined
+2,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,No funder
+3,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,Record isn't accesible via a general public repository
 0,8cce8805-4065-46bb-a200-d891443c6218,ERROR,No projects associated
 1,8cce8805-4065-46bb-a200-d891443c6218,WARNING,No DOI defined
 2,8cce8805-4065-46bb-a200-d891443c6218,WARNING,No funder
@@ -791,38 +790,21 @@
 0,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,ERROR,No projects associated
 1,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,WARNING,No funder
 2,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,WARNING,Record isn't accesible via a general public repository
-0,f65af1aa-1dff-4b88-a570-9a9185c88791,ERROR,No projects associated
-1,f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,No DOI defined
-2,f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,No funder
-3,f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,Record isn't accesible via a general public repository
 0,4ac069e0-08c4-484b-b9e4-3f7856773f59,ERROR,No projects associated
 1,4ac069e0-08c4-484b-b9e4-3f7856773f59,WARNING,No DOI defined
 2,4ac069e0-08c4-484b-b9e4-3f7856773f59,ERROR,Invalid distributor organisation-name=Hakai Geospatial
 3,4ac069e0-08c4-484b-b9e4-3f7856773f59,WARNING,No funder
 4,4ac069e0-08c4-484b-b9e4-3f7856773f59,WARNING,Record isn't accesible via a general public repository
-0,14b416a4-1730-4e7c-a899-228ab5c05b56,ERROR,No projects associated
-1,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,No DOI defined
-2,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,No funder
-3,14b416a4-1730-4e7c-a899-228ab5c05b56,ERROR,Invalid resources[0].url.status_code=404
-4,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,Record isn't accesible via a general public repository
-0,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,ERROR,No projects associated
-1,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,No DOI defined
-2,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,No funder
-3,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,Record isn't accesible via a general public repository
-0,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,ERROR,No projects associated
-1,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,No DOI defined
-2,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,No funder
-3,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,Record isn't accesible via a general public repository
-0,736679b3-89d6-4168-84b7-38b81b563f14,ERROR,No projects associated
-1,736679b3-89d6-4168-84b7-38b81b563f14,WARNING,No DOI defined
-2,736679b3-89d6-4168-84b7-38b81b563f14,WARNING,No funder
-3,736679b3-89d6-4168-84b7-38b81b563f14,WARNING,Record isn't accesible via a general public repository
 0,65dfbd3a-7caf-4475-839a-c2e364c9a720,ERROR,No projects associated
 1,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,No funder
 2,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,Record isn't accesible via a general public repository
 0,d300a7f5-69a6-4747-9050-aa7e7cd947ef,ERROR,No projects associated
 1,d300a7f5-69a6-4747-9050-aa7e7cd947ef,WARNING,No funder
 2,d300a7f5-69a6-4747-9050-aa7e7cd947ef,WARNING,Record isn't accesible via a general public repository
+0,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,ERROR,No projects associated
+1,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,No DOI defined
+2,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,No funder
+3,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,Record isn't accesible via a general public repository
 0,14202e87-f7b0-482d-8722-e02df68f797c,ERROR,No projects associated
 1,14202e87-f7b0-482d-8722-e02df68f797c,WARNING,No funder
 2,14202e87-f7b0-482d-8722-e02df68f797c,WARNING,Record isn't accesible via a general public repository
@@ -832,3 +814,26 @@
 0,9b8d9495-d848-440c-a5b6-8eb74f29a15c,ERROR,No projects associated
 1,9b8d9495-d848-440c-a5b6-8eb74f29a15c,WARNING,No funder
 2,9b8d9495-d848-440c-a5b6-8eb74f29a15c,WARNING,Record isn't accesible via a general public repository
+0,14b416a4-1730-4e7c-a899-228ab5c05b56,ERROR,No projects associated
+1,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,No DOI defined
+2,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,No funder
+3,14b416a4-1730-4e7c-a899-228ab5c05b56,ERROR,Invalid resources[0].url.status_code=404
+4,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,Record isn't accesible via a general public repository
+0,f65af1aa-1dff-4b88-a570-9a9185c88791,ERROR,No projects associated
+1,f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,No DOI defined
+2,f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,No funder
+3,f65af1aa-1dff-4b88-a570-9a9185c88791,ERROR,Invalid resources[0].url.status_code=503
+4,f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,Record isn't accesible via a general public repository
+0,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,ERROR,No projects associated
+1,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,No DOI defined
+2,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,No funder
+3,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,ERROR,Invalid resources[0].url.status_code=503
+4,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,Record isn't accesible via a general public repository
+0,736679b3-89d6-4168-84b7-38b81b563f14,ERROR,No projects associated
+1,736679b3-89d6-4168-84b7-38b81b563f14,WARNING,No DOI defined
+2,736679b3-89d6-4168-84b7-38b81b563f14,WARNING,No funder
+3,736679b3-89d6-4168-84b7-38b81b563f14,ERROR,Invalid resources[0].url.status_code=503
+4,736679b3-89d6-4168-84b7-38b81b563f14,WARNING,Record isn't accesible via a general public repository
+0,4074b77e-2a60-4498-897b-d7297f7d1c84,ERROR,No projects associated
+1,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,No funder
+2,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,Record isn't accesible via a general public repository
