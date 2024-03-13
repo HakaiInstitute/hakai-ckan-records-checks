@@ -120,7 +120,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     _test(
         "Hakai" in organization_name and organization_name != "Hakai Institute",
         "ERROR",
-        f"Invalid distributor organisation-name: {organization_name} expects 'Hakai Institute'",
+        f"Invalid distributor organisation-name: {organization_name=} expects 'Hakai Institute'",
     )
 
     # Review funder
@@ -154,7 +154,7 @@ def test_record_requirements(record) -> pd.DataFrame:
                 and "orcid.org" in contact.get("individual-uri_code", "")
             ),
             "WARNING" if is_hakai_contact else "INFO",
-            f"Contact missing ORCID: {contact['individual-name']=}{contact.get('organisation-name')=}",
+            f"Contact missing ORCID: {contact['individual-name']=} {contact.get('organisation-name')=}",
         )
         _test(
             contact.get("organisation-name") in (None, "")
