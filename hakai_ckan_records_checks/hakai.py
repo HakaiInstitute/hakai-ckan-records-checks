@@ -141,6 +141,8 @@ def test_record_requirements(record) -> pd.DataFrame:
         )
 
     # Review publisher
+    publishers = [contact for contact in record.get("cited-responsible-party", []) if "publisher" in contact["role"]]
+    _test(len(publishers) > 0, "WARNING", "No publisher")
 
     # Review contacts
     for contact in record["cited-responsible-party"]:
