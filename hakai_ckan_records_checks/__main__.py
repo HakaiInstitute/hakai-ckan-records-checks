@@ -2,6 +2,7 @@ import pickle
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+import os
 
 import click
 import pandas as pd
@@ -192,6 +193,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         issues_table=combined_issues,
         time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
+        generated_by=os.getenv("REPO_URL", 'localhost')
     ).dump(f"{output}/index.html")
 
     # create record specific pages
@@ -202,6 +204,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             record=catalog_summary_for_html.loc[record_id],
             issues=issues,
             time=pd.Timestamp.utcnow(),
+            generated_by=os.getenv("REPO_URL", 'localhost')
         ).dump(f"{output}/issues/{record_id}.html")
 
     logger.info("Save excel and csv outputs")
