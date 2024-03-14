@@ -14,6 +14,8 @@ from tqdm import tqdm
 from hakai_ckan_records_checks import hakai
 from hakai_ckan_records_checks.ckan import CKAN
 
+REPO_URL = os.getenv("REPO_URL","https://github.com/HakaiInstitute/hakai-ckan-records-checks")
+
 environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templates"))
 CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
@@ -148,7 +150,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     standardized_issues["level"] = standardized_issues["level"].astype(level_type)
     grouped_issues = standardized_issues.groupby(["level", "message"]).count()["record_id"].sort_index().reset_index()
 
-    pie_chart = px.histogram(
+    figure = px.histogram(
         grouped_issues,
         x="message",
         y="record_id",
@@ -157,7 +159,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         color_discrete_map={"INFO": "lightblue", "WARNING": "orange", "ERROR": "red"},
     )
 
-    pie_chart.update_layout(
+    figure.update_layout(
         autosize=False,
         width=1000,
         legend=dict(
@@ -178,9 +180,9 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             title=None
         ),
     )
-    pie_chart.update_traces(textposition="inside")
-    pie_chart.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
-    pie_chart_html = pie_chart.to_html(full_html=False)
+    figure.update_traces(textposition="inside")
+    figure.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
+    pie_chart_html = figure.to_html(full_html=False)
 
     # save results
     catalog_summary_for_html = format_summary(results["catalog_summary"])
@@ -193,7 +195,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         issues_table=combined_issues,
         time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
-        generated_by=os.getenv("REPO_URL", 'localhost')
+        generated_by=REPO_URL
     ).dump(f"{output}/index.html")
 
     # create record specific pages
@@ -204,7 +206,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             record=catalog_summary_for_html.loc[record_id],
             issues=issues,
             time=pd.Timestamp.utcnow(),
-            generated_by=os.getenv("REPO_URL", 'localhost')
+            generated_by=REPO_URL
         ).dump(f"{output}/issues/{record_id}.html")
 
     logger.info("Save excel and csv outputs")

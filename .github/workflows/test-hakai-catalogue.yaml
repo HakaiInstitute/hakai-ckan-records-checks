@@ -11,8 +11,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      REPO_URL: ${{GITHUB_SERVER_URL}}${{ GITHUB_REPOSITORY }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
