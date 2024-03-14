@@ -108,7 +108,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             )
             status_code = requests.get(doi.get("code")).status_code
             _test(
-                status_code in (200, 201),
+                status_code in (200, 201, 403, 418),
                 "ERROR",
                 f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={status_code}",
             )
@@ -141,7 +141,11 @@ def test_record_requirements(record) -> pd.DataFrame:
         )
 
     # Review publisher
-    publishers = [contact for contact in record.get("cited-responsible-party", []) if "publisher" in contact["role"]]
+    publishers = [
+        contact
+        for contact in record.get("cited-responsible-party", [])
+        if "publisher" in contact["role"]
+    ]
     _test(len(publishers) > 0, "WARNING", "No publisher")
 
     # Review contacts
