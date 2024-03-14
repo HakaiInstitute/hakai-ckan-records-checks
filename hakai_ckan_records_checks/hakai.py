@@ -36,7 +36,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         "ERROR",
         f"Unknown organization title: {record['organization']['title']}",
     )
-    _test(record["organization"].get("projects"), "ERROR", "No projects associated")
+    _test(record.get("projects"), "ERROR", "No projects associated")
     _test(
         [
             uri
