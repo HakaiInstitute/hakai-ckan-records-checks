@@ -1,8 +1,8 @@
+import os
 import pickle
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-import os
 
 import click
 import pandas as pd
@@ -14,13 +14,16 @@ from tqdm import tqdm
 from hakai_ckan_records_checks import hakai
 from hakai_ckan_records_checks.ckan import CKAN
 
-REPO_URL = os.getenv("REPO_URL","https://github.com/HakaiInstitute/hakai-ckan-records-checks")
+REPO_URL = os.getenv(
+    "REPO_URL", "https://github.com/HakaiInstitute/hakai-ckan-records-checks"
+)
 
 environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templates"))
 CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
 IGNORE_RECORD_IDS = "hakai-metadata-form-data"
 level_type = pd.CategoricalDtype(categories=["INFO", "WARNING", "ERROR"], ordered=True)
+
 
 def format_summary(summary):
     def link_issue_page(record_row, var):
@@ -98,7 +101,6 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
     }
 
 
-
 @click.command()
 @click.option("-c", "--ckan_url", help="The base URL of the CKAN instance")
 @click.option("--record_ids", default=None, type=str, help="The records to check")
@@ -146,9 +148,16 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         .drop(columns=["id"])
     )
     standardized_issues = combined_issues.copy()
-    standardized_issues["message"] = standardized_issues["message"].apply(lambda x: x.split(":")[0] if x else x)
+    standardized_issues["message"] = standardized_issues["message"].apply(
+        lambda x: x.split(":")[0] if x else x
+    )
     standardized_issues["level"] = standardized_issues["level"].astype(level_type)
-    grouped_issues = standardized_issues.groupby(["level", "message"]).count()["record_id"].sort_index().reset_index()
+    grouped_issues = (
+        standardized_issues.groupby(["level", "message"])
+        .count()["record_id"]
+        .sort_index()
+        .reset_index()
+    )
 
     figure = px.histogram(
         grouped_issues,
@@ -171,13 +180,13 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             font=dict(size=10),
             itemwidth=30,
         ),
-        plot_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor="rgba(0,0,0,0)",
         xaxis=dict(
             tickfont=dict(
                 size=10,
             ),
             linecolor="black",
-            title=None
+            title=None,
         ),
     )
     figure.update_traces(textposition="inside")
@@ -195,7 +204,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         issues_table=combined_issues,
         time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
-        generated_by=REPO_URL
+        generated_by=REPO_URL,
     ).dump(f"{output}/index.html")
 
     # create record specific pages
@@ -206,7 +215,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             record=catalog_summary_for_html.loc[record_id],
             issues=issues,
             time=pd.Timestamp.utcnow(),
-            generated_by=REPO_URL
+            generated_by=REPO_URL,
         ).dump(f"{output}/issues/{record_id}.html")
 
     logger.info("Save excel and csv outputs")
