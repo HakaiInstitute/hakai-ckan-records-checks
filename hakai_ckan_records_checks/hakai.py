@@ -1,4 +1,5 @@
 import re
+import json
 
 import pandas as pd
 import requests
@@ -76,6 +77,17 @@ def test_record_requirements(record) -> pd.DataFrame:
         "ERROR",
         f"Invalid licence: {record.get('license_id') }",
     )
+    
+    citation = json.loads(record['citation']['en'].replace('\\"','"'))
+    # Review version
+    version = citation[0].get('version')
+    _test(version, "INFO", "No version")
+    if record.get("version"):
+        _test(
+            re.match(r"v?\d+(\.\d+)*", record.get("version")),
+            "ERROR",
+            f"Invalid version: {record.get('version')}",
+        )
 
     # Review identifier
     dois = [
