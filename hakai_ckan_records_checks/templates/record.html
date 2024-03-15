@@ -21,6 +21,20 @@ body {
   align-items: center;
   margin: auto;
 }
+#back-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 20px;
+  padding: 10px 20px;
+  border: 1px solid lightblue;
+  border-radius: 10px;
+  color: lightblue;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
 h1 {
   margin: 30px;
   background-color: lightsalmon;
@@ -70,6 +84,7 @@ th {
 }
 </style>
 <body>
+    <a href=".." id="back-button">Back to Summary</a>
     <h1>Issue Report</h1>
     <h2> {{ record['organization'] }}<br><hr>{{ record['title'] }}</h2>
     <h3>Information</h3>
@@ -77,7 +92,7 @@ th {
       <div id='map'></div>
       <div id='info-summary'>
         <p>
-        {% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','title','spatial') %}
+        {% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','INFO','sum','title','spatial') %}
             <strong>{{ key.replace(('-'),' ').replace('_',' ').title() }}</strong>: {{value}}<br>
         {% endfor %}
         </p>
