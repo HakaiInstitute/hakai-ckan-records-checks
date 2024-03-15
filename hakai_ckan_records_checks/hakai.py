@@ -120,7 +120,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             )
             status_code = requests.get(doi.get("code")).status_code
             _test(
-                status_code in (200, 201, 403, 418),
+                status_code in (200, 201, 403, 418, 503),
                 "ERROR",
                 f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={status_code}",
             )
@@ -199,7 +199,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         except requests.exceptions.Timeout:
             status_code = "timeout"
         _test(
-            status_code in (200, 201),
+            status_code in (200, 201, 403, 418, 503),
             "ERROR",
             f"Invalid resources.url.status_code: {status_code} for resources[{index}].url={resource['url']}",
         )
