@@ -86,24 +86,24 @@ th {
 <body>
     <a href=".." id="back-button">Back to Summary</a>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_b8483c9e-81e6-4e1a-b09f-2d66f8fee9a2' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
       <div id='info-summary'>
         <p>
         
-            <strong>Name</strong>: ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95<br>
+            <strong>Name</strong>: ca-cioos_b8483c9e-81e6-4e1a-b09f-2d66f8fee9a2<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
         
             <strong>Ressource Type</strong>: dataset<br>
         
-            <strong>Licence</strong>: CC-BY-NC-4.0<br>
+            <strong>Licence</strong>: CC-BY-4.0<br>
         
             <strong>Private</strong>: False<br>
         
-            <strong>Projects</strong>: Geospatial, Nearshore<br>
+            <strong>Projects</strong>: Airborne Coastal Observatory, Nearshore, Geospatial<br>
         
             <strong>Progress</strong>: completed<br>
         
@@ -113,15 +113,15 @@ th {
         
             <strong>Distributor</strong>: Hakai Institute<br>
         
-            <strong>Resources Count</strong>: 2<br>
+            <strong>Resources Count</strong>: 1<br>
         
             <strong>Vertical Extent</strong>: [{'max': '0.0', 'min': '0.0'}]<br>
         
             <strong>Eov</strong>: macroalgalCanopyCoverAndComposition<br>
         
-            <strong>Metadata Created</strong>: 2023-11-09T06:16:28.185103<br>
+            <strong>Metadata Created</strong>: 2024-03-15T17:00:31.426259<br>
         
-            <strong>Metadata Modified</strong>: 2024-03-15T20:00:32.226378<br>
+            <strong>Metadata Modified</strong>: 2024-03-15T17:00:31.426266<br>
         
         </p>
       </div>
@@ -141,11 +141,15 @@ th {
     </tr>
     <tr>
       <td>ERROR</td>
-      <td>Invalid licence: CC-BY-NC-4.0</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/fmw1-8w35 status_code=404</td>
     </tr>
     <tr>
       <td>WARNING</td>
       <td>No funder</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>No publisher</td>
     </tr>
     <tr>
       <td>WARNING</td>
@@ -171,9 +175,9 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a>"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_b8483c9e-81e6-4e1a-b09f-2d66f8fee9a2' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a>"
         },
-        "geometry": {'type': 'Polygon', 'coordinates': [[[-171.2, 55.45], [-151.0, 62.33], [-132.6, 61.34], [-133.0, 61.22], [-120.5, 47.26], [-106.4, 23.65], [-112.0, 21.38], [-138.4, 51.91], [-166.3, 50.7], [-182.6, 51.91], [-182.6, 51.91], [-171.2, 55.45]]]}
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-125.3, 50.02], [-125.1, 50.05], [-125.1, 49.9], [-124.8, 49.71], [-124.7, 49.56], [-124.8, 49.55], [-124.9, 49.64], [-125.2, 49.9], [-125.2, 49.9], [-125.3, 50.02]]]}
     }
     L.geoJSON(geojsonFeature).addTo(map);
 </script>
