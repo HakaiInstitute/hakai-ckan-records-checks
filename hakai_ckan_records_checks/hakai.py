@@ -18,6 +18,7 @@ def test(condition, level, message):
         logger.log(level, message)
 
 
+
 @logger.catch(default=pd.DataFrame())
 def test_record_requirements(record) -> pd.DataFrame:
     """Run a series of tests on a record to ensure it meets Hakai's metadata requirements"""
@@ -26,6 +27,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         if not condition:
             logger.log(level, message)
             results.append([level, message])
+
 
     results = []
     logger.debug("Review Record {}", record["id"])
@@ -88,7 +90,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             "ERROR",
             f"Invalid version: {record.get('version')}",
         )
-
+    
     # Review identifier
     dois = [
         item
@@ -135,10 +137,13 @@ def test_record_requirements(record) -> pd.DataFrame:
         f"Invalid distributor organisation-name: {organization_name=} expects 'Hakai Institute'",
     )
 
+    # Contacts related checks
+    contacts = record.get("cited-responsible-party", []) + record.get("metadata-point-of-contact", [])
+    
     # Review funder
     funders = [
         item
-        for item in record.get("cited-responsible-party", [])
+        for item in contacts
         if "funder" in item["role"]
     ]
     _test(len(funders) > 0, "WARNING", "No funder")
@@ -155,13 +160,13 @@ def test_record_requirements(record) -> pd.DataFrame:
     # Review publisher
     publishers = [
         contact
-        for contact in record.get("cited-responsible-party", [])
+        for contact in contacts
         if "publisher" in contact["role"]
     ]
     _test(len(publishers) > 0, "WARNING", "No publisher")
 
     # Review contacts
-    for contact in record["cited-responsible-party"]:
+    for contact in contacts:
         is_hakai_contact = "@hakai.org" in contact.get(
             "organisation-info_email", ""
         ) or "Hakai Institute" in contact.get("organisation-name", "")
