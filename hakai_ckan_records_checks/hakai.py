@@ -1,5 +1,5 @@
-import re
 import json
+import re
 
 import pandas as pd
 import requests
@@ -18,7 +18,6 @@ def test(condition, level, message):
         logger.log(level, message)
 
 
-
 @logger.catch(default=pd.DataFrame())
 def test_record_requirements(record) -> pd.DataFrame:
     """Run a series of tests on a record to ensure it meets Hakai's metadata requirements"""
@@ -27,7 +26,6 @@ def test_record_requirements(record) -> pd.DataFrame:
         if not condition:
             logger.log(level, message)
             results.append([level, message])
-
 
     results = []
     logger.debug("Review Record {}", record["id"])
@@ -79,10 +77,10 @@ def test_record_requirements(record) -> pd.DataFrame:
         "ERROR",
         f"Invalid licence: {record.get('license_id') }",
     )
-    
-    citation = json.loads(record['citation']['en'].replace('\\"','"'))
+
+    citation = json.loads(record["citation"]["en"].replace('\\"', '"'))
     # Review version
-    version = citation[0].get('version')
+    version = citation[0].get("version")
     _test(version, "INFO", "No version")
     if record.get("version"):
         _test(
@@ -90,7 +88,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             "ERROR",
             f"Invalid version: {record.get('version')}",
         )
-    
+
     # Review identifier
     dois = [
         item
@@ -138,14 +136,12 @@ def test_record_requirements(record) -> pd.DataFrame:
     )
 
     # Contacts related checks
-    contacts = record.get("cited-responsible-party", []) + record.get("metadata-point-of-contact", [])
+    contacts = record.get("cited-responsible-party", []) + record.get(
+        "metadata-point-of-contact", []
+    )
 
     # Review funder
-    funders = [
-        item
-        for item in contacts
-        if "funder" in item["role"]
-    ]
+    funders = [item for item in contacts if "funder" in item["role"]]
     _test(len(funders) > 0, "WARNING", "No funder")
     if funders:
         _test(
@@ -158,11 +154,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         )
 
     # Review publisher
-    publishers = [
-        contact
-        for contact in contacts
-        if "publisher" in contact["role"]
-    ]
+    publishers = [contact for contact in contacts if "publisher" in contact["role"]]
     _test(len(publishers) > 0, "WARNING", "No publisher")
 
     # Review contacts
