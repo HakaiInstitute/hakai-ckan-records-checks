@@ -139,7 +139,7 @@ def test_record_requirements(record) -> pd.DataFrame:
 
     # Contacts related checks
     contacts = record.get("cited-responsible-party", []) + record.get("metadata-point-of-contact", [])
-    
+
     # Review funder
     funders = [
         item
@@ -213,12 +213,12 @@ def test_record_requirements(record) -> pd.DataFrame:
     _test(
         any(
             [
-                re.match("obis|erddap|argis", resource["url"], re.IGNORECASE)
+                re.findall("obis|erddap|arcgis|ncei", resource["url"], re.IGNORECASE)
                 for resource in record.get("resources", [])
             ]
         ),
-        "WARNING",
-        "Record isn't accesible via a general public repository",
+        "INFO",
+        "Record isn't accesible via a standard data repository",
     )
 
     # test spatial
