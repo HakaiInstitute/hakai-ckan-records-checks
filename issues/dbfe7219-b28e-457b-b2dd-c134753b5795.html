@@ -86,14 +86,14 @@ th {
 <body>
     <a href=".." id="back-button">Back to Summary</a>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287' target='_blank'>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</a></h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
       <div id='info-summary'>
         <p>
         
-            <strong>Name</strong>: ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287<br>
+            <strong>Name</strong>: ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
         
@@ -103,9 +103,9 @@ th {
         
             <strong>Private</strong>: False<br>
         
-            <strong>Projects</strong>: Nearshore, Airborne Coastal Observatory<br>
+            <strong>Projects</strong>: <br>
         
-            <strong>Progress</strong>: completed<br>
+            <strong>Progress</strong>: onGoing<br>
         
             <strong>State</strong>: active<br>
         
@@ -115,13 +115,13 @@ th {
         
             <strong>Resources Count</strong>: 2<br>
         
-            <strong>Vertical Extent</strong>: [{'max': '0.0', 'min': '0.0'}]<br>
+            <strong>Vertical Extent</strong>: [{'max': '650.0', 'min': '0.0'}]<br>
         
-            <strong>Eov</strong>: other, macroalgalCanopyCoverAndComposition<br>
+            <strong>Eov</strong>: particulateMatter<br>
         
-            <strong>Metadata Created</strong>: 2023-11-09T06:13:18.814402<br>
+            <strong>Metadata Created</strong>: 2024-03-18T20:00:17.526986<br>
         
-            <strong>Metadata Modified</strong>: 2024-03-14T19:30:54.426502<br>
+            <strong>Metadata Modified</strong>: 2024-03-18T20:00:17.526992<br>
         
         </p>
       </div>
@@ -136,24 +136,24 @@ th {
   </thead>
   <tbody>
     <tr>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
     </tr>
     <tr>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>INFO</td>
-      <td>No version</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/90h6-b497 status_code=404</td>
     </tr>
     <tr>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Fedje, Bryn' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.html</td>
     </tr>
   </tbody>
 </table>
@@ -175,9 +175,9 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287' target='_blank'>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</a>"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a>"
         },
-        "geometry": {'type': 'Polygon', 'coordinates': [[[-132.3, 49.87], [-124.8, 49.87], [-124.8, 52.98], [-132.3, 52.98], [-132.3, 49.87]]]}
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.5, 52.27], [-127.4, 52.21], [-127.2, 51.66], [-125.6, 51.13], [-124.8, 50.96], [-124.1, 50.43], [-124.7, 49.98], [-124.9, 49.8], [-126.7, 50.45], [-128.1, 51.37], [-128.4, 51.69], [-128.5, 52.27]]]}
     }
     L.geoJSON(geojsonFeature).addTo(map);
 </script>
