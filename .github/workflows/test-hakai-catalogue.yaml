@@ -25,12 +25,10 @@ jobs:
 
       - name: Run Hakai CKAN Record Checks
         run: python hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload Page artifacts
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
-          
+          path: ./output
   deploy:
     needs: build
     permissions:
