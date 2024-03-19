@@ -25,13 +25,21 @@ jobs:
 
       - name: Run Hakai CKAN Record Checks
         run: python hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
-      
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
       - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: output/
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write     
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
