@@ -86,14 +86,14 @@ th {
 <body>
     <a href=".." id="back-button">Back to Summary</a>
     <h1>Issue Report</h1>
-    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7c3a2f1-29b5-4d4d-a1a7-03ec507fe1a2' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</a></h2>
+    <h2> Hakai Institute<br><hr><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</a></h2>
     <h3>Information</h3>
     <div id="summary">
       <div id='map'></div>
       <div id='info-summary'>
         <p>
         
-            <strong>Name</strong>: ca-cioos_f7c3a2f1-29b5-4d4d-a1a7-03ec507fe1a2<br>
+            <strong>Name</strong>: ca-cioos_ba41d935-f293-447f-be3d-7098e569b431<br>
         
             <strong>Organization</strong>: Hakai Institute<br>
         
@@ -103,7 +103,7 @@ th {
         
             <strong>Private</strong>: False<br>
         
-            <strong>Projects</strong>: <br>
+            <strong>Projects</strong>: Oceanography, Nearshore, Watersheds<br>
         
             <strong>Progress</strong>: onGoing<br>
         
@@ -113,15 +113,15 @@ th {
         
             <strong>Distributor</strong>: Hakai Institute<br>
         
-            <strong>Resources Count</strong>: 1<br>
+            <strong>Resources Count</strong>: 2<br>
         
-            <strong>Vertical Extent</strong>: [{'max': '4.0', 'min': '4.0'}]<br>
+            <strong>Vertical Extent</strong>: [{'max': '700.0', 'min': '1.0'}]<br>
         
-            <strong>Eov</strong>: seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity<br>
+            <strong>Eov</strong>: oxygen, subSurfaceSalinity, subSurfaceTemperature<br>
         
-            <strong>Metadata Created</strong>: 2023-11-09T06:15:29.500123<br>
+            <strong>Metadata Created</strong>: 2024-03-19T16:00:16.335903<br>
         
-            <strong>Metadata Modified</strong>: 2023-11-09T06:15:29.500131<br>
+            <strong>Metadata Modified</strong>: 2024-03-19T16:00:16.335909<br>
         
         </p>
       </div>
@@ -136,60 +136,20 @@ th {
   </thead>
   <tbody>
     <tr>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='UAF Ocean Acidification Research Center'</td>
-    </tr>
-    <tr>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='OceansAlaska'</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
       <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/ HakaiKetchikanBoL5min.html</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/kace-2d24 status_code=404</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
   </tbody>
 </table>
@@ -211,9 +171,9 @@ th {
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_f7c3a2f1-29b5-4d4d-a1a7-03ec507fe1a2' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</a>"
+            "name" : "<a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</a>"
         },
-        "geometry": {'type': 'Point', 'coordinates': [-131.5954, 55.315]}
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.5, 52.27], [-127.4, 52.21], [-127.2, 51.66], [-125.6, 51.13], [-124.8, 50.96], [-124.1, 50.43], [-124.7, 49.98], [-124.9, 49.8], [-126.7, 50.45], [-128.1, 51.37], [-128.4, 51.69], [-128.5, 52.27]]]}
     }
     L.geoJSON(geojsonFeature).addTo(map);
 </script>

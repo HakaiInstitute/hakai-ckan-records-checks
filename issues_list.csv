@@ -6,23 +6,14 @@
 4,203f5c98-e8be-4c41-b523-dddea723ccbf,WARNING,No funder
 5,203f5c98-e8be-4c41-b523-dddea723ccbf,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
 6,203f5c98-e8be-4c41-b523-dddea723ccbf,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
-0,3e6e662a-f48c-47fc-8dcd-478a787f5131,ERROR,No projects associated
-1,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,Title is greater than 60 characters
-2,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,No version
-3,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No DOI defined
-4,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No funder
-5,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No publisher
-6,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-7,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-8,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'
-9,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'
-10,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-11,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,Contact missing ORCID: contact['individual-name']='TRIM BC Base Annotations data' contact.get('organisation-name')='GEOBC TRIM Program'
-12,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,Contact missing organization ROR:  contact['individual-name']='TRIM BC Base Annotations data' contact['organisation-name']='GEOBC TRIM Program'
-13,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-14,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-15,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'
-16,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'
+0,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,Title contains acronyms potentially
+1,bb8eb8d3-37d0-451f-ae77-fdcca9844223,INFO,Title is greater than 60 characters
+2,bb8eb8d3-37d0-451f-ae77-fdcca9844223,INFO,No version
+3,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,No DOI defined
+4,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon W.' contact.get('organisation-name')='Hakai Institute'"
+5,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,"Contact missing organization ROR:  contact['individual-name']='Frazer, Gordon W.' contact['organisation-name']='Hakai Institute'"
+6,bb8eb8d3-37d0-451f-ae77-fdcca9844223,INFO,"Contact missing ORCID: contact['individual-name']='Floyd, Bill' contact.get('organisation-name')=''"
+7,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 0,92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,No projects associated
 1,92b7a1eb-87a7-4a55-9093-6e5b354041fa,INFO,Title is greater than 60 characters
 2,92b7a1eb-87a7-4a55-9093-6e5b354041fa,INFO,No version
@@ -40,6 +31,42 @@
 14,92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,Empty resource name
 15,92b7a1eb-87a7-4a55-9093-6e5b354041fa,ERROR,Empty resource name
 16,92b7a1eb-87a7-4a55-9093-6e5b354041fa,INFO,Record isn't accesible via a standard data repository
+0,996ee978-d02e-499f-b7f0-79ffaedea219,INFO,Title is greater than 60 characters
+1,996ee978-d02e-499f-b7f0-79ffaedea219,INFO,No version
+2,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No DOI defined
+3,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,"Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'"
+4,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,"Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'"
+5,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,"Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'"
+0,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,ERROR,No projects associated
+1,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,INFO,Title is greater than 60 characters
+2,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,INFO,No version
+3,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No DOI defined
+4,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No funder
+5,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+6,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+7,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
+8,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
+9,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+10,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+11,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
+12,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
+0,3e6e662a-f48c-47fc-8dcd-478a787f5131,ERROR,No projects associated
+1,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,Title is greater than 60 characters
+2,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,No version
+3,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No DOI defined
+4,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No funder
+5,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,No publisher
+6,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+7,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+8,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'
+9,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'
+10,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+11,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,Contact missing ORCID: contact['individual-name']='TRIM BC Base Annotations data' contact.get('organisation-name')='GEOBC TRIM Program'
+12,3e6e662a-f48c-47fc-8dcd-478a787f5131,INFO,Contact missing organization ROR:  contact['individual-name']='TRIM BC Base Annotations data' contact['organisation-name']='GEOBC TRIM Program'
+13,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+14,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+15,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'
+16,3e6e662a-f48c-47fc-8dcd-478a787f5131,WARNING,Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'
 0,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,ERROR,No projects associated
 1,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,INFO,Title is greater than 60 characters
 2,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,INFO,No version
@@ -61,39 +88,6 @@
 18,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 19,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Institute' contact.get('organisation-name')='Hakai Institute'
 20,37823b0a-c8c0-48f8-8ded-4eafa8f3e4d6,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Institute' contact['organisation-name']='Hakai Institute'
-0,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,Title contains acronyms potentially
-1,bb8eb8d3-37d0-451f-ae77-fdcca9844223,INFO,Title is greater than 60 characters
-2,bb8eb8d3-37d0-451f-ae77-fdcca9844223,INFO,No version
-3,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,No DOI defined
-4,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon W.' contact.get('organisation-name')='Hakai Institute'"
-5,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,"Contact missing organization ROR:  contact['individual-name']='Frazer, Gordon W.' contact['organisation-name']='Hakai Institute'"
-6,bb8eb8d3-37d0-451f-ae77-fdcca9844223,INFO,"Contact missing ORCID: contact['individual-name']='Floyd, Bill' contact.get('organisation-name')=''"
-7,bb8eb8d3-37d0-451f-ae77-fdcca9844223,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-0,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,ERROR,No projects associated
-1,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,INFO,Title is greater than 60 characters
-2,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,INFO,No version
-3,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No DOI defined
-4,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,No funder
-5,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-6,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-7,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
-8,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
-9,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-10,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-11,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
-12,8fcbc2f9-06bb-4510-8bc1-4ba0488d4ac5,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
-0,996ee978-d02e-499f-b7f0-79ffaedea219,INFO,Title is greater than 60 characters
-1,996ee978-d02e-499f-b7f0-79ffaedea219,INFO,No version
-2,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,No DOI defined
-3,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,"Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'"
-4,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,"Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'"
-5,996ee978-d02e-499f-b7f0-79ffaedea219,WARNING,"Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'"
-0,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,Title is greater than 60 characters
-1,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,No version
-2,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,WARNING,"Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'"
-3,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,"Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')=''"
-4,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,WARNING,"Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'"
-5,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,Record isn't accesible via a standard data repository
 0,1661f318-6d3c-47b2-9b3a-51f139684f21,ERROR,No projects associated
 1,1661f318-6d3c-47b2-9b3a-51f139684f21,INFO,Title is greater than 60 characters
 2,1661f318-6d3c-47b2-9b3a-51f139684f21,INFO,No version
@@ -113,33 +107,6 @@
 16,1661f318-6d3c-47b2-9b3a-51f139684f21,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 17,1661f318-6d3c-47b2-9b3a-51f139684f21,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 18,1661f318-6d3c-47b2-9b3a-51f139684f21,INFO,Record isn't accesible via a standard data repository
-0,d875b549-2a4c-4f4a-b389-69c97a26f506,ERROR,No projects associated
-1,d875b549-2a4c-4f4a-b389-69c97a26f506,INFO,No version
-2,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,No funder
-3,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,No publisher
-4,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'
-5,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'
-6,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-7,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-8,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-9,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'
-10,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'
-11,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-12,d875b549-2a4c-4f4a-b389-69c97a26f506,INFO,Record isn't accesible via a standard data repository
-0,2687a51e-c27e-42b7-89be-35d7d64773bf,ERROR,No projects associated
-1,2687a51e-c27e-42b7-89be-35d7d64773bf,INFO,No version
-2,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No DOI defined
-3,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No funder
-4,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No publisher
-5,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'
-6,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
-7,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-8,2687a51e-c27e-42b7-89be-35d7d64773bf,INFO,Contact missing ORCID: contact['individual-name']='Dr. Mike Foreman' contact.get('organisation-name')='The British Columbia Marine Conservation Analysis'
-9,2687a51e-c27e-42b7-89be-35d7d64773bf,INFO,Contact missing organization ROR:  contact['individual-name']='Dr. Mike Foreman' contact['organisation-name']='The British Columbia Marine Conservation Analysis'
-10,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-11,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-12,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'
-13,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
 0,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,INFO,Title is greater than 60 characters
 1,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,INFO,No version
 2,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,WARNING,No DOI defined
@@ -160,12 +127,41 @@
 17,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,WARNING,"Contact missing ORCID: contact['individual-name']='Olsen, Angeleen' contact.get('organisation-name')='Hakai Institute'"
 18,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,INFO,"Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')=''"
 19,b85b7cc4-78ab-4ca2-818f-9976e15a7ee7,INFO,Record isn't accesible via a standard data repository
+0,2687a51e-c27e-42b7-89be-35d7d64773bf,ERROR,No projects associated
+1,2687a51e-c27e-42b7-89be-35d7d64773bf,INFO,No version
+2,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No DOI defined
+3,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No funder
+4,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,No publisher
+5,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'
+6,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
+7,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+8,2687a51e-c27e-42b7-89be-35d7d64773bf,INFO,Contact missing ORCID: contact['individual-name']='Dr. Mike Foreman' contact.get('organisation-name')='The British Columbia Marine Conservation Analysis'
+9,2687a51e-c27e-42b7-89be-35d7d64773bf,INFO,Contact missing organization ROR:  contact['individual-name']='Dr. Mike Foreman' contact['organisation-name']='The British Columbia Marine Conservation Analysis'
+10,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+11,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+12,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'
+13,2687a51e-c27e-42b7-89be-35d7d64773bf,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
 0,f2158f39-9a74-4f33-bd11-f2370d543a24,INFO,Title is greater than 60 characters
 1,f2158f39-9a74-4f33-bd11-f2370d543a24,INFO,No version
-0,62eb910d-0919-4b2a-9e7e-e63284d8a50a,INFO,Title is greater than 60 characters
-1,62eb910d-0919-4b2a-9e7e-e63284d8a50a,INFO,No version
-2,62eb910d-0919-4b2a-9e7e-e63284d8a50a,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
-3,62eb910d-0919-4b2a-9e7e-e63284d8a50a,INFO,Record isn't accesible via a standard data repository
+0,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,Title is greater than 60 characters
+1,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,No version
+2,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,WARNING,"Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'"
+3,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,"Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')=''"
+4,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,WARNING,"Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'"
+5,0b2d2b69-9a1c-493f-9769-ae94eac40ca5,INFO,Record isn't accesible via a standard data repository
+0,d875b549-2a4c-4f4a-b389-69c97a26f506,ERROR,No projects associated
+1,d875b549-2a4c-4f4a-b389-69c97a26f506,INFO,No version
+2,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,No funder
+3,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,No publisher
+4,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'
+5,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'
+6,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+7,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+8,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+9,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'
+10,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'
+11,d875b549-2a4c-4f4a-b389-69c97a26f506,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+12,d875b549-2a4c-4f4a-b389-69c97a26f506,INFO,Record isn't accesible via a standard data repository
 0,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,INFO,Title is greater than 60 characters
 1,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,ERROR,Invalid distributor organisation-name: organization_name='Hakai Geosptatial' expects 'Hakai Institute'
 2,7b75f3fb-0063-4607-b4e4-b7b422e7ca9b,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Institute' contact.get('organisation-name')='Hakai Institute'
@@ -174,6 +170,18 @@
 1,0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 2,0cd2411c-e525-4e95-8825-b1ba51860e83,WARNING,"Contact missing ORCID: contact['individual-name']='Korver, Maartje' contact.get('organisation-name')='Hakai Institute'"
 3,0cd2411c-e525-4e95-8825-b1ba51860e83,INFO,Record isn't accesible via a standard data repository
+0,62eb910d-0919-4b2a-9e7e-e63284d8a50a,INFO,Title is greater than 60 characters
+1,62eb910d-0919-4b2a-9e7e-e63284d8a50a,INFO,No version
+2,62eb910d-0919-4b2a-9e7e-e63284d8a50a,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+3,62eb910d-0919-4b2a-9e7e-e63284d8a50a,INFO,Record isn't accesible via a standard data repository
+0,c02a2940-3686-41c0-b184-4585f31384e7,INFO,Title is greater than 60 characters
+1,c02a2940-3686-41c0-b184-4585f31384e7,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+2,c02a2940-3686-41c0-b184-4585f31384e7,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+0,dbfe7219-b28e-457b-b2dd-c134753b5795,ERROR,No projects associated
+1,dbfe7219-b28e-457b-b2dd-c134753b5795,INFO,Title is greater than 60 characters
+2,dbfe7219-b28e-457b-b2dd-c134753b5795,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/90h6-b497 status_code=404
+3,dbfe7219-b28e-457b-b2dd-c134753b5795,WARNING,"Contact missing ORCID: contact['individual-name']='Fedje, Bryn' contact.get('organisation-name')='Hakai Institute'"
+4,dbfe7219-b28e-457b-b2dd-c134753b5795,ERROR,Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.html
 0,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,ERROR,No projects associated
 1,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,INFO,Title is greater than 60 characters
 2,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,INFO,No version
@@ -191,14 +199,18 @@
 14,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
 15,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Research Institute'
 16,e6a3744b-7ef2-4627-8803-5ebdbc9f36f7,INFO,Record isn't accesible via a standard data repository
-0,c02a2940-3686-41c0-b184-4585f31384e7,INFO,Title is greater than 60 characters
-1,c02a2940-3686-41c0-b184-4585f31384e7,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
-2,c02a2940-3686-41c0-b184-4585f31384e7,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
-0,dbfe7219-b28e-457b-b2dd-c134753b5795,ERROR,No projects associated
-1,dbfe7219-b28e-457b-b2dd-c134753b5795,INFO,Title is greater than 60 characters
-2,dbfe7219-b28e-457b-b2dd-c134753b5795,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/90h6-b497 status_code=404
-3,dbfe7219-b28e-457b-b2dd-c134753b5795,WARNING,"Contact missing ORCID: contact['individual-name']='Fedje, Bryn' contact.get('organisation-name')='Hakai Institute'"
-4,dbfe7219-b28e-457b-b2dd-c134753b5795,ERROR,Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.html
+0,f8ee4a46-9582-4ba5-8c56-c63aea169152,ERROR,No projects associated
+1,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Title contains acronyms potentially
+2,f8ee4a46-9582-4ba5-8c56-c63aea169152,INFO,Title is greater than 60 characters
+3,f8ee4a46-9582-4ba5-8c56-c63aea169152,INFO,No version
+4,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,No funder
+5,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,No publisher
+6,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
+7,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
+8,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+9,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
+10,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
+11,f8ee4a46-9582-4ba5-8c56-c63aea169152,INFO,Record isn't accesible via a standard data repository
 0,12742e1b-b393-448a-8a42-5c169388fb9f,ERROR,No projects associated
 1,12742e1b-b393-448a-8a42-5c169388fb9f,INFO,No version
 2,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,No DOI defined
@@ -212,18 +224,6 @@
 10,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 11,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'
 12,12742e1b-b393-448a-8a42-5c169388fb9f,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
-0,f8ee4a46-9582-4ba5-8c56-c63aea169152,ERROR,No projects associated
-1,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Title contains acronyms potentially
-2,f8ee4a46-9582-4ba5-8c56-c63aea169152,INFO,Title is greater than 60 characters
-3,f8ee4a46-9582-4ba5-8c56-c63aea169152,INFO,No version
-4,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,No funder
-5,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,No publisher
-6,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
-7,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
-8,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-9,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
-10,f8ee4a46-9582-4ba5-8c56-c63aea169152,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
-11,f8ee4a46-9582-4ba5-8c56-c63aea169152,INFO,Record isn't accesible via a standard data repository
 0,7617e6b5-a968-40b0-b284-8625c01db1bd,INFO,Title is greater than 60 characters
 1,7617e6b5-a968-40b0-b284-8625c01db1bd,INFO,No version
 2,7617e6b5-a968-40b0-b284-8625c01db1bd,WARNING,"Contact missing ORCID: contact['individual-name']='Janusson, Carly' contact.get('organisation-name')='Hakai Institute'"
@@ -272,6 +272,12 @@
 14,bc6c70d9-8802-4b85-accc-3c0e14cbb38f,WARNING,Contact missing ORCID: contact['individual-name']='William C. Floyd' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'
 15,bc6c70d9-8802-4b85-accc-3c0e14cbb38f,WARNING,Contact missing organization ROR:  contact['individual-name']='William C. Floyd' contact['organisation-name']='Hakai Institute - Vancouver Island University'
 16,bc6c70d9-8802-4b85-accc-3c0e14cbb38f,INFO,Record isn't accesible via a standard data repository
+0,826f7081-386b-43da-be5c-4caa30cefaed,INFO,No version
+1,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,No DOI defined
+2,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+3,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+4,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+5,826f7081-386b-43da-be5c-4caa30cefaed,INFO,Record isn't accesible via a standard data repository
 0,e505277d-f96d-4c91-9524-977797cd5d09,INFO,Title is greater than 60 characters
 1,e505277d-f96d-4c91-9524-977797cd5d09,INFO,No version
 2,e505277d-f96d-4c91-9524-977797cd5d09,WARNING,No publisher
@@ -280,16 +286,17 @@
 5,e505277d-f96d-4c91-9524-977797cd5d09,INFO,"Contact missing ORCID: contact['individual-name']='Rogers, Luke' contact.get('organisation-name')='Fisheries and Oceans Canada'"
 6,e505277d-f96d-4c91-9524-977797cd5d09,INFO,"Contact missing ORCID: contact['individual-name']='Godwin, Sean' contact.get('organisation-name')='Dalhousie University'"
 7,e505277d-f96d-4c91-9524-977797cd5d09,INFO,Record isn't accesible via a standard data repository
-0,826f7081-386b-43da-be5c-4caa30cefaed,INFO,No version
-1,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,No DOI defined
-2,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-3,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-4,826f7081-386b-43da-be5c-4caa30cefaed,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-5,826f7081-386b-43da-be5c-4caa30cefaed,INFO,Record isn't accesible via a standard data repository
 0,0d6e3b80-5271-4783-8e13-4fd5e350fb8f,INFO,Title is greater than 60 characters
 1,0d6e3b80-5271-4783-8e13-4fd5e350fb8f,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 2,0d6e3b80-5271-4783-8e13-4fd5e350fb8f,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 3,0d6e3b80-5271-4783-8e13-4fd5e350fb8f,INFO,Record isn't accesible via a standard data repository
+0,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Title contains acronyms potentially
+1,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,Title is greater than 60 characters
+2,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,No version
+3,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'"
+4,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+5,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+6,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,Record isn't accesible via a standard data repository
 0,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,INFO,No version
 1,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/31db-5090 status_code=404
 2,82f1ef90-d264-47e7-b9ea-e9e088ba70c2,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
@@ -311,13 +318,6 @@
 9,e8ca939c-db12-4895-b516-9bc15c0ca035,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Sitka Tribe of Alaska'
 10,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
 11,e8ca939c-db12-4895-b516-9bc15c0ca035,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
-0,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Title contains acronyms potentially
-1,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,Title is greater than 60 characters
-2,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,No version
-3,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'"
-4,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-5,a7853e39-f66d-48c6-be02-adc8df537e70,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-6,a7853e39-f66d-48c6-be02-adc8df537e70,INFO,Record isn't accesible via a standard data repository
 0,5726e403-dc96-4423-bfb9-e0b86102dc81,ERROR,No projects associated
 1,5726e403-dc96-4423-bfb9-e0b86102dc81,INFO,Title is greater than 60 characters
 2,5726e403-dc96-4423-bfb9-e0b86102dc81,INFO,No version
@@ -359,12 +359,12 @@
 12,32c70425-67ed-4ee3-8ef8-b8f1b9a07166,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 13,32c70425-67ed-4ee3-8ef8-b8f1b9a07166,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 14,32c70425-67ed-4ee3-8ef8-b8f1b9a07166,INFO,Record isn't accesible via a standard data repository
-0,b03f7118-8852-4a4a-9ae0-959ffb606d16,INFO,Title is greater than 60 characters
-1,b03f7118-8852-4a4a-9ae0-959ffb606d16,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/8d4w-sr07 status_code=404
 0,0f964720-21d9-4464-88c0-e1615444c68a,INFO,Title is greater than 60 characters
 1,0f964720-21d9-4464-88c0-e1615444c68a,INFO,No version
 2,0f964720-21d9-4464-88c0-e1615444c68a,WARNING,"Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'"
 3,0f964720-21d9-4464-88c0-e1615444c68a,INFO,Record isn't accesible via a standard data repository
+0,b03f7118-8852-4a4a-9ae0-959ffb606d16,INFO,Title is greater than 60 characters
+1,b03f7118-8852-4a4a-9ae0-959ffb606d16,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/8d4w-sr07 status_code=404
 0,22bcdb63-23c2-4f34-8721-76fb95c2167d,ERROR,No projects associated
 1,22bcdb63-23c2-4f34-8721-76fb95c2167d,INFO,No version
 2,22bcdb63-23c2-4f34-8721-76fb95c2167d,WARNING,No DOI defined
@@ -396,6 +396,8 @@
 14,8759103c-abea-415a-9571-a86b39db6205,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
 15,8759103c-abea-415a-9571-a86b39db6205,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Research Institute'
 16,8759103c-abea-415a-9571-a86b39db6205,INFO,Record isn't accesible via a standard data repository
+0,5f471b7d-adc4-41bd-acb5-9320b4422eb4,WARNING,"Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'"
+1,5f471b7d-adc4-41bd-acb5-9320b4422eb4,INFO,Record isn't accesible via a standard data repository
 0,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,No projects associated
 1,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,INFO,Title is greater than 60 characters
 2,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,INFO,No version
@@ -409,8 +411,6 @@
 10,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
 11,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,ERROR,Empty resource name
 12,bff0b5b3-9b2c-4890-acaa-cf2bb79aca72,INFO,Record isn't accesible via a standard data repository
-0,5f471b7d-adc4-41bd-acb5-9320b4422eb4,WARNING,"Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'"
-1,5f471b7d-adc4-41bd-acb5-9320b4422eb4,INFO,Record isn't accesible via a standard data repository
 0,10e33315-1a9e-473a-850f-73182cc12c1c,ERROR,No projects associated
 1,10e33315-1a9e-473a-850f-73182cc12c1c,INFO,No version
 2,10e33315-1a9e-473a-850f-73182cc12c1c,WARNING,No funder
@@ -554,6 +554,14 @@
 4,169f2e88-5780-44a6-87ae-96d0fc6e84f3,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
 0,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,INFO,Title is greater than 60 characters
 1,ee7dbb5a-e466-4d4f-94a5-e8484e19ee2f,INFO,Record isn't accesible via a standard data repository
+0,248ceb8c-678f-4678-88b7-159796ef6487,ERROR,No projects associated
+1,248ceb8c-678f-4678-88b7-159796ef6487,INFO,Title is greater than 60 characters
+2,248ceb8c-678f-4678-88b7-159796ef6487,INFO,No version
+3,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,No DOI defined
+4,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,No funder
+5,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,No publisher
+6,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+7,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,0315e710-5cef-4089-acfc-253d0e114b36,ERROR,No projects associated
 1,0315e710-5cef-4089-acfc-253d0e114b36,INFO,Title is greater than 60 characters
 2,0315e710-5cef-4089-acfc-253d0e114b36,INFO,No version
@@ -568,14 +576,6 @@
 11,0315e710-5cef-4089-acfc-253d0e114b36,WARNING,"Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'"
 12,0315e710-5cef-4089-acfc-253d0e114b36,WARNING,"Contact missing organization ROR:  contact['individual-name']='Pontier, Ondine' contact['organisation-name']='Hakai Institute'"
 13,0315e710-5cef-4089-acfc-253d0e114b36,INFO,Record isn't accesible via a standard data repository
-0,248ceb8c-678f-4678-88b7-159796ef6487,ERROR,No projects associated
-1,248ceb8c-678f-4678-88b7-159796ef6487,INFO,Title is greater than 60 characters
-2,248ceb8c-678f-4678-88b7-159796ef6487,INFO,No version
-3,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,No DOI defined
-4,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,No funder
-5,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,No publisher
-6,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-7,248ceb8c-678f-4678-88b7-159796ef6487,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,No projects associated
 1,e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,Title contains acronyms potentially
 2,e9e51678-aa19-46a0-bb7b-87a786ef01ad,INFO,Title is greater than 60 characters
@@ -595,41 +595,6 @@
 16,e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,"Contact missing organization ROR:  contact['individual-name']='Evans, Wiley' contact['organisation-name']='Hakai Institute'"
 17,e9e51678-aa19-46a0-bb7b-87a786ef01ad,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 18,e9e51678-aa19-46a0-bb7b-87a786ef01ad,ERROR,Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.html
-0,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,ERROR,No projects associated
-1,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,INFO,Title is greater than 60 characters
-2,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,INFO,No version
-3,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,No DOI defined
-4,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,No funder
-5,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Gordon W. Frazer' contact.get('organisation-name')='Hakai Institute'
-6,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Gordon W. Frazer' contact['organisation-name']='Hakai Institute'
-7,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
-8,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
-9,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-10,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Gordon W. Frazer' contact.get('organisation-name')='Hakai Institute'
-11,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Gordon W. Frazer' contact['organisation-name']='Hakai Institute'
-12,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
-13,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
-0,07a103e2-7fb1-4960-8842-22cc400ce04d,ERROR,No projects associated
-1,07a103e2-7fb1-4960-8842-22cc400ce04d,INFO,No version
-2,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No DOI defined
-3,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No funder
-4,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No publisher
-5,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing ORCID: contact['individual-name']='Nick Viner' contact.get('organisation-name')='Hakai Institute'
-6,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing organization ROR:  contact['individual-name']='Nick Viner' contact['organisation-name']='Hakai Institute'
-7,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-8,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-9,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-10,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing ORCID: contact['individual-name']='Nick Viner' contact.get('organisation-name')='Hakai Institute'
-11,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing organization ROR:  contact['individual-name']='Nick Viner' contact['organisation-name']='Hakai Institute'
-12,07a103e2-7fb1-4960-8842-22cc400ce04d,INFO,Record isn't accesible via a standard data repository
-0,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,No version
-1,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No DOI defined
-2,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,"Contact missing ORCID: contact['individual-name']='Remote Sensing Team, Terra' contact.get('organisation-name')='Hakai Institute'"
-3,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'"
-4,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,"Contact missing ORCID: contact['individual-name']='Mostyn, David' contact.get('organisation-name')='Terra Remote Sensing Inc.'"
-5,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,"Contact missing organization ROR:  contact['individual-name']='Mostyn, David' contact['organisation-name']='Terra Remote Sensing Inc.'"
-6,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
-7,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,Record isn't accesible via a standard data repository
 0,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,ERROR,No projects associated
 1,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,INFO,Title is greater than 60 characters
 2,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,INFO,No version
@@ -647,6 +612,14 @@
 14,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,WARNING,Contact missing ORCID: contact['individual-name']='Emily Haughton' contact.get('organisation-name')='Hakai Institute'
 15,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,WARNING,Contact missing organization ROR:  contact['individual-name']='Emily Haughton' contact['organisation-name']='Hakai Institute'
 16,5f6c9ef0-ea95-4dc6-bc67-0f55e6d2f8af,INFO,Record isn't accesible via a standard data repository
+0,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,No version
+1,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,No DOI defined
+2,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,"Contact missing ORCID: contact['individual-name']='Remote Sensing Team, Terra' contact.get('organisation-name')='Hakai Institute'"
+3,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'"
+4,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,"Contact missing ORCID: contact['individual-name']='Mostyn, David' contact.get('organisation-name')='Terra Remote Sensing Inc.'"
+5,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,"Contact missing organization ROR:  contact['individual-name']='Mostyn, David' contact['organisation-name']='Terra Remote Sensing Inc.'"
+6,56063f8a-4f16-4a59-a9b0-8b23d9e02578,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+7,56063f8a-4f16-4a59-a9b0-8b23d9e02578,INFO,Record isn't accesible via a standard data repository
 0,0d25c2d9-e246-417d-b546-32b38ec62525,ERROR,No projects associated
 1,0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,Title contains acronyms potentially
 2,0d25c2d9-e246-417d-b546-32b38ec62525,INFO,Title is greater than 60 characters
@@ -659,6 +632,29 @@
 9,0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
 10,0d25c2d9-e246-417d-b546-32b38ec62525,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
 11,0d25c2d9-e246-417d-b546-32b38ec62525,INFO,Record isn't accesible via a standard data repository
+0,07a103e2-7fb1-4960-8842-22cc400ce04d,INFO,No version
+1,07a103e2-7fb1-4960-8842-22cc400ce04d,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/35tn-w772 status_code=404
+2,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No funder
+3,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,No publisher
+4,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,"Contact missing ORCID: contact['individual-name']='Viner, Nick' contact.get('organisation-name')='Hakai Institute'"
+5,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,"Contact missing organization ROR:  contact['individual-name']='Viner, Nick' contact['organisation-name']='Hakai Institute'"
+6,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+7,07a103e2-7fb1-4960-8842-22cc400ce04d,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+8,07a103e2-7fb1-4960-8842-22cc400ce04d,INFO,Record isn't accesible via a standard data repository
+0,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,ERROR,No projects associated
+1,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,INFO,Title is greater than 60 characters
+2,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,INFO,No version
+3,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,No DOI defined
+4,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,No funder
+5,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Gordon W. Frazer' contact.get('organisation-name')='Hakai Institute'
+6,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Gordon W. Frazer' contact['organisation-name']='Hakai Institute'
+7,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
+8,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
+9,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+10,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Gordon W. Frazer' contact.get('organisation-name')='Hakai Institute'
+11,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Gordon W. Frazer' contact['organisation-name']='Hakai Institute'
+12,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
+13,a4b8bbc4-8ee4-43ed-8310-75eb37c537f4,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
 0,943bc8dd-642d-411b-9865-d364f14da911,WARNING,"Contact missing ORCID: contact['individual-name']='Mackenzie, Chris' contact.get('organisation-name')='Hakai Institute'"
 1,943bc8dd-642d-411b-9865-d364f14da911,INFO,"Contact missing ORCID: contact['individual-name']='Hannah, Charles' contact.get('organisation-name')='Fisheries and Oceans Canada'"
 2,943bc8dd-642d-411b-9865-d364f14da911,WARNING,"Contact missing organization ROR:  contact['individual-name']='Barrette, Jessy' contact['organisation-name']='Hakai Institute'"
@@ -739,6 +735,17 @@
 15,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
 16,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'
 17,a39ad8b7-8d89-4cae-82fb-734fc3889897,WARNING,Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'
+0,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'"
+1,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')='Hakai Institute'"
+2,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')='Hakai Institute'"
+3,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')='Hakai Institute'"
+4,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Morris, Angela' contact.get('organisation-name')='Hakai Institute'"
+5,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Rechsteiner, Erin' contact.get('organisation-name')='Hakai Institute'"
+6,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Opie, Rumer' contact.get('organisation-name')='Hakai Institute'"
+7,a3571383-5d3b-4d4d-a555-d4afe2981d12,INFO,"Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''"
+8,a3571383-5d3b-4d4d-a555-d4afe2981d12,INFO,"Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''"
+9,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'"
+10,a3571383-5d3b-4d4d-a555-d4afe2981d12,INFO,Record isn't accesible via a standard data repository
 0,f74a4d00-7471-4fd6-83d2-265527dd2786,ERROR,No projects associated
 1,f74a4d00-7471-4fd6-83d2-265527dd2786,INFO,Title is greater than 60 characters
 2,f74a4d00-7471-4fd6-83d2-265527dd2786,INFO,No version
@@ -758,17 +765,6 @@
 16,f74a4d00-7471-4fd6-83d2-265527dd2786,WARNING,Contact missing ORCID: contact['individual-name']='William C. Floyd' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'
 17,f74a4d00-7471-4fd6-83d2-265527dd2786,WARNING,Contact missing organization ROR:  contact['individual-name']='William C. Floyd' contact['organisation-name']='Hakai Institute - Vancouver Island University'
 18,f74a4d00-7471-4fd6-83d2-265527dd2786,INFO,Record isn't accesible via a standard data repository
-0,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'"
-1,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')='Hakai Institute'"
-2,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')='Hakai Institute'"
-3,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')='Hakai Institute'"
-4,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Morris, Angela' contact.get('organisation-name')='Hakai Institute'"
-5,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Rechsteiner, Erin' contact.get('organisation-name')='Hakai Institute'"
-6,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='Opie, Rumer' contact.get('organisation-name')='Hakai Institute'"
-7,a3571383-5d3b-4d4d-a555-d4afe2981d12,INFO,"Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''"
-8,a3571383-5d3b-4d4d-a555-d4afe2981d12,INFO,"Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''"
-9,a3571383-5d3b-4d4d-a555-d4afe2981d12,WARNING,"Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'"
-10,a3571383-5d3b-4d4d-a555-d4afe2981d12,INFO,Record isn't accesible via a standard data repository
 0,63b49955-e4c3-431a-8493-590e4762eaf7,INFO,Title is greater than 60 characters
 1,63b49955-e4c3-431a-8493-590e4762eaf7,ERROR,Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'
 2,63b49955-e4c3-431a-8493-590e4762eaf7,WARNING,No funder
@@ -790,14 +786,14 @@
 2,7138a06e-3e90-4beb-8c84-7b763a4a6bdf,WARNING,No DOI defined
 3,7138a06e-3e90-4beb-8c84-7b763a4a6bdf,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 4,7138a06e-3e90-4beb-8c84-7b763a4a6bdf,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+0,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,INFO,Title is greater than 60 characters
+1,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,INFO,Record isn't accesible via a standard data repository
 0,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,INFO,Title is greater than 60 characters
 1,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,INFO,No version
 2,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 3,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 4,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,ERROR,Empty resource name
 5,bcb0e6c1-c47a-4f72-bb80-745ee047a65c,INFO,Record isn't accesible via a standard data repository
-0,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,INFO,Title is greater than 60 characters
-1,9b09f1b8-4350-47d2-bce3-d14e836d7fb8,INFO,Record isn't accesible via a standard data repository
 0,57706dbb-09f0-4938-8596-69b9a2fc37c0,ERROR,No projects associated
 1,57706dbb-09f0-4938-8596-69b9a2fc37c0,INFO,Title is greater than 60 characters
 2,57706dbb-09f0-4938-8596-69b9a2fc37c0,INFO,No version
@@ -927,9 +923,6 @@
 0,ea12c489-306e-44c4-95d3-c62879f2fc2e,INFO,Title is greater than 60 characters
 1,ea12c489-306e-44c4-95d3-c62879f2fc2e,INFO,"Contact missing ORCID: contact['individual-name']='Oliver, Allison A.' contact.get('organisation-name')=''"
 2,ea12c489-306e-44c4-95d3-c62879f2fc2e,INFO,Record isn't accesible via a standard data repository
-0,3a05b770-f9b3-4624-b02c-0e0aca78f34a,INFO,No version
-1,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
-2,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 0,48882087-6866-4f5e-9634-f544596612b2,ERROR,No projects associated
 1,48882087-6866-4f5e-9634-f544596612b2,INFO,Title is greater than 60 characters
 2,48882087-6866-4f5e-9634-f544596612b2,INFO,No version
@@ -941,6 +934,9 @@
 8,48882087-6866-4f5e-9634-f544596612b2,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
 9,48882087-6866-4f5e-9634-f544596612b2,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
 10,48882087-6866-4f5e-9634-f544596612b2,INFO,Record isn't accesible via a standard data repository
+0,3a05b770-f9b3-4624-b02c-0e0aca78f34a,INFO,No version
+1,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+2,3a05b770-f9b3-4624-b02c-0e0aca78f34a,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 0,94544fc8-507a-4de7-ab58-6f09e96b7ecb,ERROR,No projects associated
 1,94544fc8-507a-4de7-ab58-6f09e96b7ecb,INFO,Title is greater than 60 characters
 2,94544fc8-507a-4de7-ab58-6f09e96b7ecb,INFO,No version
@@ -956,10 +952,6 @@
 12,94544fc8-507a-4de7-ab58-6f09e96b7ecb,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
 13,94544fc8-507a-4de7-ab58-6f09e96b7ecb,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
 14,94544fc8-507a-4de7-ab58-6f09e96b7ecb,INFO,Record isn't accesible via a standard data repository
-0,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Godwin, Sean' contact.get('organisation-name')='Dalhousie University'"
-1,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Krkosek, Martin' contact.get('organisation-name')='University of Toronto'"
-2,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Rogers, Luke A.' contact.get('organisation-name')='University of Toronto'"
-3,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Portner, Lauren' contact.get('organisation-name')='University of British Columbia'"
 0,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,ERROR,No projects associated
 1,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,INFO,Title is greater than 60 characters
 2,5a03d4a7-5a18-44c2-9cc6-cacfbcf20a1e,INFO,No version
@@ -991,6 +983,10 @@
 3,19c1a880-e902-4ca2-81cd-fdab846ba191,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Science' contact.get('organisation-name')='Hakai Institute'
 4,19c1a880-e902-4ca2-81cd-fdab846ba191,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Science' contact.get('organisation-name')='Hakai Institute'
 5,19c1a880-e902-4ca2-81cd-fdab846ba191,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Hakai Institute'
+0,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Godwin, Sean' contact.get('organisation-name')='Dalhousie University'"
+1,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Krkosek, Martin' contact.get('organisation-name')='University of Toronto'"
+2,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Rogers, Luke A.' contact.get('organisation-name')='University of Toronto'"
+3,f507a9ba-716d-451b-99a0-f42047a3a7c2,INFO,"Contact missing ORCID: contact['individual-name']='Portner, Lauren' contact.get('organisation-name')='University of British Columbia'"
 0,cd6c1c21-50c0-4fb0-b554-9380d7864bab,ERROR,No projects associated
 1,cd6c1c21-50c0-4fb0-b554-9380d7864bab,INFO,Title is greater than 60 characters
 2,cd6c1c21-50c0-4fb0-b554-9380d7864bab,INFO,No version
@@ -1010,12 +1006,6 @@
 16,cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 17,cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 18,cd6c1c21-50c0-4fb0-b554-9380d7864bab,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-0,fd21be88-2971-4c53-a6ab-106f6b4b679d,ERROR,No projects associated
-1,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,Title is greater than 60 characters
-2,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,No version
-3,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,No DOI defined
-4,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,"Contact missing ORCID: contact['individual-name']='Wickham, Sara' contact.get('organisation-name')='University of Victoria'"
-5,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,Record isn't accesible via a standard data repository
 0,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,ERROR,No projects associated
 1,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,INFO,Title is greater than 60 characters
 2,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,INFO,No version
@@ -1029,6 +1019,12 @@
 10,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,WARNING,Contact missing ORCID: contact['individual-name']='Luba Reshitnyk - luba.reshitnyk@hakai.org' contact.get('organisation-name')='Hakai Institute'
 11,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,WARNING,Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk - luba.reshitnyk@hakai.org' contact['organisation-name']='Hakai Institute'
 12,d00cf1fa-68f6-4545-b05d-3322d1cc42d5,INFO,Record isn't accesible via a standard data repository
+0,fd21be88-2971-4c53-a6ab-106f6b4b679d,ERROR,No projects associated
+1,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,Title is greater than 60 characters
+2,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,No version
+3,fd21be88-2971-4c53-a6ab-106f6b4b679d,WARNING,No DOI defined
+4,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,"Contact missing ORCID: contact['individual-name']='Wickham, Sara' contact.get('organisation-name')='University of Victoria'"
+5,fd21be88-2971-4c53-a6ab-106f6b4b679d,INFO,Record isn't accesible via a standard data repository
 0,75a4b3b7-5cc9-45f6-81e3-ce98f6961488,ERROR,No projects associated
 1,75a4b3b7-5cc9-45f6-81e3-ce98f6961488,INFO,Title is greater than 60 characters
 2,75a4b3b7-5cc9-45f6-81e3-ce98f6961488,INFO,No version
@@ -1061,8 +1057,6 @@
 13,8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,WARNING,Contact missing ORCID: contact['individual-name']='Santiago Gonzalez Arriola' contact.get('organisation-name')='Hakai Institute'
 14,8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,WARNING,Contact missing organization ROR:  contact['individual-name']='Santiago Gonzalez Arriola' contact['organisation-name']='Hakai Institute'
 15,8d41ae40-0e0d-4000-ba91-2c1d3a2b4182,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-0,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,INFO,No version
-1,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 0,7baa4e01-61e0-4504-a84e-34350c79536a,ERROR,No projects associated
 1,7baa4e01-61e0-4504-a84e-34350c79536a,INFO,Title is greater than 60 characters
 2,7baa4e01-61e0-4504-a84e-34350c79536a,ERROR,Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'
@@ -1086,6 +1080,8 @@
 20,7baa4e01-61e0-4504-a84e-34350c79536a,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
 21,7baa4e01-61e0-4504-a84e-34350c79536a,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 22,7baa4e01-61e0-4504-a84e-34350c79536a,INFO,Record isn't accesible via a standard data repository
+0,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,INFO,No version
+1,08d783c6-1f06-4f2b-a7f5-2ae7c4252ad5,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
 0,1615b3c4-5d7c-43f9-956e-ebe3785af92e,ERROR,No projects associated
 1,1615b3c4-5d7c-43f9-956e-ebe3785af92e,INFO,Title is greater than 60 characters
 2,1615b3c4-5d7c-43f9-956e-ebe3785af92e,INFO,No version
@@ -1111,12 +1107,6 @@
 22,1615b3c4-5d7c-43f9-956e-ebe3785af92e,WARNING,Contact missing ORCID: contact['individual-name']='Ian Giesbrecht' contact.get('organisation-name')='Hakai Institute'
 23,1615b3c4-5d7c-43f9-956e-ebe3785af92e,WARNING,Contact missing organization ROR:  contact['individual-name']='Ian Giesbrecht' contact['organisation-name']='Hakai Institute'
 24,1615b3c4-5d7c-43f9-956e-ebe3785af92e,INFO,Record isn't accesible via a standard data repository
-0,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,INFO,Title is greater than 60 characters
-1,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,No funder
-2,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,"Contact missing organization ROR:  contact['individual-name']='van der Stap, Tim' contact['organisation-name']='Hakai Institute'"
-3,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,"Contact missing ORCID: contact['individual-name']='Bachen, Krystal' contact.get('organisation-name')='Hakai Institute'"
-4,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,INFO,"Contact missing ORCID: contact['individual-name']='Latham, Steve' contact.get('organisation-name')='Pacific Salmon Commission'"
-5,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,INFO,Record isn't accesible via a standard data repository
 0,9d01792a-427a-4ad8-87b1-3ef60124b07e,INFO,Title is greater than 60 characters
 1,9d01792a-427a-4ad8-87b1-3ef60124b07e,INFO,No version
 2,9d01792a-427a-4ad8-87b1-3ef60124b07e,WARNING,No DOI defined
@@ -1136,16 +1126,16 @@
 13,ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,INFO,"Contact missing ORCID: contact['individual-name']='Levy-Booth, David J.' contact.get('organisation-name')='University of British Columbia'"
 14,ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,INFO,"Contact missing organization ROR:  contact['individual-name']='Levy-Booth, David J.' contact['organisation-name']='University of British Columbia'"
 15,ee0aa0d1-6c1b-4724-ba4a-004a73ec6e4f,INFO,Record isn't accesible via a standard data repository
+0,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,INFO,Title is greater than 60 characters
+1,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,No funder
+2,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,"Contact missing organization ROR:  contact['individual-name']='van der Stap, Tim' contact['organisation-name']='Hakai Institute'"
+3,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,WARNING,"Contact missing ORCID: contact['individual-name']='Bachen, Krystal' contact.get('organisation-name')='Hakai Institute'"
+4,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,INFO,"Contact missing ORCID: contact['individual-name']='Latham, Steve' contact.get('organisation-name')='Pacific Salmon Commission'"
+5,71e7851a-933a-44d5-8cbb-f4cf4c1f0d6c,INFO,Record isn't accesible via a standard data repository
 0,c7e86d80-2159-4fb8-8a88-7d58221334ee,INFO,Title is greater than 60 characters
 1,c7e86d80-2159-4fb8-8a88-7d58221334ee,INFO,No version
 2,c7e86d80-2159-4fb8-8a88-7d58221334ee,ERROR,Invalid resources.url.status_code: 401 for resources[1].url=https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view
 3,c7e86d80-2159-4fb8-8a88-7d58221334ee,INFO,Record isn't accesible via a standard data repository
-0,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,INFO,Title is greater than 60 characters
-1,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,INFO,No version
-2,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,INFO,Record isn't accesible via a standard data repository
-0,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,INFO,Title is greater than 60 characters
-1,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,WARNING,"Contact missing ORCID: contact['individual-name']='Krumhansl, K.' contact.get('organisation-name')='Hakai Institute'"
-2,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,INFO,Record isn't accesible via a standard data repository
 0,22f39317-855c-46ca-938f-e3a9273bd9bc,ERROR,No projects associated
 1,22f39317-855c-46ca-938f-e3a9273bd9bc,INFO,Title is greater than 60 characters
 2,22f39317-855c-46ca-938f-e3a9273bd9bc,INFO,No version
@@ -1181,6 +1171,12 @@
 17,93e3d25f-11ee-4065-b653-2e8fc3cbb663,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 18,93e3d25f-11ee-4065-b653-2e8fc3cbb663,WARNING,Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'
 19,93e3d25f-11ee-4065-b653-2e8fc3cbb663,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
+0,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,INFO,Title is greater than 60 characters
+1,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,INFO,No version
+2,ed500223-5e6a-43ef-9126-ba0a4c58a6ea,INFO,Record isn't accesible via a standard data repository
+0,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,INFO,Title is greater than 60 characters
+1,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,WARNING,"Contact missing ORCID: contact['individual-name']='Krumhansl, K.' contact.get('organisation-name')='Hakai Institute'"
+2,43a5ec84-1c4f-4d02-b0ee-3d6bb5db2fd7,INFO,Record isn't accesible via a standard data repository
 0,c1485bcd-2b82-4f5e-a38e-a22269521a04,INFO,Title is greater than 60 characters
 1,c1485bcd-2b82-4f5e-a38e-a22269521a04,INFO,No version
 2,c1485bcd-2b82-4f5e-a38e-a22269521a04,WARNING,No DOI defined
@@ -1202,6 +1198,12 @@
 14,5cbd59f7-f24c-428b-aca9-73760131586e,WARNING,Contact missing ORCID: contact['individual-name']='Michael Grilliot' contact.get('organisation-name')='Hakai Institute'
 15,5cbd59f7-f24c-428b-aca9-73760131586e,WARNING,Contact missing organization ROR:  contact['individual-name']='Michael Grilliot' contact['organisation-name']='Hakai Institute'
 16,5cbd59f7-f24c-428b-aca9-73760131586e,INFO,Record isn't accesible via a standard data repository
+0,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,Title contains acronyms potentially
+1,c631bd48-827d-4f0f-9fb4-4926001b1956,INFO,Title is greater than 60 characters
+2,c631bd48-827d-4f0f-9fb4-4926001b1956,INFO,No version
+3,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+4,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
+5,c631bd48-827d-4f0f-9fb4-4926001b1956,INFO,Record isn't accesible via a standard data repository
 0,ab40c8e6-9d88-40cf-b288-948f61612472,ERROR,No projects associated
 1,ab40c8e6-9d88-40cf-b288-948f61612472,INFO,Title is greater than 60 characters
 2,ab40c8e6-9d88-40cf-b288-948f61612472,INFO,No version
@@ -1218,12 +1220,6 @@
 13,ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,Contact missing ORCID: contact['individual-name']='Matthew Henderson' contact.get('organisation-name')='Hakai Institute'
 14,ab40c8e6-9d88-40cf-b288-948f61612472,WARNING,Contact missing organization ROR:  contact['individual-name']='Matthew Henderson' contact['organisation-name']='Hakai Institute'
 15,ab40c8e6-9d88-40cf-b288-948f61612472,INFO,Record isn't accesible via a standard data repository
-0,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,Title contains acronyms potentially
-1,c631bd48-827d-4f0f-9fb4-4926001b1956,INFO,Title is greater than 60 characters
-2,c631bd48-827d-4f0f-9fb4-4926001b1956,INFO,No version
-3,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
-4,c631bd48-827d-4f0f-9fb4-4926001b1956,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'
-5,c631bd48-827d-4f0f-9fb4-4926001b1956,INFO,Record isn't accesible via a standard data repository
 0,7bbeb996-86f2-46d9-9702-a3dc89775fb4,ERROR,No projects associated
 1,7bbeb996-86f2-46d9-9702-a3dc89775fb4,INFO,Title is greater than 60 characters
 2,7bbeb996-86f2-46d9-9702-a3dc89775fb4,INFO,No version
@@ -1289,9 +1285,6 @@
 4,e191b744-6d69-423c-bd42-75f6e466a460,WARNING,No funder
 5,e191b744-6d69-423c-bd42-75f6e466a460,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
 6,e191b744-6d69-423c-bd42-75f6e466a460,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
-0,65b65197-910e-4058-a5c4-34e3750cb6b0,INFO,Title is greater than 60 characters
-1,65b65197-910e-4058-a5c4-34e3750cb6b0,INFO,No version
-2,65b65197-910e-4058-a5c4-34e3750cb6b0,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,fe02340b-1fa3-4eeb-b7b8-4f52476f95c4,INFO,Title is greater than 60 characters
 1,fe02340b-1fa3-4eeb-b7b8-4f52476f95c4,WARNING,No funder
 2,fe02340b-1fa3-4eeb-b7b8-4f52476f95c4,WARNING,"Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'"
@@ -1310,6 +1303,9 @@
 15,fe02340b-1fa3-4eeb-b7b8-4f52476f95c4,INFO,"Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')=''"
 16,fe02340b-1fa3-4eeb-b7b8-4f52476f95c4,WARNING,"Contact missing ORCID: contact['individual-name']='Olsen, Angeleen' contact.get('organisation-name')='Hakai Institute'"
 17,fe02340b-1fa3-4eeb-b7b8-4f52476f95c4,INFO,Record isn't accesible via a standard data repository
+0,65b65197-910e-4058-a5c4-34e3750cb6b0,INFO,Title is greater than 60 characters
+1,65b65197-910e-4058-a5c4-34e3750cb6b0,INFO,No version
+2,65b65197-910e-4058-a5c4-34e3750cb6b0,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,9d84c839-e2b6-4fd7-8908-74b98d779de1,INFO,Title is greater than 60 characters
 1,9d84c839-e2b6-4fd7-8908-74b98d779de1,WARNING,No DOI defined
 2,9d84c839-e2b6-4fd7-8908-74b98d779de1,ERROR,Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'
@@ -1317,12 +1313,6 @@
 4,9d84c839-e2b6-4fd7-8908-74b98d779de1,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 5,9d84c839-e2b6-4fd7-8908-74b98d779de1,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
 6,9d84c839-e2b6-4fd7-8908-74b98d779de1,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
-0,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,Title is greater than 60 characters
-1,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,No version
-2,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,WARNING,"Contact missing ORCID: contact['individual-name']='Zahner, Vanessa' contact.get('organisation-name')='Hakai Institute'"
-3,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,"Contact missing ORCID: contact['individual-name']='Hunt, Brian' contact.get('organisation-name')='University of British Columbia'"
-4,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,WARNING,"Contact missing ORCID: contact['individual-name']='Zahner, Vanessa' contact.get('organisation-name')='Hakai Institute'"
-5,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,Record isn't accesible via a standard data repository
 0,8402b766-c491-4d85-83bd-d79fd938e5e6,ERROR,No projects associated
 1,8402b766-c491-4d85-83bd-d79fd938e5e6,INFO,Title is greater than 60 characters
 2,8402b766-c491-4d85-83bd-d79fd938e5e6,INFO,No version
@@ -1341,6 +1331,12 @@
 15,8402b766-c491-4d85-83bd-d79fd938e5e6,WARNING,Contact missing ORCID: contact['individual-name']='Brett Johnson' contact.get('organisation-name')='Hakai Institute'
 16,8402b766-c491-4d85-83bd-d79fd938e5e6,WARNING,Contact missing organization ROR:  contact['individual-name']='Brett Johnson' contact['organisation-name']='Hakai Institute'
 17,8402b766-c491-4d85-83bd-d79fd938e5e6,INFO,Record isn't accesible via a standard data repository
+0,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,Title is greater than 60 characters
+1,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,No version
+2,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,WARNING,"Contact missing ORCID: contact['individual-name']='Zahner, Vanessa' contact.get('organisation-name')='Hakai Institute'"
+3,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,"Contact missing ORCID: contact['individual-name']='Hunt, Brian' contact.get('organisation-name')='University of British Columbia'"
+4,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,WARNING,"Contact missing ORCID: contact['individual-name']='Zahner, Vanessa' contact.get('organisation-name')='Hakai Institute'"
+5,bf872a6c-217c-4e48-8d7d-0e8b196ab35f,INFO,Record isn't accesible via a standard data repository
 0,75cb83ee-bcf0-4806-89a0-d400afdb5112,ERROR,No projects associated
 1,75cb83ee-bcf0-4806-89a0-d400afdb5112,INFO,No version
 2,75cb83ee-bcf0-4806-89a0-d400afdb5112,WARNING,No DOI defined
@@ -1557,10 +1553,6 @@
 0,e55ce907-5836-4a74-a0d5-04e3855b5b4b,INFO,Title is greater than 60 characters
 1,e55ce907-5836-4a74-a0d5-04e3855b5b4b,INFO,No version
 2,e55ce907-5836-4a74-a0d5-04e3855b5b4b,INFO,Record isn't accesible via a standard data repository
-0,1736e39c-a369-4db0-a247-11d52bdb3009,INFO,No version
-1,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,"Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute'"
-2,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-3,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 0,d66edb9e-d725-46e5-b5ab-0447fb25224b,ERROR,No projects associated
 1,d66edb9e-d725-46e5-b5ab-0447fb25224b,INFO,Title is greater than 60 characters
 2,d66edb9e-d725-46e5-b5ab-0447fb25224b,INFO,No version
@@ -1570,6 +1562,24 @@
 6,d66edb9e-d725-46e5-b5ab-0447fb25224b,WARNING,Contact missing ORCID: contact['individual-name']='Katie Pocock' contact.get('organisation-name')='Hakai Institute'
 7,d66edb9e-d725-46e5-b5ab-0447fb25224b,WARNING,Contact missing organization ROR:  contact['individual-name']='Katie Pocock' contact['organisation-name']='Hakai Institute'
 8,d66edb9e-d725-46e5-b5ab-0447fb25224b,INFO,Record isn't accesible via a standard data repository
+0,1736e39c-a369-4db0-a247-11d52bdb3009,INFO,No version
+1,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,"Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute'"
+2,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+3,1736e39c-a369-4db0-a247-11d52bdb3009,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+0,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,ERROR,No projects associated
+1,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,No version
+2,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,No funder
+3,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,No publisher
+4,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing ORCID: contact['individual-name']='Carolyn Prentice' contact.get('organisation-name')='Hakai Institute'
+5,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing organization ROR:  contact['individual-name']='Carolyn Prentice' contact['organisation-name']='Hakai Institute'
+6,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing ORCID: contact['individual-name']='Katrina Poppe' contact.get('organisation-name')='Western Washington University'
+7,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing organization ROR:  contact['individual-name']='Katrina Poppe' contact['organisation-name']='Western Washington University'
+8,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+9,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing ORCID: contact['individual-name']='Carolyn Prentice' contact.get('organisation-name')='Hakai Institute'
+10,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing organization ROR:  contact['individual-name']='Carolyn Prentice' contact['organisation-name']='Hakai Institute'
+11,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing ORCID: contact['individual-name']='Katrina Poppe' contact.get('organisation-name')='Western Washington University'
+12,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing organization ROR:  contact['individual-name']='Katrina Poppe' contact['organisation-name']='Western Washington University'
+13,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Record isn't accesible via a standard data repository
 0,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,ERROR,No projects associated
 1,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,INFO,Title is greater than 60 characters
 2,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,INFO,No version
@@ -1591,35 +1601,27 @@
 18,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,WARNING,Contact missing organization ROR:  contact['individual-name']='William C. Floyd' contact['organisation-name']='Hakai Institute'
 19,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,ERROR,Invalid resources.url.status_code: 404 for resources[1].url=https://data.hakai.org/sensor-network
 20,5f152dbf-af4e-45b4-a4e4-0d3866e86d7e,INFO,Record isn't accesible via a standard data repository
-0,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,ERROR,No projects associated
-1,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,No version
-2,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,No funder
-3,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,No publisher
-4,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing ORCID: contact['individual-name']='Carolyn Prentice' contact.get('organisation-name')='Hakai Institute'
-5,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing organization ROR:  contact['individual-name']='Carolyn Prentice' contact['organisation-name']='Hakai Institute'
-6,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing ORCID: contact['individual-name']='Katrina Poppe' contact.get('organisation-name')='Western Washington University'
-7,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing organization ROR:  contact['individual-name']='Katrina Poppe' contact['organisation-name']='Western Washington University'
-8,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-9,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing ORCID: contact['individual-name']='Carolyn Prentice' contact.get('organisation-name')='Hakai Institute'
-10,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,WARNING,Contact missing organization ROR:  contact['individual-name']='Carolyn Prentice' contact['organisation-name']='Hakai Institute'
-11,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing ORCID: contact['individual-name']='Katrina Poppe' contact.get('organisation-name')='Western Washington University'
-12,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Contact missing organization ROR:  contact['individual-name']='Katrina Poppe' contact['organisation-name']='Western Washington University'
-13,9256b7fe-57d5-408d-93fa-dd3a1fe3777c,INFO,Record isn't accesible via a standard data repository
-0,af780933-5d2b-437d-980f-29a9cb9f10da,ERROR,No projects associated
-1,af780933-5d2b-437d-980f-29a9cb9f10da,INFO,Title is greater than 60 characters
-2,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No DOI defined
-3,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,"Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'"
-4,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,6c317e7d-e4df-4511-9b5e-4a39f3518c44,INFO,Title is greater than 60 characters
 1,6c317e7d-e4df-4511-9b5e-4a39f3518c44,INFO,No version
 2,6c317e7d-e4df-4511-9b5e-4a39f3518c44,ERROR,Invalid distributor organisation-name: organization_name='' expects 'Hakai Institute'
 3,6c317e7d-e4df-4511-9b5e-4a39f3518c44,INFO,"Contact missing ORCID: contact['individual-name']='Oliver, A. A.' contact.get('organisation-name')=''"
 4,6c317e7d-e4df-4511-9b5e-4a39f3518c44,WARNING,"Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'"
 5,6c317e7d-e4df-4511-9b5e-4a39f3518c44,INFO,Record isn't accesible via a standard data repository
+0,af780933-5d2b-437d-980f-29a9cb9f10da,ERROR,No projects associated
+1,af780933-5d2b-437d-980f-29a9cb9f10da,INFO,Title is greater than 60 characters
+2,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,No DOI defined
+3,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,"Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'"
+4,af780933-5d2b-437d-980f-29a9cb9f10da,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,63f1b001-7b75-4f30-934c-ff76e5e14b87,INFO,Title is greater than 60 characters
 1,63f1b001-7b75-4f30-934c-ff76e5e14b87,INFO,No version
 2,63f1b001-7b75-4f30-934c-ff76e5e14b87,WARNING,"Contact missing ORCID: contact['individual-name']='Jacob, Wayne' contact.get('organisation-name')='Hakai Institute'"
 3,63f1b001-7b75-4f30-934c-ff76e5e14b87,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+0,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,Title is greater than 60 characters
+1,a13e37a0-8ef8-4772-a267-7f79a044d176,ERROR,Invalid licence: CC-BY-NC-ND-4.0
+2,a13e37a0-8ef8-4772-a267-7f79a044d176,WARNING,No funder
+3,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,"Contact missing ORCID: contact['individual-name']='Lee, Lynn C.' contact.get('organisation-name')='Gwaii Haanas National Park Reserve and Haida Heritage Site'"
+4,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,"Contact missing ORCID: contact['individual-name']='Burton, Jake' contact.get('organisation-name')='Gwaii Haanas National Park Reserve and Haida Heritage Site'"
+5,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,Record isn't accesible via a standard data repository
 0,32b5c5d3-25d8-43b0-a02f-3503bca02aab,ERROR,No projects associated
 1,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,Title contains acronyms potentially
 2,32b5c5d3-25d8-43b0-a02f-3503bca02aab,INFO,Title is greater than 60 characters
@@ -1634,16 +1636,6 @@
 11,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 12,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
 13,32b5c5d3-25d8-43b0-a02f-3503bca02aab,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
-0,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,Title is greater than 60 characters
-1,a13e37a0-8ef8-4772-a267-7f79a044d176,ERROR,Invalid licence: CC-BY-NC-ND-4.0
-2,a13e37a0-8ef8-4772-a267-7f79a044d176,WARNING,No funder
-3,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,"Contact missing ORCID: contact['individual-name']='Lee, Lynn C.' contact.get('organisation-name')='Gwaii Haanas National Park Reserve and Haida Heritage Site'"
-4,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,"Contact missing ORCID: contact['individual-name']='Burton, Jake' contact.get('organisation-name')='Gwaii Haanas National Park Reserve and Haida Heritage Site'"
-5,a13e37a0-8ef8-4772-a267-7f79a044d176,INFO,Record isn't accesible via a standard data repository
-0,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,Title contains acronyms potentially
-1,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,INFO,Title is greater than 60 characters
-2,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,INFO,No version
-3,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/j5es-7w43 status_code=404
 0,04d6798b-9cda-4868-abb6-133395d50098,ERROR,No projects associated
 1,04d6798b-9cda-4868-abb6-133395d50098,INFO,Title is greater than 60 characters
 2,04d6798b-9cda-4868-abb6-133395d50098,INFO,No version
@@ -1659,6 +1651,16 @@
 12,04d6798b-9cda-4868-abb6-133395d50098,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 13,04d6798b-9cda-4868-abb6-133395d50098,WARNING,Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'
 14,04d6798b-9cda-4868-abb6-133395d50098,WARNING,Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'
+0,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,WARNING,Title contains acronyms potentially
+1,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,INFO,Title is greater than 60 characters
+2,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,INFO,No version
+3,c1e5e6b3-2862-4da9-84b1-c2cd879f92cf,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/j5es-7w43 status_code=404
+0,0c4f898c-e175-4c61-9290-e232dc866c86,INFO,Title is greater than 60 characters
+1,0c4f898c-e175-4c61-9290-e232dc866c86,INFO,Record isn't accesible via a standard data repository
+0,af3fdd4c-d452-498c-95c5-80c966647352,INFO,Title is greater than 60 characters
+1,af3fdd4c-d452-498c-95c5-80c966647352,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/kace-2d24 status_code=404
+2,af3fdd4c-d452-498c-95c5-80c966647352,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+3,af3fdd4c-d452-498c-95c5-80c966647352,WARNING,"Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'"
 0,fded0aa6-8bd1-470e-8264-31313ae3fdc4,ERROR,No projects associated
 1,fded0aa6-8bd1-470e-8264-31313ae3fdc4,WARNING,Title contains acronyms potentially
 2,fded0aa6-8bd1-470e-8264-31313ae3fdc4,INFO,Title is greater than 60 characters
@@ -1678,8 +1680,6 @@
 16,fded0aa6-8bd1-470e-8264-31313ae3fdc4,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Institute' contact.get('organisation-name')='Hakai Institute'
 17,fded0aa6-8bd1-470e-8264-31313ae3fdc4,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Institute' contact['organisation-name']='Hakai Institute'
 18,fded0aa6-8bd1-470e-8264-31313ae3fdc4,INFO,Record isn't accesible via a standard data repository
-0,0c4f898c-e175-4c61-9290-e232dc866c86,INFO,Title is greater than 60 characters
-1,0c4f898c-e175-4c61-9290-e232dc866c86,INFO,Record isn't accesible via a standard data repository
 0,27904ff6-58b1-4854-bf77-3e586deb9596,WARNING,Title contains acronyms potentially
 1,27904ff6-58b1-4854-bf77-3e586deb9596,INFO,Title is greater than 60 characters
 2,27904ff6-58b1-4854-bf77-3e586deb9596,INFO,No version
@@ -1769,6 +1769,12 @@
 17,352ef738-415d-46f7-a94f-13e06ee95d80,INFO,"Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')=''"
 18,352ef738-415d-46f7-a94f-13e06ee95d80,INFO,"Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''"
 19,352ef738-415d-46f7-a94f-13e06ee95d80,INFO,Record isn't accesible via a standard data repository
+0,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,Title contains acronyms potentially
+1,5e987043-f439-4a37-b8f3-2d8016bd0fe9,INFO,No version
+2,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,"Contact missing ORCID: contact['individual-name']='McInnes, Will' contact.get('organisation-name')='Hakai Institute'"
+3,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,"Contact missing organization ROR:  contact['individual-name']='McInnes, Will' contact['organisation-name']='Hakai Institute'"
+4,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,"Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute'"
+5,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,a1059137-5bed-4ebd-838c-cafc590e9a0e,ERROR,No projects associated
 1,a1059137-5bed-4ebd-838c-cafc590e9a0e,INFO,Title is greater than 60 characters
 2,a1059137-5bed-4ebd-838c-cafc590e9a0e,INFO,No version
@@ -1782,12 +1788,6 @@
 10,a1059137-5bed-4ebd-838c-cafc590e9a0e,WARNING,Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 11,a1059137-5bed-4ebd-838c-cafc590e9a0e,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 12,a1059137-5bed-4ebd-838c-cafc590e9a0e,INFO,Record isn't accesible via a standard data repository
-0,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,Title contains acronyms potentially
-1,5e987043-f439-4a37-b8f3-2d8016bd0fe9,INFO,No version
-2,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,"Contact missing ORCID: contact['individual-name']='McInnes, Will' contact.get('organisation-name')='Hakai Institute'"
-3,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,"Contact missing organization ROR:  contact['individual-name']='McInnes, Will' contact['organisation-name']='Hakai Institute'"
-4,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,"Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute'"
-5,5e987043-f439-4a37-b8f3-2d8016bd0fe9,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 0,11ab5b35-5242-4848-8c60-0847d8fea904,ERROR,No projects associated
 1,11ab5b35-5242-4848-8c60-0847d8fea904,WARNING,Title contains acronyms potentially
 2,11ab5b35-5242-4848-8c60-0847d8fea904,INFO,Title is greater than 60 characters
@@ -1833,6 +1833,29 @@
 2,b5548ded-e62b-48e5-98f8-958399064628,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 3,b5548ded-e62b-48e5-98f8-958399064628,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 4,b5548ded-e62b-48e5-98f8-958399064628,WARNING,"Contact missing ORCID: contact['individual-name']='McInnes, Will' contact.get('organisation-name')='Hakai Institute'"
+0,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,No projects associated
+1,bc56bf13-b935-459a-89b0-39a941ea7aa1,INFO,Title is greater than 60 characters
+2,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/q5vm-8797 status_code=404
+3,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,No funder
+4,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,"Contact missing ORCID: contact['individual-name']='Del Bel Belluz, Justin' contact.get('organisation-name')='Hakai Institute'"
+5,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,"Contact missing organization ROR:  contact['individual-name']='Del Bel Belluz, Justin' contact['organisation-name']='Hakai Institute'"
+6,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,"Contact missing ORCID: contact['individual-name']='Fedje, Bryn' contact.get('organisation-name')='Hakai Institute'"
+7,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.html
+0,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,ERROR,No projects associated
+1,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Title contains acronyms potentially
+2,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,INFO,Title is greater than 60 characters
+3,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,INFO,No version
+4,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,No funder
+5,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='G.W. Frazer' contact.get('organisation-name')='Hakai Institute - GWF LiDAR Analytics'
+6,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='G.W. Frazer' contact['organisation-name']='Hakai Institute - GWF LiDAR Analytics'
+7,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
+8,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
+9,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
+10,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='G.W. Frazer' contact.get('organisation-name')='Hakai Institute - GWF LiDAR Analytics'
+11,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='G.W. Frazer' contact['organisation-name']='Hakai Institute - GWF LiDAR Analytics'
+12,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
+13,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
+14,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,INFO,Record isn't accesible via a standard data repository
 0,21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,No projects associated
 1,21498c59-96e0-4bd8-8152-b65e5df30849,WARNING,Title contains acronyms potentially
 2,21498c59-96e0-4bd8-8152-b65e5df30849,INFO,No version
@@ -1851,42 +1874,10 @@
 15,21498c59-96e0-4bd8-8152-b65e5df30849,WARNING,Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'
 16,21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS
 17,21498c59-96e0-4bd8-8152-b65e5df30849,ERROR,Empty resource name
-0,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,ERROR,No projects associated
-1,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Title contains acronyms potentially
-2,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,INFO,Title is greater than 60 characters
-3,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,INFO,No version
-4,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,No funder
-5,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='G.W. Frazer' contact.get('organisation-name')='Hakai Institute - GWF LiDAR Analytics'
-6,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='G.W. Frazer' contact['organisation-name']='Hakai Institute - GWF LiDAR Analytics'
-7,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
-8,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
-9,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-10,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='G.W. Frazer' contact.get('organisation-name')='Hakai Institute - GWF LiDAR Analytics'
-11,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='G.W. Frazer' contact['organisation-name']='Hakai Institute - GWF LiDAR Analytics'
-12,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'
-13,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'
-14,d29e0650-19c3-4c5f-a3f9-dc153984b0d3,INFO,Record isn't accesible via a standard data repository
-0,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,No projects associated
-1,bc56bf13-b935-459a-89b0-39a941ea7aa1,INFO,Title is greater than 60 characters
-2,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/q5vm-8797 status_code=404
-3,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,No funder
-4,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,"Contact missing ORCID: contact['individual-name']='Del Bel Belluz, Justin' contact.get('organisation-name')='Hakai Institute'"
-5,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,"Contact missing organization ROR:  contact['individual-name']='Del Bel Belluz, Justin' contact['organisation-name']='Hakai Institute'"
-6,bc56bf13-b935-459a-89b0-39a941ea7aa1,WARNING,"Contact missing ORCID: contact['individual-name']='Fedje, Bryn' contact.get('organisation-name')='Hakai Institute'"
-7,bc56bf13-b935-459a-89b0-39a941ea7aa1,ERROR,Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.html
-0,925de4f1-fa3a-4d12-89e6-4511bad832be,ERROR,No projects associated
-1,925de4f1-fa3a-4d12-89e6-4511bad832be,INFO,Title is greater than 60 characters
-2,925de4f1-fa3a-4d12-89e6-4511bad832be,INFO,No version
-3,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,No DOI defined
-4,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,No funder
-5,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-6,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-7,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
-8,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
-9,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-10,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
-11,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
-12,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
+0,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,Title contains acronyms potentially
+1,4074b77e-2a60-4498-897b-d7297f7d1c84,INFO,Title is greater than 60 characters
+2,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,No funder
+3,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,"Contact missing ORCID: contact['individual-name']='van der Stap, Tim' contact.get('organisation-name')='Hakai Institute'"
 0,3b04e30c-9a08-428b-8bd7-7ce93a8f8d39,ERROR,Record DOI HTTPS link is failling: https://doi.org/10.21966/30m7-qc49 status_code=404
 1,3b04e30c-9a08-428b-8bd7-7ce93a8f8d39,WARNING,No funder
 2,3b04e30c-9a08-428b-8bd7-7ce93a8f8d39,WARNING,"Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute'"
@@ -1907,10 +1898,19 @@
 0,e1a581ca-2921-4302-9022-694c16bbe318,INFO,Title is greater than 60 characters
 1,e1a581ca-2921-4302-9022-694c16bbe318,INFO,No version
 2,e1a581ca-2921-4302-9022-694c16bbe318,INFO,Record isn't accesible via a standard data repository
-0,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,Title contains acronyms potentially
-1,4074b77e-2a60-4498-897b-d7297f7d1c84,INFO,Title is greater than 60 characters
-2,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,No funder
-3,4074b77e-2a60-4498-897b-d7297f7d1c84,WARNING,"Contact missing ORCID: contact['individual-name']='van der Stap, Tim' contact.get('organisation-name')='Hakai Institute'"
+0,925de4f1-fa3a-4d12-89e6-4511bad832be,ERROR,No projects associated
+1,925de4f1-fa3a-4d12-89e6-4511bad832be,INFO,Title is greater than 60 characters
+2,925de4f1-fa3a-4d12-89e6-4511bad832be,INFO,No version
+3,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,No DOI defined
+4,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,No funder
+5,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+6,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+7,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
+8,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
+9,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+10,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
+11,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
+12,925de4f1-fa3a-4d12-89e6-4511bad832be,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
 0,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,INFO,Title is greater than 60 characters
 1,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,INFO,"Contact missing ORCID: contact['individual-name']='Lebon, Geoffrey T.' contact.get('organisation-name')='University of Washington Joint Institute for the Study of the Atmosphere'"
 2,3e5cce03-ecf7-42d8-87a2-529fc04a7faa,INFO,"Contact missing organization ROR:  contact['individual-name']='Lebon, Geoffrey T.' contact['organisation-name']='University of Washington Joint Institute for the Study of the Atmosphere'"
@@ -1939,6 +1939,7 @@
 17,599f1f68-db1f-4dbc-9d87-a32aa108b048,WARNING,"Contact missing ORCID: contact['individual-name']='Olsen, Angeleen' contact.get('organisation-name')='Hakai Institute'"
 18,599f1f68-db1f-4dbc-9d87-a32aa108b048,INFO,"Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')=''"
 19,599f1f68-db1f-4dbc-9d87-a32aa108b048,INFO,Record isn't accesible via a standard data repository
+0,f7196355-3dec-4991-9ee9-451769c82cbe,INFO,Title is greater than 60 characters
 0,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,ERROR,No projects associated
 1,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,INFO,Title is greater than 60 characters
 2,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,INFO,No version
@@ -1952,7 +1953,6 @@
 10,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'
 11,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'
 12,1c45bc68-ad43-4cd8-9f6d-fecb2a817aef,WARNING,Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'
-0,f7196355-3dec-4991-9ee9-451769c82cbe,INFO,Title is greater than 60 characters
 0,4119835e-e185-4c76-bb59-6b026ea2879a,WARNING,Title contains acronyms potentially
 1,4119835e-e185-4c76-bb59-6b026ea2879a,INFO,No version
 2,4119835e-e185-4c76-bb59-6b026ea2879a,WARNING,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon W.' contact.get('organisation-name')='Hakai Institute'"
@@ -2010,8 +2010,6 @@
 4,997abb81-3b8a-45cb-9d75-b5c507865742,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
 5,997abb81-3b8a-45cb-9d75-b5c507865742,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
 6,997abb81-3b8a-45cb-9d75-b5c507865742,INFO,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'
-0,7eeba571-1811-433d-9105-7dbd46773261,INFO,Title is greater than 60 characters
-1,7eeba571-1811-433d-9105-7dbd46773261,INFO,No version
 0,0df9f2e1-d2e1-4bb1-8c8a-e847a8dd3204,INFO,No version
 1,0df9f2e1-d2e1-4bb1-8c8a-e847a8dd3204,WARNING,No DOI defined
 2,0df9f2e1-d2e1-4bb1-8c8a-e847a8dd3204,WARNING,"Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'"
@@ -2027,6 +2025,9 @@
 1,2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,WARNING,No DOI defined
 2,2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,WARNING,"Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'"
 3,2ab8134f-2465-4ed2-8c2f-36381e0fd0e9,WARNING,"Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'"
+0,ae21afc2-2da3-4c92-8452-5d356c9beccd,INFO,Title is greater than 60 characters
+1,ae21afc2-2da3-4c92-8452-5d356c9beccd,WARNING,No funder
+2,ae21afc2-2da3-4c92-8452-5d356c9beccd,INFO,Record isn't accesible via a standard data repository
 0,fddeed08-872a-44da-b2e1-89df5a54abf4,ERROR,No projects associated
 1,fddeed08-872a-44da-b2e1-89df5a54abf4,INFO,Title is greater than 60 characters
 2,fddeed08-872a-44da-b2e1-89df5a54abf4,ERROR,Invalid licence: CC-BY-NC-4.0
@@ -2037,9 +2038,6 @@
 7,fddeed08-872a-44da-b2e1-89df5a54abf4,INFO,"Contact missing ORCID: contact['individual-name']='Crowell, Travis D.' contact.get('organisation-name')=''"
 8,fddeed08-872a-44da-b2e1-89df5a54abf4,INFO,"Contact missing ORCID: contact['individual-name']='Salomon, Anne K' contact.get('organisation-name')='Simon Fraser University'"
 9,fddeed08-872a-44da-b2e1-89df5a54abf4,INFO,Record isn't accesible via a standard data repository
-0,ae21afc2-2da3-4c92-8452-5d356c9beccd,INFO,Title is greater than 60 characters
-1,ae21afc2-2da3-4c92-8452-5d356c9beccd,WARNING,No funder
-2,ae21afc2-2da3-4c92-8452-5d356c9beccd,INFO,Record isn't accesible via a standard data repository
 0,1813d4ac-307e-44c9-bad9-1bfd064714d8,ERROR,No projects associated
 1,1813d4ac-307e-44c9-bad9-1bfd064714d8,INFO,No version
 2,1813d4ac-307e-44c9-bad9-1bfd064714d8,WARNING,No funder
@@ -2055,6 +2053,18 @@
 12,1813d4ac-307e-44c9-bad9-1bfd064714d8,WARNING,Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'
 13,1813d4ac-307e-44c9-bad9-1bfd064714d8,ERROR,Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra
 14,1813d4ac-307e-44c9-bad9-1bfd064714d8,INFO,Record isn't accesible via a standard data repository
+0,7eeba571-1811-433d-9105-7dbd46773261,INFO,Title is greater than 60 characters
+1,7eeba571-1811-433d-9105-7dbd46773261,INFO,No version
+0,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,Title is greater than 60 characters
+1,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,No version
+2,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'"
+3,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')='Hakai Institute'"
+4,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')='Hakai Institute'"
+5,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Rechsteiner, Erin' contact.get('organisation-name')='Hakai Institute'"
+6,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,"Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''"
+7,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'"
+8,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,"Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''"
+9,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,Record isn't accesible via a standard data repository
 0,8598da5b-ef61-4287-a601-72e666a3ea14,ERROR,No projects associated
 1,8598da5b-ef61-4287-a601-72e666a3ea14,INFO,Title is greater than 60 characters
 2,8598da5b-ef61-4287-a601-72e666a3ea14,INFO,No version
@@ -2069,22 +2079,6 @@
 11,8598da5b-ef61-4287-a601-72e666a3ea14,WARNING,Contact missing ORCID: contact['individual-name']='Brett T. Johnson' contact.get('organisation-name')='Hakai Institute'
 12,8598da5b-ef61-4287-a601-72e666a3ea14,WARNING,Contact missing organization ROR:  contact['individual-name']='Brett T. Johnson' contact['organisation-name']='Hakai Institute'
 13,8598da5b-ef61-4287-a601-72e666a3ea14,INFO,Record isn't accesible via a standard data repository
-0,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,Title is greater than 60 characters
-1,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,No version
-2,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'"
-3,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')='Hakai Institute'"
-4,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')='Hakai Institute'"
-5,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='Rechsteiner, Erin' contact.get('organisation-name')='Hakai Institute'"
-6,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,"Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''"
-7,a05c3d68-ee40-4c66-825e-f4d0b62e5993,WARNING,"Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'"
-8,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,"Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''"
-9,a05c3d68-ee40-4c66-825e-f4d0b62e5993,INFO,Record isn't accesible via a standard data repository
-0,5be87ce5-5533-4812-ba7e-b7f88db37899,INFO,Title is greater than 60 characters
-1,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'"
-2,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'"
-3,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'"
-4,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'"
-5,5be87ce5-5533-4812-ba7e-b7f88db37899,INFO,Record isn't accesible via a standard data repository
 0,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,ERROR,No projects associated
 1,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,INFO,Title is greater than 60 characters
 2,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,INFO,No version
@@ -2098,6 +2092,18 @@
 10,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,INFO,Contact missing ORCID: contact['individual-name']='Anna K. McLaskey' contact.get('organisation-name')='University of British Columbia'
 11,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,INFO,Contact missing organization ROR:  contact['individual-name']='Anna K. McLaskey' contact['organisation-name']='University of British Columbia'
 12,2ad19f28-6ce8-4309-94a0-0114d8d6ad69,INFO,Record isn't accesible via a standard data repository
+0,5be87ce5-5533-4812-ba7e-b7f88db37899,INFO,Title is greater than 60 characters
+1,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'"
+2,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'"
+3,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'"
+4,5be87ce5-5533-4812-ba7e-b7f88db37899,WARNING,"Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'"
+5,5be87ce5-5533-4812-ba7e-b7f88db37899,INFO,Record isn't accesible via a standard data repository
+0,8cce8805-4065-46bb-a200-d891443c6218,ERROR,No projects associated
+1,8cce8805-4065-46bb-a200-d891443c6218,INFO,Title is greater than 60 characters
+2,8cce8805-4065-46bb-a200-d891443c6218,INFO,No version
+3,8cce8805-4065-46bb-a200-d891443c6218,WARNING,No DOI defined
+4,8cce8805-4065-46bb-a200-d891443c6218,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+5,8cce8805-4065-46bb-a200-d891443c6218,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 0,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,ERROR,No projects associated
 1,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,INFO,Title is greater than 60 characters
 2,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,INFO,No version
@@ -2116,16 +2122,6 @@
 15,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,WARNING,Contact missing ORCID: contact['individual-name']='William C. Floyd' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'
 16,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,WARNING,Contact missing organization ROR:  contact['individual-name']='William C. Floyd' contact['organisation-name']='Hakai Institute - Vancouver Island University'
 17,3b4d1cc2-c682-438a-88c2-0d08f2845ca3,INFO,Record isn't accesible via a standard data repository
-0,8cce8805-4065-46bb-a200-d891443c6218,ERROR,No projects associated
-1,8cce8805-4065-46bb-a200-d891443c6218,INFO,Title is greater than 60 characters
-2,8cce8805-4065-46bb-a200-d891443c6218,INFO,No version
-3,8cce8805-4065-46bb-a200-d891443c6218,WARNING,No DOI defined
-4,8cce8805-4065-46bb-a200-d891443c6218,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-5,8cce8805-4065-46bb-a200-d891443c6218,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-0,fa17c17d-20ec-4834-9c90-15c931494af9,INFO,Title is greater than 60 characters
-1,fa17c17d-20ec-4834-9c90-15c931494af9,INFO,No version
-2,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-3,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
 0,f65af1aa-1dff-4b88-a570-9a9185c88791,INFO,Title is greater than 60 characters
 1,f65af1aa-1dff-4b88-a570-9a9185c88791,INFO,No version
 2,f65af1aa-1dff-4b88-a570-9a9185c88791,WARNING,No DOI defined
@@ -2143,6 +2139,20 @@
 11,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'
 12,14b416a4-1730-4e7c-a899-228ab5c05b56,WARNING,Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'
 13,14b416a4-1730-4e7c-a899-228ab5c05b56,ERROR,Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/ HakaiKetchikanBoL5min.html
+0,fa17c17d-20ec-4834-9c90-15c931494af9,INFO,Title is greater than 60 characters
+1,fa17c17d-20ec-4834-9c90-15c931494af9,INFO,No version
+2,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+3,fa17c17d-20ec-4834-9c90-15c931494af9,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+0,65dfbd3a-7caf-4475-839a-c2e364c9a720,INFO,Title is greater than 60 characters
+1,65dfbd3a-7caf-4475-839a-c2e364c9a720,INFO,No version
+2,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+3,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,"Contact missing ORCID: contact['individual-name']='Gonzalez Arriola, Santiago' contact.get('organisation-name')='Hakai Institute'"
+4,65dfbd3a-7caf-4475-839a-c2e364c9a720,INFO,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon W.' contact.get('organisation-name')=''"
+5,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
+0,8ede3f9c-b985-4e82-b530-3704ac46ab64,ERROR,No projects associated
+1,8ede3f9c-b985-4e82-b530-3704ac46ab64,INFO,Title is greater than 60 characters
+2,8ede3f9c-b985-4e82-b530-3704ac46ab64,WARNING,"Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'"
+3,8ede3f9c-b985-4e82-b530-3704ac46ab64,INFO,Record isn't accesible via a standard data repository
 0,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,ERROR,No projects associated
 1,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,INFO,No version
 2,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,No DOI defined
@@ -2157,16 +2167,6 @@
 11,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,Contact missing ORCID: contact['individual-name']='Santiago Gonzalez Arriola' contact.get('organisation-name')='Hakai Institute'
 12,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,Contact missing organization ROR:  contact['individual-name']='Santiago Gonzalez Arriola' contact['organisation-name']='Hakai Institute'
 13,24dc985b-9a2d-4fd5-b09e-bb41dd7617c3,WARNING,Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'
-0,65dfbd3a-7caf-4475-839a-c2e364c9a720,INFO,Title is greater than 60 characters
-1,65dfbd3a-7caf-4475-839a-c2e364c9a720,INFO,No version
-2,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-3,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,"Contact missing ORCID: contact['individual-name']='Gonzalez Arriola, Santiago' contact.get('organisation-name')='Hakai Institute'"
-4,65dfbd3a-7caf-4475-839a-c2e364c9a720,INFO,"Contact missing ORCID: contact['individual-name']='Frazer, Gordon W.' contact.get('organisation-name')=''"
-5,65dfbd3a-7caf-4475-839a-c2e364c9a720,WARNING,Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'
-0,8ede3f9c-b985-4e82-b530-3704ac46ab64,ERROR,No projects associated
-1,8ede3f9c-b985-4e82-b530-3704ac46ab64,INFO,Title is greater than 60 characters
-2,8ede3f9c-b985-4e82-b530-3704ac46ab64,WARNING,"Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'"
-3,8ede3f9c-b985-4e82-b530-3704ac46ab64,INFO,Record isn't accesible via a standard data repository
 0,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,INFO,Title is greater than 60 characters
 1,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,INFO,No version
 2,d1621e4f-3a74-4bb0-981a-34d4d62f9e3f,WARNING,"Contact missing organization ROR:  contact['individual-name']='Weekes, Carrie' contact['organisation-name']='Hakai Institute'"
