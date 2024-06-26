@@ -7,6 +7,8 @@ from pathlib import Path
 import click
 import pandas as pd
 import plotly.express as px
+import plotly.io as pio
+
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
 from tqdm import tqdm
@@ -108,7 +110,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
 @click.option(
     "--output",
     type=click.Path(file_okay=False, dir_okay=True),
-    default="output",
+    default="docs",
     help="directory where to save the output",
 )
 @click.option("--max_workers", default=10, help="The maximum number of workers to use")
@@ -198,25 +200,27 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
 
     logger.info(f"Saving results to: {output=}")
     Path(output).mkdir(parents=True, exist_ok=True)
-    environment.get_template("index.html").stream(
+    environment.get_template("index.md").stream(
         catalog_summary=catalog_summary_for_html,
         pie_chart=pie_chart_html,
+        figure=figure,
+        pio=pio,
         issues_table=combined_issues,
         time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
         generated_by=REPO_URL,
-    ).dump(f"{output}/index.html")
+    ).dump(f"{output}/index.md")
 
     # create record specific pages
     catalog_summary_for_html = catalog_summary_for_html.set_index("id")
     Path(output, "issues").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
-        environment.get_template("record.html").stream(
+        environment.get_template("record.md").stream(
             record=catalog_summary_for_html.loc[record_id],
             issues=issues,
             time=pd.Timestamp.utcnow(),
             generated_by=REPO_URL,
-        ).dump(f"{output}/issues/{record_id}.html")
+        ).dump(f"{output}/issues/{record_id}.md")
 
     logger.info("Save excel and csv outputs")
     results["catalog_summary"].to_excel(f"{output}/catalog_summary.xlsx", index=True)

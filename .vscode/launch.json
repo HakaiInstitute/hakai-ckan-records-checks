@@ -4,6 +4,12 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
+
+
+
+
+
 
 
 
@@ -33,7 +39,15 @@
             "request": "launch",
             "program": "hakai_ckan_records_checks",
             "console": "integratedTerminal",
-            "args": ["-c","https://catalogue.hakai.org","--no-cache","--records","ca-cioos_6c449900-c726-4e9a-b241-707711e253a7"]
+            "args": ["-c","https://catalogue.hakai.org","--no-cache","--record_ids","ca-cioos_6c449900-c726-4e9a-b241-707711e253a7"]
+        },
+        {
+            "name": "Hakai CKAN  Pruth Time Series Checks",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "hakai_ckan_records_checks",
+            "console": "integratedTerminal",
+            "args": ["-c","https://catalogue.hakai.org","--no-cache","--record_ids","ca-cioos_2d693456-7e65-46be-95d7-6bb697320017"]
         }
     ]
 }
