@@ -11,3 +11,8 @@
     height: 400px;
     margin: 0;
 }
+
+#records_summary_table {
+  width: 100%;
+  overflow-x: scroll;
+}

@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+  - title
 ---
 
 # [Summary]({{ckan_url}})
@@ -25,9 +26,13 @@ Download:
 [CSV](catalog_summary.csv){ .md-button }
 
 {{
-    catalog_summary
-    .drop(columns=['id','name','spatial','vertical-extent','organization','private'])
-    .to_markdown()
+  catalog_summary.drop(columns=['id','name','spatial','vertical-extent','organization','private'])
+  .to_html(
+      render_links=True,
+      table_id='records_table',
+      escape=False,
+      classes='table table-striped table-hover table-sm'
+  )
 }}
 
 ## Issues Summary
@@ -37,10 +42,14 @@ Download:
 [CSV](issues_list.csv){ .md-button }
 
 {{
-    issues_table[['title','level','message']]
-    .to_markdown(
-        index=False
-    )
+  issues_table[['title','level','message']]
+  .to_html(
+    index=False,
+    render_links=True,
+    table_id='issues_table',
+    escape=False,
+    classes='table table-striped table-hover table-sm'
+  )
 }}
 
 <script>
@@ -63,5 +72,18 @@ Download:
         {% endfor %}
     ];
     L.geoJSON(geojsonFeatures).addTo(map);
+
+    $(document).ready(function () {
+      $("#records_table").DataTable({
+        scrollX: true,
+        columnDefs: [{
+          width: '700px',
+          targets: 1,
+        }]
+      });
+    });
+    $(document).ready(function () {
+      $("#issues_table").DataTable();
+    });
   })
 </script>
