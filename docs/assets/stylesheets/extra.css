@@ -1,0 +1,18 @@
+:root {
+    /* stylelint-disable */
+    --md-primary-fg-color:        #aa2025;
+    --md-primary-fg-color--light: #b17272;
+    --md-primary-fg-color--dark:  #5b1b1f;
+    /* stylelint-enable */
+  }
+
+#map {
+    width: 100%;
+    height: 400px;
+    margin: 0;
+}
+
+#records_summary_table {
+  width: 100%;
+  overflow-x: scroll;
+}

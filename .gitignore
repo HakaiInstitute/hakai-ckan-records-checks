@@ -3,3 +3,7 @@ output/*
 cache.pkl
 **/.DS_Store
 .DS_Store
+docs/catalog_summary.csv
+docs/catalog_summary.xlsx
+docs/issues_list.csv
+docs/issues_list.xlsx

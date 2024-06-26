@@ -7,6 +7,8 @@ from pathlib import Path
 import click
 import pandas as pd
 import plotly.express as px
+import plotly.io as pio
+
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
 from tqdm import tqdm
@@ -29,19 +31,16 @@ def format_summary(summary):
     def link_issue_page(record_row, var):
         if pd.isna(record_row[var]):
             return ""
-        return f"<a title='{record_row['id']}' href='issues/{record_row['id']}.html' target='_blank'>{record_row[var]}</a>"
-
-    def link_record_page_title(record_row, var="Catalogue Page"):
-        if pd.isna(record_row["name"]):
-            return ""
-        return f"<a href='https://catalogue.hakai.org/dataset/{record_row['name']}' target='_blank'>{record_row[var]}</a>"
+        return f"<a title='{record_row['id']}' href='/issues/{record_row['id']}/' target='_blank'>{record_row[var]}</a>"
 
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary = summary.assign(
         INFO=summary.apply(lambda x: link_issue_page(x, "INFO"), axis=1),
         WARNING=summary.apply(lambda x: link_issue_page(x, "WARNING"), axis=1),
         ERROR=summary.apply(lambda x: link_issue_page(x, "ERROR"), axis=1),
-        title=summary.apply(lambda x: link_record_page_title(x, "title"), axis=1),
+        sum=summary.apply(lambda x: link_issue_page(x, "sum"), axis=1),
+        title=summary.apply(lambda x: link_issue_page(x, "title"), axis=1),
+        Catalogue="<a href='https://catalogue.hakai.org/dataset/"+ summary['name']+ "' target='_blank'>link</a>" 
     )
     return summary.astype({"resources_count": "int32"}).fillna("")
 
@@ -108,7 +107,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
 @click.option(
     "--output",
     type=click.Path(file_okay=False, dir_okay=True),
-    default="output",
+    default="docs",
     help="directory where to save the output",
 )
 @click.option("--max_workers", default=10, help="The maximum number of workers to use")
@@ -198,25 +197,27 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
 
     logger.info(f"Saving results to: {output=}")
     Path(output).mkdir(parents=True, exist_ok=True)
-    environment.get_template("index.html").stream(
+    environment.get_template("index.md").stream(
         catalog_summary=catalog_summary_for_html,
         pie_chart=pie_chart_html,
+        figure=figure,
+        pio=pio,
         issues_table=combined_issues,
         time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
         generated_by=REPO_URL,
-    ).dump(f"{output}/index.html")
+    ).dump(f"{output}/index.md")
 
     # create record specific pages
     catalog_summary_for_html = catalog_summary_for_html.set_index("id")
     Path(output, "issues").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
-        environment.get_template("record.html").stream(
+        environment.get_template("record.md").stream(
             record=catalog_summary_for_html.loc[record_id],
             issues=issues,
             time=pd.Timestamp.utcnow(),
             generated_by=REPO_URL,
-        ).dump(f"{output}/issues/{record_id}.html")
+        ).dump(f"{output}/issues/{record_id}.md")
 
     logger.info("Save excel and csv outputs")
     results["catalog_summary"].to_excel(f"{output}/catalog_summary.xlsx", index=True)

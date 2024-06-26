@@ -14,7 +14,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
@@ -25,10 +26,20 @@ jobs:
 
       - name: Run Hakai CKAN Record Checks
         run: python hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
+      - name: Commit changes
+        run: |
+          git config --global user.name "Hakai Institute"
+          git config --global user.email "
+          git add .
+          git commit -m "Update records"
+          git push
+
+      - name: Build site with mkdocs
+        run: mkdocs build --site-dir site
       - name: Upload Page artifacts
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./output
+          path: ./site
   deploy:
     needs: build
     permissions:
