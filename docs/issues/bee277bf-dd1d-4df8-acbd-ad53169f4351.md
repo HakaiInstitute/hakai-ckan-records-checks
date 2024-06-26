@@ -1,11 +1,11 @@
 ---
-title: <a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>
+title: <a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='/issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>
+# <a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='/issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>
 
 <div id='map'></div>
 
@@ -46,7 +46,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>"
+            "name" : "<a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='/issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.62224808, 51.28805197], [-127.44960574, 51.28805197], [-127.44960574, 52.00866824], [-128.62224808, 52.00866824], [-128.62224808, 51.28805197]]]}
     }

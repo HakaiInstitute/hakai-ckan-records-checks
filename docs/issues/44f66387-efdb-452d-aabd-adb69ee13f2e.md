@@ -1,11 +1,11 @@
 ---
-title: <a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e/' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a>
+title: <a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='/issues/44f66387-efdb-452d-aabd-adb69ee13f2e/' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e/' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a>
+# <a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='/issues/44f66387-efdb-452d-aabd-adb69ee13f2e/' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a>
 
 <div id='map'></div>
 
@@ -59,7 +59,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e/' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a>"
+            "name" : "<a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='/issues/44f66387-efdb-452d-aabd-adb69ee13f2e/' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-131.96137029, 55.13698451], [-131.23813946, 55.13698451], [-131.23813946, 55.39922677], [-131.96137029, 55.39922677], [-131.96137029, 55.13698451]]]}
     }

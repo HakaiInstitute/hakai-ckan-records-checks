@@ -1,11 +1,11 @@
 ---
-title: <a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>
+title: <a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='/issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>
+# <a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='/issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>
 
 <div id='map'></div>
 
@@ -47,7 +47,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>"
+            "name" : "<a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='/issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.60227432, 51.39074678], [-127.47434441, 51.39074678], [-127.47434441, 52.07117353], [-128.60227432, 52.07117353], [-128.60227432, 51.39074678]]]}
     }

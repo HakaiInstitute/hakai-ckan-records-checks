@@ -1,11 +1,11 @@
 ---
-title: <a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>
+title: <a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='/issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>
+# <a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='/issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>
 
 <div id='map'></div>
 
@@ -47,7 +47,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>"
+            "name" : "<a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='/issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-127.11545814, 49.78433133], [-124.85227454, 49.78433133], [-124.85227454, 50.81587848], [-127.11545814, 50.81587848], [-127.11545814, 49.78433133]]]}
     }

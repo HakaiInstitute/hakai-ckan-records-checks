@@ -1,11 +1,11 @@
 ---
-title: <a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>
+title: <a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='/issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>
+# <a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='/issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>
 
 <div id='map'></div>
 
@@ -48,7 +48,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>"
+            "name" : "<a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='/issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13217163085938, 51.64870258356993], [-128.06350708007812, 51.64870258356993], [-128.06350708007812, 51.69958706405643], [-128.13217163085938, 51.69958706405643], [-128.13217163085938, 51.64870258356993]]]}
     }

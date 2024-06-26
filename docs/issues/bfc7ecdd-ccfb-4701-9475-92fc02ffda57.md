@@ -1,11 +1,11 @@
 ---
-title: <a title='bfc7ecdd-ccfb-4701-9475-92fc02ffda57' href='issues/bfc7ecdd-ccfb-4701-9475-92fc02ffda57/' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a>
+title: <a title='bfc7ecdd-ccfb-4701-9475-92fc02ffda57' href='/issues/bfc7ecdd-ccfb-4701-9475-92fc02ffda57/' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='bfc7ecdd-ccfb-4701-9475-92fc02ffda57' href='issues/bfc7ecdd-ccfb-4701-9475-92fc02ffda57/' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a>
+# <a title='bfc7ecdd-ccfb-4701-9475-92fc02ffda57' href='/issues/bfc7ecdd-ccfb-4701-9475-92fc02ffda57/' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a>
 
 <div id='map'></div>
 
@@ -51,7 +51,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='bfc7ecdd-ccfb-4701-9475-92fc02ffda57' href='issues/bfc7ecdd-ccfb-4701-9475-92fc02ffda57/' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a>"
+            "name" : "<a title='bfc7ecdd-ccfb-4701-9475-92fc02ffda57' href='/issues/bfc7ecdd-ccfb-4701-9475-92fc02ffda57/' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-135.7, 48.6], [-122.5, 48.6], [-122.5, 59.5], [-135.7, 59.5], [-135.7, 48.6]]]}
     }

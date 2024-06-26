@@ -1,11 +1,11 @@
 ---
-title: <a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>
+title: <a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='/issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>
+# <a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='/issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>
 
 <div id='map'></div>
 
@@ -48,7 +48,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>"
+            "name" : "<a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='/issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-129.5, 52.65], [-129.4, 52.65], [-129.4, 52.7], [-129.5, 52.7], [-129.5, 52.65]]]}
     }

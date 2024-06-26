@@ -1,11 +1,11 @@
 ---
-title: <a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>
+title: <a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='/issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>
+# <a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='/issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>
 
 <div id='map'></div>
 
@@ -55,7 +55,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>"
+            "name" : "<a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='/issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1719970703125, 51.63229666135982], [-128.10985565185547, 51.63229666135982], [-128.10985565185547, 51.68362528576685], [-128.1719970703125, 51.68362528576685], [-128.1719970703125, 51.63229666135982]]]}
     }

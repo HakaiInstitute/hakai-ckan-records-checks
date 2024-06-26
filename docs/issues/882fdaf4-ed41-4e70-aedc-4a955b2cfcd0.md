@@ -1,11 +1,11 @@
 ---
-title: <a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>
+title: <a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='/issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>
 hide:
   - navigation
   - toc
 ---
 
-# <a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>
+# <a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='/issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>
 
 <div id='map'></div>
 
@@ -47,7 +47,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>"
+            "name" : "<a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='/issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17701209, 51.62693395], [-128.1138407, 51.62693395], [-128.1138407, 51.67805576], [-128.17701209, 51.67805576], [-128.17701209, 51.62693395]]]}
     }
