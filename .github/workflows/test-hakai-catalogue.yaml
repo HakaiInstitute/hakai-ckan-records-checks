@@ -29,7 +29,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.name "Hakai Institute"
-          git config --global user.email "
+          git config --global user.email "hakai.it@hakai.org"
           git add .
           git commit -m "Update records"
           git push
