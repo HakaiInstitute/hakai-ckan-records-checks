@@ -1,11 +1,13 @@
 ---
-title: <a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='/issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>
+title: Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019
 hide:
   - navigation
   - toc
 ---
 
-# <a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='/issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>
+# Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -47,7 +49,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='/issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0/' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a>"
+            "name" : "Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17701209, 51.62693395], [-128.1138407, 51.62693395], [-128.1138407, 51.67805576], [-128.17701209, 51.67805576], [-128.17701209, 51.62693395]]]}
     }

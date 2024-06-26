@@ -1,11 +1,13 @@
 ---
-title: <a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='/issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>
+title: Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017
 hide:
   - navigation
   - toc
 ---
 
-# <a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='/issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>
+# Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -47,7 +49,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='b8aae85e-c9b8-46cc-929a-f6c27eb5adf3' href='/issues/b8aae85e-c9b8-46cc-929a-f6c27eb5adf3/' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a>"
+            "name" : "Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-127.11545814, 49.78433133], [-124.85227454, 49.78433133], [-124.85227454, 50.81587848], [-127.11545814, 50.81587848], [-127.11545814, 49.78433133]]]}
     }

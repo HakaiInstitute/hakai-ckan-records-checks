@@ -1,11 +1,13 @@
 ---
-title: <a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='/issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc/' target='_blank'>Geology - Calvert Island</a>
+title: Geology - Calvert Island
 hide:
   - navigation
   - toc
 ---
 
-# <a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='/issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc/' target='_blank'>Geology - Calvert Island</a>
+# Geology - Calvert Island
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -46,7 +48,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='/issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc/' target='_blank'>Geology - Calvert Island</a>"
+            "name" : "Geology - Calvert Island"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2489013671875, 51.402632657661314], [-127.8204345703125, 51.402632657661314], [-127.8204345703125, 51.7644403180351], [-128.2489013671875, 51.7644403180351], [-128.2489013671875, 51.402632657661314]]]}
     }

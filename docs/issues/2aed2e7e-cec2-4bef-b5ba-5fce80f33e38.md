@@ -1,11 +1,13 @@
 ---
-title: <a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='/issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>
+title: Underwater Video Transects - Calvert Island - 2016
 hide:
   - navigation
   - toc
 ---
 
-# <a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='/issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>
+# Underwater Video Transects - Calvert Island - 2016
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -48,7 +50,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='2aed2e7e-cec2-4bef-b5ba-5fce80f33e38' href='/issues/2aed2e7e-cec2-4bef-b5ba-5fce80f33e38/' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a>"
+            "name" : "Underwater Video Transects - Calvert Island - 2016"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13217163085938, 51.64870258356993], [-128.06350708007812, 51.64870258356993], [-128.06350708007812, 51.69958706405643], [-128.13217163085938, 51.69958706405643], [-128.13217163085938, 51.64870258356993]]]}
     }

@@ -1,11 +1,13 @@
 ---
-title: <a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='/issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>
+title: Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017
 hide:
   - navigation
   - toc
 ---
 
-# <a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='/issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>
+# Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -47,7 +49,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='/issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff/' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a>"
+            "name" : "Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.60227432, 51.39074678], [-127.47434441, 51.39074678], [-127.47434441, 52.07117353], [-128.60227432, 52.07117353], [-128.60227432, 51.39074678]]]}
     }

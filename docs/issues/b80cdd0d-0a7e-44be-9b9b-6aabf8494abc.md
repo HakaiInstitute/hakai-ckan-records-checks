@@ -1,11 +1,13 @@
 ---
-title: <a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='/issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>
+title: Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory
 hide:
   - navigation
   - toc
 ---
 
-# <a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='/issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>
+# Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -48,7 +50,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='/issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc/' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a>"
+            "name" : "Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-129.5, 52.65], [-129.4, 52.65], [-129.4, 52.7], [-129.5, 52.7], [-129.5, 52.65]]]}
     }

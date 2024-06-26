@@ -1,11 +1,13 @@
 ---
-title: <a title='b84dd7b5-aa7b-4ea5-9dbb-f019dc21ca9f' href='/issues/b84dd7b5-aa7b-4ea5-9dbb-f019dc21ca9f/' target='_blank'>Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</a>
+title: Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018
 hide:
   - navigation
   - toc
 ---
 
-# <a title='b84dd7b5-aa7b-4ea5-9dbb-f019dc21ca9f' href='/issues/b84dd7b5-aa7b-4ea5-9dbb-f019dc21ca9f/' target='_blank'>Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</a>
+# Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -46,7 +48,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='b84dd7b5-aa7b-4ea5-9dbb-f019dc21ca9f' href='/issues/b84dd7b5-aa7b-4ea5-9dbb-f019dc21ca9f/' target='_blank'>Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</a>"
+            "name" : "Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-125.57747949, 49.70969514], [-124.52984083, 49.70969514], [-124.52984083, 50.11496976], [-125.57747949, 50.11496976], [-125.57747949, 49.70969514]]]}
     }

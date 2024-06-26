@@ -1,11 +1,13 @@
 ---
-title: <a title='e5b09add-8fed-4bce-a606-2dbc8046c0f2' href='/issues/e5b09add-8fed-4bce-a606-2dbc8046c0f2/' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA</a>
+title: Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA
 hide:
   - navigation
   - toc
 ---
 
-# <a title='e5b09add-8fed-4bce-a606-2dbc8046c0f2' href='/issues/e5b09add-8fed-4bce-a606-2dbc8046c0f2/' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA</a>
+# Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965f-4e4e-b510-0000ae044824' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -59,7 +61,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='e5b09add-8fed-4bce-a606-2dbc8046c0f2' href='/issues/e5b09add-8fed-4bce-a606-2dbc8046c0f2/' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA</a>"
+            "name" : "Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA"
         },
         "geometry": {'type': 'Point', 'coordinates': [-152.41, 57.79]}
     }

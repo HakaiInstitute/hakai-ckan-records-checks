@@ -1,11 +1,13 @@
 ---
-title: <a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='/issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>
+title: Nearshore Macrophyte Stable Isotopes - BC Central Coast
 hide:
   - navigation
   - toc
 ---
 
-# <a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='/issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>
+# Nearshore Macrophyte Stable Isotopes - BC Central Coast
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -46,7 +48,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='/issues/bee277bf-dd1d-4df8-acbd-ad53169f4351/' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a>"
+            "name" : "Nearshore Macrophyte Stable Isotopes - BC Central Coast"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.62224808, 51.28805197], [-127.44960574, 51.28805197], [-127.44960574, 52.00866824], [-128.62224808, 52.00866824], [-128.62224808, 51.28805197]]]}
     }

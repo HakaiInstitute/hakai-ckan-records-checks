@@ -1,11 +1,13 @@
 ---
-title: <a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='/issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>
+title: Kelp Canopy Extent 2006 - NW Calvert Island
 hide:
   - navigation
   - toc
 ---
 
-# <a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='/issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>
+# Kelp Canopy Extent 2006 - NW Calvert Island
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0' target='_blank'>link</a>
 
 <div id='map'></div>
 
@@ -55,7 +57,7 @@ hide:
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "<a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='/issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe/' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a>"
+            "name" : "Kelp Canopy Extent 2006 - NW Calvert Island"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1719970703125, 51.63229666135982], [-128.10985565185547, 51.63229666135982], [-128.10985565185547, 51.68362528576685], [-128.1719970703125, 51.68362528576685], [-128.1719970703125, 51.63229666135982]]]}
     }
