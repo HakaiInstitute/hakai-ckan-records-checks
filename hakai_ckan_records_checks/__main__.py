@@ -31,7 +31,7 @@ def format_summary(summary):
     def link_issue_page(record_row, var):
         if pd.isna(record_row[var]):
             return ""
-        return f"<a title='{record_row['id']}' href='issues/{record_row['id']}/' target='_blank'>{record_row[var]}</a>"
+        return f"<a title='{record_row['id']}' href='/issues/{record_row['id']}/' target='_blank'>{record_row[var]}</a>"
 
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary = summary.assign(
