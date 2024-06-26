@@ -7,10 +7,12 @@ hide:
 
 # {{ record['title'] }}
 
+Records page: {{ record['Catalogue'] }}
+
 <div id='map'></div>
 
 !!! info "Metadata"
-    {% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','INFO','sum','title','spatial') %}
+    {% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','INFO','sum','title','spatial','Title') %}
     - **{{ key.replace(('-'),' ').replace('_',' ').title() }}**: {{value}} {% endfor %}
 
 ### Issues

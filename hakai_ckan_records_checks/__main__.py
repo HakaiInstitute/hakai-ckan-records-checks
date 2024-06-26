@@ -8,7 +8,6 @@ import click
 import pandas as pd
 import plotly.express as px
 import plotly.io as pio
-
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
 from tqdm import tqdm
@@ -31,16 +30,21 @@ def format_summary(summary):
     def link_issue_page(record_row, var):
         if pd.isna(record_row[var]):
             return ""
-        return f"<a title='{record_row['id']}' href='/issues/{record_row['id']}/' target='_blank'>{record_row[var]}</a>"
+        return f"<a title='{record_row['id']}' href='issues/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
 
+    summary[["INFO", "WARNING", "ERROR", "sum"]] = summary[
+        ["INFO", "WARNING", "ERROR", "sum"]
+    ].astype("Int64")
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary = summary.assign(
         INFO=summary.apply(lambda x: link_issue_page(x, "INFO"), axis=1),
         WARNING=summary.apply(lambda x: link_issue_page(x, "WARNING"), axis=1),
         ERROR=summary.apply(lambda x: link_issue_page(x, "ERROR"), axis=1),
         sum=summary.apply(lambda x: link_issue_page(x, "sum"), axis=1),
-        title=summary.apply(lambda x: link_issue_page(x, "title"), axis=1),
-        Catalogue="<a href='https://catalogue.hakai.org/dataset/"+ summary['name']+ "' target='_blank'>link</a>" 
+        Title=summary.apply(lambda x: link_issue_page(x, "title"), axis=1),
+        Catalogue="<a href='https://catalogue.hakai.org/dataset/"
+        + summary["name"]
+        + "' target='_blank'>link</a>",
     )
     return summary.astype({"resources_count": "int32"}).fillna("")
 

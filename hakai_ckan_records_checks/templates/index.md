@@ -4,14 +4,9 @@ hide:
   - toc
   - title
 ---
+#
 
-# [Summary]({{ckan_url}})
-
-This page present a summary of:
-
-- [Summary](#summary)
-  - [Records Summary](#records-summary)
-  - [Issues Summary](#issues-summary)
+This page present a summary of issues detected from <{{ ckan_url }}>.
 
 <div id="map"></div>
 
@@ -26,7 +21,8 @@ Download:
 [CSV](catalog_summary.csv){ .md-button }
 
 {{
-  catalog_summary.drop(columns=['id','name','spatial','vertical-extent','organization','private'])
+  catalog_summary[['Title','Catalogue','sum','projects','licence','progress','state','ressource-type','eov','metadata_created','metadata_modified','INFO','WARNING','ERROR']]
+  .rename(columns={"sum": "Issues"})
   .to_html(
       render_links=True,
       table_id='records_table',
