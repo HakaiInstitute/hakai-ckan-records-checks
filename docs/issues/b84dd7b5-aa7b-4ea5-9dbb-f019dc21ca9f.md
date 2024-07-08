@@ -26,8 +26,8 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4
     - **Resources Count**: 1 
     - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
     - **Eov**: other, inorganicCarbon 
-    - **Metadata Created**: 2024-05-14T20:02:32.893425 
-    - **Metadata Modified**: 2024-05-14T20:02:32.893432 
+    - **Metadata Publication**: 2022-02-03 
+    - **Metadata Revision**: 2024-03-14 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710' target='_blank'>link</a> 
 
 ### Issues

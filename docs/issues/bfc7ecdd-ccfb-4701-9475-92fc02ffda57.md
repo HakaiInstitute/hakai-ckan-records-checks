@@ -26,8 +26,8 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033
     - **Resources Count**: 2 
     - **Vertical Extent**: [{'max': '2.0', 'min': '2.0'}] 
     - **Eov**: oxygen, seaSurfaceSalinity, seaSurfaceTemperature, inorganicCarbon 
-    - **Metadata Created**: 2024-05-14T19:47:55.800299 
-    - **Metadata Modified**: 2024-05-14T19:47:55.800305 
+    - **Metadata Publication**: 2021-06-11 
+    - **Metadata Revision**: 2024-03-14 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a> 
 
 ### Issues

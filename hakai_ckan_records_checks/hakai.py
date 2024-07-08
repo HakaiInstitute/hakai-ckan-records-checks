@@ -240,6 +240,8 @@ def get_record_summary(record):
         "spatial": record.get("spatial"),
         "vertical-extent": record.get("vertical-extent"),
         "eov": ", ".join(record.get("eov", [])),
-        "metadata_created": record.get("metadata_created"),
-        "metadata_modified": record.get("metadata_modified"),
+        **{
+            f"metadata_{item['type']}": item["value"]
+            for item in record.get("metadata-reference-date", [])
+        },
     }

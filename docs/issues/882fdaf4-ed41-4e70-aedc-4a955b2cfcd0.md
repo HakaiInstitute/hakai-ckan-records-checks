@@ -26,8 +26,8 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c7
     - **Resources Count**: 1 
     - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
     - **Eov**: other, invertebrateAbundanceAndDistribution 
-    - **Metadata Created**: 2024-05-14T19:48:19.996896 
-    - **Metadata Modified**: 2024-05-14T19:48:19.996903 
+    - **Metadata Publication**: 2022-01-24 
+    - **Metadata Revision**: 2024-03-15 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a> 
 
 ### Issues

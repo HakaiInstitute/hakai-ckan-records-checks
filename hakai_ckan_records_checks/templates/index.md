@@ -10,6 +10,16 @@ This page present a summary of issues detected from <{{ ckan_url }}>.
 
 <div id="map"></div>
 
+
+## Record Submission Timeseries
+
+``` plotly
+{{pio.to_json(timeseries_figure)}}
+```
+
+
+## Issue Distribution
+
 ``` plotly
 {{ pio.to_json(figure) }}
 ```
@@ -21,9 +31,12 @@ Download:
 [CSV](catalog_summary.csv){ .md-button }
 
 {{
-  catalog_summary[['Title','Catalogue','sum','projects','licence','progress','state','ressource-type','eov','metadata_created','metadata_modified','INFO','WARNING','ERROR']]
-  .rename(columns={"sum": "Issues"})
-  .to_html(
+  catalog_summary[['Title','Catalogue','sum','projects','licence','progress','state','ressource-type','eov','metadata_publication','metadata_revision','INFO','WARNING','ERROR']]
+  .rename(columns={
+    "sum": "Issues",
+    "metadata_publication":"Publication",
+    "metadata_revision":"Revision"
+  }).to_html(
       render_links=True,
       table_id='records_table',
       escape=False,
@@ -73,7 +86,7 @@ Download:
       $("#records_table").DataTable({
         scrollX: true,
         columnDefs: [{
-          width: '700px',
+          width: '300px',
           targets: 1,
         }]
       });

@@ -26,8 +26,8 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-370
     - **Resources Count**: 1 
     - **Vertical Extent**: [{'max': '10.0', 'min': '0.0'}] 
     - **Eov**: stableCarbonIsotopes, macroalgalCanopyCoverAndComposition, seagrassCoverAndComposition 
-    - **Metadata Created**: 2024-05-14T19:59:12.279046 
-    - **Metadata Modified**: 2024-05-14T19:59:12.279053 
+    - **Metadata Publication**: 2022-01-13 
+    - **Metadata Revision**: 2024-03-14 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a> 
 
 ### Issues

@@ -93,7 +93,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
     )
     catalog_summary = (
         pd.DataFrame([result["summary"] for result in results if result])
-        .sort_values("metadata_created")
+        .sort_values("metadata_publication")
         .reset_index(drop=True)
     )
 
@@ -172,8 +172,6 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     )
 
     figure.update_layout(
-        autosize=False,
-        width=1000,
         legend=dict(
             orientation="h",
             yanchor="bottom",
@@ -194,7 +192,22 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     )
     figure.update_traces(textposition="inside")
     figure.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
-    pie_chart_html = figure.to_html(full_html=False)
+
+    # submission timeseries
+    publication_time = pd.to_datetime(
+        results["catalog_summary"]["metadata_publication"]
+    )
+    submission_timeseries = pd.DataFrame(
+        {"publication_time": publication_time, "value": 1}
+    ).sort_values("publication_time")
+    submission_timeseries["cumulative"] = submission_timeseries["value"].cumsum()
+    timeseries_figure = px.area(
+        submission_timeseries,
+        x="publication_time",
+        y="cumulative",
+        labels={"cumulative": "Published Records", "publication_time": ""},
+        color_discrete_sequence=["#AA2026"],
+    )
 
     # save results
     catalog_summary_for_html = format_summary(results["catalog_summary"])
@@ -203,7 +216,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     Path(output).mkdir(parents=True, exist_ok=True)
     environment.get_template("index.md").stream(
         catalog_summary=catalog_summary_for_html,
-        pie_chart=pie_chart_html,
+        timeseries_figure=timeseries_figure,
         figure=figure,
         pio=pio,
         issues_table=combined_issues,
