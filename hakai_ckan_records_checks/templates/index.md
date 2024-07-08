@@ -1,10 +1,8 @@
 ---
 hide:
   - navigation
-  - toc
-  - title
 ---
-#
+# Summary
 
 This page present a summary of issues detected from <{{ ckan_url }}>.
 
@@ -24,7 +22,7 @@ This page present a summary of issues detected from <{{ ckan_url }}>.
 {{ pio.to_json(figure) }}
 ```
 
-## Records Summary
+## Record Table
 
 Download:
 [Excel](catalog_summary.xlsx){ .md-button }
@@ -34,8 +32,12 @@ Download:
   catalog_summary[['Title','Catalogue','sum','projects','licence','progress','state','ressource-type','eov','metadata_publication','metadata_revision','INFO','WARNING','ERROR']]
   .rename(columns={
     "sum": "Issues",
-    "metadata_publication":"Publication",
-    "metadata_revision":"Revision"
+    "metadata_publication":"publication",
+    "metadata_revision":"revision",
+    "INFO":'inf.',
+    "WARNING":"war.",
+    "ERROR":"err.",
+    "ressource-type":"ressour type",
   }).to_html(
       render_links=True,
       table_id='records_table',
@@ -88,7 +90,11 @@ Download:
         columnDefs: [{
           width: '300px',
           targets: 1,
-        }]
+        },{
+          className: 'max-width-100', // Assign a custom class
+          targets: [2, 3] // Example columns to have max-width
+        }
+        ]
       });
     });
     $(document).ready(function () {
