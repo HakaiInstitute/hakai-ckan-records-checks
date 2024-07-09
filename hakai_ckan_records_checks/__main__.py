@@ -47,7 +47,9 @@ def format_summary(summary):
         + summary["name"]
         + "' target='_blank'>link</a>",
     )
-    return summary.astype({"resources_count": "int32"}).fillna("")
+    summary['citation_count'] = summary['citation_count'].fillna(-1)
+    
+    return summary.astype({"resources_count": "int32","citation_count":"int32"}).fillna("")
 
 
 def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:

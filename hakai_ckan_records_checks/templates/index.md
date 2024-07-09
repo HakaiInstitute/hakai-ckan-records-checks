@@ -32,7 +32,9 @@ Download:
   catalog_summary[[
     'Title','Catalogue','sum','projects','licence','progress','state',
     'ressource-type','eov','metadata_publication','metadata_revision',
-    'citation_count','citations_over_time','INFO','WARNING','ERROR'
+    'doi',
+    'citation_count','citations_over_time',
+    'INFO','WARNING','ERROR'
   ]]
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
   .rename(columns={
@@ -43,6 +45,8 @@ Download:
     "WARNING":"war.",
     "ERROR":"err.",
     "ressource-type":"ressour type",
+    "citation_count": "Citations",
+    "citation_over_time": "Citation Distribution"
   })
   .to_html(
       render_links=True,
