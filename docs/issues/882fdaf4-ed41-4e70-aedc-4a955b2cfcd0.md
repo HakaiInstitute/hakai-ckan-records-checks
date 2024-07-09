@@ -39,8 +39,8 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c7
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|
 | INFO    | Title is greater than 60 characters                                                                                           |
 | INFO    | No version                                                                                                                    |
-| WARNING | Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute' |
 | INFO    | Record isn't accesible via a standard data repository                                                                         |
+| WARNING | Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute' |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

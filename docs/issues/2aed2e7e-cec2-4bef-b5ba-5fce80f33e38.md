@@ -38,10 +38,10 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e
 | level   | message                                                                                                                                 |
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | INFO    | No version                                                                                                                              |
+| INFO    | Record isn't accesible via a standard data repository                                                                                   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'                         |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
-| INFO    | Record isn't accesible via a standard data repository                                                                                   |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

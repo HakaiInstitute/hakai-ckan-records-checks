@@ -38,21 +38,21 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965
 | level   | message                                                                                                                                                            |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | No projects associated                                                                                                                                             |
-| WARNING | Title contains acronyms potentially                                                                                                                                |
+| ERROR   | Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/KodiakBoL5min.html                                         |
 | INFO    | Title is greater than 60 characters                                                                                                                                |
 | INFO    | No version                                                                                                                                                         |
+| INFO    | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='NOAA'                                                               |
+| INFO    | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='University of Alaska Fairbanks Ocean Acidification Research Center' |
+| INFO    | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Dakunalytics'                                                       |
+| WARNING | Title contains acronyms potentially                                                                                                                                |
 | WARNING | No DOI defined                                                                                                                                                     |
 | WARNING | No funder                                                                                                                                                          |
 | WARNING | No publisher                                                                                                                                                       |
 | WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'                                                |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Evans, Wiley' contact['organisation-name']='Hakai Institute'                                        |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'                                                    |
-| INFO    | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='NOAA'                                                               |
-| INFO    | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='University of Alaska Fairbanks Ocean Acidification Research Center' |
-| INFO    | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Dakunalytics'                                                       |
 | WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'                                                |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Evans, Wiley' contact['organisation-name']='Hakai Institute'                                        |
-| ERROR   | Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/KodiakBoL5min.html                                         |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

@@ -38,9 +38,10 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee
 | level   | message                                                                                                                      |
 |:--------|:-----------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | No projects associated                                                                                                       |
-| WARNING | Title contains acronyms potentially                                                                                          |
 | INFO    | Title is greater than 60 characters                                                                                          |
 | INFO    | No version                                                                                                                   |
+| INFO    | Record isn't accesible via a standard data repository                                                                        |
+| WARNING | Title contains acronyms potentially                                                                                          |
 | WARNING | No funder                                                                                                                    |
 | WARNING | No publisher                                                                                                                 |
 | WARNING | Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'           |
@@ -52,7 +53,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Carrie Weekes' contact['organisation-name']='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'           |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'   |
-| INFO    | Record isn't accesible via a standard data repository                                                                        |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
