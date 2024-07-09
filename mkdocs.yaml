@@ -28,6 +28,7 @@ theme:
   features:
     - navigation.tracking
     - navigation.tabs
+    - content.tabs.link
 
 plugins:
   - plotly
@@ -37,8 +38,11 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
   - tables
   - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.superfences:
       custom_fences:
         - name: plotly

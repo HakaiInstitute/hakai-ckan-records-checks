@@ -124,10 +124,13 @@ def test_record_requirements(record) -> pd.DataFrame:
                 "ERROR",
                 f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={response.status_code}",
             )
-            # Check if the DOI is redirecting to Hakai's catalogue or doi.org which is an error 
+            # Check if the DOI is redirecting to Hakai's catalogue or doi.org which is an error
             # if it does and it was likely caught the test prior.
             _test(
-                (re.match("https://catalogue.hakai.org", response.url) or re.match("https://doi.org", response.url)), 
+                (
+                    re.match("https://catalogue.hakai.org", response.url)
+                    or re.match("https://doi.org", response.url)
+                ),
                 "INFO",
                 f"DOI is not redirecting to Hakai's catalogue: {response.url}",
             )

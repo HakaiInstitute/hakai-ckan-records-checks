@@ -66,11 +66,9 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         datacite_metadata, error_msg = Datacite().get_doi(summary.get("doi"))
         summary.update(get_datacite_summary(datacite_metadata))
         if error_msg:
-            test_results.append(
-                ["ERROR", error_msg]
-            )
+            test_results.append(["ERROR", error_msg])
         test_results = pd.DataFrame(test_results, columns=["level", "message"])
-        test_results.insert(0,'record_id',record['result']['id'])
+        test_results.insert(0, "record_id", record["result"]["id"])
 
         if len(test_results) > 0:
             issues_count = (
@@ -227,17 +225,21 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     )
 
     # citation count timeseries
-    citations_over_time = pd.DataFrame(
-        [
-            {"title": title, "year": year["year"], "citations": year["total"]}
-            for title, years in results["catalog_summary"]
-            .set_index("title")["citations_over_time"]
-            .dropna()
-            .to_dict()
-            .items()
-            for year in years
-        ]
-    ).astype({"citations": int}).sort_values(['year','title'])
+    citations_over_time = (
+        pd.DataFrame(
+            [
+                {"title": title, "year": year["year"], "citations": year["total"]}
+                for title, years in results["catalog_summary"]
+                .set_index("title")["citations_over_time"]
+                .dropna()
+                .to_dict()
+                .items()
+                for year in years
+            ]
+        )
+        .astype({"citations": int})
+        .sort_values(["year", "title"])
+    )
     citations_over_time_figure = px.bar(
         citations_over_time,
         x="year",
@@ -274,6 +276,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             issues=issues,
             time=pd.Timestamp.utcnow(),
             generated_by=REPO_URL,
+            pd=pd,
         ).dump(f"{output}/issues/{record_id}.md")
 
     logger.info("Save excel and csv outputs")

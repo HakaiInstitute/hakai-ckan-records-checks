@@ -9,19 +9,32 @@ hide:
 
 Records page: {{ record['Catalogue'] }}
 
-<div id='map'></div>
-
-!!! info "Metadata"
-    {% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','INFO','sum','title','spatial','Title') %}
+???+ abstract "Metadata"
+{% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','INFO','sum','title','spatial','Title','citation_count','citations_over_time','relationships') %}
     - **{{ key.replace(('-'),' ').replace('_',' ').title() }}**: {{value}} {% endfor %}
 
-### Issues
+<div id='map'></div>
 
-{{
-    issues.sort_values('level')
-    .drop(columns=['record_id'])
-    .to_markdown(index=false)
-}}
+{% if record['citation_count'] and record['citation_count'] > 0 %}
+!!! info "Citations"
+
+    **Total Citations**: {{ record['citation_count']}}
+
+    **Citations over time**:
+    {% for line in pd.DataFrame(record['citations_over_time']).set_index('year').T.to_markdown(index=False).split('\n') %}
+    {{ line }}{% endfor %}
+
+    **Citations**:
+    {% for line in pd.DataFrame(record['relationships']).to_markdown(index=False).split('\n') %}
+    {{ line }}{% endfor %}
+    
+{% endif %}
+
+{% if not issues.empty %}
+!!! warning "Issues"
+    {% for line in issues.sort_values('level').drop(columns=['record_id']).to_markdown(index=false).split('\n') %}
+    {{ line }}{% endfor %}
+{% endif %}
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
