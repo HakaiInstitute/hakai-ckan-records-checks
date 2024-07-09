@@ -53,17 +53,21 @@ Download:
   <tbody>
     <tr>
       <th>0</th>
-      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2834622b-33c4-4108-bf13-2e295473b4eb' target='_blank'>link</a></td>
-      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>12</a></td>
-      <td></td>
+      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
+      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>6</a></td>
+      <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
       <td>active</td>
       <td>dataset</td>
       <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
       <td>2021-03-31</td>
-      <td>2021-03-23</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>2</a></td>
+      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>4</a></td>
       <td></td>
       <td></td>
       <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>3</a></td>
@@ -82,12 +86,12 @@ Download:
       <td>dataset</td>
       <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
       <td>2021-03-31</td>
-      <td>2024-03-21</td>
+      <td>2024-03-14</td>
       <td></td>
       <td></td>
-      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='issues/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>4</a></td>
-      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='issues/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>9</a></td>
-      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='issues/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>1</a></td>
+      <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='issues/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>1</a></td>
+      <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='issues/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>3</a></td>
+      <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='issues/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>2</th>
@@ -109,25 +113,6 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>3</th>
-      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>6</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
-      <td>2021-03-31</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>2</a></td>
-      <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='issues/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <th>4</th>
       <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='issues/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a' target='_blank'>link</a></td>
@@ -139,15 +124,15 @@ Download:
       <td>dataset</td>
       <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
       <td>2021-03-31</td>
-      <td>2024-03-14</td>
+      <td>2024-03-21</td>
       <td></td>
       <td></td>
-      <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='issues/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>1</a></td>
-      <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='issues/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>3</a></td>
-      <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='issues/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>1</a></td>
+      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='issues/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>4</a></td>
+      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='issues/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>9</a></td>
+      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='issues/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>5</th>
+      <th>4</th>
       <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='issues/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea' target='_blank'>link</a></td>
       <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='issues/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>3</a></td>
@@ -164,6 +149,25 @@ Download:
       <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='issues/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>2</a></td>
       <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='issues/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>1</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2834622b-33c4-4108-bf13-2e295473b4eb' target='_blank'>link</a></td>
+      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>12</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
+      <td>2021-03-31</td>
+      <td>2021-03-23</td>
+      <td></td>
+      <td></td>
+      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>3</a></td>
+      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>8</a></td>
+      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='issues/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>6</th>
@@ -262,9 +266,9 @@ Download:
     </tr>
     <tr>
       <th>11</th>
-      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>Kelp forest communities along an otter gradient</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac' target='_blank'>link</a></td>
-      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>11</a></td>
+      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>Vegetated Islands Polygons - 100 Islands Research</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_55daf524-146e-4b06-8c6c-3255c7e3c77a' target='_blank'>link</a></td>
+      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>10</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -275,28 +279,28 @@ Download:
       <td>2021-09-23</td>
       <td></td>
       <td></td>
-      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>6</a></td>
-      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>3</a></td>
-      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>2</a></td>
+      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>1</a></td>
+      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>8</a></td>
+      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>12</th>
-      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1815be54-9081-4031-80fa-d3d071340a7d' target='_blank'>link</a></td>
-      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>17</a></td>
-      <td></td>
+      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>Northwest Calvert Substrate Mapping</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4bf1e341-637c-4884-b373-033e033b3cba' target='_blank'>link</a></td>
+      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>4</a></td>
+      <td>Geospatial</td>
       <td>CC-BY-4.0</td>
-      <td>onGoing</td>
+      <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2021-09-23</td>
-      <td>2021-08-27</td>
+      <td>2024-03-19</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>2</a></td>
+      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
-      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>4</a></td>
-      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>12</a></td>
-      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>13</th>
@@ -338,41 +342,87 @@ Download:
     </tr>
     <tr>
       <th>15</th>
-      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>Vegetated Islands Polygons - 100 Islands Research</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_55daf524-146e-4b06-8c6c-3255c7e3c77a' target='_blank'>link</a></td>
-      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>10</a></td>
-      <td></td>
+      <td><a title='a44d4058-59a4-42e1-baf8-6b642dd237f5' href='issues/a44d4058-59a4-42e1-baf8-6b642dd237f5' target='_blank'>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4' target='_blank'>link</a></td>
+      <td><a title='a44d4058-59a4-42e1-baf8-6b642dd237f5' href='issues/a44d4058-59a4-42e1-baf8-6b642dd237f5' target='_blank'>5</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
-      <td>completed</td>
+      <td>onGoing</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2021-09-23</td>
-      <td>2021-09-23</td>
+      <td>2024-03-21</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='a44d4058-59a4-42e1-baf8-6b642dd237f5' href='issues/a44d4058-59a4-42e1-baf8-6b642dd237f5' target='_blank'>3</a></td>
+      <td><a title='a44d4058-59a4-42e1-baf8-6b642dd237f5' href='issues/a44d4058-59a4-42e1-baf8-6b642dd237f5' target='_blank'>2</a></td>
       <td></td>
       <td></td>
-      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>1</a></td>
-      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>8</a></td>
-      <td><a title='90ad2490-5092-40aa-96c2-38a8b2bf75f6' href='issues/90ad2490-5092-40aa-96c2-38a8b2bf75f6' target='_blank'>1</a></td>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>4</a></td>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>12</a></td>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>16</th>
-      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>Northwest Calvert Substrate Mapping</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4bf1e341-637c-4884-b373-033e033b3cba' target='_blank'>link</a></td>
-      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>4</a></td>
-      <td>Geospatial</td>
+      <td><a title='3f8534d7-4e76-47c1-9cde-7e378022ef51' href='issues/3f8534d7-4e76-47c1-9cde-7e378022ef51' target='_blank'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408' target='_blank'>link</a></td>
+      <td><a title='3f8534d7-4e76-47c1-9cde-7e378022ef51' href='issues/3f8534d7-4e76-47c1-9cde-7e378022ef51' target='_blank'>4</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2021-09-23</td>
+      <td>2024-03-20</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='3f8534d7-4e76-47c1-9cde-7e378022ef51' href='issues/3f8534d7-4e76-47c1-9cde-7e378022ef51' target='_blank'>3</a></td>
+      <td><a title='3f8534d7-4e76-47c1-9cde-7e378022ef51' href='issues/3f8534d7-4e76-47c1-9cde-7e378022ef51' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+      <td><a title='52970b64-2271-410b-8ba6-7c8078be7d76' href='issues/52970b64-2271-410b-8ba6-7c8078be7d76' target='_blank'>3</a></td>
+      <td><a title='52970b64-2271-410b-8ba6-7c8078be7d76' href='issues/52970b64-2271-410b-8ba6-7c8078be7d76' target='_blank'>4</a></td>
+      <td><a title='52970b64-2271-410b-8ba6-7c8078be7d76' href='issues/52970b64-2271-410b-8ba6-7c8078be7d76' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>Kelp forest communities along an otter gradient</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac' target='_blank'>link</a></td>
+      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>11</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2021-09-23</td>
-      <td>2024-03-19</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>2</a></td>
-      <td><a title='9470f9eb-e5e5-4c6e-bff2-0afde18310ab' href='issues/9470f9eb-e5e5-4c6e-bff2-0afde18310ab' target='_blank'>2</a></td>
+      <td>2021-09-23</td>
       <td></td>
+      <td></td>
+      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>6</a></td>
+      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>3</a></td>
+      <td><a title='065de76a-4eb3-425e-9466-2b416ae46665' href='issues/065de76a-4eb3-425e-9466-2b416ae46665' target='_blank'>2</a></td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1815be54-9081-4031-80fa-d3d071340a7d' target='_blank'>link</a></td>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>17</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2021-09-23</td>
+      <td>2021-08-27</td>
+      <td></td>
+      <td></td>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>4</a></td>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>12</a></td>
+      <td><a title='a638325e-b4f7-4a66-9430-94a28a59c12f' href='issues/a638325e-b4f7-4a66-9430-94a28a59c12f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>17</th>
@@ -585,6 +635,25 @@ Download:
     </tr>
     <tr>
       <th>28</th>
+      <td><a title='2aef54be-1fe9-42f1-9fa9-0f2354963a8f' href='issues/2aef54be-1fe9-42f1-9fa9-0f2354963a8f' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d' target='_blank'>link</a></td>
+      <td><a title='2aef54be-1fe9-42f1-9fa9-0f2354963a8f' href='issues/2aef54be-1fe9-42f1-9fa9-0f2354963a8f' target='_blank'>2</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>seaSurfaceHeight</td>
+      <td>2021-12-03</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='2aef54be-1fe9-42f1-9fa9-0f2354963a8f' href='issues/2aef54be-1fe9-42f1-9fa9-0f2354963a8f' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>29</th>
       <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='issues/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63' target='_blank'>link</a></td>
       <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='issues/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>15</a></td>
@@ -603,23 +672,23 @@ Download:
       <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='issues/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>29</th>
-      <td><a title='2aef54be-1fe9-42f1-9fa9-0f2354963a8f' href='issues/2aef54be-1fe9-42f1-9fa9-0f2354963a8f' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d' target='_blank'>link</a></td>
-      <td><a title='2aef54be-1fe9-42f1-9fa9-0f2354963a8f' href='issues/2aef54be-1fe9-42f1-9fa9-0f2354963a8f' target='_blank'>2</a></td>
-      <td>Oceanography</td>
+      <th>30</th>
+      <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='issues/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66ad87d2-bb96-4515-a907-6367ca6c0a2b' target='_blank'>link</a></td>
+      <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='issues/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>9</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
-      <td>completed</td>
+      <td>onGoing</td>
       <td>active</td>
       <td>dataset</td>
-      <td>seaSurfaceHeight</td>
+      <td>subSurfaceTemperature, seaSurfaceTemperature</td>
       <td>2021-12-03</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='2aef54be-1fe9-42f1-9fa9-0f2354963a8f' href='issues/2aef54be-1fe9-42f1-9fa9-0f2354963a8f' target='_blank'>2</a></td>
+      <td>2021-12-03</td>
       <td></td>
       <td></td>
+      <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='issues/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>2</a></td>
+      <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='issues/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>6</a></td>
+      <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='issues/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>30</th>
@@ -642,63 +711,6 @@ Download:
     </tr>
     <tr>
       <th>31</th>
-      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3bc02dd8-7654-44f0-8c7c-02739937bdf4' target='_blank'>link</a></td>
-      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>10</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-13</td>
-      <td>2024-03-21</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>6</a></td>
-      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>32</th>
-      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_85a63d5e-f00d-45c5-bcc7-ccf739381f58' target='_blank'>link</a></td>
-      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>18</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-13</td>
-      <td>2023-06-28</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>4</a></td>
-      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>14</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>33</th>
-      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a></td>
-      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>3</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>stableCarbonIsotopes, macroalgalCanopyCoverAndComposition, seagrassCoverAndComposition</td>
-      <td>2022-01-13</td>
-      <td>2024-03-14</td>
-      <td>1.0</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>1</a></td>
-      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>1</a></td>
-      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>34</th>
       <td><a title='10e63a8f-4cd7-4483-ab3b-3bff9e532fd0' href='issues/10e63a8f-4cd7-4483-ab3b-3bff9e532fd0' target='_blank'>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d87de5ca-a18a-406d-a4c1-74e6f8f28e5b' target='_blank'>link</a></td>
       <td><a title='10e63a8f-4cd7-4483-ab3b-3bff9e532fd0' href='issues/10e63a8f-4cd7-4483-ab3b-3bff9e532fd0' target='_blank'>20</a></td>
@@ -717,7 +729,26 @@ Download:
       <td><a title='10e63a8f-4cd7-4483-ab3b-3bff9e532fd0' href='issues/10e63a8f-4cd7-4483-ab3b-3bff9e532fd0' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>35</th>
+      <th>32</th>
+      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3bc02dd8-7654-44f0-8c7c-02739937bdf4' target='_blank'>link</a></td>
+      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>10</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
+      <td>2022-01-13</td>
+      <td>2024-03-21</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>6</a></td>
+      <td><a title='e8ee25de-8423-4c30-82bf-3b8d8f936e68' href='issues/e8ee25de-8423-4c30-82bf-3b8d8f936e68' target='_blank'>4</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>33</th>
       <td><a title='808c3d18-00d2-46f2-ab3e-5bcd4dd25427' href='issues/808c3d18-00d2-46f2-ab3e-5bcd4dd25427' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ea6c0e20-9b99-48f7-adfb-6c1b70f6bd2a' target='_blank'>link</a></td>
       <td><a title='808c3d18-00d2-46f2-ab3e-5bcd4dd25427' href='issues/808c3d18-00d2-46f2-ab3e-5bcd4dd25427' target='_blank'>10</a></td>
@@ -736,22 +767,60 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>36</th>
-      <td><a title='8cd7a9b4-ec59-486f-891d-aed52031bfa2' href='issues/8cd7a9b4-ec59-486f-891d-aed52031bfa2' target='_blank'>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a' target='_blank'>link</a></td>
-      <td><a title='8cd7a9b4-ec59-486f-891d-aed52031bfa2' href='issues/8cd7a9b4-ec59-486f-891d-aed52031bfa2' target='_blank'>4</a></td>
-      <td>Watersheds</td>
+      <th>34</th>
+      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_85a63d5e-f00d-45c5-bcc7-ccf739381f58' target='_blank'>link</a></td>
+      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>18</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
+      <td>2022-01-13</td>
+      <td>2023-06-28</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>4</a></td>
+      <td><a title='c20b3a34-71c1-448a-bbe8-fbcf28d039a7' href='issues/c20b3a34-71c1-448a-bbe8-fbcf28d039a7' target='_blank'>14</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a></td>
+      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>3</a></td>
+      <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-17</td>
+      <td>stableCarbonIsotopes, macroalgalCanopyCoverAndComposition, seagrassCoverAndComposition</td>
+      <td>2022-01-13</td>
       <td>2024-03-14</td>
+      <td>1.0</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>1</a></td>
+      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>1</a></td>
+      <td><a title='bee277bf-dd1d-4df8-acbd-ad53169f4351' href='issues/bee277bf-dd1d-4df8-acbd-ad53169f4351' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td><a title='12482d6d-835d-479d-9c1b-dff27c213ffa' href='issues/12482d6d-835d-479d-9c1b-dff27c213ffa' target='_blank'>Kelp Field Data for Remote Sensing - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94b4992f-19e2-46d4-875e-f0c952ea62f7' target='_blank'>link</a></td>
+      <td><a title='12482d6d-835d-479d-9c1b-dff27c213ffa' href='issues/12482d6d-835d-479d-9c1b-dff27c213ffa' target='_blank'>3</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-01-17</td>
+      <td>2024-03-20</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='8cd7a9b4-ec59-486f-891d-aed52031bfa2' href='issues/8cd7a9b4-ec59-486f-891d-aed52031bfa2' target='_blank'>2</a></td>
-      <td><a title='8cd7a9b4-ec59-486f-891d-aed52031bfa2' href='issues/8cd7a9b4-ec59-486f-891d-aed52031bfa2' target='_blank'>2</a></td>
+      <td><a title='12482d6d-835d-479d-9c1b-dff27c213ffa' href='issues/12482d6d-835d-479d-9c1b-dff27c213ffa' target='_blank'>2</a></td>
+      <td><a title='12482d6d-835d-479d-9c1b-dff27c213ffa' href='issues/12482d6d-835d-479d-9c1b-dff27c213ffa' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -785,11 +854,11 @@ Download:
       <td>dataset</td>
       <td>other, macroalgalCanopyCoverAndComposition</td>
       <td>2022-01-17</td>
-      <td>2024-03-20</td>
+      <td>2024-03-14</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='12482d6d-835d-479d-9c1b-dff27c213ffa' href='issues/12482d6d-835d-479d-9c1b-dff27c213ffa' target='_blank'>2</a></td>
-      <td><a title='12482d6d-835d-479d-9c1b-dff27c213ffa' href='issues/12482d6d-835d-479d-9c1b-dff27c213ffa' target='_blank'>1</a></td>
+      <td><a title='8cd7a9b4-ec59-486f-891d-aed52031bfa2' href='issues/8cd7a9b4-ec59-486f-891d-aed52031bfa2' target='_blank'>2</a></td>
+      <td><a title='8cd7a9b4-ec59-486f-891d-aed52031bfa2' href='issues/8cd7a9b4-ec59-486f-891d-aed52031bfa2' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
@@ -832,6 +901,48 @@ Download:
     </tr>
     <tr>
       <th>41</th>
+      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466' target='_blank'>link</a></td>
+      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>7</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-19</td>
+      <td>2024-03-19</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>4</a></td>
+      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>3</a></td>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>12</a></td>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3dc0d46c-7afe-4379-901d-37a787c1c204' target='_blank'>link</a></td>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>16</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, subSurfaceCurrents</td>
+      <td>2022-01-19</td>
+      <td>2022-01-19</td>
+      <td></td>
+      <td></td>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>3</a></td>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>12</a></td>
+      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>43</th>
       <td><a title='a35cea04-fd3d-48b2-af79-53287fbcbd54' href='issues/a35cea04-fd3d-48b2-af79-53287fbcbd54' target='_blank'>Clam Garden Geospatial Data - Quadra Island - 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a' target='_blank'>link</a></td>
       <td><a title='a35cea04-fd3d-48b2-af79-53287fbcbd54' href='issues/a35cea04-fd3d-48b2-af79-53287fbcbd54' target='_blank'>15</a></td>
@@ -850,64 +961,7 @@ Download:
       <td><a title='a35cea04-fd3d-48b2-af79-53287fbcbd54' href='issues/a35cea04-fd3d-48b2-af79-53287fbcbd54' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <th>42</th>
-      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3dc0d46c-7afe-4379-901d-37a787c1c204' target='_blank'>link</a></td>
-      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>16</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-19</td>
-      <td>2022-01-19</td>
-      <td></td>
-      <td></td>
-      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>3</a></td>
-      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>12</a></td>
-      <td><a title='a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' href='issues/a05d75a8-43a7-45b7-b9db-dc6874dfaaf9' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>43</th>
-      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466' target='_blank'>link</a></td>
-      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>7</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-19</td>
-      <td>2024-03-19</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>4</a></td>
-      <td><a title='e6627a6d-3dbc-4a33-aada-c27372e93420' href='issues/e6627a6d-3dbc-4a33-aada-c27372e93420' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <th>44</th>
-      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>Mean Tidal Current - Coastal British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6' target='_blank'>link</a></td>
-      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>14</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, subSurfaceCurrents</td>
-      <td>2022-01-19</td>
-      <td>2022-01-19</td>
-      <td></td>
-      <td></td>
-      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>3</a></td>
-      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>10</a></td>
-      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>45</th>
       <td><a title='b72dec74-5c28-4cc5-97fd-f33cf642f639' href='issues/b72dec74-5c28-4cc5-97fd-f33cf642f639' target='_blank'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f68be641-0017-4311-b4de-5d0aed9e2b57' target='_blank'>link</a></td>
       <td><a title='b72dec74-5c28-4cc5-97fd-f33cf642f639' href='issues/b72dec74-5c28-4cc5-97fd-f33cf642f639' target='_blank'>4</a></td>
@@ -924,6 +978,25 @@ Download:
       <td><a title='b72dec74-5c28-4cc5-97fd-f33cf642f639' href='issues/b72dec74-5c28-4cc5-97fd-f33cf642f639' target='_blank'>2</a></td>
       <td><a title='b72dec74-5c28-4cc5-97fd-f33cf642f639' href='issues/b72dec74-5c28-4cc5-97fd-f33cf642f639' target='_blank'>2</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>Mean Tidal Current - Coastal British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6' target='_blank'>link</a></td>
+      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>14</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, subSurfaceCurrents</td>
+      <td>2022-01-19</td>
+      <td>2022-01-19</td>
+      <td></td>
+      <td></td>
+      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>3</a></td>
+      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>10</a></td>
+      <td><a title='33802608-abd5-4bc0-9b22-a6c2d10917d2' href='issues/33802608-abd5-4bc0-9b22-a6c2d10917d2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>46</th>
@@ -965,9 +1038,51 @@ Download:
     </tr>
     <tr>
       <th>48</th>
-      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>Herring Survey Data - 2016 - BC Central Coast</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd' target='_blank'>link</a></td>
-      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>5</a></td>
+      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306' target='_blank'>link</a></td>
+      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>3</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2022-01-21</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>2</a></td>
+      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e' target='_blank'>link</a></td>
+      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seaSurfaceTemperature, subSurfaceSalinity, subSurfaceTemperature, oxygen, particulateMatter</td>
+      <td>2022-01-21</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>2</a></td>
+      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>1</a></td>
+      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>4</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>25m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5feb907e-e63e-4172-94ae-831fbe92aee5' target='_blank'>link</a></td>
+      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>5</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -978,31 +1093,12 @@ Download:
       <td>2024-03-14</td>
       <td></td>
       <td></td>
-      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>1</a></td>
-      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>4</a></td>
+      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>2</a></td>
+      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
-      <th>49</th>
-      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>Wind Fetch - BC Central Coast - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03' target='_blank'>link</a></td>
-      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>6</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-21</td>
-      <td>2024-03-15</td>
-      <td></td>
-      <td></td>
-      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>2</a></td>
-      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>50</th>
+      <th>51</th>
       <td><a title='bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' href='issues/bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' target='_blank'>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1946cc53-6e11-4428-a2c9-43b34e1dcaa1' target='_blank'>link</a></td>
       <td><a title='bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' href='issues/bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' target='_blank'>5</a></td>
@@ -1019,25 +1115,6 @@ Download:
       <td><a title='bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' href='issues/bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' target='_blank'>3</a></td>
       <td><a title='bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' href='issues/bffa5cf5-d7d1-4310-a8d5-1e0ce3c0a4d6' target='_blank'>2</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <th>51</th>
-      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_be16603d-e383-4af4-9e93-7a36a086688e' target='_blank'>link</a></td>
-      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>15</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, macroalgalCanopyCoverAndComposition</td>
-      <td>2022-01-21</td>
-      <td>2022-01-21</td>
-      <td></td>
-      <td></td>
-      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>2</a></td>
-      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>12</a></td>
-      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>52</th>
@@ -1060,25 +1137,6 @@ Download:
     </tr>
     <tr>
       <th>53</th>
-      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>25m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5feb907e-e63e-4172-94ae-831fbe92aee5' target='_blank'>link</a></td>
-      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>5</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-21</td>
-      <td>2024-03-14</td>
-      <td></td>
-      <td></td>
-      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>2</a></td>
-      <td><a title='e93f9f97-52f2-48c9-8cb1-5f478a802978' href='issues/e93f9f97-52f2-48c9-8cb1-5f478a802978' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>54</th>
       <td><a title='865bce3e-eb6e-4fd7-a5a7-427d55440871' href='issues/865bce3e-eb6e-4fd7-a5a7-427d55440871' target='_blank'>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33c870b8-3b4c-429d-bc10-99dd4c7f4c7d' target='_blank'>link</a></td>
       <td><a title='865bce3e-eb6e-4fd7-a5a7-427d55440871' href='issues/865bce3e-eb6e-4fd7-a5a7-427d55440871' target='_blank'>17</a></td>
@@ -1097,7 +1155,45 @@ Download:
       <td><a title='865bce3e-eb6e-4fd7-a5a7-427d55440871' href='issues/865bce3e-eb6e-4fd7-a5a7-427d55440871' target='_blank'>1</a></td>
     </tr>
     <tr>
+      <th>54</th>
+      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>Herring Survey Data - 2016 - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd' target='_blank'>link</a></td>
+      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>5</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-21</td>
+      <td>2024-03-14</td>
+      <td></td>
+      <td></td>
+      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>1</a></td>
+      <td><a title='58a090ec-a844-45a0-8626-fca897c66c3f' href='issues/58a090ec-a844-45a0-8626-fca897c66c3f' target='_blank'>4</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>55</th>
+      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_be16603d-e383-4af4-9e93-7a36a086688e' target='_blank'>link</a></td>
+      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>15</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-01-21</td>
+      <td>2022-01-21</td>
+      <td></td>
+      <td></td>
+      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>2</a></td>
+      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>12</a></td>
+      <td><a title='849af4ce-f8db-4911-85ac-bce7aaa7e058' href='issues/849af4ce-f8db-4911-85ac-bce7aaa7e058' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>56</th>
       <td><a title='c0acbf25-7145-4085-9cd9-4bb91dce995e' href='issues/c0acbf25-7145-4085-9cd9-4bb91dce995e' target='_blank'>Understory kelp biomass data from BC Central Coast, v1.2.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e' target='_blank'>link</a></td>
       <td><a title='c0acbf25-7145-4085-9cd9-4bb91dce995e' href='issues/c0acbf25-7145-4085-9cd9-4bb91dce995e' target='_blank'>3</a></td>
@@ -1116,41 +1212,22 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>56</th>
-      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e' target='_blank'>link</a></td>
-      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>4</a></td>
+      <th>57</th>
+      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>Wind Fetch - BC Central Coast - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03' target='_blank'>link</a></td>
+      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>6</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other, seaSurfaceTemperature, subSurfaceSalinity, subSurfaceTemperature, oxygen, particulateMatter</td>
+      <td>other</td>
       <td>2022-01-21</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>2</a></td>
-      <td><a title='f74a27e8-887e-40f7-bba5-8ca5035f93c6' href='issues/f74a27e8-887e-40f7-bba5-8ca5035f93c6' target='_blank'>2</a></td>
+      <td>2024-03-15</td>
       <td></td>
-    </tr>
-    <tr>
-      <th>57</th>
-      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306' target='_blank'>link</a></td>
-      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>3</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>macroalgalCanopyCoverAndComposition</td>
-      <td>2022-01-21</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>2</a></td>
-      <td><a title='a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' href='issues/a8c3e3d8-0ee8-46dd-bffc-0d0a482f059e' target='_blank'>1</a></td>
+      <td></td>
+      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>2</a></td>
+      <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='issues/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>4</a></td>
       <td></td>
     </tr>
     <tr>
@@ -1174,44 +1251,63 @@ Download:
     </tr>
     <tr>
       <th>59</th>
-      <td><a title='2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' href='issues/2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' target='_blank'>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8' target='_blank'>link</a></td>
-      <td><a title='2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' href='issues/2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' target='_blank'>3</a></td>
+      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>Data on invasion of Calvert Island by Orthione griffenis</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>link</a></td>
+      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>9</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
+      <td>2022-01-24</td>
+      <td>2022-01-13</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>2</a></td>
+      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>6</a></td>
+      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>60</th>
+      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
+      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>4</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, dissolvedOrganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>2</a></td>
+      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>1</a></td>
+      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>61</th>
+      <td><a title='31d53250-16ef-4668-a51e-bc379b59cca5' href='issues/31d53250-16ef-4668-a51e-bc379b59cca5' target='_blank'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9' target='_blank'>link</a></td>
+      <td><a title='31d53250-16ef-4668-a51e-bc379b59cca5' href='issues/31d53250-16ef-4668-a51e-bc379b59cca5' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other</td>
+      <td>other, dissolvedOrganicCarbon</td>
       <td>2022-01-24</td>
-      <td>2024-03-14</td>
+      <td>2024-03-20</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' href='issues/2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' target='_blank'>3</a></td>
+      <td><a title='31d53250-16ef-4668-a51e-bc379b59cca5' href='issues/31d53250-16ef-4668-a51e-bc379b59cca5' target='_blank'>4</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>60</th>
-      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d' target='_blank'>link</a></td>
-      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>14</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, nutrients</td>
-      <td>2022-01-24</td>
-      <td>2022-01-13</td>
-      <td></td>
-      <td></td>
-      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>5</a></td>
-      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>7</a></td>
-      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>2</a></td>
-    </tr>
-    <tr>
-      <th>61</th>
+      <th>62</th>
       <td><a title='84b79bfb-c43a-4d7b-b8ae-01f071d1442a' href='issues/84b79bfb-c43a-4d7b-b8ae-01f071d1442a' target='_blank'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342' target='_blank'>link</a></td>
       <td><a title='84b79bfb-c43a-4d7b-b8ae-01f071d1442a' href='issues/84b79bfb-c43a-4d7b-b8ae-01f071d1442a' target='_blank'>11</a></td>
@@ -1230,23 +1326,23 @@ Download:
       <td><a title='84b79bfb-c43a-4d7b-b8ae-01f071d1442a' href='issues/84b79bfb-c43a-4d7b-b8ae-01f071d1442a' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>62</th>
-      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260' target='_blank'>link</a></td>
-      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>16</a></td>
+      <th>63</th>
+      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d' target='_blank'>link</a></td>
+      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>14</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other, dissolvedOrganicCarbon, oceanSurfaceStress</td>
+      <td>other, nutrients</td>
       <td>2022-01-24</td>
       <td>2022-01-13</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>3</a></td>
-      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>12</a></td>
-      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>5</a></td>
+      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>7</a></td>
+      <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='issues/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>2</a></td>
     </tr>
     <tr>
       <th>63</th>
@@ -1269,28 +1365,9 @@ Download:
     </tr>
     <tr>
       <th>64</th>
-      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>Data on invasion of Calvert Island by Orthione griffenis</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>link</a></td>
-      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>9</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-24</td>
-      <td>2022-01-13</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>2</a></td>
-      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>6</a></td>
-      <td><a title='30dda927-f594-47f7-a1df-e35df945a28f' href='issues/30dda927-f594-47f7-a1df-e35df945a28f' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>65</th>
-      <td><a title='31d53250-16ef-4668-a51e-bc379b59cca5' href='issues/31d53250-16ef-4668-a51e-bc379b59cca5' target='_blank'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9' target='_blank'>link</a></td>
-      <td><a title='31d53250-16ef-4668-a51e-bc379b59cca5' href='issues/31d53250-16ef-4668-a51e-bc379b59cca5' target='_blank'>4</a></td>
+      <td><a title='3c9e7b3f-e07f-4720-935d-65f9c174e3d9' href='issues/3c9e7b3f-e07f-4720-935d-65f9c174e3d9' target='_blank'>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c113d7a8-6a46-46fc-b49c-a4e69afedfbc' target='_blank'>link</a></td>
+      <td><a title='3c9e7b3f-e07f-4720-935d-65f9c174e3d9' href='issues/3c9e7b3f-e07f-4720-935d-65f9c174e3d9' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1301,15 +1378,35 @@ Download:
       <td>2024-03-20</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='31d53250-16ef-4668-a51e-bc379b59cca5' href='issues/31d53250-16ef-4668-a51e-bc379b59cca5' target='_blank'>4</a></td>
+      <td><a title='3c9e7b3f-e07f-4720-935d-65f9c174e3d9' href='issues/3c9e7b3f-e07f-4720-935d-65f9c174e3d9' target='_blank'>2</a></td>
+      <td><a title='3c9e7b3f-e07f-4720-935d-65f9c174e3d9' href='issues/3c9e7b3f-e07f-4720-935d-65f9c174e3d9' target='_blank'>1</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
+      <th>65</th>
+      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4' target='_blank'>link</a></td>
+      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>14</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
+      <td>2022-01-24</td>
+      <td>2022-01-13</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>6</a></td>
+      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>7</a></td>
+      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <th>66</th>
-      <td><a title='af9217cf-f05d-49e3-a7ce-97dc966dea05' href='issues/af9217cf-f05d-49e3-a7ce-97dc966dea05' target='_blank'>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0' target='_blank'>link</a></td>
-      <td><a title='af9217cf-f05d-49e3-a7ce-97dc966dea05' href='issues/af9217cf-f05d-49e3-a7ce-97dc966dea05' target='_blank'>3</a></td>
+      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a></td>
+      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>4</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1320,8 +1417,8 @@ Download:
       <td>2024-03-15</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='af9217cf-f05d-49e3-a7ce-97dc966dea05' href='issues/af9217cf-f05d-49e3-a7ce-97dc966dea05' target='_blank'>3</a></td>
-      <td></td>
+      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>3</a></td>
+      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -1364,82 +1461,25 @@ Download:
     </tr>
     <tr>
       <th>69</th>
-      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4' target='_blank'>link</a></td>
-      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>14</a></td>
+      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260' target='_blank'>link</a></td>
+      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>16</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other, seagrassCoverAndComposition</td>
+      <td>other, dissolvedOrganicCarbon, oceanSurfaceStress</td>
       <td>2022-01-24</td>
       <td>2022-01-13</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>6</a></td>
-      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>7</a></td>
-      <td><a title='d7c498f7-ac5e-467c-9ba9-c09737566d28' href='issues/d7c498f7-ac5e-467c-9ba9-c09737566d28' target='_blank'>1</a></td>
+      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>3</a></td>
+      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>12</a></td>
+      <td><a title='44f66387-efdb-452d-aabd-adb69ee13f2e' href='issues/44f66387-efdb-452d-aabd-adb69ee13f2e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>70</th>
-      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a></td>
-      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>4</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-24</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>3</a></td>
-      <td><a title='882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' href='issues/882fdaf4-ed41-4e70-aedc-4a955b2cfcd0' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>71</th>
-      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
-      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>4</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, dissolvedOrganicCarbon</td>
-      <td>2022-01-24</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>2</a></td>
-      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>1</a></td>
-      <td><a title='c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' href='issues/c8b0a1a8-3a10-4c1d-ac45-c31f4e2a05c2' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>72</th>
-      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>Motile Invertebrate Surveys - BC Central Coast - 2016-2019</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_38b520c1-c339-44c4-b048-63deb4054f00' target='_blank'>link</a></td>
-      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>16</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-24</td>
-      <td>2022-01-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>3</a></td>
-      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>12</a></td>
-      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>73</th>
       <td><a title='8e6c7d9c-424a-4796-b2dc-34273f7643bb' href='issues/8e6c7d9c-424a-4796-b2dc-34273f7643bb' target='_blank'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d' target='_blank'>link</a></td>
       <td><a title='8e6c7d9c-424a-4796-b2dc-34273f7643bb' href='issues/8e6c7d9c-424a-4796-b2dc-34273f7643bb' target='_blank'>6</a></td>
@@ -1458,7 +1498,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>71</th>
       <td><a title='c6002aca-625d-4815-8250-640af7194741' href='issues/c6002aca-625d-4815-8250-640af7194741' target='_blank'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0' target='_blank'>link</a></td>
       <td><a title='c6002aca-625d-4815-8250-640af7194741' href='issues/c6002aca-625d-4815-8250-640af7194741' target='_blank'>12</a></td>
@@ -1467,7 +1507,7 @@ Download:
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other, inorganicCarbon</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
       <td>2022-01-24</td>
       <td>2022-01-13</td>
       <td>0.0</td>
@@ -1477,7 +1517,26 @@ Download:
       <td><a title='c6002aca-625d-4815-8250-640af7194741' href='issues/c6002aca-625d-4815-8250-640af7194741' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>75</th>
+      <th>72</th>
+      <td><a title='2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' href='issues/2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' target='_blank'>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8' target='_blank'>link</a></td>
+      <td><a title='2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' href='issues/2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-24</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' href='issues/2792eeb1-4cb0-4e39-8efd-f2f01ebd0fb1' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>73</th>
       <td><a title='a89b7abf-9985-4de0-87a5-9a69b0b0272f' href='issues/a89b7abf-9985-4de0-87a5-9a69b0b0272f' target='_blank'>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48c8f830-f281-4ca1-9a81-ea690e70cb7a' target='_blank'>link</a></td>
       <td><a title='a89b7abf-9985-4de0-87a5-9a69b0b0272f' href='issues/a89b7abf-9985-4de0-87a5-9a69b0b0272f' target='_blank'>3</a></td>
@@ -1493,6 +1552,44 @@ Download:
       <td>[]</td>
       <td><a title='a89b7abf-9985-4de0-87a5-9a69b0b0272f' href='issues/a89b7abf-9985-4de0-87a5-9a69b0b0272f' target='_blank'>2</a></td>
       <td><a title='a89b7abf-9985-4de0-87a5-9a69b0b0272f' href='issues/a89b7abf-9985-4de0-87a5-9a69b0b0272f' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>74</th>
+      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>Motile Invertebrate Surveys - BC Central Coast - 2016-2019</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_38b520c1-c339-44c4-b048-63deb4054f00' target='_blank'>link</a></td>
+      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>16</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2022-01-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>3</a></td>
+      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>12</a></td>
+      <td><a title='51ef022c-997e-4e13-b4e5-eff34b53b159' href='issues/51ef022c-997e-4e13-b4e5-eff34b53b159' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td><a title='af9217cf-f05d-49e3-a7ce-97dc966dea05' href='issues/af9217cf-f05d-49e3-a7ce-97dc966dea05' target='_blank'>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0' target='_blank'>link</a></td>
+      <td><a title='af9217cf-f05d-49e3-a7ce-97dc966dea05' href='issues/af9217cf-f05d-49e3-a7ce-97dc966dea05' target='_blank'>3</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
+      <td>2022-01-24</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='af9217cf-f05d-49e3-a7ce-97dc966dea05' href='issues/af9217cf-f05d-49e3-a7ce-97dc966dea05' target='_blank'>3</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1554,25 +1651,6 @@ Download:
     </tr>
     <tr>
       <th>79</th>
-      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>link</a></td>
-      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>6</a></td>
-      <td>Nearshore, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-02-02</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>5</a></td>
-      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>80</th>
       <td><a title='349e5369-07fc-44e6-8d20-03a535c749d0' href='issues/349e5369-07fc-44e6-8d20-03a535c749d0' target='_blank'>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0ca5d26-b457-4726-97d4-ed0c8dd6cd99' target='_blank'>link</a></td>
       <td><a title='349e5369-07fc-44e6-8d20-03a535c749d0' href='issues/349e5369-07fc-44e6-8d20-03a535c749d0' target='_blank'>13</a></td>
@@ -1589,6 +1667,25 @@ Download:
       <td><a title='349e5369-07fc-44e6-8d20-03a535c749d0' href='issues/349e5369-07fc-44e6-8d20-03a535c749d0' target='_blank'>6</a></td>
       <td><a title='349e5369-07fc-44e6-8d20-03a535c749d0' href='issues/349e5369-07fc-44e6-8d20-03a535c749d0' target='_blank'>6</a></td>
       <td><a title='349e5369-07fc-44e6-8d20-03a535c749d0' href='issues/349e5369-07fc-44e6-8d20-03a535c749d0' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>link</a></td>
+      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>6</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-02-02</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>5</a></td>
+      <td><a title='8dbb511c-31b2-46ea-86bc-2d5f3a27b347' href='issues/8dbb511c-31b2-46ea-86bc-2d5f3a27b347' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>81</th>
@@ -1611,6 +1708,25 @@ Download:
     </tr>
     <tr>
       <th>82</th>
+      <td><a title='9afe0e90-64cc-4b3d-9325-2bb4e7594133' href='issues/9afe0e90-64cc-4b3d-9325-2bb4e7594133' target='_blank'>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7c47472a-b16c-446c-89d5-eefa23e07922' target='_blank'>link</a></td>
+      <td><a title='9afe0e90-64cc-4b3d-9325-2bb4e7594133' href='issues/9afe0e90-64cc-4b3d-9325-2bb4e7594133' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2022-02-03</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='9afe0e90-64cc-4b3d-9325-2bb4e7594133' href='issues/9afe0e90-64cc-4b3d-9325-2bb4e7594133' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>83</th>
       <td><a title='8c141940-f762-443e-bcbf-9445473695ed' href='issues/8c141940-f762-443e-bcbf-9445473695ed' target='_blank'>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_63765cc6-5730-4a28-9d96-3de38066312f' target='_blank'>link</a></td>
       <td><a title='8c141940-f762-443e-bcbf-9445473695ed' href='issues/8c141940-f762-443e-bcbf-9445473695ed' target='_blank'>11</a></td>
@@ -1648,23 +1764,23 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>84</th>
-      <td><a title='9afe0e90-64cc-4b3d-9325-2bb4e7594133' href='issues/9afe0e90-64cc-4b3d-9325-2bb4e7594133' target='_blank'>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7c47472a-b16c-446c-89d5-eefa23e07922' target='_blank'>link</a></td>
-      <td><a title='9afe0e90-64cc-4b3d-9325-2bb4e7594133' href='issues/9afe0e90-64cc-4b3d-9325-2bb4e7594133' target='_blank'>3</a></td>
-      <td>Oceanography</td>
+      <th>85</th>
+      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a></td>
+      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>16</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
-      <td>completed</td>
+      <td>underDevelopment</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other, inorganicCarbon</td>
-      <td>2022-02-03</td>
-      <td>2024-03-14</td>
+      <td>other</td>
+      <td>2022-02-04</td>
+      <td>2022-02-04</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='9afe0e90-64cc-4b3d-9325-2bb4e7594133' href='issues/9afe0e90-64cc-4b3d-9325-2bb4e7594133' target='_blank'>3</a></td>
-      <td></td>
-      <td></td>
+      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>11</a></td>
+      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>4</a></td>
+      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>85</th>
@@ -1686,23 +1802,23 @@ Download:
       <td><a title='e4b68dc9-cff4-438b-b149-603819350d98' href='issues/e4b68dc9-cff4-438b-b149-603819350d98' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>86</th>
-      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a></td>
-      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>16</a></td>
-      <td></td>
+      <th>87</th>
+      <td><a title='f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' href='issues/f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' target='_blank'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_77a256cd-baf7-434e-9f62-53ba809e48cb' target='_blank'>link</a></td>
+      <td><a title='f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' href='issues/f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' target='_blank'>4</a></td>
+      <td>Oceanography</td>
       <td>CC-BY-4.0</td>
-      <td>underDevelopment</td>
+      <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other</td>
+      <td>other, inorganicCarbon</td>
       <td>2022-02-04</td>
-      <td>2022-02-04</td>
+      <td>2024-03-18</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>11</a></td>
-      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>4</a></td>
-      <td><a title='91d3957f-6ed1-4e9f-a8d9-d4042972ae32' href='issues/91d3957f-6ed1-4e9f-a8d9-d4042972ae32' target='_blank'>1</a></td>
+      <td><a title='f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' href='issues/f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' target='_blank'>3</a></td>
+      <td></td>
+      <td><a title='f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' href='issues/f2dd9e58-dbc6-4f82-aee1-a09674ed7ba3' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>87</th>
@@ -1744,41 +1860,41 @@ Download:
     </tr>
     <tr>
       <th>89</th>
-      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a></td>
-      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>5</a></td>
-      <td>Airborne Coastal Observatory</td>
+      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
+      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>14</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-01</td>
-      <td>2024-03-20</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>2</a></td>
-      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>3</a></td>
+      <td>2022-03-01</td>
       <td></td>
+      <td></td>
+      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>2</a></td>
+      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>11</a></td>
+      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>90</th>
-      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a60a0468-3f56-4f22-abd4-5268fcfb9744' target='_blank'>link</a></td>
-      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>14</a></td>
-      <td></td>
+      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287' target='_blank'>link</a></td>
+      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>5</a></td>
+      <td>Nearshore, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
       <td>2022-03-01</td>
-      <td>2022-03-01</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>2</a></td>
+      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>3</a></td>
       <td></td>
-      <td></td>
-      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>2</a></td>
-      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>11</a></td>
-      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>91</th>
@@ -1801,63 +1917,6 @@ Download:
     </tr>
     <tr>
       <th>92</th>
-      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e0c768fc-5c37-455f-b2a3-604f766f4148' target='_blank'>link</a></td>
-      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>13</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2022-03-01</td>
-      <td></td>
-      <td></td>
-      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>2</a></td>
-      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>10</a></td>
-      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>93</th>
-      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287' target='_blank'>link</a></td>
-      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>5</a></td>
-      <td>Nearshore, Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, macroalgalCanopyCoverAndComposition</td>
-      <td>2022-03-01</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>2</a></td>
-      <td><a title='5af72f91-1199-48a6-92c6-32a276b555f4' href='issues/5af72f91-1199-48a6-92c6-32a276b555f4' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>94</th>
-      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d' target='_blank'>link</a></td>
-      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>13</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2022-03-01</td>
-      <td></td>
-      <td></td>
-      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>2</a></td>
-      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>10</a></td>
-      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>95</th>
       <td><a title='3f86337d-bd00-4c79-b533-2975f9e2503d' href='issues/3f86337d-bd00-4c79-b533-2975f9e2503d' target='_blank'>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7b34963-67bc-404b-bdd1-b41cc750bdaa' target='_blank'>link</a></td>
       <td><a title='3f86337d-bd00-4c79-b533-2975f9e2503d' href='issues/3f86337d-bd00-4c79-b533-2975f9e2503d' target='_blank'>13</a></td>
@@ -1876,10 +1935,10 @@ Download:
       <td><a title='3f86337d-bd00-4c79-b533-2975f9e2503d' href='issues/3f86337d-bd00-4c79-b533-2975f9e2503d' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>96</th>
-      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679' target='_blank'>link</a></td>
-      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>6</a></td>
+      <th>93</th>
+      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a></td>
+      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>5</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1887,12 +1946,73 @@ Download:
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-01</td>
-      <td>2024-03-15</td>
+      <td>2024-03-20</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>2</a></td>
+      <td><a title='b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' href='issues/b80cdd0d-0a7e-44be-9b9b-6aabf8494abc' target='_blank'>3</a></td>
       <td></td>
       <td></td>
-      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>2</a></td>
-      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>4</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>2</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>10</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>94</th>
+      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d2e83e40-9e95-4a47-a899-b37c744be3ab' target='_blank'>link</a></td>
+      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>9</a></td>
       <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-01</td>
+      <td>2022-03-01</td>
+      <td></td>
+      <td></td>
+      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>2</a></td>
+      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>6</a></td>
+      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>95</th>
+      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d' target='_blank'>link</a></td>
+      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>13</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2022-03-01</td>
+      <td></td>
+      <td></td>
+      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>2</a></td>
+      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>10</a></td>
+      <td><a title='e49b1be8-0b6c-4d5f-8904-575352345a3c' href='issues/e49b1be8-0b6c-4d5f-8904-575352345a3c' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>96</th>
+      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a60a0468-3f56-4f22-abd4-5268fcfb9744' target='_blank'>link</a></td>
+      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>14</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2022-03-01</td>
+      <td></td>
+      <td></td>
+      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>2</a></td>
+      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>11</a></td>
+      <td><a title='3544beb6-b762-4a71-8dd1-25fa09707920' href='issues/3544beb6-b762-4a71-8dd1-25fa09707920' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>97</th>
@@ -1915,6 +2035,25 @@ Download:
     </tr>
     <tr>
       <th>98</th>
+      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679' target='_blank'>link</a></td>
+      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>6</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-03-15</td>
+      <td></td>
+      <td></td>
+      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>2</a></td>
+      <td><a title='17a57d2b-b5c9-4151-ab20-304d5e9861b6' href='issues/17a57d2b-b5c9-4151-ab20-304d5e9861b6' target='_blank'>4</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>99</th>
       <td><a title='27847284-0b50-4bc1-8194-d1518c20166d' href='issues/27847284-0b50-4bc1-8194-d1518c20166d' target='_blank'>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62de21ed-90fb-422a-9c55-29c513a00f95' target='_blank'>link</a></td>
       <td><a title='27847284-0b50-4bc1-8194-d1518c20166d' href='issues/27847284-0b50-4bc1-8194-d1518c20166d' target='_blank'>8</a></td>
@@ -1933,29 +2072,10 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>99</th>
-      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d2e83e40-9e95-4a47-a899-b37c744be3ab' target='_blank'>link</a></td>
-      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>9</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2022-03-01</td>
-      <td></td>
-      <td></td>
-      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>2</a></td>
-      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>6</a></td>
-      <td><a title='54c84c19-2da2-48e1-b430-0795153213ad' href='issues/54c84c19-2da2-48e1-b430-0795153213ad' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <th>100</th>
-      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
-      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>14</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e0c768fc-5c37-455f-b2a3-604f766f4148' target='_blank'>link</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>13</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1966,50 +2086,12 @@ Download:
       <td>2022-03-01</td>
       <td></td>
       <td></td>
-      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>2</a></td>
-      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>11</a></td>
-      <td><a title='0af18bf6-9a45-4c92-9a04-f18eab5deafe' href='issues/0af18bf6-9a45-4c92-9a04-f18eab5deafe' target='_blank'>1</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>2</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>10</a></td>
+      <td><a title='b46c6dab-242e-4d86-946a-a5a9946cc74b' href='issues/b46c6dab-242e-4d86-946a-a5a9946cc74b' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>101</th>
-      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>Geology - Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2' target='_blank'>link</a></td>
-      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>3</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-02</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>1</a></td>
-      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>102</th>
-      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>Owikeno Lake Bathymetric Survey</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9' target='_blank'>link</a></td>
-      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>9</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-02</td>
-      <td>2024-03-14</td>
-      <td>-1.0</td>
-      <td>[]</td>
-      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>2</a></td>
-      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>6</a></td>
-      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>103</th>
       <td><a title='470ab944-0b04-49f5-98e7-e221107c57ee' href='issues/470ab944-0b04-49f5-98e7-e221107c57ee' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14' target='_blank'>link</a></td>
       <td><a title='470ab944-0b04-49f5-98e7-e221107c57ee' href='issues/470ab944-0b04-49f5-98e7-e221107c57ee' target='_blank'>5</a></td>
@@ -2028,26 +2110,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>104</th>
-      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96' target='_blank'>link</a></td>
-      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>6</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, macroalgalCanopyCoverAndComposition</td>
-      <td>2022-03-02</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>3</a></td>
-      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>2</a></td>
-      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>105</th>
+      <th>102</th>
       <td><a title='822ccb6e-1aa2-4b26-a3e2-3df8ac39ce3f' href='issues/822ccb6e-1aa2-4b26-a3e2-3df8ac39ce3f' target='_blank'>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c' target='_blank'>link</a></td>
       <td><a title='822ccb6e-1aa2-4b26-a3e2-3df8ac39ce3f' href='issues/822ccb6e-1aa2-4b26-a3e2-3df8ac39ce3f' target='_blank'>7</a></td>
@@ -2066,7 +2129,26 @@ Download:
       <td><a title='822ccb6e-1aa2-4b26-a3e2-3df8ac39ce3f' href='issues/822ccb6e-1aa2-4b26-a3e2-3df8ac39ce3f' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>106</th>
+      <th>103</th>
+      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>Geology - Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2' target='_blank'>link</a></td>
+      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>3</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-02</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>1</a></td>
+      <td><a title='fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' href='issues/fcf0dff6-5e0e-4ab5-a3a5-fd1ee99460bc' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>104</th>
       <td><a title='5dc063c2-5914-4cad-9df2-ed59fcb3b6a3' href='issues/5dc063c2-5914-4cad-9df2-ed59fcb3b6a3' target='_blank'>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2a92ca16-f5c6-4362-acea-6bb5117b8d65' target='_blank'>link</a></td>
       <td><a title='5dc063c2-5914-4cad-9df2-ed59fcb3b6a3' href='issues/5dc063c2-5914-4cad-9df2-ed59fcb3b6a3' target='_blank'>15</a></td>
@@ -2085,41 +2167,79 @@ Download:
       <td><a title='5dc063c2-5914-4cad-9df2-ed59fcb3b6a3' href='issues/5dc063c2-5914-4cad-9df2-ed59fcb3b6a3' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>107</th>
-      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>20m Digital Elevation Model - Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe20660b-ef3d-4f6b-90f8-5936d9c96cb5' target='_blank'>link</a></td>
-      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>14</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-03</td>
-      <td>2022-03-03</td>
-      <td></td>
-      <td></td>
-      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>1</a></td>
-      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>12</a></td>
-      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>108</th>
-      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>Field Station Structures - Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1b517e6f-4f0a-4577-b7c2-c37f95d5b413' target='_blank'>link</a></td>
-      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>3</a></td>
+      <th>105</th>
+      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>Owikeno Lake Bathymetric Survey</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9' target='_blank'>link</a></td>
+      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>9</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
-      <td>2022-03-03</td>
-      <td>2024-03-21</td>
+      <td>2022-03-02</td>
+      <td>2024-03-14</td>
+      <td>-1.0</td>
+      <td>[]</td>
+      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>2</a></td>
+      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>6</a></td>
+      <td><a title='cdbfa699-f915-4a96-b807-abb1533da139' href='issues/cdbfa699-f915-4a96-b807-abb1533da139' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>106</th>
+      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96' target='_blank'>link</a></td>
+      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>6</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-02</td>
+      <td>2024-03-15</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>1</a></td>
-      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>2</a></td>
+      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>3</a></td>
+      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>2</a></td>
+      <td><a title='87606351-19e2-49bc-9730-68ef8492e885' href='issues/87606351-19e2-49bc-9730-68ef8492e885' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>107</th>
+      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3' target='_blank'>link</a></td>
+      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>18</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-03</td>
+      <td>2022-03-03</td>
+      <td></td>
+      <td></td>
+      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>1</a></td>
+      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>14</a></td>
+      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>3</a></td>
+    </tr>
+    <tr>
+      <th>108</th>
+      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>Hyperspectral Imagery - Calvert Island - 2012</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4be1cc5e-8846-4fba-bd94-16ca933faab8' target='_blank'>link</a></td>
+      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>8</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-03</td>
+      <td>2024-03-15</td>
+      <td></td>
+      <td></td>
+      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>5</a></td>
+      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2143,44 +2263,6 @@ Download:
     </tr>
     <tr>
       <th>110</th>
-      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>Hyperspectral Imagery - Calvert Island - 2012</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4be1cc5e-8846-4fba-bd94-16ca933faab8' target='_blank'>link</a></td>
-      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>8</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-03</td>
-      <td>2024-03-15</td>
-      <td></td>
-      <td></td>
-      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>5</a></td>
-      <td><a title='566ee187-9f92-459a-a256-bfa2c80c25da' href='issues/566ee187-9f92-459a-a256-bfa2c80c25da' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>111</th>
-      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3' target='_blank'>link</a></td>
-      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>18</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, macroalgalCanopyCoverAndComposition</td>
-      <td>2022-03-03</td>
-      <td>2022-03-03</td>
-      <td></td>
-      <td></td>
-      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>1</a></td>
-      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>14</a></td>
-      <td><a title='8c9027c9-3c1c-429a-b777-6eb80709fca7' href='issues/8c9027c9-3c1c-429a-b777-6eb80709fca7' target='_blank'>3</a></td>
-    </tr>
-    <tr>
-      <th>112</th>
       <td><a title='54dbcc50-5660-4883-87fc-f59f25a0a6da' href='issues/54dbcc50-5660-4883-87fc-f59f25a0a6da' target='_blank'>Hakai Topographic Basemap</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c5bf06e7-29f9-404a-a454-36a5d67b2e69' target='_blank'>link</a></td>
       <td><a title='54dbcc50-5660-4883-87fc-f59f25a0a6da' href='issues/54dbcc50-5660-4883-87fc-f59f25a0a6da' target='_blank'>17</a></td>
@@ -2199,7 +2281,7 @@ Download:
       <td><a title='54dbcc50-5660-4883-87fc-f59f25a0a6da' href='issues/54dbcc50-5660-4883-87fc-f59f25a0a6da' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>113</th>
+      <th>111</th>
       <td><a title='25705212-f511-4fb9-86e9-cf57957c0e58' href='issues/25705212-f511-4fb9-86e9-cf57957c0e58' target='_blank'>Bathymetric Survey - Northwest Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2d3d616-9ee2-451f-8584-14801b4c6fd0' target='_blank'>link</a></td>
       <td><a title='25705212-f511-4fb9-86e9-cf57957c0e58' href='issues/25705212-f511-4fb9-86e9-cf57957c0e58' target='_blank'>5</a></td>
@@ -2218,7 +2300,7 @@ Download:
       <td><a title='25705212-f511-4fb9-86e9-cf57957c0e58' href='issues/25705212-f511-4fb9-86e9-cf57957c0e58' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>114</th>
+      <th>112</th>
       <td><a title='87e28725-f4e1-47eb-bce3-2d8262b96205' href='issues/87e28725-f4e1-47eb-bce3-2d8262b96205' target='_blank'>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_82a3f5ec-95c5-4aeb-a0c0-bf168c985676' target='_blank'>link</a></td>
       <td><a title='87e28725-f4e1-47eb-bce3-2d8262b96205' href='issues/87e28725-f4e1-47eb-bce3-2d8262b96205' target='_blank'>17</a></td>
@@ -2235,6 +2317,44 @@ Download:
       <td><a title='87e28725-f4e1-47eb-bce3-2d8262b96205' href='issues/87e28725-f4e1-47eb-bce3-2d8262b96205' target='_blank'>3</a></td>
       <td><a title='87e28725-f4e1-47eb-bce3-2d8262b96205' href='issues/87e28725-f4e1-47eb-bce3-2d8262b96205' target='_blank'>13</a></td>
       <td><a title='87e28725-f4e1-47eb-bce3-2d8262b96205' href='issues/87e28725-f4e1-47eb-bce3-2d8262b96205' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>113</th>
+      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>20m Digital Elevation Model - Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe20660b-ef3d-4f6b-90f8-5936d9c96cb5' target='_blank'>link</a></td>
+      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>14</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-03</td>
+      <td>2022-03-03</td>
+      <td></td>
+      <td></td>
+      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>1</a></td>
+      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>12</a></td>
+      <td><a title='46de77fe-7397-4d00-865d-97038e3602e1' href='issues/46de77fe-7397-4d00-865d-97038e3602e1' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>114</th>
+      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>Field Station Structures - Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1b517e6f-4f0a-4577-b7c2-c37f95d5b413' target='_blank'>link</a></td>
+      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>3</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-03</td>
+      <td>2024-03-21</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>1</a></td>
+      <td><a title='7e13d0e3-433e-4a44-9325-b5b90c3df93e' href='issues/7e13d0e3-433e-4a44-9325-b5b90c3df93e' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>115</th>
@@ -2257,63 +2377,6 @@ Download:
     </tr>
     <tr>
       <th>116</th>
-      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163' target='_blank'>link</a></td>
-      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>4</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>1</a></td>
-      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>117</th>
-      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc' target='_blank'>link</a></td>
-      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>6</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>3</a></td>
-      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>118</th>
-      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9efdd14d-9fb9-4f0e-9414-d890b4e18055' target='_blank'>link</a></td>
-      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>16</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2022-03-15</td>
-      <td></td>
-      <td></td>
-      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>2</a></td>
-      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>13</a></td>
-      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>119</th>
       <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
       <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>15</a></td>
@@ -2332,48 +2395,10 @@ Download:
       <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>120</th>
-      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_06ddfa63-2611-46a5-8d63-c1b576e85bcb' target='_blank'>link</a></td>
-      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>21</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2022-03-15</td>
-      <td></td>
-      <td></td>
-      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>2</a></td>
-      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>18</a></td>
-      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>121</th>
-      <td><a title='6265e3f0-9cd9-4df2-804c-5a5dcd055618' href='issues/6265e3f0-9cd9-4df2-804c-5a5dcd055618' target='_blank'>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e' target='_blank'>link</a></td>
-      <td><a title='6265e3f0-9cd9-4df2-804c-5a5dcd055618' href='issues/6265e3f0-9cd9-4df2-804c-5a5dcd055618' target='_blank'>2</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, macroalgalCanopyCoverAndComposition</td>
-      <td>2022-03-11</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='6265e3f0-9cd9-4df2-804c-5a5dcd055618' href='issues/6265e3f0-9cd9-4df2-804c-5a5dcd055618' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>122</th>
-      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_14bf37c7-5eb6-4194-a992-c039fd7fb38b' target='_blank'>link</a></td>
-      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>5</a></td>
+      <th>117</th>
+      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163' target='_blank'>link</a></td>
+      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>4</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2381,34 +2406,15 @@ Download:
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-11</td>
-      <td>2024-03-20</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>3</a></td>
-      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>123</th>
-      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_244b5915-0ccf-4fab-9720-d2ac9394a27b' target='_blank'>link</a></td>
-      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>7</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
       <td>2024-03-15</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>4</a></td>
-      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>3</a></td>
+      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>1</a></td>
+      <td><a title='823f2d55-ba6d-4db7-8dc5-79d570808149' href='issues/823f2d55-ba6d-4db7-8dc5-79d570808149' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
-      <th>124</th>
+      <th>118</th>
       <td><a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0' target='_blank'>link</a></td>
       <td><a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' target='_blank'>12</a></td>
@@ -2427,7 +2433,68 @@ Download:
       <td><a title='1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' href='issues/1ceb46a4-fe5b-43f0-a7b9-ff0ff1a1febe' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>125</th>
+      <th>119</th>
+      <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
+      <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>15</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2024-03-21</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='b887d6cb-3b27-4130-bc98-c3a5952ab0f4' href='issues/b887d6cb-3b27-4130-bc98-c3a5952ab0f4' target='_blank'>3</a></td>
+      <td><a title='b887d6cb-3b27-4130-bc98-c3a5952ab0f4' href='issues/b887d6cb-3b27-4130-bc98-c3a5952ab0f4' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+      <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>2</a></td>
+      <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>12</a></td>
+      <td><a title='f8239e69-d46b-427a-83f8-3b5831ac9d4a' href='issues/f8239e69-d46b-427a-83f8-3b5831ac9d4a' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>120</th>
+      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>link</a></td>
+      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>16</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>underDevelopment</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2022-03-11</td>
+      <td></td>
+      <td></td>
+      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>3</a></td>
+      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>12</a></td>
+      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>121</th>
+      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9efdd14d-9fb9-4f0e-9414-d890b4e18055' target='_blank'>link</a></td>
+      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>16</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-11</td>
+      <td>2022-03-15</td>
+      <td></td>
+      <td></td>
+      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>2</a></td>
+      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>13</a></td>
+      <td><a title='2e188702-a2cc-40f6-972d-4661b4125952' href='issues/2e188702-a2cc-40f6-972d-4661b4125952' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>122</th>
       <td><a title='1db7362b-5181-4dff-885b-bcf29bcc8baf' href='issues/1db7362b-5181-4dff-885b-bcf29bcc8baf' target='_blank'>Trails - Calvert Island - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c' target='_blank'>link</a></td>
       <td><a title='1db7362b-5181-4dff-885b-bcf29bcc8baf' href='issues/1db7362b-5181-4dff-885b-bcf29bcc8baf' target='_blank'>4</a></td>
@@ -2446,23 +2513,80 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>126</th>
-      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>link</a></td>
-      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>16</a></td>
+      <th>123</th>
+      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>Eelgrass Extent 2014 - Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_51171738-7556-48f1-8757-658d99fa25dd' target='_blank'>link</a></td>
+      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>18</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
-      <td>underDevelopment</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition</td>
+      <td>2022-03-11</td>
+      <td>2022-03-11</td>
+      <td></td>
+      <td></td>
+      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>1</a></td>
+      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>16</a></td>
+      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>124</th>
+      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_06ddfa63-2611-46a5-8d63-c1b576e85bcb' target='_blank'>link</a></td>
+      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>21</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-11</td>
+      <td>2022-03-15</td>
+      <td></td>
+      <td></td>
+      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>2</a></td>
+      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>18</a></td>
+      <td><a title='4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' href='issues/4dfad8cd-5f5a-4004-ab10-c9a74b1ff464' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>125</th>
+      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_244b5915-0ccf-4fab-9720-d2ac9394a27b' target='_blank'>link</a></td>
+      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>7</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
       <td>2022-03-11</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>4</a></td>
+      <td><a title='8ef4250d-97cc-4c19-aa9c-98c9fb146e45' href='issues/8ef4250d-97cc-4c19-aa9c-98c9fb146e45' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>126</th>
+      <td><a title='6265e3f0-9cd9-4df2-804c-5a5dcd055618' href='issues/6265e3f0-9cd9-4df2-804c-5a5dcd055618' target='_blank'>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e' target='_blank'>link</a></td>
+      <td><a title='6265e3f0-9cd9-4df2-804c-5a5dcd055618' href='issues/6265e3f0-9cd9-4df2-804c-5a5dcd055618' target='_blank'>2</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>underDevelopment</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-11</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='6265e3f0-9cd9-4df2-804c-5a5dcd055618' href='issues/6265e3f0-9cd9-4df2-804c-5a5dcd055618' target='_blank'>2</a></td>
       <td></td>
       <td></td>
-      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>3</a></td>
-      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>12</a></td>
-      <td><a title='c04378b5-c2cf-43fc-bc41-75b954a9a722' href='issues/c04378b5-c2cf-43fc-bc41-75b954a9a722' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>127</th>
@@ -2485,44 +2609,6 @@ Download:
     </tr>
     <tr>
       <th>128</th>
-      <td><a title='b887d6cb-3b27-4130-bc98-c3a5952ab0f4' href='issues/b887d6cb-3b27-4130-bc98-c3a5952ab0f4' target='_blank'>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c' target='_blank'>link</a></td>
-      <td><a title='b887d6cb-3b27-4130-bc98-c3a5952ab0f4' href='issues/b887d6cb-3b27-4130-bc98-c3a5952ab0f4' target='_blank'>6</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-03-21</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='b887d6cb-3b27-4130-bc98-c3a5952ab0f4' href='issues/b887d6cb-3b27-4130-bc98-c3a5952ab0f4' target='_blank'>3</a></td>
-      <td><a title='b887d6cb-3b27-4130-bc98-c3a5952ab0f4' href='issues/b887d6cb-3b27-4130-bc98-c3a5952ab0f4' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>129</th>
-      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7241811a-f75c-469f-baa2-ad769d6c75cd' target='_blank'>link</a></td>
-      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>19</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2022-03-11</td>
-      <td></td>
-      <td></td>
-      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>2</a></td>
-      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>16</a></td>
-      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>130</th>
       <td><a title='86080189-f5b6-411f-9fcb-d74648043c87' href='issues/86080189-f5b6-411f-9fcb-d74648043c87' target='_blank'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea' target='_blank'>link</a></td>
       <td><a title='86080189-f5b6-411f-9fcb-d74648043c87' href='issues/86080189-f5b6-411f-9fcb-d74648043c87' target='_blank'>2</a></td>
@@ -2541,10 +2627,52 @@ Download:
       <td></td>
     </tr>
     <tr>
+      <th>129</th>
+      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc' target='_blank'>link</a></td>
+      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>6</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>3</a></td>
+      <td><a title='63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' href='issues/63e3c61b-a7f8-402c-a4a4-e36ac4b021ce' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>2</a></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>16</a></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>130</th>
+      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_14bf37c7-5eb6-4194-a992-c039fd7fb38b' target='_blank'>link</a></td>
+      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>5</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2024-03-20</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>3</a></td>
+      <td><a title='6f1bf51a-1428-4a8f-8f60-56c66cc8149b' href='issues/6f1bf51a-1428-4a8f-8f60-56c66cc8149b' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <th>131</th>
-      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>Eelgrass Extent 2014 - Central Coast</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_51171738-7556-48f1-8757-658d99fa25dd' target='_blank'>link</a></td>
-      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>18</a></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7241811a-f75c-469f-baa2-ad769d6c75cd' target='_blank'>link</a></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>19</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2555,28 +2683,28 @@ Download:
       <td>2022-03-11</td>
       <td></td>
       <td></td>
-      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>1</a></td>
-      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>16</a></td>
-      <td><a title='0a5d8827-edcf-4d37-a9d1-1366848d14f5' href='issues/0a5d8827-edcf-4d37-a9d1-1366848d14f5' target='_blank'>1</a></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>2</a></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>16</a></td>
+      <td><a title='f341947d-459d-4eb7-a43a-8e257583c468' href='issues/f341947d-459d-4eb7-a43a-8e257583c468' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>132</th>
-      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>UAV Imagery - Coastal British Columbia - 2015</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8010e86f-5dd9-421d-8e22-668664191205' target='_blank'>link</a></td>
-      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>20</a></td>
-      <td></td>
+      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>Bamfield Region UAV Imagery and Surface Model Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_40d86401-0e95-4ff3-b1c7-25e4e9138157' target='_blank'>link</a></td>
+      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>11</a></td>
+      <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-15</td>
-      <td>2022-03-15</td>
+      <td>2024-03-15</td>
       <td></td>
       <td></td>
-      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>1</a></td>
-      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>18</a></td>
-      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>1</a></td>
+      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>2</a></td>
+      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>9</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>133</th>
@@ -2599,44 +2727,25 @@ Download:
     </tr>
     <tr>
       <th>134</th>
-      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>Bamfield Region UAV Imagery and Surface Model Data</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_40d86401-0e95-4ff3-b1c7-25e4e9138157' target='_blank'>link</a></td>
-      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>11</a></td>
-      <td>Geospatial</td>
+      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>UAV Imagery - Coastal British Columbia - 2015</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8010e86f-5dd9-421d-8e22-668664191205' target='_blank'>link</a></td>
+      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>20</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-15</td>
-      <td>2024-03-15</td>
+      <td>2022-03-15</td>
       <td></td>
       <td></td>
-      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>2</a></td>
-      <td><a title='8699cb89-fdda-4a26-9fbd-24e037e72df3' href='issues/8699cb89-fdda-4a26-9fbd-24e037e72df3' target='_blank'>9</a></td>
-      <td></td>
+      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>1</a></td>
+      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>18</a></td>
+      <td><a title='68a74c3e-8265-4157-bd9c-39dca1194a16' href='issues/68a74c3e-8265-4157-bd9c-39dca1194a16' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>135</th>
-      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>Botanical Beach Drone Mapping - July 2020</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_656ea307-fed0-48ca-b5d8-1bc017dc52d2' target='_blank'>link</a></td>
-      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>7</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-15</td>
-      <td>2024-03-14</td>
-      <td></td>
-      <td></td>
-      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>2</a></td>
-      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>4</a></td>
-      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>136</th>
       <td><a title='603c6816-bc33-40e2-9f93-122f8482e060' href='issues/603c6816-bc33-40e2-9f93-122f8482e060' target='_blank'>Hakai RPAS (Drone) Operations and Methods</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_582909b1-c87d-4c5a-8594-5f44726f43a4' target='_blank'>link</a></td>
       <td><a title='603c6816-bc33-40e2-9f93-122f8482e060' href='issues/603c6816-bc33-40e2-9f93-122f8482e060' target='_blank'>18</a></td>
@@ -2655,26 +2764,26 @@ Download:
       <td><a title='603c6816-bc33-40e2-9f93-122f8482e060' href='issues/603c6816-bc33-40e2-9f93-122f8482e060' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>137</th>
-      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6' target='_blank'>link</a></td>
-      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>12</a></td>
-      <td></td>
+      <th>136</th>
+      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>Botanical Beach Drone Mapping - July 2020</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_656ea307-fed0-48ca-b5d8-1bc017dc52d2' target='_blank'>link</a></td>
+      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>7</a></td>
+      <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
-      <td>2022-03-25</td>
-      <td>2022-03-25</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>3</a></td>
-      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>8</a></td>
-      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>1</a></td>
+      <td>2022-03-15</td>
+      <td>2024-03-14</td>
+      <td></td>
+      <td></td>
+      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>2</a></td>
+      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>4</a></td>
+      <td><a title='d7f85b1a-a9d6-426d-bab0-b34e40492670' href='issues/d7f85b1a-a9d6-426d-bab0-b34e40492670' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>138</th>
+      <th>137</th>
       <td><a title='bc3bf8df-e877-4a78-a106-f4f28f158375' href='issues/bc3bf8df-e877-4a78-a106-f4f28f158375' target='_blank'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde' target='_blank'>link</a></td>
       <td><a title='bc3bf8df-e877-4a78-a106-f4f28f158375' href='issues/bc3bf8df-e877-4a78-a106-f4f28f158375' target='_blank'>6</a></td>
@@ -2691,6 +2800,25 @@ Download:
       <td><a title='bc3bf8df-e877-4a78-a106-f4f28f158375' href='issues/bc3bf8df-e877-4a78-a106-f4f28f158375' target='_blank'>2</a></td>
       <td><a title='bc3bf8df-e877-4a78-a106-f4f28f158375' href='issues/bc3bf8df-e877-4a78-a106-f4f28f158375' target='_blank'>4</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <th>138</th>
+      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6' target='_blank'>link</a></td>
+      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>12</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>particulateMatter, dissolvedOrganicCarbon</td>
+      <td>2022-03-25</td>
+      <td>2022-03-25</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>3</a></td>
+      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>8</a></td>
+      <td><a title='21350e51-1534-4bc4-89e8-9c31774037e2' href='issues/21350e51-1534-4bc4-89e8-9c31774037e2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>139</th>
@@ -2732,6 +2860,25 @@ Download:
     </tr>
     <tr>
       <th>141</th>
+      <td><a title='d0869379-8dfc-4dcc-8637-5c300c77f4c4' href='issues/d0869379-8dfc-4dcc-8637-5c300c77f4c4' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 1</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5cf59eac-2fb4-4ed2-8ffc-372030c9438e' target='_blank'>link</a></td>
+      <td><a title='d0869379-8dfc-4dcc-8637-5c300c77f4c4' href='issues/d0869379-8dfc-4dcc-8637-5c300c77f4c4' target='_blank'>2</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-25</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='d0869379-8dfc-4dcc-8637-5c300c77f4c4' href='issues/d0869379-8dfc-4dcc-8637-5c300c77f4c4' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>142</th>
       <td><a title='8b6f99f4-660e-47a6-8b0c-46a5b7dad476' href='issues/8b6f99f4-660e-47a6-8b0c-46a5b7dad476' target='_blank'>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897' target='_blank'>link</a></td>
       <td><a title='8b6f99f4-660e-47a6-8b0c-46a5b7dad476' href='issues/8b6f99f4-660e-47a6-8b0c-46a5b7dad476' target='_blank'>20</a></td>
@@ -2750,7 +2897,7 @@ Download:
       <td><a title='8b6f99f4-660e-47a6-8b0c-46a5b7dad476' href='issues/8b6f99f4-660e-47a6-8b0c-46a5b7dad476' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>142</th>
+      <th>143</th>
       <td><a title='12c7f2dd-c486-4aab-9546-06bd49d50fc6' href='issues/12c7f2dd-c486-4aab-9546-06bd49d50fc6' target='_blank'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9' target='_blank'>link</a></td>
       <td><a title='12c7f2dd-c486-4aab-9546-06bd49d50fc6' href='issues/12c7f2dd-c486-4aab-9546-06bd49d50fc6' target='_blank'>19</a></td>
@@ -2789,79 +2936,79 @@ Download:
     </tr>
     <tr>
       <th>144</th>
-      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e' target='_blank'>link</a></td>
-      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>9</a></td>
-      <td></td>
+      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9' target='_blank'>link</a></td>
+      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>7</a></td>
+      <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-29</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>3</a></td>
-      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>5</a></td>
-      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>1</a></td>
+      <td>2024-03-20</td>
+      <td>1.0</td>
+      <td>[{'year': '2022', 'total': 1}]</td>
+      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>3</a></td>
+      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>4</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>145</th>
-      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373' target='_blank'>link</a></td>
-      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>6</a></td>
-      <td>Watersheds</td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4c80a391-e74a-48cf-87ae-67632e485725' target='_blank'>link</a></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>14</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-29</td>
-      <td>2024-03-14</td>
-      <td>-1.0</td>
-      <td>[]</td>
-      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>4</a></td>
-      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>2</a></td>
+      <td>2022-03-29</td>
       <td></td>
+      <td></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>2</a></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>11</a></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>146</th>
-      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7538807-4d49-4ed8-ad36-836c0e71428a' target='_blank'>link</a></td>
-      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>6</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>link</a></td>
+      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>16</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-29</td>
-      <td>2024-03-14</td>
-      <td>1.0</td>
-      <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>3</a></td>
-      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>3</a></td>
-      <td></td>
+      <td>2022-03-29</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>6</a></td>
+      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>9</a></td>
+      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>147</th>
-      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>Aquatic carbon flux data package for Oliver et al. 2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_184b2f81-d87f-4615-a026-15b87930d15c' target='_blank'>link</a></td>
-      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>7</a></td>
-      <td>Watersheds</td>
+      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4' target='_blank'>link</a></td>
+      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>16</a></td>
+      <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>dissolvedOrganicCarbon, other</td>
       <td>2022-03-29</td>
-      <td>2024-03-14</td>
+      <td>2022-03-29</td>
       <td>1.0</td>
       <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>5</a></td>
-      <td></td>
-      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>2</a></td>
+      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>3</a></td>
+      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>12</a></td>
+      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>148</th>
@@ -2884,63 +3031,6 @@ Download:
     </tr>
     <tr>
       <th>149</th>
-      <td><a title='53064321-59d6-4beb-a722-63cdef68664e' href='issues/53064321-59d6-4beb-a722-63cdef68664e' target='_blank'>Ecosystem Comparison Plots - Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8' target='_blank'>link</a></td>
-      <td><a title='53064321-59d6-4beb-a722-63cdef68664e' href='issues/53064321-59d6-4beb-a722-63cdef68664e' target='_blank'>8</a></td>
-      <td>Geospatial, Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-03-14</td>
-      <td>1.0</td>
-      <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='53064321-59d6-4beb-a722-63cdef68664e' href='issues/53064321-59d6-4beb-a722-63cdef68664e' target='_blank'>5</a></td>
-      <td><a title='53064321-59d6-4beb-a722-63cdef68664e' href='issues/53064321-59d6-4beb-a722-63cdef68664e' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>150</th>
-      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>Watersheds of the northern Pacific coastal temperate rainforest margin</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95' target='_blank'>link</a></td>
-      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>18</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2022-03-29</td>
-      <td>3.0</td>
-      <td>[{'year': '2022', 'total': 2}, {'year': '2023', 'total': 1}]</td>
-      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>5</a></td>
-      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>12</a></td>
-      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>151</th>
-      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_395aa495-de81-4947-b1c5-2c98172a6def' target='_blank'>link</a></td>
-      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>3</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-03-19</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>3</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>152</th>
       <td><a title='4c95b63a-91d4-4aa6-a0b1-54860331872e' href='issues/4c95b63a-91d4-4aa6-a0b1-54860331872e' target='_blank'>LiDAR Derived Watersheds with Metrics - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d' target='_blank'>link</a></td>
       <td><a title='4c95b63a-91d4-4aa6-a0b1-54860331872e' href='issues/4c95b63a-91d4-4aa6-a0b1-54860331872e' target='_blank'>3</a></td>
@@ -2959,45 +3049,65 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>153</th>
-      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4c80a391-e74a-48cf-87ae-67632e485725' target='_blank'>link</a></td>
-      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>14</a></td>
+      <th>150</th>
+      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>link</a></td>
+      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>25</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other</td>
+      <td>other, dissolvedOrganicCarbon</td>
       <td>2022-03-29</td>
       <td>2022-03-29</td>
-      <td></td>
-      <td></td>
-      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>2</a></td>
-      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>11</a></td>
-      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='issues/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>1</a></td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>11</a></td>
+      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>12</a></td>
+      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <th>154</th>
-      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9' target='_blank'>link</a></td>
-      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>7</a></td>
-      <td>Airborne Coastal Observatory</td>
+      <th>151</th>
+      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_395aa495-de81-4947-b1c5-2c98172a6def' target='_blank'>link</a></td>
+      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>3</a></td>
+      <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-29</td>
-      <td>2024-03-20</td>
+      <td>2024-03-14</td>
       <td>1.0</td>
       <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>3</a></td>
-      <td><a title='67a00036-a204-47eb-88ad-8146be3815a4' href='issues/67a00036-a204-47eb-88ad-8146be3815a4' target='_blank'>4</a></td>
+      <td><a title='53064321-59d6-4beb-a722-63cdef68664e' href='issues/53064321-59d6-4beb-a722-63cdef68664e' target='_blank'>5</a></td>
+      <td><a title='53064321-59d6-4beb-a722-63cdef68664e' href='issues/53064321-59d6-4beb-a722-63cdef68664e' target='_blank'>3</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>155</th>
+      <th>152</th>
+      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>Aquatic carbon flux data package for Oliver et al. 2017</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_184b2f81-d87f-4615-a026-15b87930d15c' target='_blank'>link</a></td>
+      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>7</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>dissolvedOrganicCarbon, other</td>
+      <td>2022-03-29</td>
+      <td>2024-03-14</td>
+      <td>1.0</td>
+      <td>[{'year': '2022', 'total': 1}]</td>
+      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>5</a></td>
+      <td></td>
+      <td><a title='3da11b67-f752-4e70-9f0b-411cfccec967' href='issues/3da11b67-f752-4e70-9f0b-411cfccec967' target='_blank'>2</a></td>
+    </tr>
+    <tr>
+      <th>153</th>
       <td><a title='b93bf6ea-6ebe-42be-af7c-56e74c514516' href='issues/b93bf6ea-6ebe-42be-af7c-56e74c514516' target='_blank'>Biogeochemical Sampling of Streams in the Kwakshua Watersheds of Calvert and Hecate Islands, BC: 2013-2019. Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5b0b2db4-21d7-48b8-9616-255ba2267868' target='_blank'>link</a></td>
       <td><a title='b93bf6ea-6ebe-42be-af7c-56e74c514516' href='issues/b93bf6ea-6ebe-42be-af7c-56e74c514516' target='_blank'>8</a></td>
@@ -3016,26 +3126,45 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>156</th>
-      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4' target='_blank'>link</a></td>
-      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>16</a></td>
+      <th>154</th>
+      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373' target='_blank'>link</a></td>
+      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>6</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-03-14</td>
+      <td>-1.0</td>
+      <td>[]</td>
+      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>4</a></td>
+      <td><a title='49640b1e-1120-47ac-9795-b5e4274cdc06' href='issues/49640b1e-1120-47ac-9795-b5e4274cdc06' target='_blank'>2</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <th>155</th>
+      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7538807-4d49-4ed8-ad36-836c0e71428a' target='_blank'>link</a></td>
+      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>6</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-29</td>
-      <td>2022-03-29</td>
+      <td>2024-03-14</td>
       <td>1.0</td>
       <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>3</a></td>
-      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>12</a></td>
-      <td><a title='a4a6243f-1c34-43c3-8f75-5d67faddd297' href='issues/a4a6243f-1c34-43c3-8f75-5d67faddd297' target='_blank'>1</a></td>
+      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>3</a></td>
+      <td><a title='6839b8bd-8789-4efa-9b21-e35de2b3c24c' href='issues/6839b8bd-8789-4efa-9b21-e35de2b3c24c' target='_blank'>3</a></td>
+      <td></td>
     </tr>
     <tr>
-      <th>157</th>
+      <th>156</th>
       <td><a title='70fb0411-6c90-4952-86f4-0dbcad941ba3' href='issues/70fb0411-6c90-4952-86f4-0dbcad941ba3' target='_blank'>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6844547c-708e-437b-aef7-157b4d9d9bcb' target='_blank'>link</a></td>
       <td><a title='70fb0411-6c90-4952-86f4-0dbcad941ba3' href='issues/70fb0411-6c90-4952-86f4-0dbcad941ba3' target='_blank'>3</a></td>
@@ -3054,7 +3183,45 @@ Download:
       <td></td>
     </tr>
     <tr>
+      <th>157</th>
+      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>link</a></td>
+      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>16</a></td>
+      <td>Genomics, Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>nutrients, dissolvedOrganicCarbon</td>
+      <td>2022-03-29</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>12</a></td>
+      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>3</a></td>
+      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <th>158</th>
+      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>Watersheds of the northern Pacific coastal temperate rainforest margin</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95' target='_blank'>link</a></td>
+      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>18</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2022-03-29</td>
+      <td>3.0</td>
+      <td>[{'year': '2022', 'total': 2}, {'year': '2023', 'total': 1}]</td>
+      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>5</a></td>
+      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>12</a></td>
+      <td><a title='7984434f-f50f-4c7f-9447-e35b2e359c42' href='issues/7984434f-f50f-4c7f-9447-e35b2e359c42' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>159</th>
       <td><a title='e544e007-1b6e-41cc-99ae-bf405e006249' href='issues/e544e007-1b6e-41cc-99ae-bf405e006249' target='_blank'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df' target='_blank'>link</a></td>
       <td><a title='e544e007-1b6e-41cc-99ae-bf405e006249' href='issues/e544e007-1b6e-41cc-99ae-bf405e006249' target='_blank'>8</a></td>
@@ -3071,25 +3238,6 @@ Download:
       <td><a title='e544e007-1b6e-41cc-99ae-bf405e006249' href='issues/e544e007-1b6e-41cc-99ae-bf405e006249' target='_blank'>3</a></td>
       <td><a title='e544e007-1b6e-41cc-99ae-bf405e006249' href='issues/e544e007-1b6e-41cc-99ae-bf405e006249' target='_blank'>5</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <th>159</th>
-      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>link</a></td>
-      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>16</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2022-03-29</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>6</a></td>
-      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>9</a></td>
-      <td><a title='ed6bc812-4541-420a-a486-32649c48e5c7' href='issues/ed6bc812-4541-420a-a486-32649c48e5c7' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>160</th>
@@ -3112,6 +3260,62 @@ Download:
     </tr>
     <tr>
       <th>161</th>
+      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_395aa495-de81-4947-b1c5-2c98172a6def' target='_blank'>link</a></td>
+      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>3</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-03-19</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='issues/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>162</th>
+      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e' target='_blank'>link</a></td>
+      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>9</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>3</a></td>
+      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>5</a></td>
+      <td><a title='7d16d3d8-1104-4596-8a69-56388eae5331' href='issues/7d16d3d8-1104-4596-8a69-56388eae5331' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>163</th>
+      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef' target='_blank'>link</a></td>
+      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>11</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-03-20</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>6</a></td>
+      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>4</a></td>
+      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>164</th>
       <td><a title='29df5793-b47d-4043-a174-75c57f54e080' href='issues/29df5793-b47d-4043-a174-75c57f54e080' target='_blank'>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018' target='_blank'>link</a></td>
       <td><a title='29df5793-b47d-4043-a174-75c57f54e080' href='issues/29df5793-b47d-4043-a174-75c57f54e080' target='_blank'>17</a></td>
@@ -3120,7 +3324,7 @@ Download:
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other</td>
+      <td>other, dissolvedOrganicCarbon</td>
       <td>2022-03-29</td>
       <td>2022-03-29</td>
       <td></td>
@@ -3130,26 +3334,7 @@ Download:
       <td><a title='29df5793-b47d-4043-a174-75c57f54e080' href='issues/29df5793-b47d-4043-a174-75c57f54e080' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <th>162</th>
-      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997' target='_blank'>link</a></td>
-      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>4</a></td>
-      <td>Watersheds, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-03-14</td>
-      <td>1.0</td>
-      <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>2</a></td>
-      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>163</th>
+      <th>165</th>
       <td><a title='596bf473-0317-4b04-bf90-8219f84dc66e' href='issues/596bf473-0317-4b04-bf90-8219f84dc66e' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345' target='_blank'>link</a></td>
       <td><a title='596bf473-0317-4b04-bf90-8219f84dc66e' href='issues/596bf473-0317-4b04-bf90-8219f84dc66e' target='_blank'>21</a></td>
@@ -3168,11 +3353,11 @@ Download:
       <td><a title='596bf473-0317-4b04-bf90-8219f84dc66e' href='issues/596bf473-0317-4b04-bf90-8219f84dc66e' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <th>164</th>
-      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>link</a></td>
-      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>16</a></td>
-      <td>Genomics, Watersheds</td>
+      <th>166</th>
+      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997' target='_blank'>link</a></td>
+      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>4</a></td>
+      <td>Watersheds, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
@@ -3180,49 +3365,11 @@ Download:
       <td>other</td>
       <td>2022-03-29</td>
       <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>12</a></td>
-      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>3</a></td>
-      <td><a title='6ff43874-7364-4898-82f8-19d20e3e0f4d' href='issues/6ff43874-7364-4898-82f8-19d20e3e0f4d' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>165</th>
-      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>link</a></td>
-      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>25</a></td>
+      <td>1.0</td>
+      <td>[{'year': '2022', 'total': 1}]</td>
+      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>2</a></td>
+      <td><a title='cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' href='issues/cb42c2d9-0f9c-45d4-b624-5f020a7f8acd' target='_blank'>2</a></td>
       <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, dissolvedOrganicCarbon</td>
-      <td>2022-03-29</td>
-      <td>2022-03-29</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>11</a></td>
-      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>12</a></td>
-      <td><a title='202ad85d-956a-497c-bc86-369e440a85e8' href='issues/202ad85d-956a-497c-bc86-369e440a85e8' target='_blank'>2</a></td>
-    </tr>
-    <tr>
-      <th>166</th>
-      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef' target='_blank'>link</a></td>
-      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>11</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-03-20</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>6</a></td>
-      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>4</a></td>
-      <td><a title='afa57672-a46a-4061-a33e-a05c5fc78414' href='issues/afa57672-a46a-4061-a33e-a05c5fc78414' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>167</th>
@@ -3369,12 +3516,12 @@ Download:
       <td>dataset</td>
       <td>other, invertebrateAbundanceAndDistribution</td>
       <td>2022-10-08</td>
-      <td>2023-06-28</td>
+      <td>2024-03-14</td>
       <td>-1.0</td>
       <td>[]</td>
-      <td><a title='d7ec8494-c375-4490-b26e-c8da31c22f34' href='issues/d7ec8494-c375-4490-b26e-c8da31c22f34' target='_blank'>5</a></td>
-      <td><a title='d7ec8494-c375-4490-b26e-c8da31c22f34' href='issues/d7ec8494-c375-4490-b26e-c8da31c22f34' target='_blank'>11</a></td>
-      <td><a title='d7ec8494-c375-4490-b26e-c8da31c22f34' href='issues/d7ec8494-c375-4490-b26e-c8da31c22f34' target='_blank'>1</a></td>
+      <td><a title='5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' href='issues/5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' target='_blank'>5</a></td>
+      <td><a title='5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' href='issues/5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' target='_blank'>2</a></td>
+      <td><a title='5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' href='issues/5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>175</th>
@@ -3397,6 +3544,25 @@ Download:
     </tr>
     <tr>
       <th>176</th>
+      <td><a title='c4fa012e-b87b-4651-8600-465e5cfe9e3a' href='issues/c4fa012e-b87b-4651-8600-465e5cfe9e3a' target='_blank'>Surfgrass Community Structure - Length & Density - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_93a9bb9a-b54e-4623-9e0e-93d8b7d0020b' target='_blank'>link</a></td>
+      <td><a title='c4fa012e-b87b-4651-8600-465e5cfe9e3a' href='issues/c4fa012e-b87b-4651-8600-465e5cfe9e3a' target='_blank'>9</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition</td>
+      <td>2022-10-08</td>
+      <td>2024-03-21</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='c4fa012e-b87b-4651-8600-465e5cfe9e3a' href='issues/c4fa012e-b87b-4651-8600-465e5cfe9e3a' target='_blank'>7</a></td>
+      <td><a title='c4fa012e-b87b-4651-8600-465e5cfe9e3a' href='issues/c4fa012e-b87b-4651-8600-465e5cfe9e3a' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>177</th>
       <td><a title='40611ac6-342a-469f-bfbf-9608d9075e3a' href='issues/40611ac6-342a-469f-bfbf-9608d9075e3a' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e' target='_blank'>link</a></td>
       <td><a title='40611ac6-342a-469f-bfbf-9608d9075e3a' href='issues/40611ac6-342a-469f-bfbf-9608d9075e3a' target='_blank'>21</a></td>
@@ -3445,12 +3611,12 @@ Download:
       <td>dataset</td>
       <td>invertebrateAbundanceAndDistribution</td>
       <td>2022-10-08</td>
-      <td>2024-03-14</td>
+      <td>2023-06-28</td>
       <td>-1.0</td>
       <td>[]</td>
-      <td><a title='5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' href='issues/5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' target='_blank'>5</a></td>
-      <td><a title='5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' href='issues/5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' target='_blank'>2</a></td>
-      <td><a title='5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' href='issues/5bb2a0f5-19d6-4c9a-ac04-64fede6c2f1a' target='_blank'>1</a></td>
+      <td><a title='d7ec8494-c375-4490-b26e-c8da31c22f34' href='issues/d7ec8494-c375-4490-b26e-c8da31c22f34' target='_blank'>5</a></td>
+      <td><a title='d7ec8494-c375-4490-b26e-c8da31c22f34' href='issues/d7ec8494-c375-4490-b26e-c8da31c22f34' target='_blank'>11</a></td>
+      <td><a title='d7ec8494-c375-4490-b26e-c8da31c22f34' href='issues/d7ec8494-c375-4490-b26e-c8da31c22f34' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>179</th>
@@ -3473,21 +3639,21 @@ Download:
     </tr>
     <tr>
       <th>180</th>
-      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>Kelp and Eelgrass Mapping – BC Central Coast – 2021 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_58d82567-18b8-456a-a124-41b81661a5b2' target='_blank'>link</a></td>
-      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>3</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f952a904-f9f7-4876-b518-c98b1fd96f7e' target='_blank'>link</a></td>
+      <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>3</a></td>
+      <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other, seagrassCoverAndComposition, macroalgalCanopyCoverAndComposition</td>
+      <td>other</td>
       <td>2022-11-24</td>
       <td>2024-03-14</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>1</a></td>
-      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>2</a></td>
+      <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>1</a></td>
+      <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3511,6 +3677,25 @@ Download:
     </tr>
     <tr>
       <th>182</th>
+      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>Kelp and Eelgrass Mapping – BC Central Coast – 2021 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_58d82567-18b8-456a-a124-41b81661a5b2' target='_blank'>link</a></td>
+      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>3</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-11-24</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>1</a></td>
+      <td><a title='931eda85-7939-4ac0-96a0-139b0175a966' href='issues/931eda85-7939-4ac0-96a0-139b0175a966' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>182</th>
       <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f952a904-f9f7-4876-b518-c98b1fd96f7e' target='_blank'>link</a></td>
       <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>3</a></td>
@@ -3520,13 +3705,13 @@ Download:
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
-      <td>2022-11-24</td>
-      <td>2024-03-14</td>
+      <td>2022-11-25</td>
+      <td>2024-03-15</td>
       <td>0.0</td>
       <td>[]</td>
-      <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>1</a></td>
-      <td><a title='64d14ac3-6f6b-49be-8655-ee517d036da2' href='issues/64d14ac3-6f6b-49be-8655-ee517d036da2' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='caedc81e-1369-4237-a129-6cce39dd43a0' href='issues/caedc81e-1369-4237-a129-6cce39dd43a0' target='_blank'>2</a></td>
+      <td><a title='caedc81e-1369-4237-a129-6cce39dd43a0' href='issues/caedc81e-1369-4237-a129-6cce39dd43a0' target='_blank'>1</a></td>
+      <td><a title='caedc81e-1369-4237-a129-6cce39dd43a0' href='issues/caedc81e-1369-4237-a129-6cce39dd43a0' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>183</th>
@@ -3625,101 +3810,6 @@ Download:
     </tr>
     <tr>
       <th>188</th>
-      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0295e3a3-11b5-494d-ac60-ed4b95a15fad' target='_blank'>link</a></td>
-      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>7</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-18</td>
-      <td>2023-04-12</td>
-      <td></td>
-      <td></td>
-      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>3</a></td>
-      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>3</a></td>
-      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>189</th>
-      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bdb9229b-f594-40df-994e-e52e8a678165' target='_blank'>link</a></td>
-      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>4</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-18</td>
-      <td>2024-03-14</td>
-      <td>-1.0</td>
-      <td>[]</td>
-      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>2</a></td>
-      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>1</a></td>
-      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <th>190</th>
-      <td><a title='7b63395e-ca4e-4235-8b80-5ee0e9e1e485' href='issues/7b63395e-ca4e-4235-8b80-5ee0e9e1e485' target='_blank'>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_412ae9da-7e81-4a33-90c8-ed142f36307e' target='_blank'>link</a></td>
-      <td><a title='7b63395e-ca4e-4235-8b80-5ee0e9e1e485' href='issues/7b63395e-ca4e-4235-8b80-5ee0e9e1e485' target='_blank'>2</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-18</td>
-      <td>2024-03-19</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td></td>
-      <td><a title='7b63395e-ca4e-4235-8b80-5ee0e9e1e485' href='issues/7b63395e-ca4e-4235-8b80-5ee0e9e1e485' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>191</th>
-      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>Glaciers and Ice - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
-      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>2</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-18</td>
-      <td>2023-04-12</td>
-      <td></td>
-      <td></td>
-      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>1</a></td>
-      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>192</th>
-      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1' target='_blank'>link</a></td>
-      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>7</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-18</td>
-      <td>2024-03-14</td>
-      <td>-1.0</td>
-      <td>[]</td>
-      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>2</a></td>
-      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>3</a></td>
-      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>2</a></td>
-    </tr>
-    <tr>
-      <th>193</th>
       <td><a title='2a68481c-7112-4578-b384-e7ceaa45f202' href='issues/2a68481c-7112-4578-b384-e7ceaa45f202' target='_blank'>Elliot Creek Landslide – 2022 – Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c39138f-8f01-4948-a3de-864044686c55' target='_blank'>link</a></td>
       <td><a title='2a68481c-7112-4578-b384-e7ceaa45f202' href='issues/2a68481c-7112-4578-b384-e7ceaa45f202' target='_blank'>4</a></td>
@@ -3738,26 +3828,102 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>194</th>
-      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be' target='_blank'>link</a></td>
-      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>3</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
+      <th>189</th>
+      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>Glaciers and Ice - 2022 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
+      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>2</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
-      <td>2023-01-23</td>
-      <td>2024-03-15</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>1</a></td>
-      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>2</a></td>
+      <td>2023-01-18</td>
+      <td>2023-04-12</td>
+      <td></td>
+      <td></td>
+      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>1</a></td>
+      <td><a title='9e1e1439-e3c5-4598-92e6-e70ff971cbdf' href='issues/9e1e1439-e3c5-4598-92e6-e70ff971cbdf' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
-      <th>195</th>
+      <th>190</th>
+      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0295e3a3-11b5-494d-ac60-ed4b95a15fad' target='_blank'>link</a></td>
+      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>7</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-18</td>
+      <td>2023-04-12</td>
+      <td></td>
+      <td></td>
+      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>3</a></td>
+      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>3</a></td>
+      <td><a title='e1098629-b994-4051-8c77-3af6b4c9d856' href='issues/e1098629-b994-4051-8c77-3af6b4c9d856' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>191</th>
+      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bdb9229b-f594-40df-994e-e52e8a678165' target='_blank'>link</a></td>
+      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-18</td>
+      <td>2024-03-14</td>
+      <td>-1.0</td>
+      <td>[]</td>
+      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>2</a></td>
+      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>1</a></td>
+      <td><a title='2038c295-f585-4dd2-b01d-17d735b7003f' href='issues/2038c295-f585-4dd2-b01d-17d735b7003f' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>192</th>
+      <td><a title='7b63395e-ca4e-4235-8b80-5ee0e9e1e485' href='issues/7b63395e-ca4e-4235-8b80-5ee0e9e1e485' target='_blank'>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_412ae9da-7e81-4a33-90c8-ed142f36307e' target='_blank'>link</a></td>
+      <td><a title='7b63395e-ca4e-4235-8b80-5ee0e9e1e485' href='issues/7b63395e-ca4e-4235-8b80-5ee0e9e1e485' target='_blank'>2</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-18</td>
+      <td>2024-03-19</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td></td>
+      <td><a title='7b63395e-ca4e-4235-8b80-5ee0e9e1e485' href='issues/7b63395e-ca4e-4235-8b80-5ee0e9e1e485' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>193</th>
+      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1' target='_blank'>link</a></td>
+      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>7</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-18</td>
+      <td>2024-03-14</td>
+      <td>-1.0</td>
+      <td>[]</td>
+      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>2</a></td>
+      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>3</a></td>
+      <td><a title='07a1994f-664b-4dfb-9737-4593bef19b7b' href='issues/07a1994f-664b-4dfb-9737-4593bef19b7b' target='_blank'>2</a></td>
+    </tr>
+    <tr>
+      <th>194</th>
       <td><a title='3402bd35-70ff-4ad3-bcb4-b77334579213' href='issues/3402bd35-70ff-4ad3-bcb4-b77334579213' target='_blank'>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2baa28d-c063-4354-ae1f-2abdb8397d8f' target='_blank'>link</a></td>
       <td><a title='3402bd35-70ff-4ad3-bcb4-b77334579213' href='issues/3402bd35-70ff-4ad3-bcb4-b77334579213' target='_blank'>2</a></td>
@@ -3773,6 +3939,25 @@ Download:
       <td>[]</td>
       <td><a title='3402bd35-70ff-4ad3-bcb4-b77334579213' href='issues/3402bd35-70ff-4ad3-bcb4-b77334579213' target='_blank'>2</a></td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>195</th>
+      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be' target='_blank'>link</a></td>
+      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>3</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-23</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>1</a></td>
+      <td><a title='66b4210a-1648-414a-b684-e07644f268a7' href='issues/66b4210a-1648-414a-b684-e07644f268a7' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3796,25 +3981,6 @@ Download:
     </tr>
     <tr>
       <th>197</th>
-      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>link</a></td>
-      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>4</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, marineTurtlesBirdsMammalsAbundanceAndDistribution</td>
-      <td>2023-03-03</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>3</a></td>
-      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>198</th>
       <td><a title='64428381-8bba-4aa3-ba27-6b3e0e9b85bc' href='issues/64428381-8bba-4aa3-ba27-6b3e0e9b85bc' target='_blank'>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_251aef08-4017-4493-b9d8-c4583913b511' target='_blank'>link</a></td>
       <td><a title='64428381-8bba-4aa3-ba27-6b3e0e9b85bc' href='issues/64428381-8bba-4aa3-ba27-6b3e0e9b85bc' target='_blank'>4</a></td>
@@ -3830,6 +3996,25 @@ Download:
       <td>[]</td>
       <td><a title='64428381-8bba-4aa3-ba27-6b3e0e9b85bc' href='issues/64428381-8bba-4aa3-ba27-6b3e0e9b85bc' target='_blank'>2</a></td>
       <td><a title='64428381-8bba-4aa3-ba27-6b3e0e9b85bc' href='issues/64428381-8bba-4aa3-ba27-6b3e0e9b85bc' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>198</th>
+      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>link</a></td>
+      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, marineTurtlesBirdsMammalsAbundanceAndDistribution</td>
+      <td>2023-03-03</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>3</a></td>
+      <td><a title='628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' href='issues/628f64cd-6b7d-447e-ab6d-2acdd4bc3bff' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3868,6 +4053,25 @@ Download:
       <td>[{'year': '2024', 'total': 2}]</td>
       <td><a title='8ae0ea99-e0f5-47ca-802a-d09aa98a0725' href='issues/8ae0ea99-e0f5-47ca-802a-d09aa98a0725' target='_blank'>7</a></td>
       <td><a title='8ae0ea99-e0f5-47ca-802a-d09aa98a0725' href='issues/8ae0ea99-e0f5-47ca-802a-d09aa98a0725' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>200</th>
+      <td><a title='3496a8a2-3103-4488-9cca-1209529fefbd' href='issues/3496a8a2-3103-4488-9cca-1209529fefbd' target='_blank'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497' target='_blank'>link</a></td>
+      <td><a title='3496a8a2-3103-4488-9cca-1209529fefbd' href='issues/3496a8a2-3103-4488-9cca-1209529fefbd' target='_blank'>5</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>historicalArchive</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>nutrients</td>
+      <td>2023-03-13</td>
+      <td>2024-03-15</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='3496a8a2-3103-4488-9cca-1209529fefbd' href='issues/3496a8a2-3103-4488-9cca-1209529fefbd' target='_blank'>2</a></td>
+      <td><a title='3496a8a2-3103-4488-9cca-1209529fefbd' href='issues/3496a8a2-3103-4488-9cca-1209529fefbd' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -4099,25 +4303,6 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>213</th>
-      <td><a title='ec7187dc-8aa0-448c-9649-ae1668e6ac67' href='issues/ec7187dc-8aa0-448c-9649-ae1668e6ac67' target='_blank'>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d1bef0b7-4d15-4bc1-bf34-faca6352891f' target='_blank'>link</a></td>
-      <td><a title='ec7187dc-8aa0-448c-9649-ae1668e6ac67' href='issues/ec7187dc-8aa0-448c-9649-ae1668e6ac67' target='_blank'>1</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>phytoplanktonBiomassAndDiversity, particulateMatter, other</td>
-      <td>2024-03-14</td>
-      <td>2024-03-14</td>
-      <td>0.0</td>
-      <td>[]</td>
-      <td><a title='ec7187dc-8aa0-448c-9649-ae1668e6ac67' href='issues/ec7187dc-8aa0-448c-9649-ae1668e6ac67' target='_blank'>1</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <th>214</th>
       <td><a title='a2a6b41d-14b1-473a-8b19-79b8c2a4045d' href='issues/a2a6b41d-14b1-473a-8b19-79b8c2a4045d' target='_blank'>Pruth Dock, Calvert Island Tide and Weather Station Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2d693456-7e65-46be-95d7-6bb697320017' target='_blank'>link</a></td>
@@ -4135,6 +4320,25 @@ Download:
       <td><a title='a2a6b41d-14b1-473a-8b19-79b8c2a4045d' href='issues/a2a6b41d-14b1-473a-8b19-79b8c2a4045d' target='_blank'>1</a></td>
       <td></td>
       <td><a title='a2a6b41d-14b1-473a-8b19-79b8c2a4045d' href='issues/a2a6b41d-14b1-473a-8b19-79b8c2a4045d' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>214</th>
+      <td><a title='ec7187dc-8aa0-448c-9649-ae1668e6ac67' href='issues/ec7187dc-8aa0-448c-9649-ae1668e6ac67' target='_blank'>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d1bef0b7-4d15-4bc1-bf34-faca6352891f' target='_blank'>link</a></td>
+      <td><a title='ec7187dc-8aa0-448c-9649-ae1668e6ac67' href='issues/ec7187dc-8aa0-448c-9649-ae1668e6ac67' target='_blank'>1</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>phytoplanktonBiomassAndDiversity, particulateMatter, other</td>
+      <td>2024-03-14</td>
+      <td>2024-03-14</td>
+      <td>0.0</td>
+      <td>[]</td>
+      <td><a title='ec7187dc-8aa0-448c-9649-ae1668e6ac67' href='issues/ec7187dc-8aa0-448c-9649-ae1668e6ac67' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th>215</th>
@@ -4382,6 +4586,36 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
     </tr>
     <tr>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -4447,34 +4681,109 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>No funder</td>
     </tr>
     <tr>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Institute' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Institute' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Institute' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Institute' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
@@ -4562,112 +4871,47 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No funder</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>INFO</td>
+      <td>No version</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Institute' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Institute' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Institute' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Institute' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass Extent - Coastal British Columbia</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -4682,14 +4926,14 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='BC Base Annotations data, TRIM' contact['organisation-name']='GEOBC TRIM Program'</td>
     </tr>
     <tr>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
@@ -4897,32 +5141,22 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Eelgrass Extent - Coastal British Columbia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Eelgrass Extent - Coastal British Columbia</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Eelgrass Extent - Coastal British Columbia</td>
       <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')=''</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Haughton, Emily R.' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -4963,6 +5197,26 @@ Download:
     </tr>
     <tr>
       <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -5077,26 +5331,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -5110,6 +5344,31 @@ Download:
       <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/90h6-b497 status_code=404</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Fedje, Bryn' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.html</td>
     </tr>
     <tr>
       <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
@@ -5172,31 +5431,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -5252,27 +5486,27 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -5335,6 +5569,21 @@ Download:
       <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.html</td>
+    </tr>
+    <tr>
+      <td>Field Station Structures - Calvert Island</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Field Station Structures - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Field Station Structures - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Field Station Structures - Calvert Island</td>
@@ -5562,44 +5811,39 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'</td>
+    </tr>
+    <tr>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Banner, Allen' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hoffman, Kira' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Saunders, Sari' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='MacKinnon, Andy' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Owikeno Lake Bathymetric Survey</td>
@@ -5647,117 +5891,97 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>WARNING</td>
-      <td>No DOI defined</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>No funder</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Banner, Allen' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hoffman, Kira' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Saunders, Sari' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='MacKinnon, Andy' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
     </tr>
     <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
+      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/31db-5090 status_code=404</td>
     </tr>
     <tr>
-      <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Viner, Nick' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Hakai Institute Sensor Network</td>
+      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
@@ -5827,62 +6051,12 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Pruth Dock, Calvert Island Tide and Weather Station Provisional</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Pruth Dock, Calvert Island Tide and Weather Station Provisional</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/8d4w-sr07 status_code=404</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>Hakai Institute Sensor Network</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
     <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Santiago Gonzalez Arriola' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Santiago Gonzalez Arriola' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Ian J. W. Giesbrecht' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Ian J. W. Giesbrecht' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='F. E. Biles' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>Hakai Institute Sensor Network</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']="D. V. D'Amore" contact.get('organisation-name')=''</td>
     </tr>
@@ -5927,19 +6101,39 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Understory kelp biomass data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Krumhansl, K.' contact.get('organisation-name')=''</td>
+      <td>Hakai Institute Sensor Network</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Understory kelp biomass data from BC Central Coast, v1.2.0</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
       <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Okamoto, D.' contact.get('organisation-name')=''</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Understory kelp biomass data from BC Central Coast, v1.2.0</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Pruth Dock, Calvert Island Tide and Weather Station Provisional</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Pruth Dock, Calvert Island Tide and Weather Station Provisional</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/8d4w-sr07 status_code=404</td>
     </tr>
     <tr>
       <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
@@ -6027,102 +6221,17 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'</td>
-    </tr>
-    <tr>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
       <td>ERROR</td>
-      <td>No projects associated</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
     </tr>
     <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai institute' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
       <td>WARNING</td>
-      <td>No funder</td>
+      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Ondine Pontier' contact.get('organisation-name')='Hakai institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Ondine Pontier' contact['organisation-name']='Hakai institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Margot Hessing-Lewis' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Margot Hessing-Lewis' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Ondine Pontier' contact.get('organisation-name')='Hakai institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Ondine Pontier' contact['organisation-name']='Hakai institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -6188,6 +6297,86 @@ Download:
     </tr>
     <tr>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Understory kelp biomass data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Krumhansl, K.' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Understory kelp biomass data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Okamoto, D.' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Understory kelp biomass data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Hakai institute' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Ondine Pontier' contact.get('organisation-name')='Hakai institute'</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Ondine Pontier' contact['organisation-name']='Hakai institute'</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Margot Hessing-Lewis' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Margot Hessing-Lewis' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Ondine Pontier' contact.get('organisation-name')='Hakai institute'</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Ondine Pontier' contact['organisation-name']='Hakai institute'</td>
+    </tr>
+    <tr>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -6447,66 +6636,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes, Jenn Burt' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes, Jenn Burt' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes, Jenn Burt' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes, Jenn Burt' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
       <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast</td>
       <td>INFO</td>
       <td>No version</td>
@@ -6553,6 +6682,131 @@ Download:
     </tr>
     <tr>
       <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Holmes, Keith' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='McInnes, Will' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Holmes, Keith' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Brookson, Cole' contact.get('organisation-name')='University of Alberta'</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Krkosek, Martin' contact.get('organisation-name')='University of Toronto'</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Rogers, Luke' contact.get('organisation-name')='Fisheries and Oceans Canada'</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Godwin, Sean' contact.get('organisation-name')='Dalhousie University'</td>
+    </tr>
+    <tr>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -6627,6 +6881,36 @@ Download:
       <td>No DOI defined</td>
     </tr>
     <tr>
+      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -6657,94 +6941,74 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
+      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
+      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Pontier, Ondine' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Burt, J.' contact.get('organisation-name')=''</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Okamoto, D.' contact.get('organisation-name')=''</td>
+      <td>No version</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>No funder</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
+      <td>No publisher</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Pontier, Ondine' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
@@ -6832,62 +7096,137 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
-      <td>No publisher</td>
+      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Evans, Wiley' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Pocock, Katie' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Pocock, Katie' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Weekes, Carrie' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Weekes, Carrie' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hales, Burke' contact.get('organisation-name')='Oregon State University'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hales, Burke' contact['organisation-name']='Oregon State University'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='M. Monacci, Natalie' contact.get('organisation-name')='Universit of Alaska Fairbanks'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='M. Monacci, Natalie' contact['organisation-name']='Universit of Alaska Fairbanks'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Evans, Wiley' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.html</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>INFO</td>
+      <td>No version</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Remote Sensing Team, Terra' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Mostyn, David' contact.get('organisation-name')='Terra Remote Sensing Inc.'</td>
+    </tr>
+    <tr>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Mostyn, David' contact['organisation-name']='Terra Remote Sensing Inc.'</td>
+    </tr>
+    <tr>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -6917,32 +7256,27 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Mackenzie, Chris' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>INFO</td>
-      <td>No version</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hannah, Charles' contact.get('organisation-name')='Fisheries and Oceans Canada'</td>
     </tr>
     <tr>
-      <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Barrette, Jessy' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -7022,77 +7356,87 @@ Download:
       <td>No projects associated</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>No publisher</td>
+      <td>No funder</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='UNBC LiDAR Research Group' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Gordon W. Frazer' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='UNBC LiDAR Research Group' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Gordon W. Frazer' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='UNBC LiDAR Research Group' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Gordon W. Frazer' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Gordon W. Frazer' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team Hakai' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='UNBC LiDAR Research Group' contact['organisation-name']='Hakai Institute'</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+      <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
+      <td>INFO</td>
+      <td>No version</td>
     </tr>
     <tr>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -7207,26 +7551,6 @@ Download:
       <td>Contact missing ORCID: contact['individual-name']='Frazer, Gordon' contact.get('organisation-name')='University of Northern British Columbia'</td>
     </tr>
     <tr>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Mostyn, David' contact.get('organisation-name')='Terra Remote Sensing Inc.'</td>
-    </tr>
-    <tr>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Mostyn, David' contact['organisation-name']='Terra Remote Sensing Inc.'</td>
-    </tr>
-    <tr>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Vegetated Islands Polygons - 100 Islands Research</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -7277,26 +7601,6 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Northwest Calvert Substrate Mapping</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Northwest Calvert Substrate Mapping</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Viner, Nick' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Northwest Calvert Substrate Mapping</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Northwest Calvert Substrate Mapping</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
@@ -7330,6 +7634,96 @@ Download:
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute Geospatial Team'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</td>
@@ -7385,96 +7779,6 @@ Download:
       <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Will McInnes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
@@ -7787,21 +8091,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Seagrass Site-Level Production on BC Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Van Maanen, Derek' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>25m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -7825,6 +8114,51 @@ Download:
       <td>25m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Seagrass Site-Level Production on BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Van Maanen, Derek' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>Empty resource name</td>
+    </tr>
+    <tr>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
@@ -7902,76 +8236,6 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='Jessy Barrette' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>ERROR</td>
-      <td>Empty resource name</td>
-    </tr>
-    <tr>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
       <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -8003,41 +8267,6 @@ Download:
     </tr>
     <tr>
       <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='McInnes, Will' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://drive.google.com/drive/folders/1aSgvM2D1n9dlaRqAjeHP5PdqAw7SWS2h</td>
-    </tr>
-    <tr>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -8122,6 +8351,11 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='W. Nijland' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
+      <td>Botanical Beach Drone Mapping - July 2020</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
       <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='L. Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
@@ -8154,7 +8388,92 @@ Download:
     <tr>
       <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='B M Starzomski' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='C E Ernst' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='C E Ernst' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='O. T. Fitzpatrick' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='O. T. Fitzpatrick' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='J C Kennedy' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='J C Kennedy' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='W. Nijland' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='W. Nijland' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='L. Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Botanical Beach Drone Mapping - July 2020</td>
+      <td>INFO</td>
+      <td>No version</td>
     </tr>
     <tr>
       <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
@@ -8292,69 +8611,39 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
       <td>WARNING</td>
-      <td>No funder</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</td>
+      <td>INFO</td>
+      <td>No version</td>
     </tr>
     <tr>
       <td>Motile Invertebrate Surveys - BC Central Coast</td>
@@ -8462,21 +8751,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Oliver, Allison A.' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -8557,19 +8831,89 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
+      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Oliver, Allison A.' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
       <td>Geology - Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hetrick, J.' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Geology - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Geology - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Geology - Calvert Island</td>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>No funder</td>
     </tr>
     <tr>
-      <td>Geology - Calvert Island</td>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</td>
@@ -8592,6 +8936,131 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Jenn Burt' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Jenn Burt' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>Hakai Institute Juvenile Salmon Program Time Series</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Godwin, Sean' contact.get('organisation-name')='Dalhousie University'</td>
@@ -8610,226 +9079,6 @@ Download:
       <td>Hakai Institute Juvenile Salmon Program Time Series</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Portner, Lauren' contact.get('organisation-name')='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='University of Victoria' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Becky Miller' contact.get('organisation-name')='University of Victoria'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Becky Miller' contact['organisation-name']='University of Victoria'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Jenn Burt' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Jenn Burt' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Jenn Burt' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Jenn Burt' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</td>
@@ -8862,24 +9111,99 @@ Download:
       <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
       <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Jenn Burt' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Jenn Burt' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Jenn Burt' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Jenn Burt' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</td>
@@ -8927,6 +9251,26 @@ Download:
       <td>No DOI defined</td>
     </tr>
     <tr>
+      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Eelgrass (Z. marina) extent within the greater park ecosystem of Pacific Rim National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
       <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -9007,16 +9351,6 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Kelp Canopy Extent 2012 - NW Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
@@ -9040,21 +9374,6 @@ Download:
       <td>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Latham, Steve' contact.get('organisation-name')='Pacific Salmon Commission'</td>
-    </tr>
-    <tr>
-      <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
@@ -9262,22 +9581,57 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Latham, Steve' contact.get('organisation-name')='Pacific Salmon Commission'</td>
+    </tr>
+    <tr>
+      <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -9355,26 +9709,6 @@ Download:
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Will McInnes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>UAV Imagery - Coastal British Columbia - 2015</td>
@@ -9477,6 +9811,26 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -9488,21 +9842,6 @@ Download:
     </tr>
     <tr>
       <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -9588,36 +9927,6 @@ Download:
     </tr>
     <tr>
       <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -9742,82 +10051,32 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>WARNING</td>
-      <td>No funder</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>WARNING</td>
-      <td>No publisher</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Natalie Mahara' contact.get('organisation-name')='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Natalie Mahara' contact['organisation-name']='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Brian Hunt' contact.get('organisation-name')='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Brian Hunt' contact['organisation-name']='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Natalie Mahara' contact.get('organisation-name')='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Natalie Mahara' contact['organisation-name']='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Brian Hunt' contact.get('organisation-name')='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Brian Hunt' contact['organisation-name']='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -9977,6 +10236,101 @@ Download:
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/KodiakBoL5min.html</td>
     </tr>
     <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Natalie Mahara' contact.get('organisation-name')='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Natalie Mahara' contact['organisation-name']='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Brian Hunt' contact.get('organisation-name')='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Brian Hunt' contact['organisation-name']='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Natalie Mahara' contact.get('organisation-name')='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Natalie Mahara' contact['organisation-name']='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Brian Hunt' contact.get('organisation-name')='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Brian Hunt' contact['organisation-name']='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -10067,19 +10421,19 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</td>
@@ -10287,36 +10641,6 @@ Download:
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms</td>
     </tr>
     <tr>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -10353,51 +10677,6 @@ Download:
     </tr>
     <tr>
       <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -10447,24 +10726,39 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
     </tr>
     <tr>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Glaciers and Ice - 2022 - Hakai Airborne Coastal Observatory</td>
@@ -10477,42 +10771,67 @@ Download:
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>Kelp Field Data for Remote Sensing - BC Central Coast</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Kelp Field Data for Remote Sensing - BC Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Field Data for Remote Sensing - BC Central Coast</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Kelp Field Data for Remote Sensing - BC Central Coast</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>Kelp Field Data for Remote Sensing - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>Kelp Field Data for Remote Sensing - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -10595,6 +10914,31 @@ Download:
       <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
@@ -10673,51 +11017,6 @@ Download:
     </tr>
     <tr>
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='White, Robert' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -10807,49 +11106,49 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>WARNING</td>
-      <td>No DOI defined</td>
+      <td>Contact missing ORCID: contact['individual-name']='White, Robert' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>WARNING</td>
-      <td>No funder</td>
+      <td>Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
@@ -10937,6 +11236,116 @@ Download:
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of Victoria' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Thompson, Shanley' contact.get('organisation-name')='University of Victoria'</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Nelson, Trisalyn' contact.get('organisation-name')='University of Victoria'</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Frazer, G. W.' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Saunders, Sari' contact.get('organisation-name')='BC Ministry of Forests, Lands and Natural Resource Operations'</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Saunders, Sari' contact['organisation-name']='BC Ministry of Forests, Lands and Natural Resource Operations'</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Thompson, Shanley' contact.get('organisation-name')='University of Victoria'</td>
+    </tr>
+    <tr>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Simon Fraser University' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Anne Salomon' contact.get('organisation-name')='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Anne Salomon' contact['organisation-name']='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Anne Salomon' contact.get('organisation-name')='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Anne Salomon' contact['organisation-name']='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
       <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -11002,61 +11411,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Simon Fraser University' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Anne Salomon' contact.get('organisation-name')='Simon Fraser University'</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Anne Salomon' contact['organisation-name']='Simon Fraser University'</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Anne Salomon' contact.get('organisation-name')='Simon Fraser University'</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Anne Salomon' contact['organisation-name']='Simon Fraser University'</td>
-    </tr>
-    <tr>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -11080,6 +11434,31 @@ Download:
       <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</td>
@@ -11187,6 +11566,26 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
+      <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -11292,6 +11691,56 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Oliver, A. A.' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Jacob, Wayne' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -11360,56 +11809,6 @@ Download:
       <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Oliver, A. A.' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Jacob, Wayne' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</td>
@@ -11532,26 +11931,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/j5es-7w43 status_code=404</td>
-    </tr>
-    <tr>
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -11637,6 +12016,26 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
+      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
@@ -11792,21 +12191,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
@@ -11830,6 +12214,61 @@ Download:
       <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/0yk3-9b74 status_code=404</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Monteith, Zach' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</td>
@@ -12072,6 +12511,16 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
+      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -12152,51 +12601,6 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
       <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>INFO</td>
       <td>No version</td>
@@ -12227,17 +12631,27 @@ Download:
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team Hakai' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -12275,186 +12689,6 @@ Download:
       <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Whitehead, Chris' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Lanphier, Karie' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Lanphier, Karie' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Peterson, Willoughby' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Peterson, Willoughby' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Kennedy, Estjer' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Kennedy, Estjer' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hales, Burke' contact.get('organisation-name')='Oregon State University'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.html</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Keith Holmes' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Keith Holmes' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Luba Reshitnyk' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Luba Reshitnyk' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS</td>
-    </tr>
-    <tr>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>ERROR</td>
-      <td>Empty resource name</td>
     </tr>
     <tr>
       <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
@@ -12647,6 +12881,91 @@ Download:
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.html</td>
     </tr>
     <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/30m7-qc49 status_code=404</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Gehman, Alyssa' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Gehman, Alyssa' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Sadlier-Brown, Gillian' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Closs, Alana' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Monteith, Zach' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Morris, Angela' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -12663,6 +12982,11 @@ Download:
     </tr>
     <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -12694,27 +13018,27 @@ Download:
     <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Gehman, Alyssa' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'</td>
     </tr>
     <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Gehman, Alyssa' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
     </tr>
     <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
@@ -12745,96 +13069,6 @@ Download:
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Lebon, Geoffrey T.' contact.get('organisation-name')='University of Washington Joint Institute for the Study of the Atmosphere'</td>
-    </tr>
-    <tr>
-      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Lebon, Geoffrey T.' contact['organisation-name']='University of Washington Joint Institute for the Study of the Atmosphere'</td>
-    </tr>
-    <tr>
-      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Harrington, Christen D.' contact.get('organisation-name')='Alaska Department of Transportation'</td>
-    </tr>
-    <tr>
-      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Harrington, Christen D.' contact['organisation-name']='Alaska Department of Transportation'</td>
     </tr>
     <tr>
       <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
@@ -12942,24 +13176,189 @@ Download:
       <td>Contact missing ORCID: contact['individual-name']='Frazer, Gordon W.' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q5vm-8797 status_code=404</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Del Bel Belluz, Justin' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Del Bel Belluz, Justin' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Fedje, Bryn' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.html</td>
+    </tr>
+    <tr>
       <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Whitehead, Chris' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
     </tr>
     <tr>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Lanphier, Karie' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Lanphier, Karie' contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Peterson, Willoughby' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Peterson, Willoughby' contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Kennedy, Estjer' contact.get('organisation-name')='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Kennedy, Estjer' contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hales, Burke' contact.get('organisation-name')='Oregon State University'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.html</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Airborne Coastal Observatory - Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Airborne Coastal Observatory' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
     </tr>
     <tr>
       <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
@@ -13082,6 +13481,36 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
     </tr>
     <tr>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Burt, Jenn' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -13142,44 +13571,24 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>Trails - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>Trails - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>Trails - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>Trails - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Burt, Jenn' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>No version</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Bathymetric Survey - Northwest Calvert Island</td>
@@ -13207,24 +13616,54 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Trails - Calvert Island - British Columbia - Canada</td>
+      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Trails - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Trails - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Lebon, Geoffrey T.' contact.get('organisation-name')='University of Washington Joint Institute for the Study of the Atmosphere'</td>
     </tr>
     <tr>
-      <td>Trails - Calvert Island - British Columbia - Canada</td>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Lebon, Geoffrey T.' contact['organisation-name']='University of Washington Joint Institute for the Study of the Atmosphere'</td>
+    </tr>
+    <tr>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Harrington, Christen D.' contact.get('organisation-name')='Alaska Department of Transportation'</td>
+    </tr>
+    <tr>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Harrington, Christen D.' contact['organisation-name']='Alaska Department of Transportation'</td>
+    </tr>
+    <tr>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Bidlack, Allison' contact.get('organisation-name')='University of Alaska Southeast, Alaska Coastal Rainforest Center'</td>
+    </tr>
+    <tr>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Bidlack, Allison' contact['organisation-name']='University of Alaska Southeast, Alaska Coastal Rainforest Center'</td>
+    </tr>
+    <tr>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</td>
@@ -13238,6 +13677,106 @@ Download:
     </tr>
     <tr>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>ERROR</td>
+      <td>Invalid licence: CC-BY-NC-4.0</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Lepofsky, Dana' contact.get('organisation-name')='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Smith, Nicole F.' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Crowell, Travis D.' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Salomon, Anne K' contact.get('organisation-name')='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Rechsteiner, Erin' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>INFO</td>
+      <td>Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''</td>
+    </tr>
+    <tr>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -13357,102 +13896,12 @@ Download:
       <td>Contact missing ORCID: contact['individual-name']='Lepofsky, Dana' contact.get('organisation-name')='Simon Fraser University'</td>
     </tr>
     <tr>
-      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Smith, Nicole F.' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Crowell, Travis D.' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Salomon, Anne K' contact.get('organisation-name')='Simon Fraser University'</td>
     </tr>
     <tr>
       <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Rechsteiner, Erin' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -13464,12 +13913,12 @@ Download:
     <tr>
       <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
       <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
+      <td>Contact missing ORCID: contact['individual-name']='Clark, Jennifer' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
       <td>INFO</td>
-      <td>No version</td>
+      <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
@@ -13479,7 +13928,7 @@ Download:
     <tr>
       <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
       <td>WARNING</td>
-      <td>No publisher</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
     </tr>
     <tr>
       <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
@@ -13527,37 +13976,42 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>WARNING</td>
-      <td>No funder</td>
+      <td>Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'</td>
     </tr>
     <tr>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
+    </tr>
+    <tr>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Hakai Institute - Vancouver Island University'</td>
+    </tr>
+    <tr>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
+    </tr>
+    <tr>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
+      <td>Testing what this looks like in the Hakai Catalogue</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/g4sn-4305 status_code=404</td>
     </tr>
     <tr>
-      <td>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
+      <td>Testing what this looks like in the Hakai Catalogue</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -13647,59 +14101,59 @@ Download:
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
       <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
-      <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>20m Digital Elevation Model - Calvert Island</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>20m Digital Elevation Model - Calvert Island</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>20m Digital Elevation Model - Calvert Island</td>
@@ -13734,7 +14188,7 @@ Download:
     <tr>
       <td>20m Digital Elevation Model - Calvert Island</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Santiago Gonzalez Arriola' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>20m Digital Elevation Model - Calvert Island</td>
@@ -13757,24 +14211,49 @@ Download:
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Santiago Gonzalez Arriola' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Santiago Gonzalez Arriola' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
       <td>INFO</td>
-      <td>No version</td>
+      <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Alutiiq Pride Shellfish Hatchery , Alaska, USA</td>
@@ -13812,77 +14291,22 @@ Download:
       <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
-      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
       <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
-      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Gonzalez Arriola, Santiago' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Frazer, Gordon W.' contact.get('organisation-name')=''</td>
-    </tr>
-    <tr>
-      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Rockwell, Lisa' contact.get('organisation-name')='Gulf Islands National Park Reserve'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Collyer, M. J. P.' contact.get('organisation-name')='Pacific Rim National Park Reserve'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Helms, Sibylla' contact.get('organisation-name')='Gulf Islands National Park Reserve'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -13932,24 +14356,9 @@ Download:
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
-      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Weekes, Carrie' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
@@ -14061,6 +14470,36 @@ Download:
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
+    <tr>
+      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Weekes, Carrie' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hare, Alex' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hare, Alex' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
   </tbody>
 </table>
 
@@ -14076,10 +14515,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_2834622b-33c4-4108-bf13-2e295473b4eb",
+                "name": "ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663",
                 "row_id": "0"
             },
-            "geometry": {'type': 'Point', 'coordinates': [-135.3456, 57.0526]}
+            "geometry": {'type': 'Point', 'coordinates': [-125.222, 50.116]}
         },
         
         {
@@ -14112,7 +14551,7 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a",
+                "name": "ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea",
                 "row_id": "4"
             },
             "geometry": {'type': 'Point', 'coordinates': [-125.222, 50.116]}
@@ -14175,19 +14614,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_af65bf72-27af-4747-8911-ab05591762ac",
+                "name": "ca-cioos_55daf524-146e-4b06-8c6c-3255c7e3c77a",
                 "row_id": "11"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.770751953125, 51.33404377878941], [-127.74902343749999, 51.33404377878941], [-127.74902343749999, 52.19077237113535], [-128.770751953125, 52.19077237113535], [-128.770751953125, 51.33404377878941]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.6993408203125, 51.368351060511344], [-127.4908447265625, 51.368351060511344], [-127.4908447265625, 52.197506856993925], [-128.6993408203125, 52.197506856993925], [-128.6993408203125, 51.368351060511344]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_1815be54-9081-4031-80fa-d3d071340a7d",
+                "name": "ca-cioos_4bf1e341-637c-4884-b373-033e033b3cba",
                 "row_id": "12"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.79636634, 48.27416613], [-122.64402259, 48.27416613], [-122.64402259, 51.99005865], [-128.79636634, 51.99005865], [-128.79636634, 48.27416613]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.18309295, 51.63973703], [-128.06292998, 51.63973703], [-128.06292998, 51.71531293], [-128.18309295, 51.71531293], [-128.18309295, 51.63973703]]]}
         },
         
         {
@@ -14211,26 +14650,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_55daf524-146e-4b06-8c6c-3255c7e3c77a",
+                "name": "ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4",
                 "row_id": "15"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.6993408203125, 51.368351060511344], [-127.4908447265625, 51.368351060511344], [-127.4908447265625, 52.197506856993925], [-128.6993408203125, 52.197506856993925], [-128.6993408203125, 51.368351060511344]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_4bf1e341-637c-4884-b373-033e033b3cba",
-                "row_id": "16"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.18309295, 51.63973703], [-128.06292998, 51.63973703], [-128.06292998, 51.71531293], [-128.18309295, 51.71531293], [-128.18309295, 51.63973703]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61145019531247, 51.61801654877371], [-127.91931152343746, 51.61801654877371], [-127.91931152343746, 52.11325243469631], [-128.61145019531247, 52.11325243469631], [-128.61145019531247, 51.61801654877371]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408",
-                "row_id": "17"
+                "row_id": "16"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16422429, 51.6467821], [-128.12137762, 51.6467821], [-128.12137762, 51.67123185], [-128.16422429, 51.67123185], [-128.16422429, 51.6467821]]]}
         },
@@ -14238,10 +14668,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_05d92ed0-25a0-4108-bce5-0425a934361e",
+                "name": "ca-cioos_af65bf72-27af-4747-8911-ab05591762ac",
+                "row_id": "17"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.770751953125, 51.33404377878941], [-127.74902343749999, 51.33404377878941], [-127.74902343749999, 52.19077237113535], [-128.770751953125, 52.19077237113535], [-128.770751953125, 51.33404377878941]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_1815be54-9081-4031-80fa-d3d071340a7d",
                 "row_id": "18"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.18865863, 51.63201591], [-127.98747149, 51.63201591], [-127.98747149, 51.73504091], [-128.18865863, 51.73504091], [-128.18865863, 51.63201591]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.79636634, 48.27416613], [-122.64402259, 48.27416613], [-122.64402259, 51.99005865], [-128.79636634, 51.99005865], [-128.79636634, 48.27416613]]]}
         },
         
         {
@@ -14328,10 +14767,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63",
+                "name": "ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d",
                 "row_id": "28"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.5, 52.27], [-127.4, 52.21], [-127.2, 51.66], [-125.6, 51.13], [-124.8, 50.96], [-124.1, 50.43], [-124.7, 49.98], [-124.9, 49.8], [-126.7, 50.45], [-128.1, 51.37], [-128.4, 51.69], [-128.5, 52.27]]]}
+            "geometry": {'type': 'Point', 'coordinates': [-128.12103, 51.670666]}
         },
         
         {
@@ -14355,7 +14794,7 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_3bc02dd8-7654-44f0-8c7c-02739937bdf4",
+                "name": "ca-cioos_d87de5ca-a18a-406d-a4c1-74e6f8f28e5b",
                 "row_id": "31"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2, 51.63], [-128.1, 51.63], [-128.1, 51.67], [-128.2, 51.67], [-128.2, 51.63]]]}
@@ -14364,7 +14803,7 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_85a63d5e-f00d-45c5-bcc7-ccf739381f58",
+                "name": "ca-cioos_3bc02dd8-7654-44f0-8c7c-02739937bdf4",
                 "row_id": "32"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2, 51.63], [-128.1, 51.63], [-128.1, 51.67], [-128.2, 51.67], [-128.2, 51.63]]]}
@@ -14373,7 +14812,7 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b",
+                "name": "ca-cioos_ea6c0e20-9b99-48f7-adfb-6c1b70f6bd2a",
                 "row_id": "33"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.62224808, 51.28805197], [-127.44960574, 51.28805197], [-127.44960574, 52.00866824], [-128.62224808, 52.00866824], [-128.62224808, 51.28805197]]]}
@@ -14382,7 +14821,7 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_d87de5ca-a18a-406d-a4c1-74e6f8f28e5b",
+                "name": "ca-cioos_85a63d5e-f00d-45c5-bcc7-ccf739381f58",
                 "row_id": "34"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2, 51.63], [-128.1, 51.63], [-128.1, 51.67], [-128.2, 51.67], [-128.2, 51.63]]]}
@@ -14391,19 +14830,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_ea6c0e20-9b99-48f7-adfb-6c1b70f6bd2a",
+                "name": "ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b",
                 "row_id": "35"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2, 51.63], [-128.1, 51.63], [-128.1, 51.67], [-128.2, 51.67], [-128.2, 51.63]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.62224808, 51.28805197], [-127.44960574, 51.28805197], [-127.44960574, 52.00866824], [-128.62224808, 52.00866824], [-128.62224808, 51.28805197]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a",
+                "name": "ca-cioos_94b4992f-19e2-46d4-875e-f0c952ea62f7",
                 "row_id": "36"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1383514404297, 51.60223926037915], [-127.96669006347653, 51.60223926037915], [-127.96669006347653, 51.68660524501087], [-128.1383514404297, 51.68660524501087], [-128.1383514404297, 51.60223926037915]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.50708007812503, 51.62824753375085], [-128.02917480468753, 51.62824753375085], [-128.02917480468753, 52.08288179572668], [-128.50708007812503, 52.08288179572668], [-128.50708007812503, 51.62824753375085]]]}
         },
         
         {
@@ -14445,10 +14884,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a",
+                "name": "ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466",
                 "row_id": "41"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.34725189558227, 50.23307863302776], [-125.21060943952757, 50.23307863302776], [-125.21060943952757, 50.28641446558299], [-125.34725189558227, 50.28641446558299], [-125.34725189558227, 50.23307863302776]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.26513671874994, 49.38237278700956], [-123.90380859374997, 49.38237278700956], [-123.90380859374997, 52.38901106223457], [-129.26513671874994, 52.38901106223457], [-129.26513671874994, 49.38237278700956]]]}
         },
         
         {
@@ -14463,28 +14902,28 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466",
+                "name": "ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a",
                 "row_id": "43"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.26513671874994, 49.38237278700956], [-123.90380859374997, 49.38237278700956], [-123.90380859374997, 52.38901106223457], [-129.26513671874994, 52.38901106223457], [-129.26513671874994, 49.38237278700956]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6",
-                "row_id": "44"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.74853515624997, 49.72447918871299], [-124.14550781249997, 49.72447918871299], [-124.14550781249997, 52.9883372533954], [-129.74853515624997, 52.9883372533954], [-129.74853515624997, 49.72447918871299]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.34725189558227, 50.23307863302776], [-125.21060943952757, 50.23307863302776], [-125.21060943952757, 50.28641446558299], [-125.34725189558227, 50.28641446558299], [-125.34725189558227, 50.23307863302776]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_f68be641-0017-4311-b4de-5d0aed9e2b57",
-                "row_id": "45"
+                "row_id": "44"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61694335937497, 51.3854950692232], [-127.61718749999997, 51.3854950692232], [-127.61718749999997, 52.0322181041453], [-128.61694335937497, 52.0322181041453], [-128.61694335937497, 51.3854950692232]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6",
+                "row_id": "45"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.74853515624997, 49.72447918871299], [-124.14550781249997, 49.72447918871299], [-124.14550781249997, 52.9883372533954], [-129.74853515624997, 52.9883372533954], [-129.74853515624997, 49.72447918871299]]]}
         },
         
         {
@@ -14508,37 +14947,37 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd",
+                "name": "ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306",
                 "row_id": "48"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.54187017306685, 51.58844754923095], [-127.72888189181685, 51.58844754923095], [-127.72888189181685, 52.26927804083806], [-128.54187017306685, 52.26927804083806], [-128.54187017306685, 51.58844754923095]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.7, 51.33], [-127.2, 51.33], [-127.2, 52.26], [-128.7, 52.26], [-128.7, 51.33]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03",
+                "name": "ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e",
                 "row_id": "49"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-131.7578125, 50.16193379], [-126.22070312, 50.16193379], [-126.22070312, 52.84175491], [-131.7578125, 52.84175491], [-131.7578125, 50.16193379]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61968994140625, 51.395778392663175], [-127.24639892578124, 51.395778392663175], [-127.24639892578124, 52.08625733233839], [-128.61968994140625, 52.08625733233839], [-128.61968994140625, 51.395778392663175]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_5feb907e-e63e-4172-94ae-831fbe92aee5",
+                "row_id": "50"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16482, 51.408116], [-127.868915, 51.408116], [-127.868915, 51.735084], [-128.16482, 51.735084], [-128.16482, 51.408116]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_1946cc53-6e11-4428-a2c9-43b34e1dcaa1",
-                "row_id": "50"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16651, 51.402002], [-127.854745, 51.402002], [-127.854745, 51.74304], [-128.16651, 51.74304], [-128.16651, 51.402002]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_be16603d-e383-4af4-9e93-7a36a086688e",
                 "row_id": "51"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15757751464844, 51.64358968607138], [-128.089599609375, 51.64358968607138], [-128.089599609375, 51.68021937787972], [-128.15757751464844, 51.68021937787972], [-128.15757751464844, 51.64358968607138]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16651, 51.402002], [-127.854745, 51.402002], [-127.854745, 51.74304], [-128.16651, 51.74304], [-128.16651, 51.402002]]]}
         },
         
         {
@@ -14553,17 +14992,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_5feb907e-e63e-4172-94ae-831fbe92aee5",
-                "row_id": "53"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16482, 51.408116], [-127.868915, 51.408116], [-127.868915, 51.735084], [-128.16482, 51.735084], [-128.16482, 51.408116]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_33c870b8-3b4c-429d-bc10-99dd4c7f4c7d",
-                "row_id": "54"
+                "row_id": "53"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-125.2229327, 50.11245881], [-125.21821201, 50.11245881], [-125.21821201, 50.1172472], [-125.2229327, 50.1172472], [-125.2229327, 50.11245881]]]}
         },
@@ -14571,8 +15001,26 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e",
+                "name": "ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd",
+                "row_id": "54"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.54187017306685, 51.58844754923095], [-127.72888189181685, 51.58844754923095], [-127.72888189181685, 52.26927804083806], [-128.54187017306685, 52.26927804083806], [-128.54187017306685, 51.58844754923095]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_be16603d-e383-4af4-9e93-7a36a086688e",
                 "row_id": "55"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15757751464844, 51.64358968607138], [-128.089599609375, 51.64358968607138], [-128.089599609375, 51.68021937787972], [-128.15757751464844, 51.68021937787972], [-128.15757751464844, 51.64358968607138]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e",
+                "row_id": "56"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.7, 51.33], [-127.4, 51.33], [-127.4, 52.26], [-128.7, 52.26], [-128.7, 51.33]]]}
         },
@@ -14580,19 +15028,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e",
-                "row_id": "56"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61968994140625, 51.395778392663175], [-127.24639892578124, 51.395778392663175], [-127.24639892578124, 52.08625733233839], [-128.61968994140625, 52.08625733233839], [-128.61968994140625, 51.395778392663175]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306",
+                "name": "ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03",
                 "row_id": "57"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.7, 51.33], [-127.2, 51.33], [-127.2, 52.26], [-128.7, 52.26], [-128.7, 51.33]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-131.7578125, 50.16193379], [-126.22070312, 50.16193379], [-126.22070312, 52.84175491], [-131.7578125, 52.84175491], [-131.7578125, 50.16193379]]]}
         },
         
         {
@@ -14607,28 +15046,28 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8",
+                "name": "ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33",
                 "row_id": "59"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.9855, 49.9066], [-124.9854, 49.9066], [-124.9854, 49.9067], [-124.9855, 49.9067], [-124.9855, 49.9066]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17334953, 51.61670267], [-127.92753044, 51.61670267], [-127.92753044, 51.73677458], [-128.17334953, 51.73677458], [-128.17334953, 51.61670267]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d",
+                "name": "ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49",
                 "row_id": "60"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.58323147, 51.38160352], [-127.80979387, 51.38160352], [-127.80979387, 52.09997599], [-128.58323147, 52.09997599], [-128.58323147, 51.38160352]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.2229619026184, 50.116395452024676], [-125.22092342376709, 50.116395452024676], [-125.22092342376709, 50.11764753238538], [-125.2229619026184, 50.11764753238538], [-125.2229619026184, 50.116395452024676]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342",
+                "name": "ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9",
                 "row_id": "61"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-140.68082679, 46.98536693], [-119.96438849, 46.98536693], [-119.96438849, 59.31669647], [-140.68082679, 59.31669647], [-140.68082679, 46.98536693]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-153.45020164, 58.42955383], [-145.36907065, 58.42955383], [-145.36907065, 61.89059635], [-153.45020164, 61.89059635], [-153.45020164, 58.42955383]]]}
         },
         
         {
@@ -14643,8 +15082,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_c113d7a8-6a46-46fc-b49c-a4e69afedfbc",
+                "name": "ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d",
                 "row_id": "63"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.58323147, 51.38160352], [-127.80979387, 51.38160352], [-127.80979387, 52.09997599], [-128.58323147, 52.09997599], [-128.58323147, 51.38160352]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_c113d7a8-6a46-46fc-b49c-a4e69afedfbc",
+                "row_id": "64"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-121.200851030026, 47.5931373865871], [-133.329762644444, 58.3685518859093], [-138.778981394444, 57.2923559868765], [-128.407887644444, 50.1363698995369], [-122.519210405026, 46.8770323398551], [-121.200851030026, 47.5931373865871]]]}
         },
@@ -14652,28 +15100,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33",
-                "row_id": "64"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17334953, 51.61670267], [-127.92753044, 51.61670267], [-127.92753044, 51.73677458], [-128.17334953, 51.73677458], [-128.17334953, 51.61670267]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9",
+                "name": "ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4",
                 "row_id": "65"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-153.45020164, 58.42955383], [-145.36907065, 58.42955383], [-145.36907065, 61.89059635], [-153.45020164, 61.89059635], [-153.45020164, 58.42955383]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-143.1666738, 39.75452039], [-118.41060343, 39.75452039], [-118.41060343, 59.04838928], [-143.1666738, 59.04838928], [-143.1666738, 39.75452039]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0",
+                "name": "ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793",
                 "row_id": "66"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.24596616, 51.41449798], [-127.75115224, 51.41449798], [-127.75115224, 51.74287494], [-128.24596616, 51.74287494], [-128.24596616, 51.41449798]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17701209, 51.62693395], [-128.1138407, 51.62693395], [-128.1138407, 51.67805576], [-128.17701209, 51.67805576], [-128.17701209, 51.62693395]]]}
         },
         
         {
@@ -14697,44 +15136,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4",
+                "name": "ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260",
                 "row_id": "69"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-143.1666738, 39.75452039], [-118.41060343, 39.75452039], [-118.41060343, 59.04838928], [-143.1666738, 59.04838928], [-143.1666738, 39.75452039]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793",
-                "row_id": "70"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17701209, 51.62693395], [-128.1138407, 51.62693395], [-128.1138407, 51.67805576], [-128.17701209, 51.67805576], [-128.17701209, 51.62693395]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49",
-                "row_id": "71"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.2229619026184, 50.116395452024676], [-125.22092342376709, 50.116395452024676], [-125.22092342376709, 50.11764753238538], [-125.2229619026184, 50.11764753238538], [-125.2229619026184, 50.116395452024676]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_38b520c1-c339-44c4-b048-63deb4054f00",
-                "row_id": "72"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17220557, 51.63545826], [-128.12482703, 51.63545826], [-128.12482703, 51.67145577], [-128.17220557, 51.67145577], [-128.17220557, 51.63545826]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-131.96137029, 55.13698451], [-131.23813946, 55.13698451], [-131.23813946, 55.39922677], [-131.96137029, 55.39922677], [-131.96137029, 55.13698451]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d",
-                "row_id": "73"
+                "row_id": "70"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-125.35968411, 49.4351949], [-124.37299598, 49.4351949], [-124.37299598, 50.10196506], [-125.35968411, 50.10196506], [-125.35968411, 49.4351949]]]}
         },
@@ -14743,7 +15155,7 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0",
-                "row_id": "74"
+                "row_id": "71"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-131.40081275, 43.38978964], [-121.83893073, 43.38978964], [-121.83893073, 53.31525434], [-131.40081275, 53.31525434], [-131.40081275, 43.38978964]]]}
         },
@@ -14751,10 +15163,37 @@ Download:
         {
             "type":"Feature",
             "properties": {
+                "name": "ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8",
+                "row_id": "72"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.9855, 49.9066], [-124.9854, 49.9066], [-124.9854, 49.9067], [-124.9855, 49.9067], [-124.9855, 49.9066]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
                 "name": "ca-cioos_48c8f830-f281-4ca1-9a81-ea690e70cb7a",
-                "row_id": "75"
+                "row_id": "73"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-125.27772275, 49.99240786], [-124.97941819, 49.99240786], [-124.97941819, 50.16368976], [-125.27772275, 50.16368976], [-125.27772275, 49.99240786]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_38b520c1-c339-44c4-b048-63deb4054f00",
+                "row_id": "74"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17220557, 51.63545826], [-128.12482703, 51.63545826], [-128.12482703, 51.67145577], [-128.17220557, 51.67145577], [-128.17220557, 51.63545826]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0",
+                "row_id": "75"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.24596616, 51.41449798], [-127.75115224, 51.41449798], [-127.75115224, 51.74287494], [-128.24596616, 51.74287494], [-128.24596616, 51.41449798]]]}
         },
         
         {
@@ -14796,10 +15235,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_a0ca5d26-b457-4726-97d4-ed0c8dd6cd99",
+                "name": "ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493",
                 "row_id": "80"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.24596616, 51.41449798], [-127.75115224, 51.41449798], [-127.75115224, 51.74287494], [-128.24596616, 51.74287494], [-128.24596616, 51.41449798]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-123.81789453, 48.48393505], [-122.96096027, 48.48393505], [-122.96096027, 49.05595865], [-123.81789453, 49.05595865], [-123.81789453, 48.48393505]]]}
         },
         
         {
@@ -14841,10 +15280,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_a0263680-f0d5-46d5-85ea-483fa58c74b6",
+                "name": "ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03",
                 "row_id": "85"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.2942704, 49.83702595], [-124.90571487, 49.83702595], [-124.90571487, 50.05976151], [-125.2942704, 50.05976151], [-125.2942704, 49.83702595]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-126.93452704, 49.56730131], [-124.18481219, 49.56730131], [-124.18481219, 50.90762515], [-126.93452704, 50.90762515], [-126.93452704, 49.56730131]]]}
         },
         
         {
@@ -14877,19 +15316,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c",
+                "name": "ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6",
                 "row_id": "89"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.5, 52.65], [-129.4, 52.65], [-129.4, 52.7], [-129.5, 52.7], [-129.5, 52.65]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-122.0, 50.56], [-121.7, 50.56], [-121.7, 50.8], [-122.0, 50.8], [-122.0, 50.56]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_a60a0468-3f56-4f22-abd4-5268fcfb9744",
+                "name": "ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287",
                 "row_id": "90"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.3, 51.46], [-125.9, 51.46], [-125.9, 51.92], [-127.3, 51.92], [-127.3, 51.46]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-132.3, 49.87], [-124.8, 49.87], [-124.8, 52.98], [-132.3, 52.98], [-132.3, 49.87]]]}
         },
         
         {
@@ -14904,35 +15343,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_e0c768fc-5c37-455f-b2a3-604f766f4148",
-                "row_id": "92"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-126.1, 50.54], [-125.3, 50.54], [-125.3, 51.02], [-126.1, 51.02], [-126.1, 50.54]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287",
-                "row_id": "93"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-132.3, 49.87], [-124.8, 49.87], [-124.8, 52.98], [-132.3, 52.98], [-132.3, 49.87]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d",
-                "row_id": "94"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.3, 50.33], [-127.6, 50.33], [-127.6, 50.63], [-128.3, 50.63], [-128.3, 50.33]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_d7b34963-67bc-404b-bdd1-b41cc750bdaa",
-                "row_id": "95"
+                "row_id": "92"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-121.5, 49.51], [-121.3, 49.53], [-121.4, 49.95], [-121.5, 50.28], [-121.7, 50.52], [-121.8, 50.66], [-121.8, 50.76], [-121.8, 51.01], [-122.1, 51.32], [-122.3, 51.79], [-122.1, 52.11], [-122.3, 52.37], [-122.3, 52.51], [-122.6, 52.49], [-122.4, 51.96], [-122.5, 51.83], [-122.4, 51.49], [-122.3, 51.18], [-121.9, 50.95], [-121.9, 50.62], [-121.8, 50.53], [-121.7, 50.17], [-121.6, 49.89], [-121.5, 49.63], [-121.5, 49.51]]]}
         },
@@ -14940,10 +15352,37 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679",
+                "name": "ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c",
+                "row_id": "93"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.5, 52.65], [-129.4, 52.65], [-129.4, 52.7], [-129.5, 52.7], [-129.5, 52.65]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_d2e83e40-9e95-4a47-a899-b37c744be3ab",
+                "row_id": "94"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.4, 53.03], [-129.1, 53.03], [-129.1, 53.29], [-129.4, 53.29], [-129.4, 53.03]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d",
+                "row_id": "95"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.3, 50.33], [-127.6, 50.33], [-127.6, 50.63], [-128.3, 50.63], [-128.3, 50.33]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_a60a0468-3f56-4f22-abd4-5268fcfb9744",
                 "row_id": "96"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.0, 55.96], [-127.2, 55.96], [-127.2, 56.36], [-128.0, 56.36], [-128.0, 55.96]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.3, 51.46], [-125.9, 51.46], [-125.9, 51.92], [-127.3, 51.92], [-127.3, 51.46]]]}
         },
         
         {
@@ -14958,8 +15397,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_62de21ed-90fb-422a-9c55-29c513a00f95",
+                "name": "ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679",
                 "row_id": "98"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.0, 55.96], [-127.2, 55.96], [-127.2, 56.36], [-128.0, 56.36], [-128.0, 55.96]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_62de21ed-90fb-422a-9c55-29c513a00f95",
+                "row_id": "99"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-127.4, 51.72], [-127.3, 51.72], [-127.3, 51.74], [-127.4, 51.74], [-127.4, 51.72]]]}
         },
@@ -14967,44 +15415,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_d2e83e40-9e95-4a47-a899-b37c744be3ab",
-                "row_id": "99"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-129.4, 53.03], [-129.1, 53.03], [-129.1, 53.29], [-129.4, 53.29], [-129.4, 53.03]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6",
+                "name": "ca-cioos_e0c768fc-5c37-455f-b2a3-604f766f4148",
                 "row_id": "100"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-122.0, 50.56], [-121.7, 50.56], [-121.7, 50.8], [-122.0, 50.8], [-122.0, 50.56]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2",
-                "row_id": "101"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2489013671875, 51.402632657661314], [-127.8204345703125, 51.402632657661314], [-127.8204345703125, 51.7644403180351], [-128.2489013671875, 51.7644403180351], [-128.2489013671875, 51.402632657661314]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9",
-                "row_id": "102"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.22312137, 51.63113942], [-126.67792484, 51.63113942], [-126.67792484, 51.7324654], [-127.22312137, 51.7324654], [-127.22312137, 51.63113942]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-126.1, 50.54], [-125.3, 50.54], [-125.3, 51.02], [-126.1, 51.02], [-126.1, 50.54]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14",
-                "row_id": "103"
+                "row_id": "101"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16116765, 51.64326925], [-128.11481908, 51.64326925], [-128.11481908, 51.66904109], [-128.16116765, 51.66904109], [-128.16116765, 51.64326925]]]}
         },
@@ -15012,17 +15433,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96",
-                "row_id": "104"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30122253, 51.7689035], [-128.05512885, 51.7689035], [-128.05512885, 51.98187882], [-128.30122253, 51.98187882], [-128.30122253, 51.7689035]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c",
-                "row_id": "105"
+                "row_id": "102"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.65354407, 51.37817421], [-127.69773286, 51.37817421], [-127.69773286, 52.1127963], [-128.65354407, 52.1127963], [-128.65354407, 51.37817421]]]}
         },
@@ -15030,8 +15442,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
+                "name": "ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2",
+                "row_id": "103"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2489013671875, 51.402632657661314], [-127.8204345703125, 51.402632657661314], [-127.8204345703125, 51.7644403180351], [-128.2489013671875, 51.7644403180351], [-128.2489013671875, 51.402632657661314]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
                 "name": "ca-cioos_2a92ca16-f5c6-4362-acea-6bb5117b8d65",
-                "row_id": "106"
+                "row_id": "104"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-130.35642493, 50.22213452], [-126.18162025, 50.22213452], [-126.18162025, 52.9911972], [-130.35642493, 52.9911972], [-130.35642493, 50.22213452]]]}
         },
@@ -15039,19 +15460,37 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_fe20660b-ef3d-4f6b-90f8-5936d9c96cb5",
-                "row_id": "107"
+                "name": "ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9",
+                "row_id": "105"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.164675, 51.408206], [-127.868845, 51.408206], [-127.868845, 51.734993], [-128.164675, 51.734993], [-128.164675, 51.408206]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.22312137, 51.63113942], [-126.67792484, 51.63113942], [-126.67792484, 51.7324654], [-127.22312137, 51.7324654], [-127.22312137, 51.63113942]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_1b517e6f-4f0a-4577-b7c2-c37f95d5b413",
+                "name": "ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96",
+                "row_id": "106"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30122253, 51.7689035], [-128.05512885, 51.7689035], [-128.05512885, 51.98187882], [-128.30122253, 51.98187882], [-128.30122253, 51.7689035]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3",
+                "row_id": "107"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.44315751, 52.02620636], [-128.37559157, 52.02620636], [-128.37559157, 52.07215005], [-128.44315751, 52.07215005], [-128.44315751, 52.02620636]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_4be1cc5e-8846-4fba-bd94-16ca933faab8",
                 "row_id": "108"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13388824462888, 51.65280313672477], [-128.12830924987793, 51.65280313672477], [-128.12830924987793, 51.65589162014166], [-128.13388824462888, 51.65589162014166], [-128.13388824462888, 51.65280313672477]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.21594238281247, 51.40948589555509], [-127.8094482421875, 51.40948589555509], [-127.8094482421875, 51.78993084774129], [-128.21594238281247, 51.78993084774129], [-128.21594238281247, 51.40948589555509]]]}
         },
         
         {
@@ -15066,26 +15505,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_4be1cc5e-8846-4fba-bd94-16ca933faab8",
-                "row_id": "110"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.21594238281247, 51.40948589555509], [-127.8094482421875, 51.40948589555509], [-127.8094482421875, 51.78993084774129], [-128.21594238281247, 51.78993084774129], [-128.21594238281247, 51.40948589555509]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3",
-                "row_id": "111"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.44315751, 52.02620636], [-128.37559157, 52.02620636], [-128.37559157, 52.07215005], [-128.44315751, 52.07215005], [-128.44315751, 52.02620636]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_c5bf06e7-29f9-404a-a454-36a5d67b2e69",
-                "row_id": "112"
+                "row_id": "110"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-130.000024, 49.750005], [-123.500016, 49.750005], [-123.500016, 53.00001], [-130.000024, 53.00001], [-130.000024, 49.750005]]]}
         },
@@ -15094,7 +15515,7 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_e2d3d616-9ee2-451f-8584-14801b4c6fd0",
-                "row_id": "113"
+                "row_id": "111"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1933734, 51.63078777], [-128.05776091, 51.63078777], [-128.05776091, 51.70744235], [-128.1933734, 51.70744235], [-128.1933734, 51.63078777]]]}
         },
@@ -15103,9 +15524,27 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_82a3f5ec-95c5-4aeb-a0c0-bf168c985676",
-                "row_id": "114"
+                "row_id": "112"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.33441451, 51.56044969], [-128.01581099, 51.56044969], [-128.01581099, 51.75809075], [-128.33441451, 51.75809075], [-128.33441451, 51.56044969]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_fe20660b-ef3d-4f6b-90f8-5936d9c96cb5",
+                "row_id": "113"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.164675, 51.408206], [-127.868845, 51.408206], [-127.868845, 51.734993], [-128.164675, 51.734993], [-128.164675, 51.408206]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_1b517e6f-4f0a-4577-b7c2-c37f95d5b413",
+                "row_id": "114"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13388824462888, 51.65280313672477], [-128.12830924987793, 51.65280313672477], [-128.12830924987793, 51.65589162014166], [-128.13388824462888, 51.65589162014166], [-128.13388824462888, 51.65280313672477]]]}
         },
         
         {
@@ -15120,8 +15559,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163",
+                "name": "ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028",
                 "row_id": "116"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13541603114572, 51.65216411387959], [-128.12786293055976, 51.65216411387959], [-128.12786293055976, 51.6557318761607], [-128.13541603114572, 51.6557318761607], [-128.13541603114572, 51.65216411387959]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163",
+                "row_id": "117"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2489013671875, 51.40605940499276], [-127.83142089843751, 51.40605940499276], [-127.83142089843751, 51.75934048406748], [-128.2489013671875, 51.75934048406748], [-128.2489013671875, 51.40605940499276]]]}
         },
@@ -15129,19 +15577,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc",
-                "row_id": "117"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.20729486, 51.64597234], [-128.07875481, 51.64597234], [-128.07875481, 51.76579671], [-128.20729486, 51.76579671], [-128.20729486, 51.64597234]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_9efdd14d-9fb9-4f0e-9414-d890b4e18055",
+                "name": "ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0",
                 "row_id": "118"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.22418212890625, 51.983188572138204], [-127.89459228515624, 51.983188572138204], [-127.89459228515624, 52.114939086147984], [-128.22418212890625, 52.114939086147984], [-128.22418212890625, 51.983188572138204]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1719970703125, 51.63229666135982], [-128.10985565185547, 51.63229666135982], [-128.10985565185547, 51.68362528576685], [-128.1719970703125, 51.68362528576685], [-128.1719970703125, 51.63229666135982]]]}
         },
         
         {
@@ -15156,53 +15595,26 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_06ddfa63-2611-46a5-8d63-c1b576e85bcb",
+                "name": "ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880",
                 "row_id": "120"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16375732421872, 51.62888689371772], [-127.98694610595699, 51.62888689371772], [-127.98694610595699, 51.67191640405858], [-128.16375732421872, 51.67191640405858], [-128.16375732421872, 51.62888689371772]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.3704833984375, 49.9229354544957], [-124.75524902343749, 49.9229354544957], [-124.75524902343749, 50.291094042311386], [-125.3704833984375, 50.291094042311386], [-125.3704833984375, 49.9229354544957]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e",
+                "name": "ca-cioos_9efdd14d-9fb9-4f0e-9414-d890b4e18055",
                 "row_id": "121"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17543029785156, 51.63272286429384], [-128.10916900634766, 51.63272286429384], [-128.10916900634766, 51.68149662336026], [-128.17543029785156, 51.68149662336026], [-128.17543029785156, 51.63272286429384]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_14bf37c7-5eb6-4194-a992-c039fd7fb38b",
-                "row_id": "122"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1802368164062, 51.98995445995024], [-127.91656494140622, 51.98995445995024], [-127.91656494140622, 52.104818220233255], [-128.1802368164062, 52.104818220233255], [-128.1802368164062, 51.98995445995024]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_244b5915-0ccf-4fab-9720-d2ac9394a27b",
-                "row_id": "123"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.19030767306685, 51.388923100504826], [-127.80578618869185, 51.388923100504826], [-127.80578618869185, 51.967961587186835], [-128.19030767306685, 51.967961587186835], [-128.19030767306685, 51.388923100504826]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0",
-                "row_id": "124"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1719970703125, 51.63229666135982], [-128.10985565185547, 51.63229666135982], [-128.10985565185547, 51.68362528576685], [-128.1719970703125, 51.68362528576685], [-128.1719970703125, 51.63229666135982]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.22418212890625, 51.983188572138204], [-127.89459228515624, 51.983188572138204], [-127.89459228515624, 52.114939086147984], [-128.22418212890625, 52.114939086147984], [-128.22418212890625, 51.983188572138204]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c",
-                "row_id": "125"
+                "row_id": "122"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1603240966797, 51.63805006307942], [-128.08685302734375, 51.63805006307942], [-128.08685302734375, 51.66914840783798], [-128.1603240966797, 51.66914840783798], [-128.1603240966797, 51.63805006307942]]]}
         },
@@ -15210,10 +15622,37 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880",
+                "name": "ca-cioos_51171738-7556-48f1-8757-658d99fa25dd",
+                "row_id": "123"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.4878540039062, 51.653814904471545], [-128.0978393554687, 51.653814904471545], [-128.0978393554687, 52.07950600379698], [-128.4878540039062, 52.07950600379698], [-128.4878540039062, 51.653814904471545]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_06ddfa63-2611-46a5-8d63-c1b576e85bcb",
+                "row_id": "124"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16375732421872, 51.62888689371772], [-127.98694610595699, 51.62888689371772], [-127.98694610595699, 51.67191640405858], [-128.16375732421872, 51.67191640405858], [-128.16375732421872, 51.62888689371772]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_244b5915-0ccf-4fab-9720-d2ac9394a27b",
+                "row_id": "125"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.19030767306685, 51.388923100504826], [-127.80578618869185, 51.388923100504826], [-127.80578618869185, 51.967961587186835], [-128.19030767306685, 51.967961587186835], [-128.19030767306685, 51.388923100504826]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e",
                 "row_id": "126"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.3704833984375, 49.9229354544957], [-124.75524902343749, 49.9229354544957], [-124.75524902343749, 50.291094042311386], [-125.3704833984375, 50.291094042311386], [-125.3704833984375, 49.9229354544957]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17543029785156, 51.63272286429384], [-128.10916900634766, 51.63272286429384], [-128.10916900634766, 51.68149662336026], [-128.17543029785156, 51.68149662336026], [-128.17543029785156, 51.63272286429384]]]}
         },
         
         {
@@ -15228,26 +15667,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c",
-                "row_id": "128"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13097000122067, 51.65072627953853], [-128.1136322021484, 51.65072627953853], [-128.1136322021484, 51.657968240656345], [-128.13097000122067, 51.657968240656345], [-128.13097000122067, 51.65072627953853]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_7241811a-f75c-469f-baa2-ad769d6c75cd",
-                "row_id": "129"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16112518659793, 51.64003873222521], [-128.11134338728152, 51.64003873222521], [-128.11134338728152, 51.681993328868], [-128.16112518659793, 51.681993328868], [-128.16112518659793, 51.64003873222521]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea",
-                "row_id": "130"
+                "row_id": "128"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16959381103513, 51.63613234359897], [-128.11191558837888, 51.63613234359897], [-128.11191558837888, 51.681709494104325], [-128.16959381103513, 51.681709494104325], [-128.16959381103513, 51.63613234359897]]]}
         },
@@ -15255,19 +15676,37 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_51171738-7556-48f1-8757-658d99fa25dd",
-                "row_id": "131"
+                "name": "ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc",
+                "row_id": "129"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.4878540039062, 51.653814904471545], [-128.0978393554687, 51.653814904471545], [-128.0978393554687, 52.07950600379698], [-128.4878540039062, 52.07950600379698], [-128.4878540039062, 51.653814904471545]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.20729486, 51.64597234], [-128.07875481, 51.64597234], [-128.07875481, 51.76579671], [-128.20729486, 51.76579671], [-128.20729486, 51.64597234]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_8010e86f-5dd9-421d-8e22-668664191205",
+                "name": "ca-cioos_14bf37c7-5eb6-4194-a992-c039fd7fb38b",
+                "row_id": "130"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1802368164062, 51.98995445995024], [-127.91656494140622, 51.98995445995024], [-127.91656494140622, 52.104818220233255], [-128.1802368164062, 52.104818220233255], [-128.1802368164062, 51.98995445995024]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_7241811a-f75c-469f-baa2-ad769d6c75cd",
+                "row_id": "131"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16112518659793, 51.64003873222521], [-128.11134338728152, 51.64003873222521], [-128.11134338728152, 51.681993328868], [-128.16112518659793, 51.681993328868], [-128.16112518659793, 51.64003873222521]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_40d86401-0e95-4ff3-b1c7-25e4e9138157",
                 "row_id": "132"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.5913088172674, 49.99832434897874], [-125.05371116101743, 49.99832434897874], [-125.05371116101743, 52.056994748655285], [-128.5913088172674, 52.056994748655285], [-128.5913088172674, 49.99832434897874]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.1957321166992, 48.808898428995235], [-125.10440826416014, 48.808898428995235], [-125.10440826416014, 48.86471476180279], [-125.1957321166992, 48.86471476180279], [-125.1957321166992, 48.808898428995235]]]}
         },
         
         {
@@ -15282,26 +15721,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_40d86401-0e95-4ff3-b1c7-25e4e9138157",
+                "name": "ca-cioos_8010e86f-5dd9-421d-8e22-668664191205",
                 "row_id": "134"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.1957321166992, 48.808898428995235], [-125.10440826416014, 48.808898428995235], [-125.10440826416014, 48.86471476180279], [-125.1957321166992, 48.86471476180279], [-125.1957321166992, 48.808898428995235]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_656ea307-fed0-48ca-b5d8-1bc017dc52d2",
-                "row_id": "135"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.45265489, 48.52152402], [-124.43377214, 48.52152402], [-124.43377214, 48.53061904], [-124.45265489, 48.53061904], [-124.45265489, 48.52152402]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.5913088172674, 49.99832434897874], [-125.05371116101743, 49.99832434897874], [-125.05371116101743, 52.056994748655285], [-128.5913088172674, 52.056994748655285], [-128.5913088172674, 49.99832434897874]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_582909b1-c87d-4c5a-8594-5f44726f43a4",
-                "row_id": "136"
+                "row_id": "135"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-134.00388587, 47.7919011], [-122.24851478, 47.7919011], [-122.24851478, 54.90895582], [-134.00388587, 54.90895582], [-134.00388587, 47.7919011]]]}
         },
@@ -15309,19 +15739,28 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6",
-                "row_id": "137"
+                "name": "ca-cioos_656ea307-fed0-48ca-b5d8-1bc017dc52d2",
+                "row_id": "136"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.9, 51.76], [-127.6, 51.76], [-127.6, 51.8], [-127.9, 51.8], [-127.9, 51.76]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.45265489, 48.52152402], [-124.43377214, 48.52152402], [-124.43377214, 48.53061904], [-124.45265489, 48.53061904], [-124.45265489, 48.52152402]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde",
-                "row_id": "138"
+                "row_id": "137"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13265424, 51.60936247], [-127.95907025, 51.60936247], [-127.95907025, 51.69558793], [-128.13265424, 51.69558793], [-128.13265424, 51.60936247]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6",
+                "row_id": "138"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.9, 51.76], [-127.6, 51.76], [-127.6, 51.8], [-127.9, 51.8], [-127.9, 51.76]]]}
         },
         
         {
@@ -15345,19 +15784,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897",
+                "name": "ca-cioos_5cf59eac-2fb4-4ed2-8ffc-372030c9438e",
                 "row_id": "141"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17701209, 51.62096599], [-127.92157996, 51.62096599], [-127.92157996, 51.73507366], [-128.17701209, 51.73507366], [-128.17701209, 51.62096599]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.9, 51.72], [-127.6, 51.72], [-127.6, 51.81], [-127.9, 51.81], [-127.9, 51.72]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9",
+                "name": "ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897",
                 "row_id": "142"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13265424, 51.60936247], [-127.95907025, 51.60936247], [-127.95907025, 51.69558793], [-128.13265424, 51.69558793], [-128.13265424, 51.60936247]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17701209, 51.62096599], [-127.92157996, 51.62096599], [-127.92157996, 51.73507366], [-128.17701209, 51.73507366], [-128.17701209, 51.62096599]]]}
         },
         
         {
@@ -15372,37 +15811,37 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e",
+                "name": "ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9",
                 "row_id": "144"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15445681, 51.61731613], [-127.95404703, 51.61731613], [-127.95404703, 51.71899959], [-128.15445681, 51.71899959], [-128.15445681, 51.61731613]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.21777349337933, 51.412912129355306], [-127.82775884494184, 51.412912129355306], [-127.82775884494184, 51.74403752566786], [-128.21777349337933, 51.74403752566786], [-128.21777349337933, 51.412912129355306]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373",
+                "name": "ca-cioos_4c80a391-e74a-48cf-87ae-67632e485725",
                 "row_id": "145"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.25940955, 51.55841821], [-127.87488807, 51.55841821], [-127.87488807, 51.75224257], [-128.25940955, 51.75224257], [-128.25940955, 51.55841821]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.309326171875, 51.41633810640042], [-127.803955078125, 51.41633810640042], [-127.803955078125, 51.97472977494965], [-128.309326171875, 51.97472977494965], [-128.309326171875, 51.41633810640042]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_f7538807-4d49-4ed8-ad36-836c0e71428a",
+                "name": "ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7",
                 "row_id": "146"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16482, 51.408116], [-127.868831, 51.408116], [-127.868831, 51.734994], [-128.16482, 51.734994], [-128.16482, 51.408116]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.11706194, 51.62592806], [-127.94402727, 51.62592806], [-127.94402727, 51.71110094], [-128.11706194, 51.71110094], [-128.11706194, 51.62592806]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_184b2f81-d87f-4615-a026-15b87930d15c",
+                "name": "ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4",
                 "row_id": "147"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15002441406247, 51.614605707797466], [-127.96600341796874, 51.614605707797466], [-127.96600341796874, 51.70405535332591], [-128.15002441406247, 51.70405535332591], [-128.15002441406247, 51.614605707797466]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.98931373, 50.8340959], [-127.03580726, 50.8340959], [-127.03580726, 52.33530479], [-128.98931373, 52.33530479], [-128.98931373, 50.8340959]]]}
         },
         
         {
@@ -15417,19 +15856,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_26443ab2-964f-4031-a53b-f132434573e8",
+                "name": "ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d",
                 "row_id": "149"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13903808593744, 51.626542529786036], [-127.97355651855466, 51.626542529786036], [-127.97355651855466, 51.67766477883444], [-128.13903808593744, 51.67766477883444], [-128.13903808593744, 51.626542529786036]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.159953, 51.411975], [-127.869461, 51.411975], [-127.869461, 51.734199], [-128.159953, 51.734199], [-128.159953, 51.411975]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95",
+                "name": "ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef",
                 "row_id": "150"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-143.16578297, 37.67883738], [-104.45881201, 37.67883738], [-104.45881201, 60.91786918], [-143.16578297, 60.91786918], [-143.16578297, 37.67883738]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.23772561, 51.55090182], [-127.87151456, 51.55090182], [-127.87151456, 51.75810598], [-128.23772561, 51.75810598], [-128.23772561, 51.55090182]]]}
         },
         
         {
@@ -15444,35 +15883,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d",
+                "name": "ca-cioos_184b2f81-d87f-4615-a026-15b87930d15c",
                 "row_id": "152"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.159953, 51.411975], [-127.869461, 51.411975], [-127.869461, 51.734199], [-128.159953, 51.734199], [-128.159953, 51.411975]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_4c80a391-e74a-48cf-87ae-67632e485725",
-                "row_id": "153"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.309326171875, 51.41633810640042], [-127.803955078125, 51.41633810640042], [-127.803955078125, 51.97472977494965], [-128.309326171875, 51.97472977494965], [-128.309326171875, 51.41633810640042]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9",
-                "row_id": "154"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.21777349337933, 51.412912129355306], [-127.82775884494184, 51.412912129355306], [-127.82775884494184, 51.74403752566786], [-128.21777349337933, 51.74403752566786], [-128.21777349337933, 51.412912129355306]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15002441406247, 51.614605707797466], [-127.96600341796874, 51.614605707797466], [-127.96600341796874, 51.70405535332591], [-128.15002441406247, 51.70405535332591], [-128.15002441406247, 51.614605707797466]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_5b0b2db4-21d7-48b8-9616-255ba2267868",
-                "row_id": "155"
+                "row_id": "153"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.98931373, 50.8340959], [-127.03580726, 50.8340959], [-127.03580726, 52.33530479], [-128.98931373, 52.33530479], [-128.98931373, 50.8340959]]]}
         },
@@ -15480,17 +15901,26 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4",
-                "row_id": "156"
+                "name": "ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373",
+                "row_id": "154"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.98931373, 50.8340959], [-127.03580726, 50.8340959], [-127.03580726, 52.33530479], [-128.98931373, 52.33530479], [-128.98931373, 50.8340959]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.25940955, 51.55841821], [-127.87488807, 51.55841821], [-127.87488807, 51.75224257], [-128.25940955, 51.75224257], [-128.25940955, 51.55841821]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_f7538807-4d49-4ed8-ad36-836c0e71428a",
+                "row_id": "155"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16482, 51.408116], [-127.868831, 51.408116], [-127.868831, 51.734994], [-128.16482, 51.734994], [-128.16482, 51.408116]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_6844547c-708e-437b-aef7-157b4d9d9bcb",
-                "row_id": "157"
+                "row_id": "156"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15445681, 51.61731613], [-127.95404703, 51.61731613], [-127.95404703, 51.71899959], [-128.15445681, 51.71899959], [-128.15445681, 51.61731613]]]}
         },
@@ -15498,19 +15928,28 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df",
-                "row_id": "158"
+                "name": "ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324",
+                "row_id": "157"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16, 51.41], [-127.88, 51.41], [-127.88, 51.73], [-128.16, 51.73], [-128.16, 51.41]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13650264, 51.64966999], [-128.12495841, 51.64966999], [-128.12495841, 51.65523482], [-128.13650264, 51.65523482], [-128.13650264, 51.64966999]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7",
+                "name": "ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95",
+                "row_id": "158"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-143.16578297, 37.67883738], [-104.45881201, 37.67883738], [-104.45881201, 60.91786918], [-143.16578297, 60.91786918], [-143.16578297, 37.67883738]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df",
                 "row_id": "159"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.11706194, 51.62592806], [-127.94402727, 51.62592806], [-127.94402727, 51.71110094], [-128.11706194, 51.71110094], [-128.11706194, 51.62592806]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.16, 51.41], [-127.88, 51.41], [-127.88, 51.73], [-128.16, 51.73], [-128.16, 51.41]]]}
         },
         
         {
@@ -15525,8 +15964,35 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018",
+                "name": "ca-cioos_395aa495-de81-4947-b1c5-2c98172a6def",
                 "row_id": "161"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2, 51.61], [-128.0, 51.61], [-128.0, 51.69], [-128.2, 51.69], [-128.2, 51.61]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e",
+                "row_id": "162"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15445681, 51.61731613], [-127.95404703, 51.61731613], [-127.95404703, 51.71899959], [-128.15445681, 51.71899959], [-128.15445681, 51.61731613]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef",
+                "row_id": "163"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.22692871093747, 51.40948589555509], [-127.80944824218746, 51.40948589555509], [-127.80944824218746, 51.74233687689102], [-128.22692871093747, 51.74233687689102], [-128.22692871093747, 51.40948589555509]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018",
+                "row_id": "164"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13217163085935, 51.59626804559349], [-127.97149658203124, 51.59626804559349], [-127.97149658203124, 51.6857538480987], [-128.13217163085935, 51.6857538480987], [-128.13217163085935, 51.59626804559349]]]}
         },
@@ -15534,17 +16000,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997",
-                "row_id": "162"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.09646606445312, 51.5996802644666], [-127.9508972167969, 51.5996802644666], [-127.9508972167969, 51.69171329024539], [-128.09646606445312, 51.69171329024539], [-128.09646606445312, 51.5996802644666]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345",
-                "row_id": "163"
+                "row_id": "165"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30095161, 50.04299371], [-125.08745063, 50.04299371], [-125.08745063, 51.791595], [-128.30095161, 51.791595], [-128.30095161, 50.04299371]]]}
         },
@@ -15552,28 +16009,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324",
-                "row_id": "164"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13650264, 51.64966999], [-128.12495841, 51.64966999], [-128.12495841, 51.65523482], [-128.13650264, 51.65523482], [-128.13650264, 51.64966999]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef",
-                "row_id": "165"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.23772561, 51.55090182], [-127.87151456, 51.55090182], [-127.87151456, 51.75810598], [-128.23772561, 51.75810598], [-128.23772561, 51.55090182]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef",
+                "name": "ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997",
                 "row_id": "166"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.22692871093747, 51.40948589555509], [-127.80944824218746, 51.40948589555509], [-127.80944824218746, 51.74233687689102], [-128.22692871093747, 51.74233687689102], [-128.22692871093747, 51.40948589555509]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.09646606445312, 51.5996802644666], [-127.9508972167969, 51.5996802644666], [-127.9508972167969, 51.69171329024539], [-128.09646606445312, 51.69171329024539], [-128.09646606445312, 51.5996802644666]]]}
         },
         
         {
@@ -15660,7 +16099,7 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e",
+                "name": "ca-cioos_93a9bb9a-b54e-4623-9e0e-93d8b7d0020b",
                 "row_id": "176"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.2, 51.63], [-128.1, 51.63], [-128.1, 51.67], [-128.2, 51.67], [-128.2, 51.63]]]}
@@ -15714,10 +16153,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_f952a904-f9f7-4876-b518-c98b1fd96f7e",
+                "name": "ca-cioos_58d82567-18b8-456a-a124-41b81661a5b2",
                 "row_id": "182"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-126.6, 49.08], [-122.6, 49.08], [-122.6, 50.6], [-126.6, 50.6], [-126.6, 49.08]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.6, 51.59], [-128.0, 51.59], [-128.0, 52.05], [-128.6, 52.05], [-128.6, 51.59]]]}
         },
         
         {
@@ -15768,8 +16207,26 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_0295e3a3-11b5-494d-ac60-ed4b95a15fad",
+                "name": "ca-cioos_8c39138f-8f01-4948-a3de-864044686c55",
                 "row_id": "188"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.8, 50.84], [-124.5, 50.84], [-124.5, 51.0], [-124.8, 51.0], [-124.8, 50.84]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83",
+                "row_id": "189"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.8, 48.1], [-113.1, 48.1], [-113.1, 56.61], [-127.8, 56.61], [-127.8, 48.1]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_0295e3a3-11b5-494d-ac60-ed4b95a15fad",
+                "row_id": "190"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-121.7, 49.26], [-121.2, 49.26], [-121.2, 50.84], [-121.7, 50.84], [-121.7, 49.26]]]}
         },
@@ -15778,7 +16235,7 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_bdb9229b-f594-40df-994e-e52e8a678165",
-                "row_id": "189"
+                "row_id": "191"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-125.4, 48.9], [-125.4, 48.85], [-125.3, 48.83], [-125.2, 48.79], [-125.2, 48.8], [-125.2, 48.85], [-125.2, 48.93], [-125.3, 48.95], [-125.3, 48.97], [-125.3, 48.98], [-125.3, 48.96], [-125.3, 48.96], [-125.4, 48.9]]]}
         },
@@ -15787,7 +16244,7 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_412ae9da-7e81-4a33-90c8-ed142f36307e",
-                "row_id": "190"
+                "row_id": "192"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-129.8, 53.71], [-129.4, 53.71], [-129.4, 54.01], [-129.8, 54.01], [-129.8, 53.71]]]}
         },
@@ -15795,17 +16252,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83",
-                "row_id": "191"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.8, 48.1], [-113.1, 48.1], [-113.1, 56.61], [-127.8, 56.61], [-127.8, 48.1]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1",
-                "row_id": "192"
+                "row_id": "193"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-126.8, 48.94], [-122.5, 48.94], [-122.5, 50.49], [-126.8, 50.49], [-126.8, 48.94]]]}
         },
@@ -15813,28 +16261,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_8c39138f-8f01-4948-a3de-864044686c55",
-                "row_id": "193"
+                "name": "ca-cioos_e2baa28d-c063-4354-ae1f-2abdb8397d8f",
+                "row_id": "194"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.8, 50.84], [-124.5, 50.84], [-124.5, 51.0], [-124.8, 51.0], [-124.8, 50.84]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.6, 48.62], [-124.1, 48.62], [-124.1, 48.88], [-124.6, 48.88], [-124.6, 48.62]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be",
-                "row_id": "194"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-119.4, 53.01], [-118.7, 53.01], [-118.7, 53.25], [-119.4, 53.25], [-119.4, 53.01]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_e2baa28d-c063-4354-ae1f-2abdb8397d8f",
                 "row_id": "195"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-124.6, 48.62], [-124.1, 48.62], [-124.1, 48.88], [-124.6, 48.88], [-124.6, 48.62]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-119.4, 53.01], [-118.7, 53.01], [-118.7, 53.25], [-119.4, 53.25], [-119.4, 53.01]]]}
         },
         
         {
@@ -15849,19 +16288,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_12f951d4-4155-4c05-969d-a7158412f579",
+                "name": "ca-cioos_251aef08-4017-4493-b9d8-c4583913b511",
                 "row_id": "197"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.60227432, 51.39074678], [-127.47434441, 51.39074678], [-127.47434441, 52.07117353], [-128.60227432, 52.07117353], [-128.60227432, 51.39074678]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.7, 51.38], [-127.5, 51.38], [-127.5, 52.23], [-128.7, 52.23], [-128.7, 51.38]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_251aef08-4017-4493-b9d8-c4583913b511",
+                "name": "ca-cioos_12f951d4-4155-4c05-969d-a7158412f579",
                 "row_id": "198"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.7, 51.38], [-127.5, 51.38], [-127.5, 52.23], [-128.7, 52.23], [-128.7, 51.38]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.60227432, 51.39074678], [-127.47434441, 51.39074678], [-127.47434441, 52.07117353], [-128.60227432, 52.07117353], [-128.60227432, 51.39074678]]]}
         },
         
         {
@@ -16002,10 +16441,10 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_2d693456-7e65-46be-95d7-6bb697320017",
+                "name": "ca-cioos_d1bef0b7-4d15-4bc1-bf34-faca6352891f",
                 "row_id": "214"
             },
-            "geometry": {'type': 'Point', 'coordinates': [-128.1302805556, 51.6544888889]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-139.0, 47.0], [-121.5, 47.0], [-121.5, 59.5], [-139.0, 59.5], [-139.0, 47.0]]]}
         },
         
         {
