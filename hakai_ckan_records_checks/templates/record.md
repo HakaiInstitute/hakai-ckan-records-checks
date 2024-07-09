@@ -2,7 +2,6 @@
 title: {{ record['title']}}
 hide:
   - navigation
-  - toc
 ---
 
 # {{ record['title'] }}
@@ -16,24 +15,23 @@ Records page: {{ record['Catalogue'] }}
 <div id='map'></div>
 
 {% if record['citation_count'] and record['citation_count'] > 0 %}
-!!! info "Citations"
+## Citations
 
-    **Total Citations**: {{ record['citation_count']}}
+**Total Citations**: {{ record['citation_count']}}
 
-    **Citations over time**:
-    {% for line in pd.DataFrame(record['citations_over_time']).set_index('year').T.to_markdown(index=False).split('\n') %}
-    {{ line }}{% endfor %}
+### Citations over time
 
-    **Citations**:
-    {% for line in pd.DataFrame(record['relationships']).to_markdown(index=False).split('\n') %}
-    {{ line }}{% endfor %}
-    
+{{ pd.DataFrame(record['citations_over_time']).set_index('year').T.to_markdown(index=False) }}
+
+### Citations
+
+{{ pd.DataFrame(record['relationships']).to_markdown(index=False) }}
+
 {% endif %}
 
 {% if not issues.empty %}
-!!! warning "Issues"
-    {% for line in issues.sort_values('level').drop(columns=['record_id']).to_markdown(index=false).split('\n') %}
-    {{ line }}{% endfor %}
+## Issues
+{{ issues.sort_values('level').drop(columns=['record_id']).to_markdown(index=false) }}
 {% endif %}
 
 <script>
