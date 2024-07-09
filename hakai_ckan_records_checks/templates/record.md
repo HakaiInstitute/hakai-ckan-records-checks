@@ -18,7 +18,7 @@ Records page: {{ record['Catalogue'] }}
 ### Issues
 
 {{
-    issues
+    issues.sort_values('level')
     .drop(columns=['record_id'])
     .to_markdown(index=false)
 }}

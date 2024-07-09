@@ -69,7 +69,6 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
             doi_metadata = datacite.get_doi(summary["doi"])
             summary["citation_count"] = doi_metadata["data"]["attributes"]["citationCount"]
             summary["citations_over_time"] = doi_metadata["data"]["attributes"]["citationsOverTime"]
-            
         return {
             "record_id": record_id,
             "test_results": test_results,
@@ -157,6 +156,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         results["test_results"]
         .merge(results["catalog_summary"], left_on="record_id", right_on="id")
         .drop(columns=["id"])
+        .astype({"level": level_type})
     )
     standardized_issues = combined_issues.copy()
     standardized_issues["message"] = standardized_issues["message"].apply(

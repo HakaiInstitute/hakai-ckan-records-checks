@@ -34,6 +34,7 @@ Download:
     'ressource-type','eov','metadata_publication','metadata_revision',
     'citation_count','citations_over_time','INFO','WARNING','ERROR'
   ]]
+  .sort_values(['metadata_publication','Title'],ascending=[0,1])
   .rename(columns={
     "sum": "Issues",
     "metadata_publication":"publication",
@@ -58,7 +59,8 @@ Download:
 [CSV](issues_list.csv){ .md-button }
 
 {{
-  issues_table[['title','level','message']]
+  issues_table[['metadata_revision','title','level','message']]
+  .sort_values(['metadata_revision','level','message'],ascending=[0,0,1])
   .to_html(
     index=False,
     render_links=True,
