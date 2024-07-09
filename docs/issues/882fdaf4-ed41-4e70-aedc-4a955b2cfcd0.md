@@ -29,7 +29,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c7
     - **Doi**: 10.21966/zs6a-j496 
     - **Metadata Publication**: 2022-01-24 
     - **Metadata Revision**: 2024-03-15 
-    - **Citation Count**: 0.0 
+    - **Citation Count**: 0 
     - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a> 
 

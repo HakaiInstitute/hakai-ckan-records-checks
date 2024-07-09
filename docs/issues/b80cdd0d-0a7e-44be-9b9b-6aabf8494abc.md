@@ -29,7 +29,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc4
     - **Doi**: 10.21966/wfcv-n753 
     - **Metadata Publication**: 2022-03-01 
     - **Metadata Revision**: 2024-03-20 
-    - **Citation Count**: 0.0 
+    - **Citation Count**: 0 
     - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a> 
 

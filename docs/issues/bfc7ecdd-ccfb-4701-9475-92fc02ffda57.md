@@ -29,7 +29,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033
     - **Doi**: 10.25921/jq11-2268 
     - **Metadata Publication**: 2021-06-11 
     - **Metadata Revision**: 2024-03-14 
-    - **Citation Count**: 0.0 
+    - **Citation Count**: 0 
     - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a> 
 
@@ -37,6 +37,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033
 
 | level   | message                                                                                                                                                                                    |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.25921/jq11-2268 status_code=502                                                                                                      |
 | INFO    | Title is greater than 60 characters                                                                                                                                                        |
 | INFO    | Contact missing ORCID: contact['individual-name']='Lebon, Geoffrey T.' contact.get('organisation-name')='University of Washington Joint Institute for the Study of the Atmosphere'         |
 | INFO    | Contact missing organization ROR:  contact['individual-name']='Lebon, Geoffrey T.' contact['organisation-name']='University of Washington Joint Institute for the Study of the Atmosphere' |
