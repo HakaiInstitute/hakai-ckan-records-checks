@@ -47,9 +47,11 @@ def format_summary(summary):
         + summary["name"]
         + "' target='_blank'>link</a>",
     )
-    summary['citation_count'] = summary['citation_count'].fillna(-1)
-    
-    return summary.astype({"resources_count": "int32","citation_count":"int32"}).fillna("")
+    summary["citation_count"] = summary["citation_count"].fillna(-1)
+
+    return summary.astype(
+        {"resources_count": "int32", "citation_count": "int32"}
+    ).fillna("")
 
 
 def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
@@ -64,13 +66,17 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
                 test_results.groupby("level").count()["record_id"].astype(int)
             )
             summary.update({**issues_count.to_dict(), "sum": issues_count.sum()})
-        
+
         if summary["doi"]:
             logger.debug("Getting citation count for DOI")
             datacite = Datacite()
             doi_metadata = datacite.get_doi(summary["doi"])
-            summary["citation_count"] = doi_metadata["data"]["attributes"]["citationCount"]
-            summary["citations_over_time"] = doi_metadata["data"]["attributes"]["citationsOverTime"]
+            summary["citation_count"] = doi_metadata["data"]["attributes"][
+                "citationCount"
+            ]
+            summary["citations_over_time"] = doi_metadata["data"]["attributes"][
+                "citationsOverTime"
+            ]
         return {
             "record_id": record_id,
             "test_results": test_results,
