@@ -26,8 +26,11 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-415
     - **Resources Count**: 4 
     - **Vertical Extent**: [{'max': '1000.0', 'min': '0.0'}] 
     - **Eov**: other, marineTurtlesBirdsMammalsAbundanceAndDistribution 
+    - **Doi**: 10.21966/10tk-4956 
     - **Metadata Publication**: 2023-03-03 
     - **Metadata Revision**: 2024-03-14 
+    - **Citation Count**: 0.0 
+    - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>link</a> 
 
 ### Issues

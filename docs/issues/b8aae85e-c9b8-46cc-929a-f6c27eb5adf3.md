@@ -26,8 +26,11 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77
     - **Resources Count**: 2 
     - **Vertical Extent**: [{'max': '9.0', 'min': '0.0'}] 
     - **Eov**: other 
+    - **Doi**: 10.21966/C7NA-Z171 
     - **Metadata Publication**: 2021-11-19 
     - **Metadata Revision**: 2024-03-14 
+    - **Citation Count**: 1.0 
+    - **Citations Over Time**: [{'year': '2024', 'total': 1}] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a> 
 
 ### Issues
