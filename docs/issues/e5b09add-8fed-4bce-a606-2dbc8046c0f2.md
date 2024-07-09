@@ -29,7 +29,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965
     - **Doi**:  
     - **Metadata Publication**: 2022-11-08 
     - **Metadata Revision**: 2022-11-08 
-    - **Citation Count**:  
+    - **Citation Count**: -1 
     - **Citations Over Time**:  
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965f-4e4e-b510-0000ae044824' target='_blank'>link</a> 
 
