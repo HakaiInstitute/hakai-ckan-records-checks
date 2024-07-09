@@ -2,17 +2,14 @@
 title: Underwater Video Transects - Calvert Island - 2016
 hide:
   - navigation
-  - toc
 ---
 
 # Underwater Video Transects - Calvert Island - 2016
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_62336906-31e6-4c32-968c-2312e703e08f 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,12 +26,14 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e
     - **Doi**: 10.21966/b0xc-8m25 
     - **Metadata Publication**: 2022-01-17 
     - **Metadata Revision**: 2024-03-15 
-    - **Citation Count**: 0 
-    - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                                                                                                                 |
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | INFO    | No version                                                                                                                              |
@@ -42,6 +41,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'                         |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

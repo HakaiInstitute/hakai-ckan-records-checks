@@ -2,17 +2,14 @@
 title: Kelp Canopy Extent 2006 - NW Calvert Island
 hide:
   - navigation
-  - toc
 ---
 
 # Kelp Canopy Extent 2006 - NW Calvert Island
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,12 +26,14 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d5
     - **Doi**:  
     - **Metadata Publication**: 2022-03-11 
     - **Metadata Revision**: 2021-09-23 
-    - **Citation Count**: -1 
-    - **Citations Over Time**:  
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                                                                                                                         |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | No projects associated                                                                                                                          |
@@ -49,6 +48,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d5
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Keith Holmes, Jenn Burt' contact.get('organisation-name')='Hakai Institute'                  |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Keith Holmes, Jenn Burt' contact['organisation-name']='Hakai Institute'          |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

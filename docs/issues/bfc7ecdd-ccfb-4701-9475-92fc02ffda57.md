@@ -2,17 +2,14 @@
 title: Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia
 hide:
   - navigation
-  - toc
 ---
 
 # Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,16 +26,18 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033
     - **Doi**: 10.25921/jq11-2268 
     - **Metadata Publication**: 2021-06-11 
     - **Metadata Revision**: 2024-03-14 
-    - **Citation Count**: 0 
-    - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                                                                                                                                                                    |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.25921/jq11-2268 status_code=502                                                                                                      |
 | INFO    | Title is greater than 60 characters                                                                                                                                                        |
+| INFO    | DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209049                                                       |
 | INFO    | Contact missing ORCID: contact['individual-name']='Lebon, Geoffrey T.' contact.get('organisation-name')='University of Washington Joint Institute for the Study of the Atmosphere'         |
 | INFO    | Contact missing organization ROR:  contact['individual-name']='Lebon, Geoffrey T.' contact['organisation-name']='University of Washington Joint Institute for the Study of the Atmosphere' |
 | INFO    | Contact missing ORCID: contact['individual-name']='Harrington, Christen D.' contact.get('organisation-name')='Alaska Department of Transportation'                                         |
@@ -46,6 +45,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033
 | INFO    | Contact missing ORCID: contact['individual-name']='Bidlack, Allison' contact.get('organisation-name')='University of Alaska Southeast, Alaska Coastal Rainforest Center'                   |
 | INFO    | Contact missing organization ROR:  contact['individual-name']='Bidlack, Allison' contact['organisation-name']='University of Alaska Southeast, Alaska Coastal Rainforest Center'           |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'                                                                            |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

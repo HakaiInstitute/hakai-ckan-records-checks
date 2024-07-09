@@ -2,17 +2,14 @@
 title: High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA
 hide:
   - navigation
-  - toc
 ---
 
 # High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,12 +26,14 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee
     - **Doi**: 10.21966/pk18-z035 
     - **Metadata Publication**: 2022-01-24 
     - **Metadata Revision**: 2022-01-13 
-    - **Citation Count**: 0 
-    - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                                                                                                      |
 |:--------|:-----------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | No projects associated                                                                                                       |
@@ -53,6 +52,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Carrie Weekes' contact['organisation-name']='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'           |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Wiley Evans' contact['organisation-name']='Hakai Institute'   |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

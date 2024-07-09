@@ -2,17 +2,14 @@
 title: Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA
 hide:
   - navigation
-  - toc
 ---
 
 # Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Kodiak, Alaska, USA
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965f-4e4e-b510-0000ae044824' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_82fccfae-965f-4e4e-b510-0000ae044824 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,12 +26,14 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965
     - **Doi**:  
     - **Metadata Publication**: 2022-11-08 
     - **Metadata Revision**: 2022-11-08 
-    - **Citation Count**: -1 
-    - **Citations Over Time**:  
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965f-4e4e-b510-0000ae044824' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                                                                                                                                            |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | No projects associated                                                                                                                                             |
@@ -53,6 +52,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82fccfae-965
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'                                                    |
 | WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'                                                |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='Evans, Wiley' contact['organisation-name']='Hakai Institute'                                        |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

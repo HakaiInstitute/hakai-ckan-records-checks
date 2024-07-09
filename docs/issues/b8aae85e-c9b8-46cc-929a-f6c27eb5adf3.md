@@ -2,17 +2,14 @@
 title: Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017
 hide:
   - navigation
-  - toc
 ---
 
 # Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,18 +26,39 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77
     - **Doi**: 10.21966/C7NA-Z171 
     - **Metadata Publication**: 2021-11-19 
     - **Metadata Revision**: 2024-03-14 
-    - **Citation Count**: 1 
-    - **Citations Over Time**: [{'year': '2024', 'total': 1}] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+## Citations
+
+**Total Citations**: 1
+
+### Citations over time
+
+|   2024 |
+|-------:|
+|      1 |
+
+### Citations
+
+| relationship   | id                | type   |   status_code | url                                                                               |
+|:---------------|:------------------|:-------|--------------:|:----------------------------------------------------------------------------------|
+| citations      | 10.48321/d1cw23   | dois   |           200 | https://dmphub.uc3prd.cdlib.net/dmps/10.48321/D1CW23                              |
+| versionOf      | 10.21966/1.566666 | dois   |           200 | https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7 |
+
+
+
+
+## Issues
 | level   | message                                                                                                                |
 |:--------|:-----------------------------------------------------------------------------------------------------------------------|
 | INFO    | Title is greater than 60 characters                                                                                    |
 | INFO    | No version                                                                                                             |
 | INFO    | Record isn't accesible via a standard data repository                                                                  |
 | WARNING | Contact missing ORCID: contact['individual-name']='Janusson, Carly' contact.get('organisation-name')='Hakai Institute' |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

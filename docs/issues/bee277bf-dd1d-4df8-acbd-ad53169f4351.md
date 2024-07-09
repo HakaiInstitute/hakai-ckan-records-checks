@@ -2,17 +2,14 @@
 title: Nearshore Macrophyte Stable Isotopes - BC Central Coast
 hide:
   - navigation
-  - toc
 ---
 
 # Nearshore Macrophyte Stable Isotopes - BC Central Coast
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,17 +26,37 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-370
     - **Doi**: 10.21966/q31x-qg72 
     - **Metadata Publication**: 2022-01-13 
     - **Metadata Revision**: 2024-03-14 
-    - **Citation Count**: 1 
-    - **Citations Over Time**: [{'year': '2024', 'total': 1}] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+## Citations
+
+**Total Citations**: 1
+
+### Citations over time
+
+|   2024 |
+|-------:|
+|      1 |
+
+### Citations
+
+| relationship   | id                 | type   |   status_code | url                                                                               |
+|:---------------|:-------------------|:-------|--------------:|:----------------------------------------------------------------------------------|
+| citations      | 10.21966/hpqq-0k76 | dois   |           200 | https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e |
+
+
+
+
+## Issues
 | level   | message                                                                                                                       |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404                                         |
 | INFO    | Record isn't accesible via a standard data repository                                                                         |
 | WARNING | Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute' |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

@@ -2,17 +2,14 @@
 title: Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019
 hide:
   - navigation
-  - toc
 ---
 
 # Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,18 +26,21 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c7
     - **Doi**: 10.21966/zs6a-j496 
     - **Metadata Publication**: 2022-01-24 
     - **Metadata Revision**: 2024-03-15 
-    - **Citation Count**: 0 
-    - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                                                                                                       |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|
 | INFO    | Title is greater than 60 characters                                                                                           |
 | INFO    | No version                                                                                                                    |
 | INFO    | Record isn't accesible via a standard data repository                                                                         |
 | WARNING | Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute' |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

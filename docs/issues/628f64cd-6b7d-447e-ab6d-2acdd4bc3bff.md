@@ -2,17 +2,14 @@
 title: Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017
 hide:
   - navigation
-  - toc
 ---
 
 # Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_12f951d4-4155-4c05-969d-a7158412f579 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,18 +26,21 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-415
     - **Doi**: 10.21966/10tk-4956 
     - **Metadata Publication**: 2023-03-03 
     - **Metadata Revision**: 2024-03-14 
-    - **Citation Count**: 0 
-    - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                                                                                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------|
 | INFO    | Title is greater than 60 characters                                                                                     |
 | INFO    | No version                                                                                                              |
 | INFO    | Record isn't accesible via a standard data repository                                                                   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

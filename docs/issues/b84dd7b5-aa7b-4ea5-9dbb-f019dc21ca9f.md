@@ -2,17 +2,14 @@
 title: Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018
 hide:
   - navigation
-  - toc
 ---
 
 # Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710' target='_blank'>link</a>
 
-<div id='map'></div>
+???+ abstract "Metadata"
 
-!!! info "Metadata"
-    
     - **Name**: ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
@@ -29,17 +26,20 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4
     - **Doi**: 10.21966/1.715756 
     - **Metadata Publication**: 2022-02-03 
     - **Metadata Revision**: 2024-03-14 
-    - **Citation Count**: 0 
-    - **Citations Over Time**: [] 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710' target='_blank'>link</a> 
 
-### Issues
+<div id='map'></div>
 
+
+
+
+## Issues
 | level   | message                                               |
 |:--------|:------------------------------------------------------|
 | INFO    | Title is greater than 60 characters                   |
 | INFO    | No version                                            |
 | INFO    | Record isn't accesible via a standard data repository |
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
