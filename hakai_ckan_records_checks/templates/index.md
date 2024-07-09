@@ -15,6 +15,11 @@ This page present a summary of issues detected from <{{ ckan_url }}>.
 {{pio.to_json(timeseries_figure)}}
 ```
 
+## Citations over time
+
+``` plotly
+{{ pio.to_json(citations_over_time_figure)}}
+```
 
 ## Issue Distribution
 

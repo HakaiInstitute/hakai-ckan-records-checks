@@ -219,6 +219,28 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         color_discrete_sequence=["#AA2026"],
     )
 
+    # citation count timeseries
+    citations_over_time = pd.DataFrame(
+        [
+            {"title": title, "year": year["year"], "citations": year["total"]}
+            for title, years in results["catalog_summary"]
+            .set_index("title")["citations_over_time"]
+            .dropna()
+            .to_dict()
+            .items()
+            for year in years
+        ]
+    ).astype({"citations": int}).sort_values(['year','title'])
+    citations_over_time_figure = px.bar(
+        citations_over_time,
+        x="year",
+        y="citations",
+        color="title",
+        labels={"citations": "Citations", "year": "Year", "title": "Title"},
+    )
+    citations_over_time_figure.update_layout(
+        showlegend=False,
+    )
     # save results
     catalog_summary_for_html = format_summary(results["catalog_summary"])
 
@@ -227,6 +249,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     environment.get_template("index.md").stream(
         catalog_summary=catalog_summary_for_html,
         timeseries_figure=timeseries_figure,
+        citations_over_time_figure=citations_over_time_figure,
         figure=figure,
         pio=pio,
         issues_table=combined_issues,
