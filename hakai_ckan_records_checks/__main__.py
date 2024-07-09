@@ -14,7 +14,7 @@ from tqdm import tqdm
 
 from hakai_ckan_records_checks import hakai
 from hakai_ckan_records_checks.ckan import CKAN
-from hakai_ckan_records_checks.datacite import Datacite
+from hakai_ckan_records_checks.datacite import Datacite, get_datacite_summary
 
 REPO_URL = os.getenv(
     "REPO_URL", "https://github.com/HakaiInstitute/hakai-ckan-records-checks"
