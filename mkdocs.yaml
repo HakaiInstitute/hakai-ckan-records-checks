@@ -46,14 +46,14 @@ markdown_extensions:
           format: !!python/name:mkdocs_plotly_plugin.fences.fence_plotly
 
 extra_css:
-  - assets/stylesheets/extra.css
   - https://unpkg.com/leaflet@1.3.1/dist/leaflet.css
-  - https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css
+  - https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.min.css
+  - assets/stylesheets/extra.css
 
 extra_javascript:
   - https://code.jquery.com/jquery-3.5.1.js
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
-  - https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js
+  - https://cdn.datatables.net/2.0.8/js/dataTables.min.js
 
 extra:
   social:

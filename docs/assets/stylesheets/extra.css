@@ -15,6 +15,7 @@
 #records_summary_table {
   width: 100%;
   overflow-x: scroll;
+  background-color: #5b1b1f;
 }
 
 table.dataTable th {
@@ -26,4 +27,8 @@ table.dataTable td {
   font-size: 0.6em;
   padding:0;
   margin:0;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+  padding: 2px 4px;
 }
