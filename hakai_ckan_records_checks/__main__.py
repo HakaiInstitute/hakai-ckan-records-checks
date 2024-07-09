@@ -61,21 +61,14 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         assert record["success"] == True
         test_results = hakai.test_record_requirements(record["result"])
         summary = hakai.get_record_summary(record["result"])
-        if summary["doi"]:
-            logger.debug("Getting citation count for DOI")
-            datacite = Datacite()
-            doi_metadata, error_msg = datacite.get_doi(summary["doi"])
-            if doi_metadata:
-                summary["citation_count"] = doi_metadata["data"]["attributes"][
-                    "citationCount"
-                ]
-                summary["citations_over_time"] = doi_metadata["data"]["attributes"][
-                    "citationsOverTime"
-                ]
-            if error_msg:
-                test_results.append(
-                    ["ERROR", error_msg]
-                )
+
+        logger.debug("Getting citation count for DOI")
+        datacite_metadata, error_msg = Datacite().get_doi(summary.get("doi"))
+        summary.update(get_datacite_summary(datacite_metadata))
+        if error_msg:
+            test_results.append(
+                ["ERROR", error_msg]
+            )
         test_results = pd.DataFrame(test_results, columns=["level", "message"])
         test_results.insert(0,'record_id',record['result']['id'])
 
