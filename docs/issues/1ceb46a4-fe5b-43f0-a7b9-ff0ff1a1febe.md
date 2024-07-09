@@ -26,8 +26,11 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d5
     - **Resources Count**: 2 
     - **Vertical Extent**: [{'max': '50.0', 'min': '0.0'}] 
     - **Eov**: other 
+    - **Doi**:  
     - **Metadata Publication**: 2022-03-11 
     - **Metadata Revision**: 2021-09-23 
+    - **Citation Count**:  
+    - **Citations Over Time**:  
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0' target='_blank'>link</a> 
 
 ### Issues
