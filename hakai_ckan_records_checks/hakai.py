@@ -223,6 +223,7 @@ def test_record_requirements(record) -> pd.DataFrame:
 
 @logger.catch(default={})
 def get_record_summary(record):
+    doi = [item['code'] for item  in record.get('unique-resource-identifier-full',[]) if 'doi.org' in item['code']]
     return {
         "id": record["id"],
         "name": record["name"],
@@ -240,6 +241,7 @@ def get_record_summary(record):
         "spatial": record.get("spatial"),
         "vertical-extent": record.get("vertical-extent"),
         "eov": ", ".join(record.get("eov", [])),
+        "doi": doi[0].replace("https://doi.org/",'') if doi else "",
         **{
             f"metadata_{item['type']}": item["value"]
             for item in record.get("metadata-reference-date", [])

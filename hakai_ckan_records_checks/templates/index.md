@@ -29,7 +29,11 @@ Download:
 [CSV](catalog_summary.csv){ .md-button }
 
 {{
-  catalog_summary[['Title','Catalogue','sum','projects','licence','progress','state','ressource-type','eov','metadata_publication','metadata_revision','INFO','WARNING','ERROR']]
+  catalog_summary[[
+    'Title','Catalogue','sum','projects','licence','progress','state',
+    'ressource-type','eov','metadata_publication','metadata_revision',
+    'citation_count','citations_over_time','INFO','WARNING','ERROR'
+  ]]
   .rename(columns={
     "sum": "Issues",
     "metadata_publication":"publication",
@@ -38,7 +42,8 @@ Download:
     "WARNING":"war.",
     "ERROR":"err.",
     "ressource-type":"ressour type",
-  }).to_html(
+  })
+  .to_html(
       render_links=True,
       table_id='records_table',
       escape=False,

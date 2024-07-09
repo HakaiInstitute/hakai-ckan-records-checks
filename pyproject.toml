@@ -29,6 +29,7 @@ black = "^24.1.1"
 isort = "^5.13.2"
 ipykernel = "^6.29.2"
 nbformat = "^5.9.2"
+pytest = "^8.2.2"
 
 [build-system]
 requires = ["poetry-core"]
