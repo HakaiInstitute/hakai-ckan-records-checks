@@ -28,11 +28,11 @@ IGNORE_RECORD_IDS = "hakai-metadata-form-data"
 level_type = pd.CategoricalDtype(categories=["INFO", "WARNING", "ERROR"], ordered=True)
 
 
-def format_summary(summary):
+def format_summary(summary, base_url=""):
     def link_issue_page(record_row, var):
         if pd.isna(record_row[var]):
             return ""
-        return f"<a title='{record_row['id']}' href='/records/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
+        return f"<a title='{record_row['id']}' href='{base_url}records/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
 
     summary[["INFO", "WARNING", "ERROR", "sum"]] = summary[
         ["INFO", "WARNING", "ERROR", "sum"]
@@ -251,36 +251,29 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     citations_over_time_figure.update_layout(
         showlegend=False,
     )
-    # save results
-    catalog_summary_for_html = format_summary(results["catalog_summary"])
-
+    
+     # main page
     logger.info(f"Saving results to: {output=}")
     output = Path(output)
     output.mkdir(parents=True, exist_ok=True)
     environment.get_template("index.md").stream(
-        catalog_summary=catalog_summary_for_html,
+        catalog_summary=format_summary(results["catalog_summary"]),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
         figure=figure,
         pio=pio,
-        issues_table=combined_issues,
-        time=pd.Timestamp.utcnow(),
         ckan_url=ckan_url,
-        generated_by=REPO_URL,
     ).dump(f"{output}/index.md")
 
     # save issue summary page
     Path(output, "issues").mkdir(parents=True, exist_ok=True)
     environment.get_template("issues.md").stream(
-        catalog_summary=catalog_summary_for_html,
+        catalog_summary=format_summary(results["catalog_summary"], base_url="../"),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
         figure=figure,
         pio=pio,
         issues_table=combined_issues,
-        time=pd.Timestamp.utcnow(),
-        ckan_url=ckan_url,
-        generated_by=REPO_URL,
     ).dump(f"{output}/issues/index.md")
 
     # create an issue specifc page
@@ -291,17 +284,11 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
 
         environment.get_template("issue.md").stream(
             title=issue,
-            catalog_summary=catalog_summary_for_html,
-            figure=figure,
-            pio=pio,
             issues_table=combined_issues.query("message.str.startswith(@issue)"),
-            time=pd.Timestamp.utcnow(),
-            ckan_url=ckan_url,
-            generated_by=REPO_URL,
         ).dump(f"{output}/issues/{filename}.md")
 
     # create record specific pages
-    catalog_summary_for_html = catalog_summary_for_html.set_index("id")
+    catalog_summary_for_html = format_summary(results["catalog_summary"],base_url="../").set_index("id")
     Path(output, "records").mkdir(parents=True, exist_ok=True)
     environment.get_template("records.md").stream(
         catalog_summary=catalog_summary_for_html,
@@ -310,8 +297,6 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         environment.get_template("record.md").stream(
             record=catalog_summary_for_html.loc[record_id],
             issues=issues,
-            time=pd.Timestamp.utcnow(),
-            generated_by=REPO_URL,
             pd=pd,
         ).dump(f"{output}/records/{record_id}.md")
 
