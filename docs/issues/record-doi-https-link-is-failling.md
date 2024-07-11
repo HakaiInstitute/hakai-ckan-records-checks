@@ -17,7 +17,7 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-05-06</td>
+      <td>2024-06-06</td>
       <td>Testing what this looks like in the Hakai Catalogue</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/g4sn-4305 status_code=404</td>

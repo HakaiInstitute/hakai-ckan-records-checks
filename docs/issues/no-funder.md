@@ -18,13 +18,13 @@ This page present the list of all the records associated with the issue: **No fu
   <tbody>
     <tr>
       <td>2024-03-21</td>
-      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</td>
+      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-03-21</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -126,13 +126,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -462,13 +462,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2022-01-13</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2022-01-13</td>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>

@@ -18,6 +18,12 @@ This page present the list of all the records associated with the issue: **Title
   <tbody>
     <tr>
       <td>2024-03-21</td>
+      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-03-21</td>
       <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
@@ -29,12 +35,6 @@ This page present the list of all the records associated with the issue: **Title
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
-      <td>2024-03-21</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
       <td>2024-03-20</td>
       <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
       <td>WARNING</td>
@@ -42,13 +42,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-20</td>
-      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2024-03-20</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
