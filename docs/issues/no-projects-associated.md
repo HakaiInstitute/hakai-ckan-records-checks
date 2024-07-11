@@ -66,6 +66,12 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-03-14</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>2024-03-14</td>
       <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -73,12 +79,6 @@ This page present the list of all the records associated with the issue: **No pr
     <tr>
       <td>2024-03-14</td>
       <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>2024-03-14</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
@@ -210,13 +210,13 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2022-03-11</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
     <tr>
       <td>2022-03-11</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>

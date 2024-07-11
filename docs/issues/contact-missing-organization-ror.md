@@ -270,13 +270,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -444,19 +444,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2023-06-28</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2023-06-28</td>
       <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -486,13 +486,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Gehman, Alyssa' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Gehman, Alyssa' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -522,13 +522,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -558,13 +558,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Sadlier-Brown, Gillian' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Sadlier-Brown, Gillian' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -1344,73 +1344,79 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2022-03-11</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
       <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2022-03-11</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2022-03-11</td>
       <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2022-03-11</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -1422,13 +1428,7 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2022-03-11</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2022-03-11</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hakai Geospatial Technology Team' contact['organisation-name']='Hakai Institute'</td>
     </tr>
