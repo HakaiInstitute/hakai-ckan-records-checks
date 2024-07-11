@@ -279,25 +279,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='/records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='/records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-03-15</td>
-      <td>10.21966/1.566666</td>
-      <td>126</td>
-      <td>[{'year': '2020', 'total': 42}, {'year': '2021', 'total': 3}, {'year': '2022', 'total': 6}, {'year': '2023', 'total': 21}, {'year': '2024', 'total': 54}]</td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='/records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='/records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='/records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>3</a></td>
@@ -315,25 +296,6 @@ Search your record here:
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='/records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>2</a></td>
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='/records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>1</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' href='/records/467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95' target='_blank'>link</a></td>
-      <td><a title='467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' href='/records/467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' target='_blank'>3</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>CC-BY-NC-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>macroalgalCanopyCoverAndComposition</td>
-      <td>2023-09-29</td>
-      <td>2024-03-15</td>
-      <td>10.21966/7ze4-x883</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' href='/records/467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' target='_blank'>2</a></td>
-      <td></td>
-      <td><a title='467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' href='/records/467f05c7-2dbc-4f2c-a9a9-14cc6cf9ce65' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bdd523f3-0ff7-4c6e-a4ff-9e03394dad76' href='/records/bdd523f3-0ff7-4c6e-a4ff-9e03394dad76' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</a></td>
