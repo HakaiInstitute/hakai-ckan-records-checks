@@ -3,6 +3,7 @@ import pickle
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+import re
 
 import click
 import pandas as pd
@@ -31,7 +32,7 @@ def format_summary(summary):
     def link_issue_page(record_row, var):
         if pd.isna(record_row[var]):
             return ""
-        return f"<a title='{record_row['id']}' href='issues/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
+        return f"<a title='{record_row['id']}' href='/records/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
 
     summary[["INFO", "WARNING", "ERROR", "sum"]] = summary[
         ["INFO", "WARNING", "ERROR", "sum"]
@@ -254,7 +255,8 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     catalog_summary_for_html = format_summary(results["catalog_summary"])
 
     logger.info(f"Saving results to: {output=}")
-    Path(output).mkdir(parents=True, exist_ok=True)
+    output = Path(output)
+    output.mkdir(parents=True, exist_ok=True)
     environment.get_template("index.md").stream(
         catalog_summary=catalog_summary_for_html,
         timeseries_figure=timeseries_figure,
@@ -267,9 +269,43 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         generated_by=REPO_URL,
     ).dump(f"{output}/index.md")
 
+    # save issue summary page
+    Path(output, "issues").mkdir(parents=True, exist_ok=True)
+    environment.get_template("issues.md").stream(
+        catalog_summary=catalog_summary_for_html,
+        timeseries_figure=timeseries_figure,
+        citations_over_time_figure=citations_over_time_figure,
+        figure=figure,
+        pio=pio,
+        issues_table=combined_issues,
+        time=pd.Timestamp.utcnow(),
+        ckan_url=ckan_url,
+        generated_by=REPO_URL,
+    ).dump(f"{output}/issues/index.md")
+
+    # create an issue specifc page
+    for issue, issues in grouped_issues.groupby("message"):
+        filename = re.sub(r"[\.\'\"]", "", issue)
+        filename = re.sub(r"[^a-zA-Z0-9]", "-", filename).lower()
+        filename = re.sub(r"-+", "-", filename)
+
+        environment.get_template("issue.md").stream(
+            title=issue,
+            catalog_summary=catalog_summary_for_html,
+            figure=figure,
+            pio=pio,
+            issues_table=combined_issues.query("message.str.startswith(@issue)"),
+            time=pd.Timestamp.utcnow(),
+            ckan_url=ckan_url,
+            generated_by=REPO_URL,
+        ).dump(f"{output}/issues/{filename}.md")
+
     # create record specific pages
     catalog_summary_for_html = catalog_summary_for_html.set_index("id")
-    Path(output, "issues").mkdir(parents=True, exist_ok=True)
+    Path(output, "records").mkdir(parents=True, exist_ok=True)
+    environment.get_template("records.md").stream(
+        catalog_summary=catalog_summary_for_html,
+    ).dump(f"{output}/records/index.md")
     for record_id, issues in results["test_results"].groupby("record_id"):
         environment.get_template("record.md").stream(
             record=catalog_summary_for_html.loc[record_id],
@@ -277,7 +313,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             time=pd.Timestamp.utcnow(),
             generated_by=REPO_URL,
             pd=pd,
-        ).dump(f"{output}/issues/{record_id}.md")
+        ).dump(f"{output}/records/{record_id}.md")
 
     logger.info("Save excel and csv outputs")
     results["catalog_summary"].to_excel(f"{output}/catalog_summary.xlsx", index=True)

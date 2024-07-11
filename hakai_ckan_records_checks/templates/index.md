@@ -1,15 +1,25 @@
 ---
 hide:
   - navigation
+  - title
 ---
 # Summary
 
-This page present a summary of issues detected from <{{ ckan_url }}>.
+This page present a summary of the differrent metadata records distributed at <{{ ckan_url }}>.
+
+Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered.
+
+## Spatial Distribution
+
+This map present the differet polygons and coordinates associated with all the metadata records.
 
 <div id="map"></div>
 
 
 ## Record Submission Timeseries
+
+This diagram present the cumulative timeseries of the different metadata records made available on the 
+hakai catalogue.
 
 ``` plotly
 {{pio.to_json(timeseries_figure)}}
@@ -17,17 +27,14 @@ This page present a summary of issues detected from <{{ ckan_url }}>.
 
 ## Citations over time
 
+The citations are retrieved from [DataCite](https://commons.datacite.org) for
+each records assoicated with a DOI.
+
 ``` plotly
 {{ pio.to_json(citations_over_time_figure)}}
 ```
 
-## Issue Distribution
-
-``` plotly
-{{ pio.to_json(figure) }}
-```
-
-## Record Table
+## Records Summary Table
 
 Download:
 [Excel](catalog_summary.xlsx){ .md-button }
@@ -39,16 +46,12 @@ Download:
     'ressource-type','eov','metadata_publication','metadata_revision',
     'doi',
     'citation_count','citations_over_time',
-    'INFO','WARNING','ERROR'
   ]]
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
   .rename(columns={
     "sum": "Issues",
     "metadata_publication":"publication",
     "metadata_revision":"revision",
-    "INFO":'inf.',
-    "WARNING":"war.",
-    "ERROR":"err.",
     "ressource-type":"ressour type",
     "citation_count": "Citations",
     "citation_over_time": "Citation Distribution"
@@ -61,23 +64,6 @@ Download:
   )
 }}
 
-## Issues Summary
-
-Download:
-[Excel](issues_list.xlsx){ .md-button }
-[CSV](issues_list.csv){ .md-button }
-
-{{
-  issues_table[['metadata_revision','title','level','message']]
-  .sort_values(['metadata_revision','level','message'],ascending=[0,0,1])
-  .to_html(
-    index=False,
-    render_links=True,
-    table_id='issues_table',
-    escape=False,
-    classes='table table-striped table-hover table-sm'
-  )
-}}
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
