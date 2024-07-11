@@ -2,6 +2,7 @@
 title: {{ record['title']}}
 hide:
   - navigation
+  - toc
 ---
 
 # {{ record['title'] }}
