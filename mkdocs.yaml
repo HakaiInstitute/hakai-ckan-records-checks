@@ -30,7 +30,6 @@ theme:
     - navigation.tabs
     - navigation.top
     - content.tabs.link
-    - navigation.prune
 
 plugins:
   - plotly
