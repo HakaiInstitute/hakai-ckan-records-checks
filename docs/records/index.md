@@ -110,7 +110,7 @@ Search your record here:
     <tr>
       <td><a title='4a37ae67-a107-41ff-9474-a91a75d0e19d' href='../records/4a37ae67-a107-41ff-9474-a91a75d0e19d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='4a37ae67-a107-41ff-9474-a91a75d0e19d' href='../records/4a37ae67-a107-41ff-9474-a91a75d0e19d' target='_blank'>6</a></td>
+      <td><a title='4a37ae67-a107-41ff-9474-a91a75d0e19d' href='../records/4a37ae67-a107-41ff-9474-a91a75d0e19d' target='_blank'>5</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -124,7 +124,7 @@ Search your record here:
       <td></td>
       <td><a title='4a37ae67-a107-41ff-9474-a91a75d0e19d' href='../records/4a37ae67-a107-41ff-9474-a91a75d0e19d' target='_blank'>1</a></td>
       <td><a title='4a37ae67-a107-41ff-9474-a91a75d0e19d' href='../records/4a37ae67-a107-41ff-9474-a91a75d0e19d' target='_blank'>1</a></td>
-      <td><a title='4a37ae67-a107-41ff-9474-a91a75d0e19d' href='../records/4a37ae67-a107-41ff-9474-a91a75d0e19d' target='_blank'>4</a></td>
+      <td><a title='4a37ae67-a107-41ff-9474-a91a75d0e19d' href='../records/4a37ae67-a107-41ff-9474-a91a75d0e19d' target='_blank'>3</a></td>
     </tr>
     <tr>
       <td><a title='2768854a-1261-43a1-91de-86f082b60ec6' href='../records/2768854a-1261-43a1-91de-86f082b60ec6' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
@@ -275,25 +275,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='a71e9330-f1da-483d-bd8d-eb1c79843a78' href='../records/a71e9330-f1da-483d-bd8d-eb1c79843a78' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-03-15</td>
-      <td>10.21966/1.566666</td>
-      <td>126</td>
-      <td>[{'year': '2020', 'total': 42}, {'year': '2021', 'total': 3}, {'year': '2022', 'total': 6}, {'year': '2023', 'total': 21}, {'year': '2024', 'total': 54}]</td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -4214,7 +4195,7 @@ Search your record here:
     <tr>
       <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='../records/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea' target='_blank'>link</a></td>
-      <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='../records/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>4</a></td>
+      <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='../records/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4228,7 +4209,7 @@ Search your record here:
       <td></td>
       <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='../records/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>2</a></td>
       <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='../records/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>1</a></td>
-      <td><a title='a67f118c-5a6a-447c-8715-04d1c5168c22' href='../records/a67f118c-5a6a-447c-8715-04d1c5168c22' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</a></td>
