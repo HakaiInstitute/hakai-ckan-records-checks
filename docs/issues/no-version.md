@@ -150,13 +150,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -270,12 +270,6 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
       <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>INFO</td>
       <td>No version</td>
@@ -300,19 +294,25 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
       <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-03-15</td>
       <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-03-15</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -360,13 +360,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -504,13 +504,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -528,13 +528,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -546,13 +546,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>

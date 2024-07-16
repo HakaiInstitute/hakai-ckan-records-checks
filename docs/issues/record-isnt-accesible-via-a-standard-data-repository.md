@@ -306,13 +306,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -444,13 +444,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -510,13 +510,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>

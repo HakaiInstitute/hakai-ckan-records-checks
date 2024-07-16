@@ -126,13 +126,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
