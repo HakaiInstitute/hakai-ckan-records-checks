@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2024-03-21</td>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.html</td>
+    </tr>
+    <tr>
       <td>2024-03-18</td>
       <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
       <td>ERROR</td>
@@ -45,6 +51,18 @@ This page present the list of all the records associated with the issue: **Inval
       <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.html</td>
+    </tr>
+    <tr>
+      <td>2024-03-14</td>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/HakaiBaynesSoundBoL5min.html</td>
+    </tr>
+    <tr>
+      <td>2024-03-14</td>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Alutiiq Pride Shellfish Hatchery , Alaska, USA</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/HakaiSewardBoL5min.html</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
@@ -105,6 +123,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1tPLRwEzDRdKZ-vmFmbJNE57iJha_cFsf</td>
+    </tr>
+    <tr>
+      <td>2021-03-23</td>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoL5min.html</td>
     </tr>
   </tbody>
 </table>

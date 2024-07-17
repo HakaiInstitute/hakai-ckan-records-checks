@@ -4100,7 +4100,7 @@ Search your record here:
     <tr>
       <td><a title='31b9392b-af2b-4549-afa4-a9233b75a3b8' href='../records/31b9392b-af2b-4549-afa4-a9233b75a3b8' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Fanny Bay Oysters, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_80efa0cf-1531-44ab-96ad-b2c78c4460a7' target='_blank'>link</a></td>
-      <td><a title='31b9392b-af2b-4549-afa4-a9233b75a3b8' href='../records/31b9392b-af2b-4549-afa4-a9233b75a3b8' target='_blank'>4</a></td>
+      <td><a title='31b9392b-af2b-4549-afa4-a9233b75a3b8' href='../records/31b9392b-af2b-4549-afa4-a9233b75a3b8' target='_blank'>5</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4114,7 +4114,7 @@ Search your record here:
       <td></td>
       <td><a title='31b9392b-af2b-4549-afa4-a9233b75a3b8' href='../records/31b9392b-af2b-4549-afa4-a9233b75a3b8' target='_blank'>2</a></td>
       <td><a title='31b9392b-af2b-4549-afa4-a9233b75a3b8' href='../records/31b9392b-af2b-4549-afa4-a9233b75a3b8' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='31b9392b-af2b-4549-afa4-a9233b75a3b8' href='../records/31b9392b-af2b-4549-afa4-a9233b75a3b8' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bfc7ecdd-ccfb-4701-9475-92fc02ffda57' href='../records/bfc7ecdd-ccfb-4701-9475-92fc02ffda57' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a></td>
@@ -4138,7 +4138,7 @@ Search your record here:
     <tr>
       <td><a title='929e4f19-9b38-4950-bdc3-6af6d80ecc1a' href='../records/929e4f19-9b38-4950-bdc3-6af6d80ecc1a' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Alutiiq Pride Shellfish Hatchery , Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_feef912f-363f-431b-a8e5-0ec13bd5e062' target='_blank'>link</a></td>
-      <td><a title='929e4f19-9b38-4950-bdc3-6af6d80ecc1a' href='../records/929e4f19-9b38-4950-bdc3-6af6d80ecc1a' target='_blank'>7</a></td>
+      <td><a title='929e4f19-9b38-4950-bdc3-6af6d80ecc1a' href='../records/929e4f19-9b38-4950-bdc3-6af6d80ecc1a' target='_blank'>8</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4152,7 +4152,7 @@ Search your record here:
       <td></td>
       <td><a title='929e4f19-9b38-4950-bdc3-6af6d80ecc1a' href='../records/929e4f19-9b38-4950-bdc3-6af6d80ecc1a' target='_blank'>3</a></td>
       <td><a title='929e4f19-9b38-4950-bdc3-6af6d80ecc1a' href='../records/929e4f19-9b38-4950-bdc3-6af6d80ecc1a' target='_blank'>4</a></td>
-      <td></td>
+      <td><a title='929e4f19-9b38-4950-bdc3-6af6d80ecc1a' href='../records/929e4f19-9b38-4950-bdc3-6af6d80ecc1a' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='23710a6f-fd6c-41d1-a738-3b8f6751df9b' href='../records/23710a6f-fd6c-41d1-a738-3b8f6751df9b' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
@@ -4176,7 +4176,7 @@ Search your record here:
     <tr>
       <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='../records/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Sitka Tribe of Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2834622b-33c4-4108-bf13-2e295473b4eb' target='_blank'>link</a></td>
-      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='../records/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>12</a></td>
+      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='../records/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>13</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4190,7 +4190,7 @@ Search your record here:
       <td></td>
       <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='../records/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>3</a></td>
       <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='../records/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>8</a></td>
-      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='../records/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>1</a></td>
+      <td><a title='5ff0b6b1-8550-4c1b-b560-aee7cca68059' href='../records/5ff0b6b1-8550-4c1b-b560-aee7cca68059' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='9ac56ebb-6d1a-4f88-b45e-de437eddf380' href='../records/9ac56ebb-6d1a-4f88-b45e-de437eddf380' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
@@ -4233,7 +4233,7 @@ Search your record here:
     <tr>
       <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Ketchikan Shellfish Hatchery, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7c3a2f1-29b5-4d4d-a1a7-03ec507fe1a2' target='_blank'>link</a></td>
-      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>14</a></td>
+      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>15</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4247,7 +4247,7 @@ Search your record here:
       <td></td>
       <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>4</a></td>
       <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>9</a></td>
-      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>1</a></td>
+      <td><a title='b04faa8e-0061-4dad-9ceb-a1984dad2066' href='../records/b04faa8e-0061-4dad-9ceb-a1984dad2066' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='e855c64f-947b-4fb9-9557-872d89d7ee50' href='../records/e855c64f-947b-4fb9-9557-872d89d7ee50' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
