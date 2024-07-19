@@ -300,13 +300,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -354,13 +354,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -390,13 +390,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -420,13 +420,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -552,13 +552,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Alutiiq Pride Shellfish Hatchery , Alaska, USA</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Alutiiq Pride Shellfish Hatchery , Alaska, USA</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -894,13 +894,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2022-01-13</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2022-01-13</td>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -925,12 +925,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2022-01-13</td>
       <td>Data on invasion of Calvert Island by Orthione griffenis</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2021-12-03</td>
-      <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>

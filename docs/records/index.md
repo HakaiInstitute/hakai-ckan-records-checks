@@ -279,25 +279,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-03-15</td>
-      <td>10.21966/1.566666</td>
-      <td>126</td>
-      <td>[{'year': '2020', 'total': 42}, {'year': '2021', 'total': 3}, {'year': '2022', 'total': 6}, {'year': '2023', 'total': 21}, {'year': '2024', 'total': 54}]</td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='../records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='../records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>3</a></td>
@@ -650,7 +631,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2023-01-18</td>
-      <td>2024-03-19</td>
+      <td>2024-06-12</td>
       <td>10.21966/3qkg-5n18</td>
       <td>0</td>
       <td>[]</td>
@@ -3716,25 +3697,6 @@ Search your record here:
       <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='../records/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>2</a></td>
       <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='../records/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>6</a></td>
       <td><a title='a2f471b7-adea-4363-9333-5b65bd3519e5' href='../records/a2f471b7-adea-4363-9333-5b65bd3519e5' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='../records/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63' target='_blank'>link</a></td>
-      <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='../records/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>15</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
-      <td>2021-12-03</td>
-      <td>2021-12-03</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='../records/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>2</a></td>
-      <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='../records/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>12</a></td>
-      <td><a title='ef07adc4-d1ae-4018-bf13-3332be20972d' href='../records/ef07adc4-d1ae-4018-bf13-3332be20972d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='3740232e-f635-4de0-a7ab-df71e3941552' href='../records/3740232e-f635-4de0-a7ab-df71e3941552' target='_blank'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a></td>

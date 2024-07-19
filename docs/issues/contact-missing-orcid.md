@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2024-06-12</td>
+      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-06-12</td>
+      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2024-03-22</td>
       <td>Seagrass Site-Level Production on BC Central Coast</td>
       <td>WARNING</td>
@@ -378,18 +390,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-03-19</td>
-      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-19</td>
-      <td>Ecstall Slide - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-19</td>
       <td>Northwest Calvert Substrate Mapping</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
@@ -543,12 +543,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Geospatial Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Godwin, Sean' contact.get('organisation-name')='Dalhousie University'</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
@@ -780,27 +774,21 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
       <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Krkosek, Martin' contact.get('organisation-name')='University of Toronto'</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-03-15</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
@@ -846,12 +834,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Portner, Lauren' contact.get('organisation-name')='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
       <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Prinzing, Tanya' contact.get('organisation-name')=''</td>
@@ -867,12 +849,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Hyperspectral Imagery - Calvert Island - 2012</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Remote Sensing Team, Terra' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>INFO</td>
-      <td>Contact missing ORCID: contact['individual-name']='Rogers, Luke A.' contact.get('organisation-name')='University of Toronto'</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
@@ -1782,19 +1758,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2023-06-28</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2023-06-28</td>
       <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Froese, Tyrel' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -1824,13 +1800,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Gehman, Alyssa' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Gehman, Alyssa' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -1854,13 +1830,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Hall, Kyle' contact.get('organisation-name')=''</td>
     </tr>
@@ -1890,13 +1866,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -1932,13 +1908,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Millard-Martin, Ben' contact.get('organisation-name')=''</td>
     </tr>
@@ -1968,13 +1944,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Monteith, Zach' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Monteith, Zach' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -2052,13 +2028,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Sadlier-Brown, Gillian' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -2088,13 +2064,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')=''</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='VanMaanen, Derek' contact.get('organisation-name')=''</td>
     </tr>
@@ -3717,30 +3693,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Wiley Evans' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2021-12-03</td>
-      <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Jennifer Jackson' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2021-12-03</td>
-      <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Jennifer Jackson' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2021-12-03</td>
-      <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Jessy Barrette' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2021-12-03</td>
-      <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Jessy Barrette' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2021-12-03</td>
