@@ -396,18 +396,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
       <td>Motile Invertebrate Surveys - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Froese, Tyrel' contact['organisation-name']='Hakai Institute'</td>
@@ -462,12 +450,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Gehman, Alyssa' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
       <td>Motile Invertebrate Surveys - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Gehman, Alyssa' contact['organisation-name']='Hakai Institute'</td>
@@ -498,12 +480,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
       <td>Motile Invertebrate Surveys - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
@@ -531,12 +507,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hessing-Lewis, Margot' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Sadlier-Brown, Gillian' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2023-06-28</td>

@@ -3129,25 +3129,6 @@ Search your record here:
       <td><a title='dce97273-eb52-42f6-8f9b-295f8b0a0592' href='../records/dce97273-eb52-42f6-8f9b-295f8b0a0592' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <td><a title='c5038612-62eb-4797-bf85-b972da2f98de' href='../records/c5038612-62eb-4797-bf85-b972da2f98de' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_154e88e6-2300-4ca0-b3f8-ee822d32a9a4' target='_blank'>link</a></td>
-      <td><a title='c5038612-62eb-4797-bf85-b972da2f98de' href='../records/c5038612-62eb-4797-bf85-b972da2f98de' target='_blank'>20</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-22</td>
-      <td>2023-06-28</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='c5038612-62eb-4797-bf85-b972da2f98de' href='../records/c5038612-62eb-4797-bf85-b972da2f98de' target='_blank'>6</a></td>
-      <td><a title='c5038612-62eb-4797-bf85-b972da2f98de' href='../records/c5038612-62eb-4797-bf85-b972da2f98de' target='_blank'>14</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='../records/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>Wind Fetch - BC Central Coast - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26a09a27-7f16-4944-b88d-8c3bf2d36f03' target='_blank'>link</a></td>
       <td><a title='48cd4c44-5195-4f14-ac71-ff8bfa109c9b' href='../records/48cd4c44-5195-4f14-ac71-ff8bfa109c9b' target='_blank'>6</a></td>

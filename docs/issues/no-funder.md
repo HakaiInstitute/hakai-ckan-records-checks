@@ -102,12 +102,6 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2023-06-28</td>
       <td>Motile Invertebrate Surveys - BC Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>

@@ -143,12 +143,6 @@ This page present the list of all the records associated with the issue: **No DO
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>2023-06-28</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
       <td>2023-04-12</td>
       <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
