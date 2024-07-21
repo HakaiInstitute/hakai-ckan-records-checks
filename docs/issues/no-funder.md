@@ -102,6 +102,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2023-06-28</td>
+      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2023-06-28</td>
       <td>Motile Invertebrate Surveys - BC Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>
@@ -120,13 +126,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2023-06-28</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -181,12 +187,6 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2022-03-29</td>
       <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2022-03-29</td>
-      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
