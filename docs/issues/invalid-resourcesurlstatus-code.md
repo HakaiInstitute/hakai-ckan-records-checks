@@ -23,12 +23,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/HakaiKetchikanBoL5min.html</td>
     </tr>
     <tr>
-      <td>2024-03-21</td>
-      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 502 for resources[1].url=https://dspace.library.uvic.ca/handle/1828/9312</td>
-    </tr>
-    <tr>
       <td>2024-03-18</td>
       <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
       <td>ERROR</td>

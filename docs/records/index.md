@@ -279,25 +279,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-03-15</td>
-      <td>10.21966/1.566666</td>
-      <td>126</td>
-      <td>[{'year': '2020', 'total': 42}, {'year': '2021', 'total': 3}, {'year': '2022', 'total': 6}, {'year': '2023', 'total': 21}, {'year': '2024', 'total': 54}]</td>
-      <td><a title='f12f681b-5744-42d3-be2f-c2618187cf49' href='../records/f12f681b-5744-42d3-be2f-c2618187cf49' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='../records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='b92cb64a-032f-4185-b1a1-d30a4004f302' href='../records/b92cb64a-032f-4185-b1a1-d30a4004f302' target='_blank'>3</a></td>
@@ -984,7 +965,7 @@ Search your record here:
     <tr>
       <td><a title='a437441f-2419-4104-80b4-f2716c63f6eb' href='../records/a437441f-2419-4104-80b4-f2716c63f6eb' target='_blank'>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_71447a55-3eca-41b1-87ff-b8ef69314c4d' target='_blank'>link</a></td>
-      <td><a title='a437441f-2419-4104-80b4-f2716c63f6eb' href='../records/a437441f-2419-4104-80b4-f2716c63f6eb' target='_blank'>3</a></td>
+      <td><a title='a437441f-2419-4104-80b4-f2716c63f6eb' href='../records/a437441f-2419-4104-80b4-f2716c63f6eb' target='_blank'>2</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -998,7 +979,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a437441f-2419-4104-80b4-f2716c63f6eb' href='../records/a437441f-2419-4104-80b4-f2716c63f6eb' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='a437441f-2419-4104-80b4-f2716c63f6eb' href='../records/a437441f-2419-4104-80b4-f2716c63f6eb' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='cb560eb0-a1a4-4344-8744-abff2d429bdc' href='../records/cb560eb0-a1a4-4344-8744-abff2d429bdc' target='_blank'>Adjusted Koeye River stage and temperature from 2013 to 2021</a></td>
@@ -1151,6 +1132,25 @@ Search your record here:
       <td><a title='29df5793-b47d-4043-a174-75c57f54e080' href='../records/29df5793-b47d-4043-a174-75c57f54e080' target='_blank'>3</a></td>
       <td><a title='29df5793-b47d-4043-a174-75c57f54e080' href='../records/29df5793-b47d-4043-a174-75c57f54e080' target='_blank'>12</a></td>
       <td><a title='29df5793-b47d-4043-a174-75c57f54e080' href='../records/29df5793-b47d-4043-a174-75c57f54e080' target='_blank'>2</a></td>
+    </tr>
+    <tr>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='../records/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4c80a391-e74a-48cf-87ae-67632e485725' target='_blank'>link</a></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='../records/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>14</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2022-03-29</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='../records/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>2</a></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='../records/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>11</a></td>
+      <td><a title='2b45a351-c850-4713-8c70-3fcc0585dc44' href='../records/2b45a351-c850-4713-8c70-3fcc0585dc44' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='333787cd-7c15-4691-be90-f43f48a2eff2' href='../records/333787cd-7c15-4691-be90-f43f48a2eff2' target='_blank'>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</a></td>
