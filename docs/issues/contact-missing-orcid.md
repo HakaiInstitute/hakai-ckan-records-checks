@@ -774,19 +774,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-03-15</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-03-15</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-03-15</td>
       <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-03-15</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Holmes, Keith' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>

@@ -150,13 +150,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -300,13 +300,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
+      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -360,13 +360,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -420,13 +420,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -498,7 +498,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -510,7 +510,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -540,6 +540,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-03-14</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-03-14</td>
       <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>No version</td>
@@ -553,12 +559,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-03-14</td>
       <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Alutiiq Pride Shellfish Hatchery , Alaska, USA</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-03-14</td>
-      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>

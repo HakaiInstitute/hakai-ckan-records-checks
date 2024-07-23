@@ -114,13 +114,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-20</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-03-20</td>
-      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -204,13 +204,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -468,13 +468,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -552,13 +552,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -588,13 +588,19 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-03-14</td>
+      <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -612,19 +618,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-03-14</td>
       <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from the Alutiiq Pride Shellfish Hatchery , Alaska, USA</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>

@@ -198,13 +198,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-03-15</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -306,13 +306,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-03-14</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
