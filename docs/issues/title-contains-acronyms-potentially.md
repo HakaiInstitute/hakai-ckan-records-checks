@@ -42,13 +42,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-03-20</td>
-      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2024-03-20</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
