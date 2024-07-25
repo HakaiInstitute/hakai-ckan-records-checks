@@ -1,0 +1,61 @@
+---
+title: Big Bar Slide - 2020 - Airborne Coastal Observatory Data
+hide:
+  - navigation
+  - toc
+---
+
+# Big Bar Slide - 2020 - Airborne Coastal Observatory Data
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82a543b1-686c-45c9-a03d-4f93e0ab8e8a' target='_blank'>link</a>
+
+???+ abstract "Metadata"
+
+    - **Name**: ca-cioos_82a543b1-686c-45c9-a03d-4f93e0ab8e8a 
+    - **Organization**: Hakai Institute 
+    - **Ressource Type**: dataset 
+    - **Licence**: CC-BY-4.0 
+    - **Private**: False 
+    - **Projects**: Airborne Coastal Observatory 
+    - **Progress**: completed 
+    - **State**: active 
+    - **Type**: dataset 
+    - **Distributor**: Hakai Institute 
+    - **Resources Count**: 2 
+    - **Vertical Extent**: [{'max': '1000.0', 'min': '300.0'}] 
+    - **Eov**: other 
+    - **Doi**: 10.21966/42r2-pz17 
+    - **Metadata Publication**: 2022-03-08 
+    - **Metadata Revision**: 2024-07-23 
+    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82a543b1-686c-45c9-a03d-4f93e0ab8e8a' target='_blank'>link</a> 
+
+<div id='map'></div>
+
+
+
+
+## Issues
+| level   | message                                                                                                                             |
+|:--------|:------------------------------------------------------------------------------------------------------------------------------------|
+| INFO    | No version                                                                                                                          |
+| WARNING | Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Hakai Institute' |
+| WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'             |
+
+
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+    var map = L.map('map').setView([51.505, -125.09], 5);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    var geojsonFeature = {
+        "type": "Feature",
+        "properties": {
+            "name" : "Big Bar Slide - 2020 - Airborne Coastal Observatory Data"
+        },
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-122.0, 51.16], [-122.1, 51.13], [-122.2, 51.24], [-122.3, 51.35], [-122.2, 51.35], [-122.1, 51.21], [-122.1, 51.21], [-122.0, 51.16]]]}
+    }
+    L.geoJSON(geojsonFeature).addTo(map);
+   })
+</script>
