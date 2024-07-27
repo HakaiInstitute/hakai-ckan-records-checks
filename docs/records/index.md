@@ -4005,7 +4005,7 @@ Search your record here:
     <tr>
       <td><a title='bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' href='../records/bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' href='../records/bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' target='_blank'>8</a></td>
+      <td><a title='bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' href='../records/bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' target='_blank'>7</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4019,7 +4019,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' href='../records/bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' target='_blank'>3</a></td>
       <td><a title='bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' href='../records/bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' target='_blank'>4</a></td>
-      <td><a title='bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' href='../records/bfc7d4f2-8c5f-40ef-9c91-fd0ce66948e0' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='f520a24c-16ac-4fa8-8097-c4a59141f3b5' href='../records/f520a24c-16ac-4fa8-8097-c4a59141f3b5' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
