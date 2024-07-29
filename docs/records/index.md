@@ -260,6 +260,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.566666</td>
+      <td>126</td>
+      <td>[{'year': '2020', 'total': 42}, {'year': '2021', 'total': 3}, {'year': '2022', 'total': 6}, {'year': '2023', 'total': 21}, {'year': '2024', 'total': 54}]</td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>3</a></td>
@@ -699,7 +718,7 @@ Search your record here:
     <tr>
       <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>16</a></td>
+      <td></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -711,9 +730,9 @@ Search your record here:
       <td>10.25921/9vnv-0g64</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>12</a></td>
-      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>2</a></td>
-      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='737836f2-e97d-4a80-9bf8-8709d08919de' href='../records/737836f2-e97d-4a80-9bf8-8709d08919de' target='_blank'>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</a></td>
