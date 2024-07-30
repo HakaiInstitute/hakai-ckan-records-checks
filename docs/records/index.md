@@ -718,7 +718,7 @@ Search your record here:
     <tr>
       <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>16</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -730,9 +730,9 @@ Search your record here:
       <td>10.25921/9vnv-0g64</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>12</a></td>
+      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>2</a></td>
+      <td><a title='24d79d4c-faf7-4953-9c1f-8c4072379fd7' href='../records/24d79d4c-faf7-4953-9c1f-8c4072379fd7' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='737836f2-e97d-4a80-9bf8-8709d08919de' href='../records/737836f2-e97d-4a80-9bf8-8709d08919de' target='_blank'>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</a></td>
