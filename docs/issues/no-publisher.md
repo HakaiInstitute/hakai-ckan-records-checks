@@ -72,13 +72,13 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -96,25 +96,25 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast - 2016-2019</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -198,13 +198,13 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Kelp forest communities along an otter gradient</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
