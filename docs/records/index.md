@@ -120,8 +120,8 @@ Search your record here:
       <td>2024-03-22</td>
       <td>2024-06-12</td>
       <td>10.21966/ezev-0v96</td>
-      <td>45</td>
-      <td>[{'year': '2022', 'total': 4}, {'year': '2023', 'total': 15}, {'year': '2024', 'total': 26}]</td>
+      <td>23</td>
+      <td>[{'year': '2024', 'total': 23}]</td>
       <td></td>
       <td><a title='6481c2ad-9119-4c90-b214-c4676b16cc4b' href='../records/6481c2ad-9119-4c90-b214-c4676b16cc4b' target='_blank'>1</a></td>
       <td></td>
@@ -129,7 +129,7 @@ Search your record here:
     <tr>
       <td><a title='ca32bb31-1f3c-4167-8069-6732f09a142f' href='../records/ca32bb31-1f3c-4167-8069-6732f09a142f' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>link</a></td>
-      <td><a title='ca32bb31-1f3c-4167-8069-6732f09a142f' href='../records/ca32bb31-1f3c-4167-8069-6732f09a142f' target='_blank'>5</a></td>
+      <td><a title='ca32bb31-1f3c-4167-8069-6732f09a142f' href='../records/ca32bb31-1f3c-4167-8069-6732f09a142f' target='_blank'>3</a></td>
       <td>Oceanography, Nearshore, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -137,18 +137,18 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2024-03-19</td>
-      <td>2024-07-17</td>
+      <td>2024-07-31</td>
       <td>10.21966/kace-2d24</td>
-      <td>-1</td>
-      <td></td>
+      <td>0</td>
+      <td>[]</td>
       <td><a title='ca32bb31-1f3c-4167-8069-6732f09a142f' href='../records/ca32bb31-1f3c-4167-8069-6732f09a142f' target='_blank'>1</a></td>
       <td><a title='ca32bb31-1f3c-4167-8069-6732f09a142f' href='../records/ca32bb31-1f3c-4167-8069-6732f09a142f' target='_blank'>2</a></td>
-      <td><a title='ca32bb31-1f3c-4167-8069-6732f09a142f' href='../records/ca32bb31-1f3c-4167-8069-6732f09a142f' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>4</a></td>
+      <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -158,11 +158,11 @@ Search your record here:
       <td>2024-03-18</td>
       <td>2024-07-12</td>
       <td>10.21966/90h6-b497</td>
-      <td>-1</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>1</a></td>
+      <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>1</a></td>
       <td></td>
-      <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>1</a></td>
-      <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>1</a></td>
-      <td><a title='e8f06482-145f-42c2-b5ff-73001e6b4873' href='../records/e8f06482-145f-42c2-b5ff-73001e6b4873' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='4a9023c4-2a41-4a5e-bbd9-a27df620c529' href='../records/4a9023c4-2a41-4a5e-bbd9-a27df620c529' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a></td>
@@ -205,7 +205,7 @@ Search your record here:
     <tr>
       <td><a title='61351b6a-029b-480a-81f5-0bb5734376cf' href='../records/61351b6a-029b-480a-81f5-0bb5734376cf' target='_blank'>Pruth Dock, Calvert Island Tide and Weather Station Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2d693456-7e65-46be-95d7-6bb697320017' target='_blank'>link</a></td>
-      <td><a title='61351b6a-029b-480a-81f5-0bb5734376cf' href='../records/61351b6a-029b-480a-81f5-0bb5734376cf' target='_blank'>3</a></td>
+      <td><a title='61351b6a-029b-480a-81f5-0bb5734376cf' href='../records/61351b6a-029b-480a-81f5-0bb5734376cf' target='_blank'>1</a></td>
       <td>Oceanography, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -215,11 +215,11 @@ Search your record here:
       <td>2024-03-14</td>
       <td>2024-07-23</td>
       <td>10.21966/8d4w-sr07</td>
-      <td>-1</td>
-      <td></td>
+      <td>0</td>
+      <td>[]</td>
       <td><a title='61351b6a-029b-480a-81f5-0bb5734376cf' href='../records/61351b6a-029b-480a-81f5-0bb5734376cf' target='_blank'>1</a></td>
       <td></td>
-      <td><a title='61351b6a-029b-480a-81f5-0bb5734376cf' href='../records/61351b6a-029b-480a-81f5-0bb5734376cf' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='4de9cd05-1750-47bd-a063-e5595f0ec0ea' href='../records/4de9cd05-1750-47bd-a063-e5595f0ec0ea' target='_blank'>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</a></td>
@@ -256,25 +256,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='3c6bfb6e-976e-4872-b84b-53c32237200d' href='../records/3c6bfb6e-976e-4872-b84b-53c32237200d' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.566666</td>
-      <td>126</td>
-      <td>[{'year': '2020', 'total': 42}, {'year': '2021', 'total': 3}, {'year': '2022', 'total': 6}, {'year': '2023', 'total': 21}, {'year': '2024', 'total': 54}]</td>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
       <td></td>
       <td></td>
     </tr>
