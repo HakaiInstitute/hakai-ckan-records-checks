@@ -120,8 +120,8 @@ Search your record here:
       <td>2024-03-22</td>
       <td>2024-06-12</td>
       <td>10.21966/ezev-0v96</td>
-      <td>23</td>
-      <td>[{'year': '2024', 'total': 23}]</td>
+      <td>0</td>
+      <td>[]</td>
       <td></td>
       <td><a title='6481c2ad-9119-4c90-b214-c4676b16cc4b' href='../records/6481c2ad-9119-4c90-b214-c4676b16cc4b' target='_blank'>1</a></td>
       <td></td>
