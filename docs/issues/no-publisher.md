@@ -54,6 +54,12 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Hakai Institute Sensor Network</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
@@ -78,12 +84,6 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute Sensor Network</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
@@ -91,12 +91,6 @@ This page present the list of all the records associated with the issue: **No pu
     <tr>
       <td>2024-07-23</td>
       <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast - 2016-2019</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -150,13 +144,13 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -217,12 +211,6 @@ This page present the list of all the records associated with the issue: **No pu
     <tr>
       <td>2024-07-23</td>
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2019</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
