@@ -41,12 +41,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://data.hakai.org/sensor-network</td>
     </tr>
     <tr>
-      <td>2024-07-24</td>
-      <td>Stream Event Sampling - Calvert Island</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms</td>
-    </tr>
-    <tr>
       <td>2024-07-23</td>
       <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
@@ -54,45 +48,57 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.html</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.html</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1tPLRwEzDRdKZ-vmFmbJNE57iJha_cFsf</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Field Station Structures - Calvert Island</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Hakai Institute Sensor Network</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#</td>
     </tr>
     <tr>
       <td>2024-07-12</td>
