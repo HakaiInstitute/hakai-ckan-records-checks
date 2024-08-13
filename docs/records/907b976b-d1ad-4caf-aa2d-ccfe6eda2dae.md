@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_2a92ca16-f5c
 ## Issues
 | level   | message                                                                                                                                    |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Invalid resources.url.status_code: timeout for resources[0].url=https://hecate.hakai.org/auth/access-request.php#                          |
 | INFO    | Title is greater than 60 characters                                                                                                        |
 | INFO    | No version                                                                                                                                 |
 | INFO    | Record isn't accesible via a standard data repository                                                                                      |
