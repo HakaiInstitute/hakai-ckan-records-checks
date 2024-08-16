@@ -279,25 +279,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>3</a></td>
@@ -2443,6 +2424,25 @@ Search your record here:
       <td><a title='851c6de8-b9c0-4a9f-922e-3bbe86cfd024' href='../records/851c6de8-b9c0-4a9f-922e-3bbe86cfd024' target='_blank'>2</a></td>
       <td><a title='851c6de8-b9c0-4a9f-922e-3bbe86cfd024' href='../records/851c6de8-b9c0-4a9f-922e-3bbe86cfd024' target='_blank'>3</a></td>
       <td><a title='851c6de8-b9c0-4a9f-922e-3bbe86cfd024' href='../records/851c6de8-b9c0-4a9f-922e-3bbe86cfd024' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='b5a09b56-7008-4128-96b5-724435ed76a9' href='../records/b5a09b56-7008-4128-96b5-724435ed76a9' target='_blank'>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e0c768fc-5c37-455f-b2a3-604f766f4148' target='_blank'>link</a></td>
+      <td><a title='b5a09b56-7008-4128-96b5-724435ed76a9' href='../records/b5a09b56-7008-4128-96b5-724435ed76a9' target='_blank'>13</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='b5a09b56-7008-4128-96b5-724435ed76a9' href='../records/b5a09b56-7008-4128-96b5-724435ed76a9' target='_blank'>2</a></td>
+      <td><a title='b5a09b56-7008-4128-96b5-724435ed76a9' href='../records/b5a09b56-7008-4128-96b5-724435ed76a9' target='_blank'>10</a></td>
+      <td><a title='b5a09b56-7008-4128-96b5-724435ed76a9' href='../records/b5a09b56-7008-4128-96b5-724435ed76a9' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bc13e896-99ef-4db7-ba9e-f4d500359822' href='../records/bc13e896-99ef-4db7-ba9e-f4d500359822' target='_blank'>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</a></td>
