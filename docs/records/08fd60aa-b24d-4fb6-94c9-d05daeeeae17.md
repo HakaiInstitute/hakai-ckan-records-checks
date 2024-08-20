@@ -35,12 +35,11 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_f67c0c58-322
 
 
 ## Issues
-| level   | message                                                                                                                     |
-|:--------|:----------------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'         |
-| ERROR   | Invalid resources.url.status_code: 504 for resources[0].url=https://datadryad.org/stash/dataset/doi:10.5061/dryad.hqbzkh1pj |
-| INFO    | Title is greater than 60 characters                                                                                         |
-| INFO    | Record isn't accesible via a standard data repository                                                                       |
+| level   | message                                                                                                             |
+|:--------|:--------------------------------------------------------------------------------------------------------------------|
+| ERROR   | Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute' |
+| INFO    | Title is greater than 60 characters                                                                                 |
+| INFO    | Record isn't accesible via a standard data repository                                                               |
 
 
 <script>
