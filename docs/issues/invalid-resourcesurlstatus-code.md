@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2024-08-02</td>
+      <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 502 for resources[0].url=https://datadryad.org/stash/dataset/doi:10.5061/dryad.hqbzkh1pj</td>
+    </tr>
+    <tr>
       <td>2024-07-24</td>
       <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>ERROR</td>

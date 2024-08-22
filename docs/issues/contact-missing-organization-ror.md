@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2024-08-21</td>
+      <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-08-21</td>
+      <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Barrette, Jessy' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2024-08-02</td>
       <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
@@ -726,13 +738,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -744,7 +756,7 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -763,12 +775,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -822,19 +828,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -906,12 +912,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
@@ -919,6 +919,12 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Koeye River stream temperature, stage, and conductivity time-series version 2</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -991,12 +997,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Barrette, Jessy' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Barrette, Jessy' contact['organisation-name']='Hakai Institute'</td>
     </tr>
@@ -2172,18 +2172,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Technology Team, Geospatial' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Technology Team, Geospatial' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Technology Team, Geospatial' contact['organisation-name']='Hakai Institute'</td>
@@ -2191,6 +2179,18 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Technology Team, Geospatial' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Technology Team, Geospatial' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Technology Team, Geospatial' contact['organisation-name']='Hakai Institute'</td>
     </tr>

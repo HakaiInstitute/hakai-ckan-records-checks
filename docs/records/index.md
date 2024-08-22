@@ -34,7 +34,7 @@ Search your record here:
     <tr>
       <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f67c0c58-3225-4dac-9264-1e76f07c9374' target='_blank'>link</a></td>
-      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>3</a></td>
+      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>4</a></td>
       <td>Genomics</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -48,7 +48,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>1</a></td>
+      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='4b1dc82a-db92-4e71-9197-acf00edcfdca' href='../records/4b1dc82a-db92-4e71-9197-acf00edcfdca' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
@@ -275,25 +275,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='3c6bfb6e-976e-4872-b84b-53c32237200d' href='../records/3c6bfb6e-976e-4872-b84b-53c32237200d' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -3614,7 +3595,7 @@ Search your record here:
       <td>dataset</td>
       <td>subSurfaceTemperature, seaSurfaceTemperature, other</td>
       <td>2021-12-03</td>
-      <td>2024-07-23</td>
+      <td>2024-08-21</td>
       <td></td>
       <td>-1</td>
       <td></td>
@@ -3709,7 +3690,7 @@ Search your record here:
       <td>dataset</td>
       <td>subSurfaceTemperature, seaSurfaceTemperature</td>
       <td>2021-10-20</td>
-      <td>2024-07-23</td>
+      <td>2024-08-21</td>
       <td></td>
       <td>-1</td>
       <td></td>
