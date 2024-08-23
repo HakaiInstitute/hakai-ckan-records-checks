@@ -34,7 +34,7 @@ Search your record here:
     <tr>
       <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f67c0c58-3225-4dac-9264-1e76f07c9374' target='_blank'>link</a></td>
-      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>4</a></td>
+      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>3</a></td>
       <td>Genomics</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -48,7 +48,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>2</a></td>
+      <td><a title='08fd60aa-b24d-4fb6-94c9-d05daeeeae17' href='../records/08fd60aa-b24d-4fb6-94c9-d05daeeeae17' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='4b1dc82a-db92-4e71-9197-acf00edcfdca' href='../records/4b1dc82a-db92-4e71-9197-acf00edcfdca' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
