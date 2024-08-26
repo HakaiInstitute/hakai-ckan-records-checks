@@ -279,6 +279,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>3</a></td>
@@ -2561,7 +2580,7 @@ Search your record here:
     <tr>
       <td><a title='c8a4bfb2-44f6-4a48-8352-1988f8614696' href='../records/c8a4bfb2-44f6-4a48-8352-1988f8614696' target='_blank'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_77a256cd-baf7-434e-9f62-53ba809e48cb' target='_blank'>link</a></td>
-      <td><a title='c8a4bfb2-44f6-4a48-8352-1988f8614696' href='../records/c8a4bfb2-44f6-4a48-8352-1988f8614696' target='_blank'>5</a></td>
+      <td><a title='c8a4bfb2-44f6-4a48-8352-1988f8614696' href='../records/c8a4bfb2-44f6-4a48-8352-1988f8614696' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2575,7 +2594,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='c8a4bfb2-44f6-4a48-8352-1988f8614696' href='../records/c8a4bfb2-44f6-4a48-8352-1988f8614696' target='_blank'>3</a></td>
       <td></td>
-      <td><a title='c8a4bfb2-44f6-4a48-8352-1988f8614696' href='../records/c8a4bfb2-44f6-4a48-8352-1988f8614696' target='_blank'>2</a></td>
+      <td><a title='c8a4bfb2-44f6-4a48-8352-1988f8614696' href='../records/c8a4bfb2-44f6-4a48-8352-1988f8614696' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='cce31d6c-cf3e-4a25-a5b1-c6127d21998a' href='../records/cce31d6c-cf3e-4a25-a5b1-c6127d21998a' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
