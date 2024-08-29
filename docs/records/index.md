@@ -2331,25 +2331,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287' target='_blank'>link</a></td>
-      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>5</a></td>
-      <td>Nearshore, Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, macroalgalCanopyCoverAndComposition</td>
-      <td>2022-03-01</td>
-      <td>2024-07-23</td>
-      <td>10.21966/20ym-8826</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>2</a></td>
-      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='6b2a1397-3d55-47ec-9417-0f62e81eab61' href='../records/6b2a1397-3d55-47ec-9417-0f62e81eab61' target='_blank'>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d' target='_blank'>link</a></td>
       <td><a title='6b2a1397-3d55-47ec-9417-0f62e81eab61' href='../records/6b2a1397-3d55-47ec-9417-0f62e81eab61' target='_blank'>13</a></td>
