@@ -279,6 +279,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aab26e2f-f398-4235-a649-e78b2054d582' href='../records/aab26e2f-f398-4235-a649-e78b2054d582' target='_blank'>3</a></td>
@@ -2328,6 +2347,25 @@ Search your record here:
       <td></td>
       <td><a title='2bcfe031-87e5-4540-ab36-7bc760fb481f' href='../records/2bcfe031-87e5-4540-ab36-7bc760fb481f' target='_blank'>2</a></td>
       <td><a title='2bcfe031-87e5-4540-ab36-7bc760fb481f' href='../records/2bcfe031-87e5-4540-ab36-7bc760fb481f' target='_blank'>6</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>Kelp Monitoring - MAPP - Hakai Institute - 2020 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bafcd0eb-8249-471b-b93b-0797cfeea287' target='_blank'>link</a></td>
+      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>5</a></td>
+      <td>Nearshore, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td>10.21966/20ym-8826</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>2</a></td>
+      <td><a title='6891f1e5-c415-4532-9960-5de3b5717cfc' href='../records/6891f1e5-c415-4532-9960-5de3b5717cfc' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
