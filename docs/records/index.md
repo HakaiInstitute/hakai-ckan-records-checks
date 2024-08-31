@@ -1001,9 +1001,9 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='2af8e51c-1086-4d3c-91df-fea334767648' href='../records/2af8e51c-1086-4d3c-91df-fea334767648' target='_blank'>Hakai Mooring Water Properties Timeseries Research</a></td>
+      <td><a title='2af8e51c-1086-4d3c-91df-fea334767648' href='../records/2af8e51c-1086-4d3c-91df-fea334767648' target='_blank'>Hakai Rivers Inlet Mooring Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='2af8e51c-1086-4d3c-91df-fea334767648' href='../records/2af8e51c-1086-4d3c-91df-fea334767648' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1011,13 +1011,13 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2022-04-11</td>
-      <td>2024-07-23</td>
+      <td>2024-08-29</td>
       <td>10.21966/yp9n-w389</td>
       <td>0</td>
       <td>[]</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a title='2af8e51c-1086-4d3c-91df-fea334767648' href='../records/2af8e51c-1086-4d3c-91df-fea334767648' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='307b5a77-e102-489d-a04e-1301e9e169bf' href='../records/307b5a77-e102-489d-a04e-1301e9e169bf' target='_blank'>Stream Event Sampling - Calvert Island - 2015-2018</a></td>
@@ -2542,7 +2542,7 @@ Search your record here:
     <tr>
       <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast - 2016-2019</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3af8f5b3-361f-45b8-af84-1522ccd2ec5d' target='_blank'>link</a></td>
-      <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>2</a></td>
+      <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>3</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2556,7 +2556,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
+      <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='5a00b18a-1ea5-487e-a7d2-5218f385b379' href='../records/5a00b18a-1ea5-487e-a7d2-5218f385b379' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
@@ -2865,7 +2865,7 @@ Search your record here:
     <tr>
       <td><a title='3fbad022-7e6e-448f-be71-da9d36a43b92' href='../records/3fbad022-7e6e-448f-be71-da9d36a43b92' target='_blank'>Motile Invertebrate Surveys - BC Central Coast - 2016-2019</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_38b520c1-c339-44c4-b048-63deb4054f00' target='_blank'>link</a></td>
-      <td><a title='3fbad022-7e6e-448f-be71-da9d36a43b92' href='../records/3fbad022-7e6e-448f-be71-da9d36a43b92' target='_blank'>2</a></td>
+      <td><a title='3fbad022-7e6e-448f-be71-da9d36a43b92' href='../records/3fbad022-7e6e-448f-be71-da9d36a43b92' target='_blank'>3</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2879,7 +2879,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='3fbad022-7e6e-448f-be71-da9d36a43b92' href='../records/3fbad022-7e6e-448f-be71-da9d36a43b92' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
+      <td><a title='3fbad022-7e6e-448f-be71-da9d36a43b92' href='../records/3fbad022-7e6e-448f-be71-da9d36a43b92' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='51fa6a46-c7cc-4719-974b-a6ceacff3cc2' href='../records/51fa6a46-c7cc-4719-974b-a6ceacff3cc2' target='_blank'>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</a></td>
@@ -3701,7 +3701,7 @@ Search your record here:
     <tr>
       <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7ddae37a-e706-45d2-8060-8306300a98c8' target='_blank'>link</a></td>
-      <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>3</a></td>
+      <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -3715,7 +3715,7 @@ Search your record here:
       <td></td>
       <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>2</a></td>
       <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='76d3cee2-089a-4cf6-9cfc-46d485a802f4' href='../records/76d3cee2-089a-4cf6-9cfc-46d485a802f4' target='_blank'>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</a></td>

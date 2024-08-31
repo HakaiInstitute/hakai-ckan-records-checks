@@ -17,10 +17,16 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>2024-08-02</td>
+      <td>Motile Invertebrate Surveys - BC Central Coast - 2016-2019</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/1.622315 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/0052-wk15 status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-08-02</td>
+      <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast - 2016-2019</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/v57r-g944 status_code=404</td>
     </tr>
   </tbody>
 </table>
