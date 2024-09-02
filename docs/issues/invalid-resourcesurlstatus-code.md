@@ -107,6 +107,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
     </tr>
     <tr>
+      <td>2024-07-18</td>
+      <td>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 504 for resources[2].url=https://doi.org/10.1016/j.rse.2021.112317</td>
+    </tr>
+    <tr>
       <td>2024-07-12</td>
       <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
       <td>ERROR</td>

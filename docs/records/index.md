@@ -129,7 +129,7 @@ Search your record here:
     <tr>
       <td><a title='cd7f2d75-9c5c-47c1-a530-c4cde39282db' href='../records/cd7f2d75-9c5c-47c1-a530-c4cde39282db' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>link</a></td>
-      <td><a title='cd7f2d75-9c5c-47c1-a530-c4cde39282db' href='../records/cd7f2d75-9c5c-47c1-a530-c4cde39282db' target='_blank'>1</a></td>
+      <td><a title='cd7f2d75-9c5c-47c1-a530-c4cde39282db' href='../records/cd7f2d75-9c5c-47c1-a530-c4cde39282db' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -143,7 +143,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='cd7f2d75-9c5c-47c1-a530-c4cde39282db' href='../records/cd7f2d75-9c5c-47c1-a530-c4cde39282db' target='_blank'>1</a></td>
       <td></td>
-      <td></td>
+      <td><a title='cd7f2d75-9c5c-47c1-a530-c4cde39282db' href='../records/cd7f2d75-9c5c-47c1-a530-c4cde39282db' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='6481c2ad-9119-4c90-b214-c4676b16cc4b' href='../records/6481c2ad-9119-4c90-b214-c4676b16cc4b' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
@@ -3221,25 +3221,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='8bae6a47-41f4-4391-bfeb-cdd00fe161f0' href='../records/8bae6a47-41f4-4391-bfeb-cdd00fe161f0' target='_blank'>2</a></td>
       <td><a title='8bae6a47-41f4-4391-bfeb-cdd00fe161f0' href='../records/8bae6a47-41f4-4391-bfeb-cdd00fe161f0' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='925f876d-60b8-4ead-9cdb-8e62405fefbf' href='../records/925f876d-60b8-4ead-9cdb-8e62405fefbf' target='_blank'>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e' target='_blank'>link</a></td>
-      <td><a title='925f876d-60b8-4ead-9cdb-8e62405fefbf' href='../records/925f876d-60b8-4ead-9cdb-8e62405fefbf' target='_blank'>4</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, seaSurfaceTemperature, subSurfaceSalinity, subSurfaceTemperature, oxygen, particulateMatter</td>
-      <td>2022-01-21</td>
-      <td>2024-07-24</td>
-      <td>10.21966/xg0y-1z76</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='925f876d-60b8-4ead-9cdb-8e62405fefbf' href='../records/925f876d-60b8-4ead-9cdb-8e62405fefbf' target='_blank'>2</a></td>
-      <td><a title='925f876d-60b8-4ead-9cdb-8e62405fefbf' href='../records/925f876d-60b8-4ead-9cdb-8e62405fefbf' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
