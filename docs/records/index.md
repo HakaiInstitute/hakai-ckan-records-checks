@@ -203,6 +203,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' href='../records/2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205' target='_blank'>link</a></td>
+      <td><a title='2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' href='../records/2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' target='_blank'>11</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2024-03-15</td>
+      <td>2024-08-30</td>
+      <td>10.21966/v57r-g944</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' href='../records/2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' target='_blank'>3</a></td>
+      <td><a title='2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' href='../records/2b3c0187-2ea4-400a-98f2-b6ad9c016ff4' target='_blank'>8</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='4a9023c4-2a41-4a5e-bbd9-a27df620c529' href='../records/4a9023c4-2a41-4a5e-bbd9-a27df620c529' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b8483c9e-81e6-4e1a-b09f-2d66f8fee9a2' target='_blank'>link</a></td>
       <td><a title='4a9023c4-2a41-4a5e-bbd9-a27df620c529' href='../records/4a9023c4-2a41-4a5e-bbd9-a27df620c529' target='_blank'>2</a></td>
@@ -294,6 +313,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='3c6bfb6e-976e-4872-b84b-53c32237200d' href='../records/3c6bfb6e-976e-4872-b84b-53c32237200d' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='622ec544-1c08-4879-8a33-24368987cc7f' href='../records/622ec544-1c08-4879-8a33-24368987cc7f' target='_blank'>4</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -2540,25 +2578,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast - 2016-2019</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3af8f5b3-361f-45b8-af84-1522ccd2ec5d' target='_blank'>link</a></td>
-      <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>3</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-02-04</td>
-      <td>2024-08-02</td>
-      <td>10.21966/v57r-g944</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>2</a></td>
-      <td></td>
-      <td><a title='01b9ebcf-a655-4444-8a55-c8c6464e6189' href='../records/01b9ebcf-a655-4444-8a55-c8c6464e6189' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='5a00b18a-1ea5-487e-a7d2-5218f385b379' href='../records/5a00b18a-1ea5-487e-a7d2-5218f385b379' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0263680-f0d5-46d5-85ea-483fa58c74b6' target='_blank'>link</a></td>
       <td><a title='5a00b18a-1ea5-487e-a7d2-5218f385b379' href='../records/5a00b18a-1ea5-487e-a7d2-5218f385b379' target='_blank'>8</a></td>
@@ -3682,7 +3701,7 @@ Search your record here:
     <tr>
       <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7ddae37a-e706-45d2-8060-8306300a98c8' target='_blank'>link</a></td>
-      <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>4</a></td>
+      <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -3696,7 +3715,7 @@ Search your record here:
       <td></td>
       <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>2</a></td>
       <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>1</a></td>
-      <td><a title='5aa17b60-276a-4b59-a63e-4bfa45c8bce5' href='../records/5aa17b60-276a-4b59-a63e-4bfa45c8bce5' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='76d3cee2-089a-4cf6-9cfc-46d485a802f4' href='../records/76d3cee2-089a-4cf6-9cfc-46d485a802f4' target='_blank'>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</a></td>
