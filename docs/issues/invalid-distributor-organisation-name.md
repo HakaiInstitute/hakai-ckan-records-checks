@@ -90,12 +90,6 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai institute' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Simon Fraser University' expects 'Hakai Institute'</td>
