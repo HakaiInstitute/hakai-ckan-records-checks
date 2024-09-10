@@ -279,25 +279,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='c6b9870d-c85f-4631-8313-5bd6b2729f29' href='../records/c6b9870d-c85f-4631-8313-5bd6b2729f29' target='_blank'>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6f6560e7-7497-4685-9df2-51c66080b7c9' target='_blank'>link</a></td>
-      <td><a title='c6b9870d-c85f-4631-8313-5bd6b2729f29' href='../records/c6b9870d-c85f-4631-8313-5bd6b2729f29' target='_blank'>3</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution</td>
-      <td>2024-01-18</td>
-      <td>2024-06-27</td>
-      <td>10.21966/9ktc-qm09</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='c6b9870d-c85f-4631-8313-5bd6b2729f29' href='../records/c6b9870d-c85f-4631-8313-5bd6b2729f29' target='_blank'>3</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3e90a567-cdd7-41f3-8157-0e7be76eefb8' target='_blank'>link</a></td>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>2</a></td>
