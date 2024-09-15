@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-08-02</td>
-      <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast - 2016-2019</td>
+      <td>2024-07-24</td>
+      <td>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/v57r-g944 status_code=404</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/J99C-9C14 status_code=502</td>
     </tr>
   </tbody>
 </table>

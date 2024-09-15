@@ -1345,7 +1345,7 @@ Search your record here:
     <tr>
       <td><a title='a5f2525c-e55e-4f21-8a8a-5c54170029b6' href='../records/a5f2525c-e55e-4f21-8a8a-5c54170029b6' target='_blank'>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_395aa495-de81-4947-b1c5-2c98172a6def' target='_blank'>link</a></td>
-      <td><a title='a5f2525c-e55e-4f21-8a8a-5c54170029b6' href='../records/a5f2525c-e55e-4f21-8a8a-5c54170029b6' target='_blank'>3</a></td>
+      <td><a title='a5f2525c-e55e-4f21-8a8a-5c54170029b6' href='../records/a5f2525c-e55e-4f21-8a8a-5c54170029b6' target='_blank'>4</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1359,7 +1359,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a5f2525c-e55e-4f21-8a8a-5c54170029b6' href='../records/a5f2525c-e55e-4f21-8a8a-5c54170029b6' target='_blank'>3</a></td>
       <td></td>
-      <td></td>
+      <td><a title='a5f2525c-e55e-4f21-8a8a-5c54170029b6' href='../records/a5f2525c-e55e-4f21-8a8a-5c54170029b6' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='a9c52bf7-68cb-4c07-a553-ec9ef66a5d8f' href='../records/a9c52bf7-68cb-4c07-a553-ec9ef66a5d8f' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
