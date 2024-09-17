@@ -376,7 +376,7 @@ Search your record here:
     <tr>
       <td><a title='65e42fbd-e7e6-4668-b141-ce361453ec02' href='../records/65e42fbd-e7e6-4668-b141-ce361453ec02' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8343aa0-dbea-4267-9f78-662bec08d4bc' target='_blank'>link</a></td>
-      <td><a title='65e42fbd-e7e6-4668-b141-ce361453ec02' href='../records/65e42fbd-e7e6-4668-b141-ce361453ec02' target='_blank'>4</a></td>
+      <td><a title='65e42fbd-e7e6-4668-b141-ce361453ec02' href='../records/65e42fbd-e7e6-4668-b141-ce361453ec02' target='_blank'>3</a></td>
       <td>Nearshore, Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -390,7 +390,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='65e42fbd-e7e6-4668-b141-ce361453ec02' href='../records/65e42fbd-e7e6-4668-b141-ce361453ec02' target='_blank'>2</a></td>
       <td><a title='65e42fbd-e7e6-4668-b141-ce361453ec02' href='../records/65e42fbd-e7e6-4668-b141-ce361453ec02' target='_blank'>1</a></td>
-      <td><a title='65e42fbd-e7e6-4668-b141-ce361453ec02' href='../records/65e42fbd-e7e6-4668-b141-ce361453ec02' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
@@ -3226,7 +3226,7 @@ Search your record here:
     <tr>
       <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026' target='_blank'>link</a></td>
-      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>10</a></td>
+      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>9</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -3240,7 +3240,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>3</a></td>
       <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>5</a></td>
-      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>2</a></td>
+      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' href='../records/76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' target='_blank'>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</a></td>
