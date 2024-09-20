@@ -47,6 +47,18 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms</td>
     </tr>
     <tr>
+      <td>2024-07-24</td>
+      <td>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 502 for resources[1].url=https://www.ncei.noaa.gov/data/oceans/ncei/ocads/metadata/0208638.html</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 502 for resources[1].url=https://www.ncei.noaa.gov/data/oceans/ncei/ocads/metadata/0209049.html</td>
+    </tr>
+    <tr>
       <td>2024-07-23</td>
       <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
@@ -96,9 +108,9 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 502 for resources[1].url=https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab</td>
+      <td>Invalid resources.url.status_code: 502 for resources[0].url=https://www.ncei.noaa.gov/data/oceans/ncei/ocads/metadata/0246099.html</td>
     </tr>
     <tr>
       <td>2024-07-12</td>
