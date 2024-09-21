@@ -317,25 +317,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -566,7 +547,7 @@ Search your record here:
     <tr>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>link</a></td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>15</a></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>14</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -580,7 +561,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>7</a></td>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>6</a></td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>2</a></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='ee65e7f2-f721-42e1-844c-d2b6e665aa67' href='../records/ee65e7f2-f721-42e1-844c-d2b6e665aa67' target='_blank'>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</a></td>
@@ -3986,7 +3967,7 @@ Search your record here:
     <tr>
       <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a></td>
-      <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>9</a></td>
+      <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>8</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4000,7 +3981,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>8</a></td>
       <td></td>
-      <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' href='../records/2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
@@ -4062,7 +4043,7 @@ Search your record here:
     <tr>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>5</a></td>
+      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4076,7 +4057,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>3</a></td>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>1</a></td>
-      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>1</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
