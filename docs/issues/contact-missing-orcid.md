@@ -1596,6 +1596,18 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
@@ -1627,18 +1639,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -1992,19 +1992,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -2496,13 +2496,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Hunt, Brian' contact.get('organisation-name')='University of British Columbia'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>INFO</td>
       <td>Contact missing ORCID: contact['individual-name']='Hunt, Brian' contact.get('organisation-name')='University of British Columbia'</td>
     </tr>
@@ -2844,13 +2844,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Pocock, Katie' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Pocock, Katie' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -3060,13 +3060,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -3078,13 +3078,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -3216,18 +3216,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
@@ -3235,6 +3223,18 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -3324,13 +3324,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Weekes, Carrie' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Weekes, Carrie' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>

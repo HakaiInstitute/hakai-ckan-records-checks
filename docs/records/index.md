@@ -4003,25 +4003,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45' target='_blank'>link</a></td>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>inorganicCarbon, seaSurfaceSalinity, seaSurfaceTemperature</td>
-      <td>2021-03-31</td>
-      <td>2024-07-23</td>
-      <td>10.25921/8q3v-0k22</td>
-      <td>1</td>
-      <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>3</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='5d1d83a8-c001-43f4-ab7d-c072ac06d543' href='../records/5d1d83a8-c001-43f4-ab7d-c072ac06d543' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a' target='_blank'>link</a></td>
       <td><a title='5d1d83a8-c001-43f4-ab7d-c072ac06d543' href='../records/5d1d83a8-c001-43f4-ab7d-c072ac06d543' target='_blank'>3</a></td>
