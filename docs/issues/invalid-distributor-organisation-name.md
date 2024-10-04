@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2024-10-02</td>
+      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2024-08-02</td>
       <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
       <td>ERROR</td>
@@ -57,12 +63,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

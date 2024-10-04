@@ -120,12 +120,6 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No funder</td>
@@ -192,13 +186,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -222,19 +216,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -258,19 +246,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -282,13 +258,19 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -306,13 +288,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
+      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
+      <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -337,6 +319,12 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2024-07-23</td>
       <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -378,6 +366,18 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>WARNING</td>
       <td>No funder</td>
@@ -396,19 +396,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai Topographic Basemap</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -420,13 +408,19 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -450,25 +444,19 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</td>
+      <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
+      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -481,6 +469,12 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2024-07-23</td>
       <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>

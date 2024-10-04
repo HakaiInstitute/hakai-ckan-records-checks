@@ -317,6 +317,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>4</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>4</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -661,7 +680,7 @@ Search your record here:
     <tr>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0295e3a3-11b5-494d-ac60-ed4b95a15fad' target='_blank'>link</a></td>
-      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>7</a></td>
+      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>5</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -669,12 +688,12 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2023-01-18</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
+      <td>2024-10-02</td>
+      <td>10.21966/zjc2-b004</td>
+      <td>0</td>
+      <td>[]</td>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>3</a></td>
-      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>3</a></td>
+      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>1</a></td>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>1</a></td>
     </tr>
     <tr>

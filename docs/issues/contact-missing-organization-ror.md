@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2024-10-02</td>
+      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
+    </tr>
+    <tr>
+      <td>2024-10-02</td>
+      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
+    </tr>
+    <tr>
       <td>2024-07-24</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
@@ -93,18 +105,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Saunders, Sari' contact['organisation-name']='BC Ministry of Forests, Lands and Natural Resource Operations'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
