@@ -3910,7 +3910,7 @@ Search your record here:
     <tr>
       <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408' target='_blank'>link</a></td>
-      <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>4</a></td>
+      <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>5</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3924,7 +3924,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>3</a></td>
       <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='f8107377-1030-44f2-9275-b02d35ad3bf1' href='../records/f8107377-1030-44f2-9275-b02d35ad3bf1' target='_blank'>Hakai Institute Sensor Network</a></td>
