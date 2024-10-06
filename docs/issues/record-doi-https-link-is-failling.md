@@ -18,12 +18,6 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2024-07-24</td>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/r603-b338 status_code=502</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.25921/jq11-2268 status_code=404</td>
