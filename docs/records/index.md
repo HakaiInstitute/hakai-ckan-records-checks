@@ -2799,8 +2799,8 @@ Search your record here:
       <td>2022-01-24</td>
       <td>2024-07-24</td>
       <td>10.21966/1.521066</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='0a626cf9-687f-4341-9ba4-eaaf9b6ac497' href='../records/0a626cf9-687f-4341-9ba4-eaaf9b6ac497' target='_blank'>2</a></td>
       <td><a title='0a626cf9-687f-4341-9ba4-eaaf9b6ac497' href='../records/0a626cf9-687f-4341-9ba4-eaaf9b6ac497' target='_blank'>1</a></td>
       <td></td>
