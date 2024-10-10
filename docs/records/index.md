@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='4ae6277f-e945-47b5-83bc-d254108978bc' href='../records/4ae6277f-e945-47b5-83bc-d254108978bc' target='_blank'>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_355467ad-104d-40a6-b06e-52a67bfe247e' target='_blank'>link</a></td>
+      <td><a title='4ae6277f-e945-47b5-83bc-d254108978bc' href='../records/4ae6277f-e945-47b5-83bc-d254108978bc' target='_blank'>2</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>inorganicCarbon, oxygen, subSurfaceSalinity, seaSurfaceTemperature, seaSurfaceSalinity, subSurfaceTemperature</td>
+      <td>2024-10-08</td>
+      <td>2024-10-09</td>
+      <td>10.21966/k1xg-6920</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='4ae6277f-e945-47b5-83bc-d254108978bc' href='../records/4ae6277f-e945-47b5-83bc-d254108978bc' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205' target='_blank'>link</a></td>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>11</a></td>
