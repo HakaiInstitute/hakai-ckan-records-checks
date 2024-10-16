@@ -642,7 +642,7 @@ Search your record here:
     <tr>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>link</a></td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>16</a></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>14</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -656,7 +656,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>7</a></td>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>6</a></td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>3</a></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='ee65e7f2-f721-42e1-844c-d2b6e665aa67' href='../records/ee65e7f2-f721-42e1-844c-d2b6e665aa67' target='_blank'>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</a></td>
@@ -830,28 +830,9 @@ Search your record here:
       <td><a title='a97c9f03-b4de-4234-8dd6-6a102a1f1207' href='../records/a97c9f03-b4de-4234-8dd6-6a102a1f1207' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6dc431f0-3ca4-4c48-992c-df82d6f8521c' target='_blank'>link</a></td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>6</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-NC-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-17</td>
-      <td>2024-07-23</td>
-      <td>10.21966/ks3a-kg21</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>2</a></td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>3</a></td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>17</a></td>
+      <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>15</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -865,7 +846,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>12</a></td>
       <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>1</a></td>
-      <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>4</a></td>
+      <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='029f1bc7-59bc-471d-b48f-5c7615ce24ad' href='../records/029f1bc7-59bc-471d-b48f-5c7615ce24ad' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
@@ -2787,25 +2768,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='95898f10-01b5-42d5-9409-eb0ede06c5b9' href='../records/95898f10-01b5-42d5-9409-eb0ede06c5b9' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>link</a></td>
-      <td><a title='95898f10-01b5-42d5-9409-eb0ede06c5b9' href='../records/95898f10-01b5-42d5-9409-eb0ede06c5b9' target='_blank'>6</a></td>
-      <td>Nearshore, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-02-02</td>
-      <td>2024-07-24</td>
-      <td>10.21966/t8hm-ge90</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='95898f10-01b5-42d5-9409-eb0ede06c5b9' href='../records/95898f10-01b5-42d5-9409-eb0ede06c5b9' target='_blank'>5</a></td>
-      <td><a title='95898f10-01b5-42d5-9409-eb0ede06c5b9' href='../records/95898f10-01b5-42d5-9409-eb0ede06c5b9' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='f139d629-9398-4f52-a623-765499afb12c' href='../records/f139d629-9398-4f52-a623-765499afb12c' target='_blank'>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>link</a></td>
       <td><a title='f139d629-9398-4f52-a623-765499afb12c' href='../records/f139d629-9398-4f52-a623-765499afb12c' target='_blank'>3</a></td>
@@ -3604,25 +3566,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a></td>
-      <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>2</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>stableCarbonIsotopes, macroalgalCanopyCoverAndComposition, seagrassCoverAndComposition</td>
-      <td>2022-01-13</td>
-      <td>2024-08-02</td>
-      <td>10.21966/q31x-qg72</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>1</a></td>
-      <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3bc02dd8-7654-44f0-8c7c-02739937bdf4' target='_blank'>link</a></td>
       <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>10</a></td>
@@ -3716,25 +3659,6 @@ Search your record here:
       <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>3</a></td>
       <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>1</a></td>
       <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='f7a61f7b-8c9d-4f86-8511-130a895fea4f' href='../records/f7a61f7b-8c9d-4f86-8511-130a895fea4f' target='_blank'>Juvenile Sockeye Diets Hakai 2015-2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_64f74489-b9a3-4e6f-9f25-be141b8e285c' target='_blank'>link</a></td>
-      <td><a title='f7a61f7b-8c9d-4f86-8511-130a895fea4f' href='../records/f7a61f7b-8c9d-4f86-8511-130a895fea4f' target='_blank'>10</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2021-11-26</td>
-      <td>2024-07-23</td>
-      <td>10.21966/3s9g-w013</td>
-      <td>2</td>
-      <td>[{'year': '2023', 'total': 2}]</td>
-      <td><a title='f7a61f7b-8c9d-4f86-8511-130a895fea4f' href='../records/f7a61f7b-8c9d-4f86-8511-130a895fea4f' target='_blank'>6</a></td>
-      <td><a title='f7a61f7b-8c9d-4f86-8511-130a895fea4f' href='../records/f7a61f7b-8c9d-4f86-8511-130a895fea4f' target='_blank'>3</a></td>
-      <td><a title='f7a61f7b-8c9d-4f86-8511-130a895fea4f' href='../records/f7a61f7b-8c9d-4f86-8511-130a895fea4f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</a></td>
@@ -4062,7 +3986,7 @@ Search your record here:
     <tr>
       <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a></td>
-      <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>10</a></td>
+      <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>8</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4076,7 +4000,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>8</a></td>
       <td></td>
-      <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' href='../records/2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
@@ -4100,7 +4024,7 @@ Search your record here:
     <tr>
       <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45' target='_blank'>link</a></td>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>5</a></td>
+      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4114,7 +4038,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>3</a></td>
       <td></td>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='5d1d83a8-c001-43f4-ab7d-c072ac06d543' href='../records/5d1d83a8-c001-43f4-ab7d-c072ac06d543' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
@@ -4138,7 +4062,7 @@ Search your record here:
     <tr>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>6</a></td>
+      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4152,7 +4076,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>3</a></td>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>1</a></td>
-      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>Elliot Creek Landslide - 2023 - Hakai Airborne Coastal Observatory</a></td>
