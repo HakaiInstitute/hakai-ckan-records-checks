@@ -3331,8 +3331,8 @@ Search your record here:
       <td>2022-01-21</td>
       <td>2024-07-23</td>
       <td>10.21966/d1s2-s530</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' href='../records/76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' target='_blank'>5</a></td>
       <td><a title='76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' href='../records/76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' target='_blank'>5</a></td>
       <td></td>
