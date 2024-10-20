@@ -36,6 +36,12 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-10-09</td>
+      <td>Cryosphere Snow Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-10-09</td>
       <td>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -49,12 +55,6 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-10-09</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Cryosphere Snow Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -108,7 +108,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -120,19 +120,19 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -162,13 +162,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
+      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
+      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -438,13 +438,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -516,19 +516,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -541,6 +535,12 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -642,13 +642,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -660,13 +660,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -690,6 +690,12 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -697,12 +703,6 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -732,13 +732,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Elliot Creek Landslide – 2022 – Hakai Airborne Coastal Observatory</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</td>
+      <td>Elliot Creek Landslide – 2022 – Hakai Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -762,13 +762,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -780,13 +780,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Glaciers and Ice - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
+      <td>Glaciers and Ice - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -894,19 +894,19 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
+      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -918,7 +918,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -942,13 +942,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
