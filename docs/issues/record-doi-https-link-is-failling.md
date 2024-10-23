@@ -17,7 +17,7 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-10-09</td>
+      <td>2024-10-21</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/bzr6-er66 status_code=404</td>

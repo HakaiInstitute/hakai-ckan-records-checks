@@ -89,6 +89,25 @@ Search your record here:
       <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>2</a></td>
     </tr>
     <tr>
+      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43422dc8-2573-4f60-bf87-df447d57ab7a' target='_blank'>link</a></td>
+      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>7</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2024-10-09</td>
+      <td>2024-10-21</td>
+      <td>10.21966/bzr6-er66</td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>3</a></td>
+      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>1</a></td>
+      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>3</a></td>
+    </tr>
+    <tr>
       <td><a title='a3be011c-a6dd-4b1d-adb8-0f15f7d2cea2' href='../records/a3be011c-a6dd-4b1d-adb8-0f15f7d2cea2' target='_blank'>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0507a738-cd65-4ba4-943e-42b9d022b637' target='_blank'>link</a></td>
       <td><a title='a3be011c-a6dd-4b1d-adb8-0f15f7d2cea2' href='../records/a3be011c-a6dd-4b1d-adb8-0f15f7d2cea2' target='_blank'>6</a></td>
@@ -4172,25 +4191,6 @@ Search your record here:
       <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>3</a></td>
       <td></td>
       <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>2</a></td>
-    </tr>
-    <tr>
-      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43422dc8-2573-4f60-bf87-df447d57ab7a' target='_blank'>link</a></td>
-      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>7</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td></td>
-      <td>2024-10-09</td>
-      <td>10.21966/bzr6-er66</td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>3</a></td>
-      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>1</a></td>
-      <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>3</a></td>
     </tr>
   </tbody>
 </table>

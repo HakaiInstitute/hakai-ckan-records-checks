@@ -17,7 +17,7 @@ This page present the list of all the records associated with the issue: **Title
   </thead>
   <tbody>
     <tr>
-      <td>2024-10-09</td>
+      <td>2024-10-21</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
