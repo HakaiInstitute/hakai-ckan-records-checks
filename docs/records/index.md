@@ -3718,25 +3718,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d' target='_blank'>link</a></td>
-      <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>5</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>phytoplanktonBiomassAndDiversity, particulateMatter, stableCarbonIsotopes</td>
-      <td>2021-12-02</td>
-      <td>2024-07-23</td>
-      <td>10.21966/RR8V-6Y52</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>3</a></td>
-      <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>1</a></td>
-      <td><a title='f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' href='../records/f6cf9672-dc2b-4f0e-b1b2-4b3a3da5c403' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='f7a61f7b-8c9d-4f86-8511-130a895fea4f' href='../records/f7a61f7b-8c9d-4f86-8511-130a895fea4f' target='_blank'>Juvenile Sockeye Diets Hakai 2015-2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_64f74489-b9a3-4e6f-9f25-be141b8e285c' target='_blank'>link</a></td>
       <td><a title='f7a61f7b-8c9d-4f86-8511-130a895fea4f' href='../records/f7a61f7b-8c9d-4f86-8511-130a895fea4f' target='_blank'>10</a></td>
