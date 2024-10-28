@@ -1647,25 +1647,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6' target='_blank'>link</a></td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>8</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-25</td>
-      <td>2024-07-23</td>
-      <td>10.21966/nk1v-ca06</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>3</a></td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>4</a></td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='3e444d24-0ee9-4206-985c-b1b41bf4b2f6' href='../records/3e444d24-0ee9-4206-985c-b1b41bf4b2f6' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34' target='_blank'>link</a></td>
       <td><a title='3e444d24-0ee9-4206-985c-b1b41bf4b2f6' href='../records/3e444d24-0ee9-4206-985c-b1b41bf4b2f6' target='_blank'>2</a></td>
