@@ -490,7 +490,7 @@ Search your record here:
     <tr>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b63374a9-2288-4512-9820-5d1b44d2b502' target='_blank'>link</a></td>
-      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>6</a></td>
+      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>7</a></td>
       <td>Geospatial, Nearshore</td>
       <td>CC-BY-NC-ND-4.0</td>
       <td>completed</td>
@@ -504,7 +504,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>4</a></td>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>1</a></td>
-      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>1</a></td>
+      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
@@ -1645,6 +1645,25 @@ Search your record here:
       <td><a title='21238ad0-b8e8-4201-a0e4-1b3e03cc105b' href='../records/21238ad0-b8e8-4201-a0e4-1b3e03cc105b' target='_blank'>5</a></td>
       <td><a title='21238ad0-b8e8-4201-a0e4-1b3e03cc105b' href='../records/21238ad0-b8e8-4201-a0e4-1b3e03cc105b' target='_blank'>7</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6' target='_blank'>link</a></td>
+      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>8</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-25</td>
+      <td>2024-07-23</td>
+      <td>10.21966/nk1v-ca06</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>3</a></td>
+      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>4</a></td>
+      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='3e444d24-0ee9-4206-985c-b1b41bf4b2f6' href='../records/3e444d24-0ee9-4206-985c-b1b41bf4b2f6' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
