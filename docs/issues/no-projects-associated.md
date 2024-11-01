@@ -54,13 +54,13 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Hakai RPAS (Drone) Operations and Methods</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
@@ -96,6 +96,12 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -103,12 +109,6 @@ This page present the list of all the records associated with the issue: **No pr
     <tr>
       <td>2024-07-23</td>
       <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
