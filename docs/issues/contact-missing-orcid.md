@@ -450,19 +450,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -582,6 +582,18 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
@@ -595,18 +607,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-24</td>
       <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -1584,18 +1584,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
@@ -1603,6 +1591,18 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -1866,18 +1866,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai Institute Sensor Network</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
@@ -1885,6 +1873,18 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Hakai Institute Sensor Network</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
@@ -1992,19 +1992,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>WARNING</td>
+      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
-      <td>WARNING</td>
-      <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
       <td>WARNING</td>
       <td>Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'</td>
     </tr>
