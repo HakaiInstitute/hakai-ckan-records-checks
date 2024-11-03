@@ -120,13 +120,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
