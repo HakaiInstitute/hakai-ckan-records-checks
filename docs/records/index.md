@@ -431,25 +431,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>4</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -2006,25 +1987,6 @@ Search your record here:
       <td><a title='3cbcdbf0-6502-42f2-a040-7801829b1de4' href='../records/3cbcdbf0-6502-42f2-a040-7801829b1de4' target='_blank'>1</a></td>
       <td><a title='3cbcdbf0-6502-42f2-a040-7801829b1de4' href='../records/3cbcdbf0-6502-42f2-a040-7801829b1de4' target='_blank'>3</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7241811a-f75c-469f-baa2-ad769d6c75cd' target='_blank'>link</a></td>
-      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>10</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-24</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>2</a></td>
-      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>7</a></td>
-      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='53dbcb7b-cd1c-41c2-a8cc-dc5811a3eb5e' href='../records/53dbcb7b-cd1c-41c2-a8cc-dc5811a3eb5e' target='_blank'>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></td>
