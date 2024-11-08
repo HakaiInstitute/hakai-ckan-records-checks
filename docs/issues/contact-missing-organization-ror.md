@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2024-10-31</td>
+      <td>Fraser River Landslide Project - 2022-2024 - Drone Data - Hakai Institute</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
+    </tr>
+    <tr>
+      <td>2024-10-31</td>
+      <td>Fraser River Landslide Project - 2022-2024 - Drone Data - Hakai Institute</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
+    </tr>
+    <tr>
       <td>2024-10-21</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>INFO</td>

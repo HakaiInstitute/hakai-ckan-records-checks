@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
+      <td>2024-10-31</td>
+      <td>Fraser River Landslide Project - 2022-2024 - Drone Data - Hakai Institute</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/qpe8-ay93 status_code=404</td>
+    </tr>
+    <tr>
       <td>2024-10-21</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>

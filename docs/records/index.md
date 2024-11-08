@@ -32,6 +32,44 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' href='../records/fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' target='_blank'>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6e947d50-8392-42ce-bff9-24b126c7cab7' target='_blank'>link</a></td>
+      <td><a title='fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' href='../records/fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' target='_blank'>3</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition</td>
+      <td>2024-11-06</td>
+      <td>2024-11-06</td>
+      <td>10.21966/8mpe-h081</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' href='../records/fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>Fraser River Landslide Project - 2022-2024 - Drone Data - Hakai Institute</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137' target='_blank'>link</a></td>
+      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>7</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2024-11-06</td>
+      <td>2024-10-31</td>
+      <td>10.21966/qpe8-ay93</td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>4</a></td>
+      <td></td>
+      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>3</a></td>
+    </tr>
+    <tr>
       <td><a title='e6ae9761-4f50-4dd8-b75f-8d90dede307b' href='../records/e6ae9761-4f50-4dd8-b75f-8d90dede307b' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7' target='_blank'>link</a></td>
       <td><a title='e6ae9761-4f50-4dd8-b75f-8d90dede307b' href='../records/e6ae9761-4f50-4dd8-b75f-8d90dede307b' target='_blank'>1</a></td>
@@ -1987,6 +2025,25 @@ Search your record here:
       <td><a title='3cbcdbf0-6502-42f2-a040-7801829b1de4' href='../records/3cbcdbf0-6502-42f2-a040-7801829b1de4' target='_blank'>1</a></td>
       <td><a title='3cbcdbf0-6502-42f2-a040-7801829b1de4' href='../records/3cbcdbf0-6502-42f2-a040-7801829b1de4' target='_blank'>3</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7241811a-f75c-469f-baa2-ad769d6c75cd' target='_blank'>link</a></td>
+      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>10</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2024-07-24</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>2</a></td>
+      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>7</a></td>
+      <td><a title='4d336574-6e71-4efc-8580-d8e04f7448f4' href='../records/4d336574-6e71-4efc-8580-d8e04f7448f4' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='53dbcb7b-cd1c-41c2-a8cc-dc5811a3eb5e' href='../records/53dbcb7b-cd1c-41c2-a8cc-dc5811a3eb5e' target='_blank'>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></td>
