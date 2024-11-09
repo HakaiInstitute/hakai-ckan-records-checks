@@ -51,25 +51,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>Fraser River Landslide Project - 2022-2024 - Drone Data - Hakai Institute</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137' target='_blank'>link</a></td>
-      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>7</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2024-11-06</td>
-      <td>2024-10-31</td>
-      <td>10.21966/qpe8-ay93</td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>4</a></td>
-      <td></td>
-      <td><a title='fddff7aa-ba51-4ed7-9023-1225baac6055' href='../records/fddff7aa-ba51-4ed7-9023-1225baac6055' target='_blank'>3</a></td>
-    </tr>
-    <tr>
       <td><a title='e6ae9761-4f50-4dd8-b75f-8d90dede307b' href='../records/e6ae9761-4f50-4dd8-b75f-8d90dede307b' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7' target='_blank'>link</a></td>
       <td><a title='e6ae9761-4f50-4dd8-b75f-8d90dede307b' href='../records/e6ae9761-4f50-4dd8-b75f-8d90dede307b' target='_blank'>1</a></td>

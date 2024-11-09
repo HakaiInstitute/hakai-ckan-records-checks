@@ -17,12 +17,6 @@ This page present the list of all the records associated with the issue: **Faile
   </thead>
   <tbody>
     <tr>
-      <td>2024-10-31</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data - Hakai Institute</td>
-      <td>ERROR</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/qpe8-ay93</td>
-    </tr>
-    <tr>
       <td>2024-10-21</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
