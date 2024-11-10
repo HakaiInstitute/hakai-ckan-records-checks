@@ -374,25 +374,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='245eea64-41cc-474b-a77a-737f393f0377' href='../records/245eea64-41cc-474b-a77a-737f393f0377' target='_blank'>Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c24f23f0-8d16-4bfd-835a-5475f1ecd8e8' target='_blank'>link</a></td>
-      <td><a title='245eea64-41cc-474b-a77a-737f393f0377' href='../records/245eea64-41cc-474b-a77a-737f393f0377' target='_blank'>3</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2024-03-14</td>
-      <td>2024-07-24</td>
-      <td>10.21966/5fs0-nn02</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='245eea64-41cc-474b-a77a-737f393f0377' href='../records/245eea64-41cc-474b-a77a-737f393f0377' target='_blank'>1</a></td>
-      <td><a title='245eea64-41cc-474b-a77a-737f393f0377' href='../records/245eea64-41cc-474b-a77a-737f393f0377' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='72f8245a-8fab-4379-8915-7bbd26079c38' href='../records/72f8245a-8fab-4379-8915-7bbd26079c38' target='_blank'>Pruth Dock, Calvert Island Tide and Weather Station Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2d693456-7e65-46be-95d7-6bb697320017' target='_blank'>link</a></td>
       <td><a title='72f8245a-8fab-4379-8915-7bbd26079c38' href='../records/72f8245a-8fab-4379-8915-7bbd26079c38' target='_blank'>1</a></td>
@@ -656,25 +637,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' href='../records/bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' target='_blank'>2</a></td>
       <td><a title='bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' href='../records/bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='c081fd62-465f-4ab5-8c50-77872b3261a5' href='../records/c081fd62-465f-4ab5-8c50-77872b3261a5' target='_blank'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579' target='_blank'>link</a></td>
-      <td><a title='c081fd62-465f-4ab5-8c50-77872b3261a5' href='../records/c081fd62-465f-4ab5-8c50-77872b3261a5' target='_blank'>4</a></td>
-      <td>Geospatial, 100 Islands</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, marineTurtlesBirdsMammalsAbundanceAndDistribution</td>
-      <td>2023-03-03</td>
-      <td>2024-07-24</td>
-      <td>10.21966/10tk-4956</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='c081fd62-465f-4ab5-8c50-77872b3261a5' href='../records/c081fd62-465f-4ab5-8c50-77872b3261a5' target='_blank'>3</a></td>
-      <td><a title='c081fd62-465f-4ab5-8c50-77872b3261a5' href='../records/c081fd62-465f-4ab5-8c50-77872b3261a5' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
