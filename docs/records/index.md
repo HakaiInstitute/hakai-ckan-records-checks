@@ -452,7 +452,7 @@ Search your record here:
     <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
-      <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
+      <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -466,7 +466,7 @@ Search your record here:
       <td></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>2</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b22e3932-57b5-48fd-9bba-82c685d5ccfa' href='../records/b22e3932-57b5-48fd-9bba-82c685d5ccfa' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
@@ -4019,6 +4019,25 @@ Search your record here:
       <td></td>
       <td><a title='9845040f-e078-4283-b5fe-ef79018c5f45' href='../records/9845040f-e078-4283-b5fe-ef79018c5f45' target='_blank'>4</a></td>
       <td><a title='9845040f-e078-4283-b5fe-ef79018c5f45' href='../records/9845040f-e078-4283-b5fe-ef79018c5f45' target='_blank'>6</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408' target='_blank'>link</a></td>
+      <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>4</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2021-09-23</td>
+      <td>2024-07-24</td>
+      <td>10.21966/r603-b338</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>3</a></td>
+      <td><a title='cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' href='../records/cd623e6f-6cf4-44dd-a622-c3ba1b92a6bf' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
