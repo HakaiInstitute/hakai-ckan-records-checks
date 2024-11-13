@@ -452,7 +452,7 @@ Search your record here:
     <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
-      <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>4</a></td>
+      <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -466,7 +466,7 @@ Search your record here:
       <td></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>2</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>1</a></td>
-      <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='b22e3932-57b5-48fd-9bba-82c685d5ccfa' href='../records/b22e3932-57b5-48fd-9bba-82c685d5ccfa' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
@@ -1892,25 +1892,6 @@ Search your record here:
       <td><a title='f60e8256-f6ed-4341-9f8f-d50bd01d4884' href='../records/f60e8256-f6ed-4341-9f8f-d50bd01d4884' target='_blank'>1</a></td>
       <td><a title='f60e8256-f6ed-4341-9f8f-d50bd01d4884' href='../records/f60e8256-f6ed-4341-9f8f-d50bd01d4884' target='_blank'>8</a></td>
       <td><a title='f60e8256-f6ed-4341-9f8f-d50bd01d4884' href='../records/f60e8256-f6ed-4341-9f8f-d50bd01d4884' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>Botanical Beach Drone Mapping - July 2020</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_656ea307-fed0-48ca-b5d8-1bc017dc52d2' target='_blank'>link</a></td>
-      <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>7</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-15</td>
-      <td>2024-07-24</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>2</a></td>
-      <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>4</a></td>
-      <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
@@ -4133,25 +4114,6 @@ Search your record here:
       <td></td>
       <td><a title='2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' href='../records/2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' target='_blank'>2</a></td>
       <td><a title='2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' href='../records/2a4dd8ea-d419-47a8-b42b-cf4ca9df19ef' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45' target='_blank'>link</a></td>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>inorganicCarbon, seaSurfaceSalinity, seaSurfaceTemperature</td>
-      <td>2021-03-31</td>
-      <td>2024-07-23</td>
-      <td>10.25921/8q3v-0k22</td>
-      <td>1</td>
-      <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='3b683276-d6ea-41bd-83a0-c1095c5776d8' href='../records/3b683276-d6ea-41bd-83a0-c1095c5776d8' target='_blank'>3</a></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>

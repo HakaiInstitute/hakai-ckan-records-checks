@@ -30,12 +30,6 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://drive.google.com/drive/folders/1aSgvM2D1n9dlaRqAjeHP5PdqAw7SWS2h</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://data.hakai.org/sensor-network</td>
@@ -93,12 +87,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
-    </tr>
-    <tr>
-      <td>2024-07-17</td>
-      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 502 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.html</td>
     </tr>
     <tr>
       <td>2024-07-12</td>
