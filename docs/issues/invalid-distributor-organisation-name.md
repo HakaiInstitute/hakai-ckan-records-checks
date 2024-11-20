@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2024-11-18</td>
+      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2024-10-21</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>

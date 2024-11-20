@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='758176a0-a3e2-4547-8246-529b177bf19f' href='../records/758176a0-a3e2-4547-8246-529b177bf19f' target='_blank'>Fraser River Landslide Project - Sites of Concern 2024</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f25b00ba-ad63-42b3-8021-3fb6aa99baff' target='_blank'>link</a></td>
+      <td><a title='758176a0-a3e2-4547-8246-529b177bf19f' href='../records/758176a0-a3e2-4547-8246-529b177bf19f' target='_blank'>6</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>document</td>
+      <td>other</td>
+      <td>2024-11-18</td>
+      <td>2024-11-18</td>
+      <td>10.21966/xp9x-m243</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='758176a0-a3e2-4547-8246-529b177bf19f' href='../records/758176a0-a3e2-4547-8246-529b177bf19f' target='_blank'>4</a></td>
+      <td><a title='758176a0-a3e2-4547-8246-529b177bf19f' href='../records/758176a0-a3e2-4547-8246-529b177bf19f' target='_blank'>1</a></td>
+      <td><a title='758176a0-a3e2-4547-8246-529b177bf19f' href='../records/758176a0-a3e2-4547-8246-529b177bf19f' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' href='../records/fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' target='_blank'>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6e947d50-8392-42ce-bff9-24b126c7cab7' target='_blank'>link</a></td>
       <td><a title='fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' href='../records/fa270bbd-8f6a-4c1d-b4ed-99e5b76e70a0' target='_blank'>3</a></td>
