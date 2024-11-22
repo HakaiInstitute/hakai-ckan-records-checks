@@ -42,7 +42,7 @@ Search your record here:
       <td>document</td>
       <td>other</td>
       <td>2024-11-18</td>
-      <td>2024-11-18</td>
+      <td>2024-11-20</td>
       <td>10.21966/xp9x-m243</td>
       <td>0</td>
       <td>[]</td>
@@ -823,8 +823,8 @@ Search your record here:
       <td>2023-01-18</td>
       <td>2024-10-02</td>
       <td>10.21966/zjc2-b004</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>3</a></td>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>1</a></td>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>1</a></td>

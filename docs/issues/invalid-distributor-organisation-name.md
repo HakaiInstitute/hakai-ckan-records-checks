@@ -17,7 +17,7 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2024-11-18</td>
+      <td>2024-11-20</td>
       <td>Fraser River Landslide Project - Sites of Concern 2024</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
