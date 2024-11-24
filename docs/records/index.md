@@ -32,6 +32,44 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='6b293906-4f3b-43a2-a656-7767a7abbbba' href='../records/6b293906-4f3b-43a2-a656-7767a7abbbba' target='_blank'>MusselSeg: Semantic Segmentation for Rocky Intertidal Mussel Habitat</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48acba27-5e01-4b41-9a0e-f3fc8d809a13' target='_blank'>link</a></td>
+      <td><a title='6b293906-4f3b-43a2-a656-7767a7abbbba' href='../records/6b293906-4f3b-43a2-a656-7767a7abbbba' target='_blank'>3</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2024-11-22</td>
+      <td>2024-11-22</td>
+      <td>10.21966/fbv4-th96</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='6b293906-4f3b-43a2-a656-7767a7abbbba' href='../records/6b293906-4f3b-43a2-a656-7767a7abbbba' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='4e2fe87e-0922-481c-a9dc-661183f7ed7e' href='../records/4e2fe87e-0922-481c-a9dc-661183f7ed7e' target='_blank'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137' target='_blank'>link</a></td>
+      <td><a title='4e2fe87e-0922-481c-a9dc-661183f7ed7e' href='../records/4e2fe87e-0922-481c-a9dc-661183f7ed7e' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2024-11-21</td>
+      <td>2024-11-21</td>
+      <td>10.21966/qpe8-ay93</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='4e2fe87e-0922-481c-a9dc-661183f7ed7e' href='../records/4e2fe87e-0922-481c-a9dc-661183f7ed7e' target='_blank'>2</a></td>
+      <td><a title='4e2fe87e-0922-481c-a9dc-661183f7ed7e' href='../records/4e2fe87e-0922-481c-a9dc-661183f7ed7e' target='_blank'>1</a></td>
+      <td><a title='4e2fe87e-0922-481c-a9dc-661183f7ed7e' href='../records/4e2fe87e-0922-481c-a9dc-661183f7ed7e' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='758176a0-a3e2-4547-8246-529b177bf19f' href='../records/758176a0-a3e2-4547-8246-529b177bf19f' target='_blank'>Fraser River Landslide Project - Sites of Concern 2024</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f25b00ba-ad63-42b3-8021-3fb6aa99baff' target='_blank'>link</a></td>
       <td><a title='758176a0-a3e2-4547-8246-529b177bf19f' href='../records/758176a0-a3e2-4547-8246-529b177bf19f' target='_blank'>6</a></td>
@@ -281,7 +319,7 @@ Search your record here:
     <tr>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>2</a></td>
+      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -295,12 +333,12 @@ Search your record here:
       <td>[]</td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>3</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -314,7 +352,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
@@ -465,6 +503,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-11-15</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
