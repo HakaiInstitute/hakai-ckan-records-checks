@@ -659,22 +659,22 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_24f1c230-6c37-470c-907d-25b9b022f5c2' target='_blank'>link</a></td>
-      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>9</a></td>
-      <td>Juvenile Salmon Program</td>
+      <td><a title='0786ca6e-0634-42fe-a3e9-077d70de659c' href='../records/0786ca6e-0634-42fe-a3e9-077d70de659c' target='_blank'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497' target='_blank'>link</a></td>
+      <td><a title='0786ca6e-0634-42fe-a3e9-077d70de659c' href='../records/0786ca6e-0634-42fe-a3e9-077d70de659c' target='_blank'>3</a></td>
+      <td>Oceanography</td>
       <td>CC-BY-4.0</td>
-      <td>completed</td>
+      <td>historicalArchive</td>
       <td>active</td>
       <td>dataset</td>
-      <td>other</td>
+      <td>nutrients</td>
       <td>2023-03-13</td>
       <td>2024-07-23</td>
-      <td>10.5281/zenodo.4005400</td>
-      <td>2</td>
-      <td>[{'year': '2024', 'total': 2}]</td>
-      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>8</a></td>
-      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>1</a></td>
+      <td>10.21966/j3j5-wt70</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='0786ca6e-0634-42fe-a3e9-077d70de659c' href='../records/0786ca6e-0634-42fe-a3e9-077d70de659c' target='_blank'>2</a></td>
+      <td><a title='0786ca6e-0634-42fe-a3e9-077d70de659c' href='../records/0786ca6e-0634-42fe-a3e9-077d70de659c' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
