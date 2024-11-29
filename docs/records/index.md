@@ -678,6 +678,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_24f1c230-6c37-470c-907d-25b9b022f5c2' target='_blank'>link</a></td>
+      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>9</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-03-13</td>
+      <td>2024-07-23</td>
+      <td>10.5281/zenodo.4005400</td>
+      <td>2</td>
+      <td>[{'year': '2024', 'total': 2}]</td>
+      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>8</a></td>
+      <td><a title='832be7fd-366f-438e-b18c-cb0761adb03a' href='../records/832be7fd-366f-438e-b18c-cb0761adb03a' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' href='../records/bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' target='_blank'>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_251aef08-4017-4493-b9d8-c4583913b511' target='_blank'>link</a></td>
       <td><a title='bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' href='../records/bd978f30-b81c-4f1c-8e7e-7e58ce7a9030' target='_blank'>4</a></td>
