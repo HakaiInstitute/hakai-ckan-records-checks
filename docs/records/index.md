@@ -32,6 +32,44 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='9172069b-3464-4a76-b0ff-c53ca41aed8f' href='../records/9172069b-3464-4a76-b0ff-c53ca41aed8f' target='_blank'>Sentinels of Change Sea surface temperature time series data along the British Columbia Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5185ac00-8148-4472-adfd-21741d8a10ce' target='_blank'>link</a></td>
+      <td><a title='9172069b-3464-4a76-b0ff-c53ca41aed8f' href='../records/9172069b-3464-4a76-b0ff-c53ca41aed8f' target='_blank'>1</a></td>
+      <td>Sentinels of Change</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>seaSurfaceTemperature</td>
+      <td>2024-11-27</td>
+      <td>2024-11-27</td>
+      <td>10.21966/4kr2-jc55</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='9172069b-3464-4a76-b0ff-c53ca41aed8f' href='../records/9172069b-3464-4a76-b0ff-c53ca41aed8f' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='9403b1b8-cdb8-49d0-80e6-455a892e6912' href='../records/9403b1b8-cdb8-49d0-80e6-455a892e6912' target='_blank'>Denali Fault - 2024 - Airborne LiDAR Survey</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f762a307-6dfb-41a8-a56c-ecacfb075a0a' target='_blank'>link</a></td>
+      <td><a title='9403b1b8-cdb8-49d0-80e6-455a892e6912' href='../records/9403b1b8-cdb8-49d0-80e6-455a892e6912' target='_blank'>6</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2024-11-26</td>
+      <td>2024-11-26</td>
+      <td>10.21966/wxph-tz51</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='9403b1b8-cdb8-49d0-80e6-455a892e6912' href='../records/9403b1b8-cdb8-49d0-80e6-455a892e6912' target='_blank'>3</a></td>
+      <td><a title='9403b1b8-cdb8-49d0-80e6-455a892e6912' href='../records/9403b1b8-cdb8-49d0-80e6-455a892e6912' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='6b293906-4f3b-43a2-a656-7767a7abbbba' href='../records/6b293906-4f3b-43a2-a656-7767a7abbbba' target='_blank'>MusselSeg: Semantic Segmentation for Rocky Intertidal Mussel Habitat</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48acba27-5e01-4b41-9a0e-f3fc8d809a13' target='_blank'>link</a></td>
       <td><a title='6b293906-4f3b-43a2-a656-7767a7abbbba' href='../records/6b293906-4f3b-43a2-a656-7767a7abbbba' target='_blank'>3</a></td>
@@ -851,7 +889,7 @@ Search your record here:
     <tr>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0295e3a3-11b5-494d-ac60-ed4b95a15fad' target='_blank'>link</a></td>
-      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>5</a></td>
+      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>4</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -859,13 +897,13 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2023-01-18</td>
-      <td>2024-10-02</td>
+      <td>2024-11-28</td>
       <td>10.21966/zjc2-b004</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>1</a></td>
       <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>3</a></td>
-      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>1</a></td>
-      <td><a title='980e7e45-13a4-431c-975b-1a3920c96500' href='../records/980e7e45-13a4-431c-975b-1a3920c96500' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c6589845-8603-4a36-a180-34f6b9221fc3' href='../records/c6589845-8603-4a36-a180-34f6b9221fc3' target='_blank'>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
