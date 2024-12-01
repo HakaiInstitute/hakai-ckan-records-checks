@@ -963,25 +963,6 @@ Search your record here:
       <td><a title='a97c9f03-b4de-4234-8dd6-6a102a1f1207' href='../records/a97c9f03-b4de-4234-8dd6-6a102a1f1207' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6dc431f0-3ca4-4c48-992c-df82d6f8521c' target='_blank'>link</a></td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>6</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-NC-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-17</td>
-      <td>2024-07-23</td>
-      <td>10.21966/ks3a-kg21</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>2</a></td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>3</a></td>
-      <td><a title='b9f9dce4-c817-4e70-ad6b-29d5763b6241' href='../records/b9f9dce4-c817-4e70-ad6b-29d5763b6241' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
       <td><a title='fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' href='../records/fc2e1e37-3d97-454b-b0c2-e4108afa0bd2' target='_blank'>15</a></td>
@@ -1106,7 +1087,7 @@ Search your record here:
       <td>dataset</td>
       <td>other, invertebrateAbundanceAndDistribution</td>
       <td>2022-10-08</td>
-      <td>2024-11-04</td>
+      <td>2024-11-29</td>
       <td>10.21966/30m7-qc49</td>
       <td>0</td>
       <td>[]</td>
@@ -1123,9 +1104,9 @@ Search your record here:
       <td>onGoing</td>
       <td>active</td>
       <td>dataset</td>
-      <td>invertebrateAbundanceAndDistribution</td>
+      <td>invertebrateAbundanceAndDistribution, macroalgalCanopyCoverAndComposition</td>
       <td>2022-10-08</td>
-      <td>2024-07-23</td>
+      <td>2024-11-29</td>
       <td>10.21966/0yk3-9b74</td>
       <td>0</td>
       <td>[]</td>
@@ -1144,7 +1125,7 @@ Search your record here:
       <td>dataset</td>
       <td>other, seagrassCoverAndComposition</td>
       <td>2022-10-08</td>
-      <td>2024-07-23</td>
+      <td>2024-11-29</td>
       <td>10.21966/rf3y-8j78</td>
       <td>0</td>
       <td>[]</td>
@@ -1163,7 +1144,7 @@ Search your record here:
       <td>dataset</td>
       <td>other, invertebrateAbundanceAndDistribution</td>
       <td>2022-10-08</td>
-      <td>2024-07-23</td>
+      <td>2024-11-29</td>
       <td>10.21966/ns9h-1126</td>
       <td>0</td>
       <td>[]</td>
@@ -3758,7 +3739,7 @@ Search your record here:
     <tr>
       <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3bc02dd8-7654-44f0-8c7c-02739937bdf4' target='_blank'>link</a></td>
-      <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>10</a></td>
+      <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>9</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -3766,11 +3747,11 @@ Search your record here:
       <td>dataset</td>
       <td>other, invertebrateAbundanceAndDistribution</td>
       <td>2022-01-13</td>
-      <td>2024-07-23</td>
+      <td>2024-11-29</td>
       <td>10.21966/5n09-aq76</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>6</a></td>
+      <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>5</a></td>
       <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>4</a></td>
       <td></td>
     </tr>
