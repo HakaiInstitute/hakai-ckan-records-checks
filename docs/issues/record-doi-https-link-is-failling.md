@@ -47,6 +47,12 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ytgc-6g46 status_code=404</td>
     </tr>
     <tr>
+      <td>2024-07-24</td>
+      <td>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ean1-n995 status_code=502</td>
+    </tr>
+    <tr>
       <td>2024-07-23</td>
       <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>ERROR</td>
