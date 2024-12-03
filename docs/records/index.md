@@ -3967,7 +3967,7 @@ Search your record here:
     <tr>
       <td><a title='8401d744-4eef-4aa4-a648-b7765270327d' href='../records/8401d744-4eef-4aa4-a648-b7765270327d' target='_blank'>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_89b3c6d8-983b-48f4-a0b5-04eea65602f6' target='_blank'>link</a></td>
-      <td><a title='8401d744-4eef-4aa4-a648-b7765270327d' href='../records/8401d744-4eef-4aa4-a648-b7765270327d' target='_blank'>7</a></td>
+      <td><a title='8401d744-4eef-4aa4-a648-b7765270327d' href='../records/8401d744-4eef-4aa4-a648-b7765270327d' target='_blank'>6</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3981,7 +3981,7 @@ Search your record here:
       <td>[{'year': '2023', 'total': 1}]</td>
       <td><a title='8401d744-4eef-4aa4-a648-b7765270327d' href='../records/8401d744-4eef-4aa4-a648-b7765270327d' target='_blank'>4</a></td>
       <td><a title='8401d744-4eef-4aa4-a648-b7765270327d' href='../records/8401d744-4eef-4aa4-a648-b7765270327d' target='_blank'>2</a></td>
-      <td><a title='8401d744-4eef-4aa4-a648-b7765270327d' href='../records/8401d744-4eef-4aa4-a648-b7765270327d' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='06d63292-81c4-425e-8256-74435d4d4311' href='../records/06d63292-81c4-425e-8256-74435d4d4311' target='_blank'>Kelp forest communities along an otter gradient</a></td>
