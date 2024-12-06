@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2024-12-05</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-12-05</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2024-11-21</td>
       <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
       <td>ERROR</td>
@@ -25,18 +37,6 @@ This page present the list of all the records associated with the issue: **Inval
     <tr>
       <td>2024-11-20</td>
       <td>Fraser River Landslide Project - Sites of Concern 2024</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-10-21</td>
-      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
     </tr>
@@ -51,18 +51,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Institute - Vancouver Island University' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Institute - Vancouver Island University' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -84,27 +72,9 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Hakai Geosptatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Institute Geospatial Team' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2024-12-05</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Korver, Maartje C.' contact['organisation-name']='Hakai Institute -  McGill University'</td>
+    </tr>
+    <tr>
       <td>2024-11-26</td>
       <td>Denali Fault - 2024 - Airborne LiDAR Survey</td>
       <td>INFO</td>
@@ -35,66 +41,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
     </tr>
     <tr>
-      <td>2024-10-21</td>
-      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-21</td>
-      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Elliot Creek Landslide - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Elliot Creek Landslide - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Cryosphere Snow Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Cryosphere Snow Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
@@ -108,30 +54,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, Bill' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Harrington, Christen D.' contact['organisation-name']='Alaska Department of Transportation'</td>
@@ -141,12 +63,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hunt, Brian P. V.' contact['organisation-name']='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Korver, Maartje C.' contact['organisation-name']='Hakai Institute -  McGill University'</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -174,45 +90,9 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geosptatial'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute Geospatial Team'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute Geospatial Team'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -330,24 +210,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Floyd, William C.' contact['organisation-name']='Hakai Institute - Vancouver Island University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Foreman, Mike' contact['organisation-name']='The British Columbia Marine Conservation Analysis'</td>
@@ -357,12 +219,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Godwin, Sean' contact['organisation-name']='Simon Fraser University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Hales, Burke' contact['organisation-name']='Oregon State University'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -417,12 +273,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Lanphier, Karie' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='M. Monacci, Natalie' contact['organisation-name']='Universit of Alaska Fairbanks'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
