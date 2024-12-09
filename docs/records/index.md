@@ -2692,25 +2692,6 @@ Search your record here:
       <td><a title='8132340e-1c66-447f-bb7a-56f5d097a66a' href='../records/8132340e-1c66-447f-bb7a-56f5d097a66a' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
-      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>12</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>2</a></td>
-      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>9</a></td>
-      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='8a2d3e26-397b-413d-9637-f8fd341dee82' href='../records/8a2d3e26-397b-413d-9637-f8fd341dee82' target='_blank'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679' target='_blank'>link</a></td>
       <td><a title='8a2d3e26-397b-413d-9637-f8fd341dee82' href='../records/8a2d3e26-397b-413d-9637-f8fd341dee82' target='_blank'>6</a></td>
@@ -4309,7 +4290,7 @@ Search your record here:
     <tr>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>5</a></td>
+      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4323,7 +4304,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>3</a></td>
       <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>1</a></td>
-      <td><a title='bb31df56-420a-4e3e-9ae5-5222e21b9b34' href='../records/bb31df56-420a-4e3e-9ae5-5222e21b9b34' target='_blank'>1</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>

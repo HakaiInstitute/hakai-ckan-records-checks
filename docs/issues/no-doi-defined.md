@@ -186,13 +186,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -204,25 +204,25 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -330,12 +330,6 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai Topographic Basemap</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
@@ -348,13 +342,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
