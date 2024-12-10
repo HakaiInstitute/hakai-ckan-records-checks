@@ -2314,7 +2314,7 @@ Search your record here:
     <tr>
       <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_82a543b1-686c-45c9-a03d-4f93e0ab8e8a' target='_blank'>link</a></td>
-      <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>3</a></td>
+      <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>4</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2328,7 +2328,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>1</a></td>
       <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='2b78972e-569e-4934-bf96-39f894dc7c50' href='../records/2b78972e-569e-4934-bf96-39f894dc7c50' target='_blank'>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</a></td>
@@ -2690,6 +2690,25 @@ Search your record here:
       <td><a title='8132340e-1c66-447f-bb7a-56f5d097a66a' href='../records/8132340e-1c66-447f-bb7a-56f5d097a66a' target='_blank'>2</a></td>
       <td><a title='8132340e-1c66-447f-bb7a-56f5d097a66a' href='../records/8132340e-1c66-447f-bb7a-56f5d097a66a' target='_blank'>9</a></td>
       <td><a title='8132340e-1c66-447f-bb7a-56f5d097a66a' href='../records/8132340e-1c66-447f-bb7a-56f5d097a66a' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
+      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>12</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>2</a></td>
+      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>9</a></td>
+      <td><a title='8998fd61-d57b-485d-86b5-5f1ab619104f' href='../records/8998fd61-d57b-485d-86b5-5f1ab619104f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='8a2d3e26-397b-413d-9637-f8fd341dee82' href='../records/8a2d3e26-397b-413d-9637-f8fd341dee82' target='_blank'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
@@ -3758,7 +3777,7 @@ Search your record here:
     <tr>
       <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a></td>
-      <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>2</a></td>
+      <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>3</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3772,7 +3791,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>1</a></td>
       <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='3210a710-8ef8-4c53-ad2a-09bcad6c5838' href='../records/3210a710-8ef8-4c53-ad2a-09bcad6c5838' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='d162ca9e-24a3-46af-9037-824e45d3e2b7' href='../records/d162ca9e-24a3-46af-9037-824e45d3e2b7' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast</a></td>
