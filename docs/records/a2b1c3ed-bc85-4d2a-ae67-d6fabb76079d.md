@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_82a543b1-686
 ## Issues
 | level   | message                                                                                                                             |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.21966/42r2-pz17 status_code=502                                               |
 | INFO    | No version                                                                                                                          |
 | WARNING | Contact missing ORCID: contact['individual-name']='Airborne Coastal Observatory' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'             |

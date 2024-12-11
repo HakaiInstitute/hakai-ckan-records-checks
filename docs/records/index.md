@@ -2314,7 +2314,7 @@ Search your record here:
     <tr>
       <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_82a543b1-686c-45c9-a03d-4f93e0ab8e8a' target='_blank'>link</a></td>
-      <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>4</a></td>
+      <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2328,7 +2328,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>1</a></td>
       <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>2</a></td>
-      <td><a title='a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' href='../records/a2b1c3ed-bc85-4d2a-ae67-d6fabb76079d' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='2b78972e-569e-4934-bf96-39f894dc7c50' href='../records/2b78972e-569e-4934-bf96-39f894dc7c50' target='_blank'>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</a></td>
@@ -2424,25 +2424,6 @@ Search your record here:
       <td><a title='709c9e27-a261-466d-a4b7-4f9c8bf557be' href='../records/709c9e27-a261-466d-a4b7-4f9c8bf557be' target='_blank'>1</a></td>
       <td><a title='709c9e27-a261-466d-a4b7-4f9c8bf557be' href='../records/709c9e27-a261-466d-a4b7-4f9c8bf557be' target='_blank'>5</a></td>
       <td><a title='709c9e27-a261-466d-a4b7-4f9c8bf557be' href='../records/709c9e27-a261-466d-a4b7-4f9c8bf557be' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' href='../records/7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' target='_blank'>Hakai Topographic Basemap</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c5bf06e7-29f9-404a-a454-36a5d67b2e69' target='_blank'>link</a></td>
-      <td><a title='7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' href='../records/7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' target='_blank'>8</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-03</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' href='../records/7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' target='_blank'>1</a></td>
-      <td><a title='7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' href='../records/7fe0fd59-1e72-4d30-b47b-89f3a3a4e3a1' target='_blank'>7</a></td>
-      <td></td>
     </tr>
     <tr>
       <td><a title='b0c2905e-afb8-452c-9069-ca567b8cdede' href='../records/b0c2905e-afb8-452c-9069-ca567b8cdede' target='_blank'>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</a></td>
