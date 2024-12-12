@@ -17,7 +17,7 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-04</td>
+      <td>2024-12-11</td>
       <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.html</td>
@@ -93,6 +93,18 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 500 for resources[1].url=https://drive.google.com/open?id=1-PBupogYyG_stEwEqWFbAUzsjv7bXzbu</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 500 for resources[2].url=https://drive.google.com/open?id=1sBR_cDxyR5SiYtdVeRgJwqnhaGrTOYIB</td>
     </tr>
     <tr>
       <td>2024-07-12</td>

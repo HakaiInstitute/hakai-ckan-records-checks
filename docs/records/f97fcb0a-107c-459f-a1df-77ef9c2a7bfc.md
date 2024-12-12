@@ -39,6 +39,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-761
 |:--------|:-----------------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS     |
 | ERROR   | Empty resource name                                                                                                                |
+| ERROR   | Invalid resources.url.status_code: 500 for resources[2].url=https://drive.google.com/open?id=1sBR_cDxyR5SiYtdVeRgJwqnhaGrTOYIB     |
 | INFO    | No version                                                                                                                         |
 | WARNING | Title contains acronyms potentially                                                                                                |
 | WARNING | No DOI defined                                                                                                                     |
