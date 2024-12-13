@@ -251,7 +251,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2024-10-09</td>
-      <td>2024-12-05</td>
+      <td>2024-12-11</td>
       <td>10.21966/thq7-0g08</td>
       <td>-1</td>
       <td></td>
@@ -1687,7 +1687,7 @@ Search your record here:
     <tr>
       <td><a title='ce187628-aeff-4244-9380-86a616c1d61f' href='../records/ce187628-aeff-4244-9380-86a616c1d61f' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>link</a></td>
-      <td><a title='ce187628-aeff-4244-9380-86a616c1d61f' href='../records/ce187628-aeff-4244-9380-86a616c1d61f' target='_blank'>13</a></td>
+      <td><a title='ce187628-aeff-4244-9380-86a616c1d61f' href='../records/ce187628-aeff-4244-9380-86a616c1d61f' target='_blank'>12</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1701,7 +1701,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='ce187628-aeff-4244-9380-86a616c1d61f' href='../records/ce187628-aeff-4244-9380-86a616c1d61f' target='_blank'>6</a></td>
       <td><a title='ce187628-aeff-4244-9380-86a616c1d61f' href='../records/ce187628-aeff-4244-9380-86a616c1d61f' target='_blank'>5</a></td>
-      <td><a title='ce187628-aeff-4244-9380-86a616c1d61f' href='../records/ce187628-aeff-4244-9380-86a616c1d61f' target='_blank'>2</a></td>
+      <td><a title='ce187628-aeff-4244-9380-86a616c1d61f' href='../records/ce187628-aeff-4244-9380-86a616c1d61f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='e10caa51-59d2-492d-81bc-d7f4b7062672' href='../records/e10caa51-59d2-492d-81bc-d7f4b7062672' target='_blank'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
@@ -2485,7 +2485,7 @@ Search your record here:
     <tr>
       <td><a title='f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' href='../records/f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' target='_blank'>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3' target='_blank'>link</a></td>
-      <td><a title='f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' href='../records/f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' target='_blank'>11</a></td>
+      <td><a title='f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' href='../records/f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' target='_blank'>10</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2499,7 +2499,7 @@ Search your record here:
       <td></td>
       <td><a title='f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' href='../records/f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' target='_blank'>1</a></td>
       <td><a title='f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' href='../records/f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' target='_blank'>7</a></td>
-      <td><a title='f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' href='../records/f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' target='_blank'>3</a></td>
+      <td><a title='f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' href='../records/f97fcb0a-107c-459f-a1df-77ef9c2a7bfc' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='0d0212fe-ffb1-4802-a599-d8a31a0cd14b' href='../records/0d0212fe-ffb1-4802-a599-d8a31a0cd14b' target='_blank'>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</a></td>
