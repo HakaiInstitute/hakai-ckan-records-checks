@@ -17,8 +17,8 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-11</td>
-      <td>Elliot Creek Landslide - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>2024-12-13</td>
+      <td>Elliot Creek Landslide LiDAR Mapping - 2023 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/szqj-b355 status_code=404</td>
     </tr>
