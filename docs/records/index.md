@@ -241,9 +241,9 @@ Search your record here:
       <td><a title='2fe095cd-bf22-4661-a3bb-931a114965a7' href='../records/2fe095cd-bf22-4661-a3bb-931a114965a7' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>Cryosphere Snow Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>Cryosphere Snow Surveys Southwest British Columbia - 2023 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0' target='_blank'>link</a></td>
-      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>6</a></td>
+      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>5</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -251,11 +251,11 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2024-10-09</td>
-      <td>2024-12-11</td>
+      <td>2024-12-13</td>
       <td>10.21966/thq7-0g08</td>
       <td>-1</td>
       <td></td>
-      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>2</a></td>
+      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>1</a></td>
       <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>2</a></td>
       <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>2</a></td>
     </tr>
@@ -598,25 +598,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-11-15</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
