@@ -23,12 +23,6 @@ This page present the list of all the records associated with the issue: **Title
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
-      <td>2024-12-11</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
       <td>2024-12-05</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>

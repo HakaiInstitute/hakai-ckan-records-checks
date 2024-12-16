@@ -832,7 +832,7 @@ Search your record here:
     <tr>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>link</a></td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>5</a></td>
+      <td></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -844,9 +844,9 @@ Search your record here:
       <td>10.25921/kmam-ct93</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>3</a></td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>1</a></td>
-      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='ee65e7f2-f721-42e1-844c-d2b6e665aa67' href='../records/ee65e7f2-f721-42e1-844c-d2b6e665aa67' target='_blank'>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</a></td>
