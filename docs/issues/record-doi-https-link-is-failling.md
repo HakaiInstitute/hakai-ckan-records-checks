@@ -17,18 +17,6 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-13</td>
-      <td>Elliot Creek Landslide LiDAR Mapping - 2023 - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/szqj-b355 status_code=404</td>
-    </tr>
-    <tr>
-      <td>2024-12-13</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - 2023 - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/thq7-0g08 status_code=404</td>
-    </tr>
-    <tr>
       <td>2024-12-05</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
@@ -45,6 +33,12 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-11-29</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/rf3y-8j78 status_code=502</td>
     </tr>
     <tr>
       <td>2024-08-02</td>

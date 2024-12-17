@@ -17,18 +17,6 @@ This page present the list of all the records associated with the issue: **Faile
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-13</td>
-      <td>Elliot Creek Landslide LiDAR Mapping - 2023 - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/szqj-b355</td>
-    </tr>
-    <tr>
-      <td>2024-12-13</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - 2023 - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/thq7-0g08</td>
-    </tr>
-    <tr>
       <td>2024-12-05</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>

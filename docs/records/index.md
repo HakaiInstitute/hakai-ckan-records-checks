@@ -205,7 +205,7 @@ Search your record here:
     <tr>
       <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>Elliot Creek Landslide LiDAR Mapping - 2023 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_189dd319-d5ef-4f2a-a060-df8d47628b86' target='_blank'>link</a></td>
-      <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>6</a></td>
+      <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>4</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -215,11 +215,11 @@ Search your record here:
       <td>2024-10-09</td>
       <td>2024-12-13</td>
       <td>10.21966/szqj-b355</td>
-      <td>-1</td>
-      <td></td>
+      <td>0</td>
+      <td>[]</td>
       <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>1</a></td>
       <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>3</a></td>
-      <td><a title='060ecddd-fe38-43b9-8c68-a9b8f5c1373f' href='../records/060ecddd-fe38-43b9-8c68-a9b8f5c1373f' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='2fe095cd-bf22-4661-a3bb-931a114965a7' href='../records/2fe095cd-bf22-4661-a3bb-931a114965a7' target='_blank'>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
@@ -243,7 +243,7 @@ Search your record here:
     <tr>
       <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>Cryosphere Snow Surveys Southwest British Columbia - 2023 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0' target='_blank'>link</a></td>
-      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>5</a></td>
+      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -253,11 +253,11 @@ Search your record here:
       <td>2024-10-09</td>
       <td>2024-12-13</td>
       <td>10.21966/thq7-0g08</td>
-      <td>-1</td>
-      <td></td>
+      <td>0</td>
+      <td>[]</td>
       <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>1</a></td>
       <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>2</a></td>
-      <td><a title='7a6de92b-b394-4bae-91fe-a73d1ee926b7' href='../records/7a6de92b-b394-4bae-91fe-a73d1ee926b7' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='9248e99f-8b1c-42c4-9bd2-4ae03036a607' href='../records/9248e99f-8b1c-42c4-9bd2-4ae03036a607' target='_blank'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
@@ -832,7 +832,7 @@ Search your record here:
     <tr>
       <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>5</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -844,9 +844,9 @@ Search your record here:
       <td>10.25921/kmam-ct93</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>3</a></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>1</a></td>
+      <td><a title='553ca11b-324e-40ab-9937-68c0c4cabde2' href='../records/553ca11b-324e-40ab-9937-68c0c4cabde2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='ee65e7f2-f721-42e1-844c-d2b6e665aa67' href='../records/ee65e7f2-f721-42e1-844c-d2b6e665aa67' target='_blank'>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</a></td>
@@ -1193,7 +1193,7 @@ Search your record here:
     <tr>
       <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>Surfgrass Community Structure - Length & Density - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_93a9bb9a-b54e-4623-9e0e-93d8b7d0020b' target='_blank'>link</a></td>
-      <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>9</a></td>
+      <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>10</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1207,7 +1207,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>7</a></td>
       <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='af565322-f082-410a-a5d7-7015244ded76' href='../records/af565322-f082-410a-a5d7-7015244ded76' target='_blank'>Mussel Dynamics - Point Intercepts - BC Central Coast</a></td>
