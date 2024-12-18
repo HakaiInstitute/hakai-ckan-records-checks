@@ -213,7 +213,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2024-10-09</td>
-      <td>2024-12-13</td>
+      <td>2024-12-16</td>
       <td>10.21966/szqj-b355</td>
       <td>0</td>
       <td>[]</td>
@@ -251,7 +251,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2024-10-09</td>
-      <td>2024-12-13</td>
+      <td>2024-12-16</td>
       <td>10.21966/thq7-0g08</td>
       <td>0</td>
       <td>[]</td>
@@ -414,7 +414,7 @@ Search your record here:
     <tr>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>2</a></td>
+      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -428,12 +428,12 @@ Search your record here:
       <td>[]</td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>3</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -447,7 +447,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
@@ -598,6 +598,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-11-15</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1193,7 +1212,7 @@ Search your record here:
     <tr>
       <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>Surfgrass Community Structure - Length & Density - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_93a9bb9a-b54e-4623-9e0e-93d8b7d0020b' target='_blank'>link</a></td>
-      <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>10</a></td>
+      <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>9</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1207,7 +1226,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>7</a></td>
       <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>2</a></td>
-      <td><a title='a48aa7a7-98c8-44fb-af21-3336c096e79f' href='../records/a48aa7a7-98c8-44fb-af21-3336c096e79f' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='af565322-f082-410a-a5d7-7015244ded76' href='../records/af565322-f082-410a-a5d7-7015244ded76' target='_blank'>Mussel Dynamics - Point Intercepts - BC Central Coast</a></td>
