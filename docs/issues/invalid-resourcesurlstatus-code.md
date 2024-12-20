@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2024-12-19</td>
+      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-itrackfeb2023</td>
+    </tr>
+    <tr>
       <td>2024-12-11</td>
       <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
       <td>ERROR</td>
@@ -99,18 +105,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.html</td>
-    </tr>
-    <tr>
-      <td>2024-07-12</td>
-      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
-    </tr>
-    <tr>
-      <td>2024-07-12</td>
-      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[1].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
     </tr>
   </tbody>
 </table>
