@@ -40,12 +40,6 @@ This page present the list of all the records associated with the issue: **Recor
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
     </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/gv88-hv41 status_code=404</td>
-    </tr>
   </tbody>
 </table>
 

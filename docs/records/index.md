@@ -490,7 +490,7 @@ Search your record here:
     <tr>
       <td><a title='39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' href='../records/39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_59b33373-ae4a-4719-a3df-0e36a08187d8' target='_blank'>link</a></td>
-      <td><a title='39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' href='../records/39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' target='_blank'>1</a></td>
+      <td><a title='39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' href='../records/39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' target='_blank'>2</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -498,11 +498,11 @@ Search your record here:
       <td>dataset</td>
       <td>other, seagrassCoverAndComposition</td>
       <td>2024-03-22</td>
-      <td>2024-06-12</td>
+      <td>2024-12-30</td>
       <td>10.21966/ezev-0v96</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
+      <td><a title='39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' href='../records/39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' target='_blank'>1</a></td>
       <td><a title='39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' href='../records/39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' target='_blank'>1</a></td>
       <td></td>
     </tr>
@@ -680,7 +680,7 @@ Search your record here:
     <tr>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b63374a9-2288-4512-9820-5d1b44d2b502' target='_blank'>link</a></td>
-      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>7</a></td>
+      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>6</a></td>
       <td>Geospatial, Nearshore</td>
       <td>CC-BY-NC-ND-4.0</td>
       <td>completed</td>
@@ -694,26 +694,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>4</a></td>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>1</a></td>
-      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>2</a></td>
-    </tr>
-    <tr>
-      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>link</a></td>
-      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>3</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>oxygen, particulateMatter, subSurfaceTemperature, subSurfaceSalinity, seaSurfaceSalinity, seaSurfaceTemperature</td>
-      <td>2023-08-29</td>
-      <td>2024-06-12</td>
-      <td>10.21966/82q4-y443</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>1</a></td>
-      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='e5aa26ed-b992-4b76-9b5d-7db61b6237e1' href='../records/e5aa26ed-b992-4b76-9b5d-7db61b6237e1' target='_blank'>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
