@@ -621,6 +621,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2024-11-15</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -695,6 +714,25 @@ Search your record here:
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>4</a></td>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>1</a></td>
       <td><a title='756d2cc9-ad48-4f11-af4e-767a6e732faa' href='../records/756d2cc9-ad48-4f11-af4e-767a6e732faa' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>link</a></td>
+      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>3</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>oxygen, particulateMatter, subSurfaceTemperature, subSurfaceSalinity, seaSurfaceSalinity, seaSurfaceTemperature</td>
+      <td>2023-08-29</td>
+      <td>2024-06-12</td>
+      <td>10.21966/82q4-y443</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>1</a></td>
+      <td><a title='dfa5ee38-4a52-4459-969a-1166279c1d4a' href='../records/dfa5ee38-4a52-4459-969a-1166279c1d4a' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e5aa26ed-b992-4b76-9b5d-7db61b6237e1' href='../records/e5aa26ed-b992-4b76-9b5d-7db61b6237e1' target='_blank'>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
