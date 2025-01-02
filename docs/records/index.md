@@ -338,7 +338,7 @@ Search your record here:
     <tr>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205' target='_blank'>link</a></td>
-      <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>11</a></td>
+      <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>12</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -352,7 +352,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>3</a></td>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>8</a></td>
-      <td></td>
+      <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='521425ae-2f21-4015-8db1-7803b556c045' href='../records/521425ae-2f21-4015-8db1-7803b556c045' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
