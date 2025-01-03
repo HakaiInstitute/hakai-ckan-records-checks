@@ -338,7 +338,7 @@ Search your record here:
     <tr>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205' target='_blank'>link</a></td>
-      <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>12</a></td>
+      <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>11</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -352,7 +352,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>3</a></td>
       <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>8</a></td>
-      <td><a title='cffb9188-8138-4dc2-8758-fc42b7ea04d1' href='../records/cffb9188-8138-4dc2-8758-fc42b7ea04d1' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='521425ae-2f21-4015-8db1-7803b556c045' href='../records/521425ae-2f21-4015-8db1-7803b556c045' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
@@ -617,25 +617,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-11-15</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -2101,25 +2082,6 @@ Search your record here:
       <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>2</a></td>
       <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>4</a></td>
       <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea' target='_blank'>link</a></td>
-      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>2</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-24</td>
-      <td>10.21966/63rs-yt91</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>1</a></td>
-      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>1</a></td>
-      <td></td>
     </tr>
     <tr>
       <td><a title='040e2cf5-558a-499b-a1ff-23d35cbe539c' href='../records/040e2cf5-558a-499b-a1ff-23d35cbe539c' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>

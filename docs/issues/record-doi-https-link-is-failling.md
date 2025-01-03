@@ -35,12 +35,6 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=404</td>
     </tr>
     <tr>
-      <td>2024-08-30</td>
-      <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/v57r-g944 status_code=502</td>
-    </tr>
-    <tr>
       <td>2024-08-02</td>
       <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
       <td>ERROR</td>
