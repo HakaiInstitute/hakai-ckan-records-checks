@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='9af6c936-ae0c-4fce-99d0-2fdaf675666b' href='../records/9af6c936-ae0c-4fce-99d0-2fdaf675666b' target='_blank'>Data record does not exist anymore: Geomorphology - Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9fafb4c8-e61f-4372-ac71-c1ddbe57d80c' target='_blank'>link</a></td>
+      <td><a title='9af6c936-ae0c-4fce-99d0-2fdaf675666b' href='../records/9af6c936-ae0c-4fce-99d0-2fdaf675666b' target='_blank'>5</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-01-03</td>
+      <td>2025-01-03</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='9af6c936-ae0c-4fce-99d0-2fdaf675666b' href='../records/9af6c936-ae0c-4fce-99d0-2fdaf675666b' target='_blank'>2</a></td>
+      <td><a title='9af6c936-ae0c-4fce-99d0-2fdaf675666b' href='../records/9af6c936-ae0c-4fce-99d0-2fdaf675666b' target='_blank'>2</a></td>
+      <td><a title='9af6c936-ae0c-4fce-99d0-2fdaf675666b' href='../records/9af6c936-ae0c-4fce-99d0-2fdaf675666b' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='994e156e-4c9c-4061-84fc-e76ca02c87f1' href='../records/994e156e-4c9c-4061-84fc-e76ca02c87f1' target='_blank'>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af344fb9-4901-470c-a441-41f11ee2ccd7' target='_blank'>link</a></td>
       <td><a title='994e156e-4c9c-4061-84fc-e76ca02c87f1' href='../records/994e156e-4c9c-4061-84fc-e76ca02c87f1' target='_blank'>4</a></td>
@@ -2084,6 +2103,25 @@ Search your record here:
       <td><a title='f67e3e77-be89-4edc-bab1-3b9d27d379b5' href='../records/f67e3e77-be89-4edc-bab1-3b9d27d379b5' target='_blank'>1</a></td>
     </tr>
     <tr>
+      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea' target='_blank'>link</a></td>
+      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>2</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2024-07-24</td>
+      <td>10.21966/63rs-yt91</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>1</a></td>
+      <td><a title='02338679-238c-4022-88be-f168d85da287' href='../records/02338679-238c-4022-88be-f168d85da287' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='040e2cf5-558a-499b-a1ff-23d35cbe539c' href='../records/040e2cf5-558a-499b-a1ff-23d35cbe539c' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
       <td><a title='040e2cf5-558a-499b-a1ff-23d35cbe539c' href='../records/040e2cf5-558a-499b-a1ff-23d35cbe539c' target='_blank'>7</a></td>
@@ -2227,7 +2265,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-11</td>
-      <td>2024-07-24</td>
+      <td>2025-01-03</td>
       <td>10.21966/faz2-0m37</td>
       <td>0</td>
       <td>[]</td>
