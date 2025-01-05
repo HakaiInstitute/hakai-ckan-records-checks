@@ -131,6 +131,12 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
+      <td>2024-11-15</td>
+      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
       <td>2024-11-06</td>
       <td>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</td>
       <td>INFO</td>
@@ -162,13 +168,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-08-02</td>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2019</td>
+      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-08-02</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2019</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -180,13 +186,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent - Coastal British Columbia</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Eelgrass Extent - Coastal British Columbia</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -222,6 +228,12 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -229,12 +241,6 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2024-07-24</td>
       <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -294,13 +300,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Underwater Video Transects - Calvert Island - 2016</td>
+      <td>Botanical Beach Drone Mapping - July 2020</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Botanical Beach Drone Mapping - July 2020</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -420,13 +426,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -498,25 +504,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
+      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -528,19 +522,31 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -570,6 +576,12 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -582,19 +594,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -642,13 +648,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
+      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -678,13 +684,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
+      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -702,13 +708,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Kelp forest communities along an otter gradient</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
