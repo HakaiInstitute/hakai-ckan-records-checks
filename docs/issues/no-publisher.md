@@ -42,13 +42,13 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
+      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
+      <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -66,25 +66,25 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -102,7 +102,7 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -114,7 +114,7 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
