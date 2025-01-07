@@ -452,7 +452,7 @@ Search your record here:
     <tr>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>3</a></td>
+      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -466,12 +466,12 @@ Search your record here:
       <td>[]</td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
-      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>4</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -485,7 +485,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>2</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
@@ -3986,7 +3986,7 @@ Search your record here:
     <tr>
       <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_eb1feb98-b11a-4663-b7ab-2216df8187bd' target='_blank'>link</a></td>
-      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>11</a></td>
+      <td></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3998,14 +3998,14 @@ Search your record here:
       <td>10.21966/e5c1-c396</td>
       <td>2</td>
       <td>[{'year': '2023', 'total': 1}, {'year': '2024', 'total': 1}]</td>
-      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>5</a></td>
-      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>5</a></td>
-      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a></td>
-      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>4</a></td>
+      <td></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4017,8 +4017,8 @@ Search your record here:
       <td>10.21966/C7NA-Z171</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>3</a></td>
-      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -4062,7 +4062,7 @@ Search your record here:
     <tr>
       <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>link</a></td>
-      <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>14</a></td>
+      <td></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4074,8 +4074,8 @@ Search your record here:
       <td>10.21966/99MG-0S52</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>9</a></td>
-      <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
