@@ -640,25 +640,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2024-11-15</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -3376,25 +3357,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d' target='_blank'>link</a></td>
-      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>5</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, dissolvedOrganicCarbon</td>
-      <td>2022-01-24</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.715740</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>3</a></td>
-      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='e9277472-3a1a-402d-ab98-e5174cf139c4' href='../records/e9277472-3a1a-402d-ab98-e5174cf139c4' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a></td>
       <td><a title='e9277472-3a1a-402d-ab98-e5174cf139c4' href='../records/e9277472-3a1a-402d-ab98-e5174cf139c4' target='_blank'>4</a></td>
@@ -3986,7 +3948,7 @@ Search your record here:
     <tr>
       <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_eb1feb98-b11a-4663-b7ab-2216df8187bd' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>11</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3998,14 +3960,14 @@ Search your record here:
       <td>10.21966/e5c1-c396</td>
       <td>2</td>
       <td>[{'year': '2023', 'total': 1}, {'year': '2024', 'total': 1}]</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>5</a></td>
+      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>5</a></td>
+      <td><a title='495aac3b-7a24-4164-bc5c-cd794eb080d9' href='../records/495aac3b-7a24-4164-bc5c-cd794eb080d9' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>4</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4017,8 +3979,8 @@ Search your record here:
       <td>10.21966/C7NA-Z171</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
-      <td></td>
-      <td></td>
+      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>3</a></td>
+      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -4062,7 +4024,7 @@ Search your record here:
     <tr>
       <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>14</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4074,8 +4036,8 @@ Search your record here:
       <td>10.21966/99MG-0S52</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
-      <td></td>
-      <td></td>
+      <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>9</a></td>
+      <td><a title='786eec6c-f32a-4a26-8a40-8d31d04f82b5' href='../records/786eec6c-f32a-4a26-8a40-8d31d04f82b5' target='_blank'>5</a></td>
       <td></td>
     </tr>
     <tr>

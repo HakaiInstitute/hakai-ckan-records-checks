@@ -102,12 +102,6 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
       <td>ERROR</td>
       <td>No projects associated</td>
@@ -120,13 +114,25 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Koeye River stream temperature, stage, and conductivity time-series version 2</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Koeye River stream temperature, stage, and conductivity time-series version 2</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
