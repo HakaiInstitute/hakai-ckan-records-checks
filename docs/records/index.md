@@ -2645,13 +2645,13 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2022-03-02</td>
-      <td>2024-07-23</td>
+      <td>2025-01-08</td>
       <td>10.21966/31db-5090</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='a0807904-0c04-4d19-a25f-fc223b3c19bb' href='../records/a0807904-0c04-4d19-a25f-fc223b3c19bb' target='_blank'>2</a></td>
-      <td><a title='a0807904-0c04-4d19-a25f-fc223b3c19bb' href='../records/a0807904-0c04-4d19-a25f-fc223b3c19bb' target='_blank'>3</a></td>
+      <td><a title='a0807904-0c04-4d19-a25f-fc223b3c19bb' href='../records/a0807904-0c04-4d19-a25f-fc223b3c19bb' target='_blank'>4</a></td>
       <td></td>
+      <td><a title='a0807904-0c04-4d19-a25f-fc223b3c19bb' href='../records/a0807904-0c04-4d19-a25f-fc223b3c19bb' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='0830b11f-21c9-4293-8f61-42e2dad1ba4f' href='../records/0830b11f-21c9-4293-8f61-42e2dad1ba4f' target='_blank'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
@@ -3354,6 +3354,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='e197a5fc-0040-4a5d-b3f2-927a7aac4552' href='../records/e197a5fc-0040-4a5d-b3f2-927a7aac4552' target='_blank'>3</a></td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d' target='_blank'>link</a></td>
+      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>5</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, dissolvedOrganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.715740</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>3</a></td>
+      <td><a title='e6c9da3d-2fb1-4de2-a65c-255145e8c061' href='../records/e6c9da3d-2fb1-4de2-a65c-255145e8c061' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>

@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2025-01-08</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2024-12-19</td>
       <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>ERROR</td>
