@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='833bc3ae-f3b8-42dd-9369-5250e53caa3d' href='../records/833bc3ae-f3b8-42dd-9369-5250e53caa3d' target='_blank'>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d' target='_blank'>link</a></td>
+      <td><a title='833bc3ae-f3b8-42dd-9369-5250e53caa3d' href='../records/833bc3ae-f3b8-42dd-9369-5250e53caa3d' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-01-10</td>
+      <td>2025-01-10</td>
+      <td>10.21966/zfxe-rd73</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='833bc3ae-f3b8-42dd-9369-5250e53caa3d' href='../records/833bc3ae-f3b8-42dd-9369-5250e53caa3d' target='_blank'>2</a></td>
+      <td><a title='833bc3ae-f3b8-42dd-9369-5250e53caa3d' href='../records/833bc3ae-f3b8-42dd-9369-5250e53caa3d' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='9af6c936-ae0c-4fce-99d0-2fdaf675666b' href='../records/9af6c936-ae0c-4fce-99d0-2fdaf675666b' target='_blank'>Data record does not exist anymore: Geomorphology - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9fafb4c8-e61f-4372-ac71-c1ddbe57d80c' target='_blank'>link</a></td>
       <td><a title='9af6c936-ae0c-4fce-99d0-2fdaf675666b' href='../records/9af6c936-ae0c-4fce-99d0-2fdaf675666b' target='_blank'>5</a></td>
