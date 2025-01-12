@@ -59,6 +59,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms</td>
     </tr>
     <tr>
+      <td>2024-07-24</td>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 502 for resources[1].url=http://dx.doi.org/10.21966/1.437736</td>
+    </tr>
+    <tr>
       <td>2024-07-23</td>
       <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
@@ -99,6 +105,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
+    </tr>
+    <tr>
+      <td>2024-07-17</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 502 for resources[0].url=https://catalogue.hakai.org/erddap/tabledap/HakaiBamfieldBoL5min.html</td>
     </tr>
     <tr>
       <td>2024-07-12</td>
