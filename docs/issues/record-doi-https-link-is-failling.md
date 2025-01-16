@@ -40,6 +40,12 @@ This page present the list of all the records associated with the issue: **Recor
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
     </tr>
+    <tr>
+      <td>2024-07-31</td>
+      <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/kace-2d24 status_code=502</td>
+    </tr>
   </tbody>
 </table>
 
