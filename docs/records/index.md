@@ -471,7 +471,7 @@ Search your record here:
     <tr>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>3</a></td>
+      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -485,12 +485,12 @@ Search your record here:
       <td>[]</td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
       <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
-      <td><a title='a0229417-c782-427a-a1ff-a277bb5b3dd9' href='../records/a0229417-c782-427a-a1ff-a277bb5b3dd9' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>4</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -504,7 +504,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
       <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
-      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>2</a></td>
+      <td><a title='a6f23d11-f423-478e-8456-2ab4e1f16e04' href='../records/a6f23d11-f423-478e-8456-2ab4e1f16e04' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
@@ -655,25 +655,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1455,25 +1436,6 @@ Search your record here:
       <td><a title='05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' href='../records/05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' target='_blank'>5</a></td>
       <td></td>
       <td><a title='05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' href='../records/05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' target='_blank'>2</a></td>
-    </tr>
-    <tr>
-      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018' target='_blank'>link</a></td>
-      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>10</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-12-05</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>4</a></td>
-      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>5</a></td>
-      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='1d89a4fa-6e30-4953-9804-234e42f97966' href='../records/1d89a4fa-6e30-4953-9804-234e42f97966' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
