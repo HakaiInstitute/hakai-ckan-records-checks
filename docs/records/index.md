@@ -659,6 +659,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -1436,6 +1455,25 @@ Search your record here:
       <td><a title='05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' href='../records/05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' target='_blank'>5</a></td>
       <td></td>
       <td><a title='05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' href='../records/05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' target='_blank'>2</a></td>
+    </tr>
+    <tr>
+      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018' target='_blank'>link</a></td>
+      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>10</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-12-05</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>4</a></td>
+      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>5</a></td>
+      <td><a title='0d78a0e9-11b2-4cc2-a00c-456081f5f49f' href='../records/0d78a0e9-11b2-4cc2-a00c-456081f5f49f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='1d89a4fa-6e30-4953-9804-234e42f97966' href='../records/1d89a4fa-6e30-4953-9804-234e42f97966' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
