@@ -659,25 +659,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -1892,25 +1873,6 @@ Search your record here:
       <td><a title='21238ad0-b8e8-4201-a0e4-1b3e03cc105b' href='../records/21238ad0-b8e8-4201-a0e4-1b3e03cc105b' target='_blank'>6</a></td>
       <td><a title='21238ad0-b8e8-4201-a0e4-1b3e03cc105b' href='../records/21238ad0-b8e8-4201-a0e4-1b3e03cc105b' target='_blank'>5</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6' target='_blank'>link</a></td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>8</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-25</td>
-      <td>2024-07-23</td>
-      <td>10.21966/nk1v-ca06</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>3</a></td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>4</a></td>
-      <td><a title='34d76c97-8762-4226-b75a-4f1a96e589a2' href='../records/34d76c97-8762-4226-b75a-4f1a96e589a2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='3e444d24-0ee9-4206-985c-b1b41bf4b2f6' href='../records/3e444d24-0ee9-4206-985c-b1b41bf4b2f6' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
