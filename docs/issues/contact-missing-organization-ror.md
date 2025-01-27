@@ -162,6 +162,18 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>

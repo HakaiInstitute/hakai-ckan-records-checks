@@ -84,6 +84,12 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>No projects associated</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>No projects associated</td>

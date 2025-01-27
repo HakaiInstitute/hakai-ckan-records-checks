@@ -509,7 +509,7 @@ Search your record here:
     <tr>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>link</a></td>
-      <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>1</a></td>
+      <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -523,7 +523,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>1</a></td>
       <td></td>
-      <td></td>
+      <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' href='../records/39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
@@ -655,6 +655,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='ba9d7e37-e233-477d-8d21-2aa34a5c5426' href='../records/ba9d7e37-e233-477d-8d21-2aa34a5c5426' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1402,7 +1421,7 @@ Search your record here:
     <tr>
       <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>Stream Event Sampling - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c981d76-5fea-44af-904f-58b159838b0a' target='_blank'>link</a></td>
-      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>6</a></td>
+      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>7</a></td>
       <td>Watersheds, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1416,7 +1435,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>3</a></td>
       <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>2</a></td>
-      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>1</a></td>
+      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' href='../records/05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' target='_blank'>Aquatic carbon flux data package for Oliver et al. 2017</a></td>
@@ -2880,6 +2899,25 @@ Search your record here:
       <td><a title='d79a8b29-9c9d-45d4-98d4-554554113a44' href='../records/d79a8b29-9c9d-45d4-98d4-554554113a44' target='_blank'>2</a></td>
       <td><a title='d79a8b29-9c9d-45d4-98d4-554554113a44' href='../records/d79a8b29-9c9d-45d4-98d4-554554113a44' target='_blank'>3</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='fa984e7f-0d0b-4547-953d-834e10bd01cc' href='../records/fa984e7f-0d0b-4547-953d-834e10bd01cc' target='_blank'>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d' target='_blank'>link</a></td>
+      <td><a title='fa984e7f-0d0b-4547-953d-834e10bd01cc' href='../records/fa984e7f-0d0b-4547-953d-834e10bd01cc' target='_blank'>11</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='fa984e7f-0d0b-4547-953d-834e10bd01cc' href='../records/fa984e7f-0d0b-4547-953d-834e10bd01cc' target='_blank'>2</a></td>
+      <td><a title='fa984e7f-0d0b-4547-953d-834e10bd01cc' href='../records/fa984e7f-0d0b-4547-953d-834e10bd01cc' target='_blank'>8</a></td>
+      <td><a title='fa984e7f-0d0b-4547-953d-834e10bd01cc' href='../records/fa984e7f-0d0b-4547-953d-834e10bd01cc' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='347c28a4-078f-4737-830d-28c066ec282b' href='../records/347c28a4-078f-4737-830d-28c066ec282b' target='_blank'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
