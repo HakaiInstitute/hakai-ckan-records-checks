@@ -48,9 +48,9 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream Event Sampling - Calvert Island</td>
+      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ywbk-5h57 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/C7NA-Z171 status_code=502</td>
     </tr>
   </tbody>
 </table>

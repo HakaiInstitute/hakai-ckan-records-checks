@@ -659,25 +659,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f857ece6-9b81-44df-926d-251417e6596b' href='../records/f857ece6-9b81-44df-926d-251417e6596b' target='_blank'>5</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='2139b875-61a6-47d3-95e4-04909b937fcd' href='../records/2139b875-61a6-47d3-95e4-04909b937fcd' target='_blank'>3</a></td>
@@ -1421,7 +1402,7 @@ Search your record here:
     <tr>
       <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>Stream Event Sampling - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c981d76-5fea-44af-904f-58b159838b0a' target='_blank'>link</a></td>
-      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>7</a></td>
+      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>6</a></td>
       <td>Watersheds, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1435,7 +1416,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>3</a></td>
       <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>2</a></td>
-      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>2</a></td>
+      <td><a title='b33035e0-0ce5-49de-97bc-2eb9f6771b0f' href='../records/b33035e0-0ce5-49de-97bc-2eb9f6771b0f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' href='../records/05f15ed4-f6fe-4103-92b5-7f21fdcb03a0' target='_blank'>Aquatic carbon flux data package for Oliver et al. 2017</a></td>
@@ -4024,7 +4005,7 @@ Search your record here:
     <tr>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a></td>
-      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>4</a></td>
+      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>5</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4038,7 +4019,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>3</a></td>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='01ad931a-1c5e-459b-bc00-5330cfb0396e' href='../records/01ad931a-1c5e-459b-bc00-5330cfb0396e' target='_blank'>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</a></td>
@@ -4338,8 +4319,8 @@ Search your record here:
       <td>2021-06-11</td>
       <td>2024-07-24</td>
       <td>10.25921/jq11-2268</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='75f463cf-bb96-440e-adea-71bb659d6a9d' href='../records/75f463cf-bb96-440e-adea-71bb659d6a9d' target='_blank'>8</a></td>
       <td></td>
       <td></td>
