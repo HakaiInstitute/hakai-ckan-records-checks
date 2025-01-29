@@ -509,7 +509,7 @@ Search your record here:
     <tr>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>link</a></td>
-      <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>3</a></td>
+      <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -523,7 +523,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>1</a></td>
       <td></td>
-      <td><a title='c14e888c-b7c2-49cd-8916-9f27011dd6f3' href='../records/c14e888c-b7c2-49cd-8916-9f27011dd6f3' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' href='../records/39a6186c-8bf2-44bd-9d0c-6b7125e4eb42' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
@@ -3547,25 +3547,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>Rocky subtidal fish and invertebrate swath data from BC Central Coast, v1.2.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026' target='_blank'>link</a></td>
-      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>9</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-21</td>
-      <td>2024-07-23</td>
-      <td>10.21966/jj9p-d309</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>3</a></td>
-      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>5</a></td>
-      <td><a title='6e2e23ea-5d03-4148-a25d-2a3ea8d84309' href='../records/6e2e23ea-5d03-4148-a25d-2a3ea8d84309' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' href='../records/76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' target='_blank'>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f' target='_blank'>link</a></td>
       <td><a title='76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' href='../records/76fb9a49-0beb-4099-8c0d-c3a1cb5807e8' target='_blank'>10</a></td>
@@ -4005,7 +3986,7 @@ Search your record here:
     <tr>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e' target='_blank'>link</a></td>
-      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>5</a></td>
+      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>4</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4019,7 +4000,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>3</a></td>
       <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>1</a></td>
-      <td><a title='d8ab2dda-11e3-4933-961f-49c8298f9157' href='../records/d8ab2dda-11e3-4933-961f-49c8298f9157' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='01ad931a-1c5e-459b-bc00-5330cfb0396e' href='../records/01ad931a-1c5e-459b-bc00-5330cfb0396e' target='_blank'>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</a></td>
