@@ -1,0 +1,69 @@
+---
+title: LiDAR-based Ecosystem Classification for Calvert Island
+hide:
+  - navigation
+  - toc
+---
+
+# LiDAR-based Ecosystem Classification for Calvert Island
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef' target='_blank'>link</a>
+
+???+ abstract "Metadata"
+
+    - **Name**: ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef 
+    - **Organization**: Hakai Institute 
+    - **Ressource Type**: dataset 
+    - **Licence**: CC-BY-4.0 
+    - **Private**: False 
+    - **Projects**: Airborne Coastal Observatory 
+    - **Progress**: completed 
+    - **State**: active 
+    - **Type**: dataset 
+    - **Distributor**: University of Victoria 
+    - **Resources Count**: 2 
+    - **Vertical Extent**: [{'max': '1014.0', 'min': '0.0'}] 
+    - **Eov**: other 
+    - **Doi**: 10.21966/1.135248 
+    - **Metadata Publication**: 2022-03-29 
+    - **Metadata Revision**: 2024-07-24 
+    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef' target='_blank'>link</a> 
+
+<div id='map'></div>
+
+
+
+
+## Issues
+| level   | message                                                                                                                                                                     |
+|:--------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ERROR   | Invalid distributor organisation-name: organization_name='University of Victoria' expects 'Hakai Institute'                                                                 |
+| INFO    | No version                                                                                                                                                                  |
+| INFO    | Contact missing ORCID: contact['individual-name']='Thompson, Shanley' contact.get('organisation-name')='University of Victoria'                                             |
+| INFO    | Contact missing ORCID: contact['individual-name']='Nelson, Trisalyn' contact.get('organisation-name')='University of Victoria'                                              |
+| INFO    | Contact missing ORCID: contact['individual-name']='Saunders, Sari' contact.get('organisation-name')='BC Ministry of Forests, Lands and Natural Resource Operations'         |
+| INFO    | Contact missing organization ROR:  contact['individual-name']='Saunders, Sari' contact['organisation-name']='BC Ministry of Forests, Lands and Natural Resource Operations' |
+| INFO    | Contact missing ORCID: contact['individual-name']='Thompson, Shanley' contact.get('organisation-name')='University of Victoria'                                             |
+| WARNING | Title contains acronyms potentially                                                                                                                                         |
+| WARNING | No funder                                                                                                                                                                   |
+| WARNING | Contact missing ORCID: contact['individual-name']='Frazer, G. W.' contact.get('organisation-name')='Hakai Institute'                                                        |
+| WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'                                                     |
+
+
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+    var map = L.map('map').setView([51.505, -125.09], 5);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    var geojsonFeature = {
+        "type": "Feature",
+        "properties": {
+            "name" : "LiDAR-based Ecosystem Classification for Calvert Island"
+        },
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.22692871093747, 51.40948589555509], [-127.80944824218746, 51.40948589555509], [-127.80944824218746, 51.74233687689102], [-128.22692871093747, 51.74233687689102], [-128.22692871093747, 51.40948589555509]]]}
+    }
+    L.geoJSON(geojsonFeature).addTo(map);
+   })
+</script>
