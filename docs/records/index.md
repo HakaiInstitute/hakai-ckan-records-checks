@@ -2236,6 +2236,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea' target='_blank'>link</a></td>
+      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>2</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2024-07-24</td>
+      <td>10.21966/63rs-yt91</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>1</a></td>
+      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
       <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>7</a></td>
