@@ -46,6 +46,12 @@ This page present the list of all the records associated with the issue: **Recor
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
     </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/mc7v-dx06 status_code=502</td>
+    </tr>
   </tbody>
 </table>
 

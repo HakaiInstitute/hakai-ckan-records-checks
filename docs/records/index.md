@@ -490,7 +490,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -504,12 +504,12 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>2</a></td>
+      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -523,7 +523,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b51a58ad-12d6-4f30-941a-8a74d38b00df' href='../records/b51a58ad-12d6-4f30-941a-8a74d38b00df' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
@@ -674,6 +674,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -2276,7 +2295,7 @@ Search your record here:
     <tr>
       <td><a title='a9ace695-65de-4944-9220-b723fa4fa077' href='../records/a9ace695-65de-4944-9220-b723fa4fa077' target='_blank'>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc' target='_blank'>link</a></td>
-      <td><a title='a9ace695-65de-4944-9220-b723fa4fa077' href='../records/a9ace695-65de-4944-9220-b723fa4fa077' target='_blank'>6</a></td>
+      <td><a title='a9ace695-65de-4944-9220-b723fa4fa077' href='../records/a9ace695-65de-4944-9220-b723fa4fa077' target='_blank'>7</a></td>
       <td>Geospatial, Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2290,7 +2309,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a9ace695-65de-4944-9220-b723fa4fa077' href='../records/a9ace695-65de-4944-9220-b723fa4fa077' target='_blank'>3</a></td>
       <td><a title='a9ace695-65de-4944-9220-b723fa4fa077' href='../records/a9ace695-65de-4944-9220-b723fa4fa077' target='_blank'>3</a></td>
-      <td></td>
+      <td><a title='a9ace695-65de-4944-9220-b723fa4fa077' href='../records/a9ace695-65de-4944-9220-b723fa4fa077' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b3631e93-a845-4c48-bc7f-0990350b418e' href='../records/b3631e93-a845-4c48-bc7f-0990350b418e' target='_blank'>Eelgrass Extent 2014 - Central Coast</a></td>
@@ -3036,7 +3055,7 @@ Search your record here:
     <tr>
       <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>link</a></td>
-      <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>3</a></td>
+      <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>2</a></td>
       <td>Oceanography, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3044,11 +3063,11 @@ Search your record here:
       <td>dataset</td>
       <td>nutrients, dissolvedOrganicCarbon</td>
       <td>2022-02-02</td>
-      <td>2024-07-24</td>
+      <td>2025-01-30</td>
       <td>10.21966/n0h9-cq15</td>
       <td>1</td>
       <td>[{'year': '2022', 'total': 1}]</td>
-      <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>3</a></td>
+      <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>2</a></td>
       <td></td>
       <td></td>
     </tr>
