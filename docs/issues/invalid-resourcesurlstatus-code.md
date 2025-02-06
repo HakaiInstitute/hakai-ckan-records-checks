@@ -101,6 +101,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
     </tr>
     <tr>
+      <td>2024-07-23</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.ncbi.nlm.nih.gov/bioproject/PRJNA865652/</td>
+    </tr>
+    <tr>
       <td>2024-07-12</td>
       <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
       <td>ERROR</td>
