@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='92f4f460-32d6-4485-880a-95357844fe4c' href='../records/92f4f460-32d6-4485-880a-95357844fe4c' target='_blank'>Knight Inlet Remotely Operated Vehicle Marine Habitat Survey</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_00f42725-0a88-4d4f-87a9-4e359d2abff4' target='_blank'>link</a></td>
+      <td><a title='92f4f460-32d6-4485-880a-95357844fe4c' href='../records/92f4f460-32d6-4485-880a-95357844fe4c' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-02-05</td>
+      <td>2025-02-05</td>
+      <td>10.21966/529y-sh57</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='92f4f460-32d6-4485-880a-95357844fe4c' href='../records/92f4f460-32d6-4485-880a-95357844fe4c' target='_blank'>2</a></td>
+      <td><a title='92f4f460-32d6-4485-880a-95357844fe4c' href='../records/92f4f460-32d6-4485-880a-95357844fe4c' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026' target='_blank'>link</a></td>
       <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>6</a></td>
@@ -61,7 +80,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2025-01-10</td>
-      <td>2025-01-10</td>
+      <td>2025-02-05</td>
       <td>10.21966/zfxe-rd73</td>
       <td>0</td>
       <td>[]</td>
@@ -490,7 +509,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -504,12 +523,12 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>2</a></td>
+      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -523,7 +542,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b51a58ad-12d6-4f30-941a-8a74d38b00df' href='../records/b51a58ad-12d6-4f30-941a-8a74d38b00df' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
@@ -678,6 +697,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>3</a></td>
@@ -813,7 +851,7 @@ Search your record here:
     <tr>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_60f653ae-a3fd-484d-807c-3d7e4a0712cb' target='_blank'>link</a></td>
-      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>6</a></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>5</a></td>
       <td>Nearshore, Genomics</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -827,7 +865,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>3</a></td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>2</a></td>
-      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
@@ -3777,7 +3815,7 @@ Search your record here:
     <tr>
       <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>Eelgrass Extent - Coastal British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0219e1d6-8dfc-4718-b89b-ea3dff06a70d' target='_blank'>link</a></td>
-      <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>3</a></td>
+      <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>4</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3791,7 +3829,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>2</a></td>
       <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='132c7ed9-4f3a-42fe-bb12-448ccb3029eb' href='../records/132c7ed9-4f3a-42fe-bb12-448ccb3029eb' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a></td>
