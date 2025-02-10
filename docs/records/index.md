@@ -1136,7 +1136,7 @@ Search your record here:
     <tr>
       <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>15</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1148,9 +1148,9 @@ Search your record here:
       <td>10.25921/9vnv-0g64</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>12</a></td>
+      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>1</a></td>
+      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' href='../records/248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
@@ -3454,7 +3454,7 @@ Search your record here:
     <tr>
       <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a></td>
-      <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>5</a></td>
+      <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>4</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3468,7 +3468,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>3</a></td>
       <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>1</a></td>
-      <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e51332eb-211e-4b16-8174-475af2553546' href='../records/e51332eb-211e-4b16-8174-475af2553546' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</a></td>
@@ -4347,7 +4347,7 @@ Search your record here:
     <tr>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4359,8 +4359,8 @@ Search your record here:
       <td>10.25921/v5j2-x847</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>3</a></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
