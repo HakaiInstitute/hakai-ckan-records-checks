@@ -3321,7 +3321,7 @@ Search your record here:
     <tr>
       <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>Data on invasion of Calvert Island by Orthione griffenis</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>link</a></td>
-      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>7</a></td>
+      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>8</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3335,7 +3335,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>2</a></td>
       <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>4</a></td>
-      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>1</a></td>
+      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='99a1eab3-d210-4dbb-afb6-47afa80b2810' href='../records/99a1eab3-d210-4dbb-afb6-47afa80b2810' target='_blank'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
