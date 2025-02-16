@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>Understory kelp biomass data from BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e' target='_blank'>link</a></td>
+      <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>2</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2025-02-14</td>
+      <td>2025-02-14</td>
+      <td>10.21966/wmsy-5g39</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='92f4f460-32d6-4485-880a-95357844fe4c' href='../records/92f4f460-32d6-4485-880a-95357844fe4c' target='_blank'>Knight Inlet Remotely Operated Vehicle Marine Habitat Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_00f42725-0a88-4d4f-87a9-4e359d2abff4' target='_blank'>link</a></td>
       <td><a title='92f4f460-32d6-4485-880a-95357844fe4c' href='../records/92f4f460-32d6-4485-880a-95357844fe4c' target='_blank'>4</a></td>
@@ -53,21 +72,21 @@ Search your record here:
     <tr>
       <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026' target='_blank'>link</a></td>
-      <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>6</a></td>
-      <td></td>
+      <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>5</a></td>
+      <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
       <td>active</td>
       <td>dataset</td>
       <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
       <td>2025-01-28</td>
-      <td>2025-01-28</td>
+      <td>2025-02-14</td>
       <td>10.21966/jj9p-d309</td>
       <td>0</td>
       <td>[]</td>
       <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>2</a></td>
       <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>3</a></td>
-      <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='63826df7-858d-470a-8665-fec7e8675c76' href='../records/63826df7-858d-470a-8665-fec7e8675c76' target='_blank'>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</a></td>
@@ -3433,25 +3452,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='d5301037-93d9-4d8e-9e27-ac1a5676a444' href='../records/d5301037-93d9-4d8e-9e27-ac1a5676a444' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4' target='_blank'>link</a></td>
-      <td><a title='d5301037-93d9-4d8e-9e27-ac1a5676a444' href='../records/d5301037-93d9-4d8e-9e27-ac1a5676a444' target='_blank'>10</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, seagrassCoverAndComposition</td>
-      <td>2022-01-24</td>
-      <td>2024-07-23</td>
-      <td>10.21966/20SJ-J017</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='d5301037-93d9-4d8e-9e27-ac1a5676a444' href='../records/d5301037-93d9-4d8e-9e27-ac1a5676a444' target='_blank'>6</a></td>
-      <td><a title='d5301037-93d9-4d8e-9e27-ac1a5676a444' href='../records/d5301037-93d9-4d8e-9e27-ac1a5676a444' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' href='../records/e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260' target='_blank'>link</a></td>
       <td><a title='e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' href='../records/e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' target='_blank'>10</a></td>
@@ -3525,25 +3525,6 @@ Search your record here:
       <td></td>
       <td><a title='1b80167b-9741-490a-9c2c-fdbc08784468' href='../records/1b80167b-9741-490a-9c2c-fdbc08784468' target='_blank'>1</a></td>
       <td><a title='1b80167b-9741-490a-9c2c-fdbc08784468' href='../records/1b80167b-9741-490a-9c2c-fdbc08784468' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>Understory kelp biomass data from BC Central Coast, v1.2.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e' target='_blank'>link</a></td>
-      <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>3</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>macroalgalCanopyCoverAndComposition</td>
-      <td>2022-01-21</td>
-      <td>2024-07-23</td>
-      <td>10.21966/wmsy-5g39</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>3</a></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
