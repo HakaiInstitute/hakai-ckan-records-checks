@@ -312,6 +312,18 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Poppe, Katrina' contact['organisation-name']='Western Washington University'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Poppe, Katrina' contact['organisation-name']='Western Washington University'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Salomon, Anne' contact['organisation-name']='Simon Fraser University'</td>
