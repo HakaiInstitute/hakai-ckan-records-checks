@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
+      <td>2024-12-30</td>
+      <td>Seagrass Site-Level Production on BC Central Coast</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ezev-0v96 status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-12-05</td>
+      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/bzr6-er66 status_code=404</td>
+    </tr>
+    <tr>
       <td>2024-12-03</td>
       <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
@@ -24,9 +36,9 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
+      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/zs6a-j496 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/exy6-1k58 status_code=502</td>
     </tr>
   </tbody>
 </table>
