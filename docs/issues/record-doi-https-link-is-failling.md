@@ -23,16 +23,10 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ezev-0v96 status_code=404</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>2024-08-02</td>
+      <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/bzr6-er66 status_code=404</td>
-    </tr>
-    <tr>
-      <td>2024-12-03</td>
-      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=404</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
     </tr>
   </tbody>
 </table>

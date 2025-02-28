@@ -29,12 +29,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid licence: CC-BY-NC-4.0</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</td>
-      <td>ERROR</td>
-      <td>Invalid licence: CC-BY-NC-4.0</td>
-    </tr>
-    <tr>
       <td>2024-07-12</td>
       <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
       <td>ERROR</td>
