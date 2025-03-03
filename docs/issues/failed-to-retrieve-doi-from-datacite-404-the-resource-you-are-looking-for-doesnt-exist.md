@@ -22,18 +22,6 @@ This page present the list of all the records associated with the issue: **Faile
       <td>ERROR</td>
       <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/bzr6-er66</td>
     </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/ytgc-6g46</td>
-    </tr>
-    <tr>
-      <td>2024-12-03</td>
-      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/e4b8-vp48</td>
-    </tr>
   </tbody>
 </table>
 

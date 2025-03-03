@@ -18,18 +18,6 @@ This page present the list of all the records associated with the issue: **Empty
   <tbody>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
-      <td>ERROR</td>
-      <td>Empty resource name</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
-      <td>ERROR</td>
-      <td>Empty resource name</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>ERROR</td>
       <td>Empty resource name</td>
@@ -37,6 +25,18 @@ This page present the list of all the records associated with the issue: **Empty
     <tr>
       <td>2024-07-23</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>ERROR</td>
+      <td>Empty resource name</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>Empty resource name</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>ERROR</td>
       <td>Empty resource name</td>
     </tr>
