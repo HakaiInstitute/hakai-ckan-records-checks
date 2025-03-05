@@ -24,6 +24,12 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-12-05</td>
+      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/bzr6-er66 status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-12-05</td>
       <td>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ytgc-6g46 status_code=404</td>

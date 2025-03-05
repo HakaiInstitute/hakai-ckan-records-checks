@@ -17,12 +17,6 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2025-01-08</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
       <td>2024-12-19</td>
       <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>ERROR</td>
@@ -45,6 +39,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Fraser River Landslide Project - Sites of Concern 2024</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-08-02</td>
+      <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -72,9 +72,27 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Hakai Geosptatial' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Simon Fraser University' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
