@@ -35,22 +35,10 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
     </tr>
     <tr>
-      <td>2024-11-20</td>
-      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
       <td>2024-08-02</td>
       <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -81,6 +69,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Kelp forest communities along an otter gradient</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Simon Fraser University' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
