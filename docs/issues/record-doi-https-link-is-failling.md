@@ -23,12 +23,6 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/wmsy-5g39 status_code=404</td>
     </tr>
     <tr>
-      <td>2024-12-30</td>
-      <td>Seagrass Site-Level Production on BC Central Coast</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ezev-0v96 status_code=404</td>
-    </tr>
-    <tr>
       <td>2024-12-05</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
