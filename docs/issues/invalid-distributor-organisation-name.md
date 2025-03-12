@@ -23,22 +23,16 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>2024-12-19</td>
+      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
+      <td>Invalid distributor organisation-name: organization_name='University of Victoria' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
       <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-08-02</td>
-      <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -60,9 +54,21 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Hakai Geosptatial' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Simon Fraser University' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
