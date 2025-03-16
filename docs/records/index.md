@@ -452,7 +452,7 @@ Search your record here:
     <tr>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e' target='_blank'>link</a></td>
-      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>8</a></td>
+      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>9</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -466,7 +466,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>5</a></td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>3</a></td>
-      <td></td>
+      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
@@ -3772,25 +3772,6 @@ Search your record here:
       <td></td>
       <td><a title='fc0be4ec-4d87-4655-96da-2f6316b4f09b' href='../records/fc0be4ec-4d87-4655-96da-2f6316b4f09b' target='_blank'>4</a></td>
       <td><a title='fc0be4ec-4d87-4655-96da-2f6316b4f09b' href='../records/fc0be4ec-4d87-4655-96da-2f6316b4f09b' target='_blank'>6</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>Eelgrass Extent - Coastal British Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0219e1d6-8dfc-4718-b89b-ea3dff06a70d' target='_blank'>link</a></td>
-      <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>3</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, seagrassCoverAndComposition</td>
-      <td>2022-01-18</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1ty5-e654</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>2</a></td>
-      <td><a title='2d810be5-c1dd-4220-9606-176bd38ec5ee' href='../records/2d810be5-c1dd-4220-9606-176bd38ec5ee' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
