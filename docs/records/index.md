@@ -452,7 +452,7 @@ Search your record here:
     <tr>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e' target='_blank'>link</a></td>
-      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>9</a></td>
+      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>8</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -466,7 +466,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>5</a></td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>3</a></td>
-      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
