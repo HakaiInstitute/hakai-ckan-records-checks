@@ -1362,25 +1362,6 @@ Search your record here:
       <td><a title='d4831b20-0a6f-4ea3-b851-4516fa561041' href='../records/d4831b20-0a6f-4ea3-b851-4516fa561041' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_71447a55-3eca-41b1-87ff-b8ef69314c4d' target='_blank'>link</a></td>
-      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>2</a></td>
-      <td>Geospatial, 100 Islands</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-08-31</td>
-      <td>2024-12-04</td>
-      <td>10.21966/CZ48-D388</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>Adjusted Koeye River stage and temperature from 2013 to 2021</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_44dbd3c8-93bf-4e2f-9532-cbaebcf4a2be' target='_blank'>link</a></td>
       <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>10</a></td>
@@ -2918,25 +2899,6 @@ Search your record here:
       <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>2</a></td>
       <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>3</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7b34963-67bc-404b-bdd1-b41cc750bdaa' target='_blank'>link</a></td>
-      <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>11</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>2</a></td>
-      <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>8</a></td>
-      <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
