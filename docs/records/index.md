@@ -431,6 +431,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='8378f933-8de7-4590-8897-58044b410ca5' href='../records/8378f933-8de7-4590-8897-58044b410ca5' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205' target='_blank'>link</a></td>
+      <td><a title='8378f933-8de7-4590-8897-58044b410ca5' href='../records/8378f933-8de7-4590-8897-58044b410ca5' target='_blank'>11</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2024-09-03</td>
+      <td>2024-08-30</td>
+      <td>10.21966/v57r-g944</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='8378f933-8de7-4590-8897-58044b410ca5' href='../records/8378f933-8de7-4590-8897-58044b410ca5' target='_blank'>3</a></td>
+      <td><a title='8378f933-8de7-4590-8897-58044b410ca5' href='../records/8378f933-8de7-4590-8897-58044b410ca5' target='_blank'>8</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e' target='_blank'>link</a></td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>8</a></td>
