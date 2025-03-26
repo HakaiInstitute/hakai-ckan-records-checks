@@ -716,6 +716,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>3</a></td>
@@ -2027,25 +2046,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f63a7bf1-777f-44a0-94d1-4211a9a17cdb' href='../records/f63a7bf1-777f-44a0-94d1-4211a9a17cdb' target='_blank'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde' target='_blank'>link</a></td>
-      <td><a title='f63a7bf1-777f-44a0-94d1-4211a9a17cdb' href='../records/f63a7bf1-777f-44a0-94d1-4211a9a17cdb' target='_blank'>4</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-25</td>
-      <td>2024-12-05</td>
-      <td>10.21966/zvwf-qn04</td>
-      <td>1</td>
-      <td>[{'year': '2025', 'total': 1}]</td>
-      <td><a title='f63a7bf1-777f-44a0-94d1-4211a9a17cdb' href='../records/f63a7bf1-777f-44a0-94d1-4211a9a17cdb' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='523a0e0d-4055-441e-9fc1-ae140e3f0dc8' href='../records/523a0e0d-4055-441e-9fc1-ae140e3f0dc8' target='_blank'>Hakai RPAS (Drone) Operations and Methods</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_582909b1-c87d-4c5a-8594-5f44726f43a4' target='_blank'>link</a></td>
       <td><a title='523a0e0d-4055-441e-9fc1-ae140e3f0dc8' href='../records/523a0e0d-4055-441e-9fc1-ae140e3f0dc8' target='_blank'>10</a></td>
@@ -2290,25 +2290,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>1</a></td>
       <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
-      <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>7</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>2</a></td>
-      <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>5</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3074,7 +3055,7 @@ Search your record here:
     <tr>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>link</a></td>
-      <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>6</a></td>
+      <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>7</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3088,7 +3069,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>5</a></td>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7d3f25e0-cc38-419b-bca9-051f8d8569fa' href='../records/7d3f25e0-cc38-419b-bca9-051f8d8569fa' target='_blank'>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</a></td>
