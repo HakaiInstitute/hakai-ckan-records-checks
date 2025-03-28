@@ -146,25 +146,6 @@ Search your record here:
       <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <td><a title='f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' href='../records/f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' target='_blank'>High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7fd3ec6c-083a-4942-84b4-215e69492072' target='_blank'>link</a></td>
-      <td><a title='f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' href='../records/f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' target='_blank'>1</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>phytoplanktonBiomassAndDiversity</td>
-      <td>2024-12-11</td>
-      <td>2024-12-11</td>
-      <td>10.21966/bw2d-tg65</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' href='../records/f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' target='_blank'>1</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>Sentinels of Change Sea surface temperature time series data along the British Columbia Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5185ac00-8148-4472-adfd-21741d8a10ce' target='_blank'>link</a></td>
       <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>1</a></td>
@@ -712,6 +693,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -2901,6 +2901,25 @@ Search your record here:
       <td><a title='dd36f4af-b377-4abd-bdcd-194698209a70' href='../records/dd36f4af-b377-4abd-bdcd-194698209a70' target='_blank'>1</a></td>
     </tr>
     <tr>
+      <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a></td>
+      <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>5</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td>10.21966/wfcv-n753</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>2</a></td>
+      <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7b34963-67bc-404b-bdd1-b41cc750bdaa' target='_blank'>link</a></td>
       <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>11</a></td>
@@ -4290,7 +4309,7 @@ Search your record here:
     <tr>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>4</a></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>5</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4304,7 +4323,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>3</a></td>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='99626ba1-f8ac-4acb-bc63-1626a09abce4' href='../records/99626ba1-f8ac-4acb-bc63-1626a09abce4' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
