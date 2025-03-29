@@ -146,6 +146,25 @@ Search your record here:
       <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>2</a></td>
     </tr>
     <tr>
+      <td><a title='f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' href='../records/f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' target='_blank'>High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7fd3ec6c-083a-4942-84b4-215e69492072' target='_blank'>link</a></td>
+      <td><a title='f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' href='../records/f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' target='_blank'>1</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>phytoplanktonBiomassAndDiversity</td>
+      <td>2024-12-11</td>
+      <td>2024-12-11</td>
+      <td>10.21966/bw2d-tg65</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' href='../records/f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>Sentinels of Change Sea surface temperature time series data along the British Columbia Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5185ac00-8148-4472-adfd-21741d8a10ce' target='_blank'>link</a></td>
       <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>1</a></td>
@@ -693,25 +712,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -3036,7 +3036,7 @@ Search your record here:
     <tr>
       <td><a title='e70e1a50-1053-49db-9711-1ae98826c9f6' href='../records/e70e1a50-1053-49db-9711-1ae98826c9f6' target='_blank'>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7c47472a-b16c-446c-89d5-eefa23e07922' target='_blank'>link</a></td>
-      <td><a title='e70e1a50-1053-49db-9711-1ae98826c9f6' href='../records/e70e1a50-1053-49db-9711-1ae98826c9f6' target='_blank'>3</a></td>
+      <td><a title='e70e1a50-1053-49db-9711-1ae98826c9f6' href='../records/e70e1a50-1053-49db-9711-1ae98826c9f6' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3050,7 +3050,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='e70e1a50-1053-49db-9711-1ae98826c9f6' href='../records/e70e1a50-1053-49db-9711-1ae98826c9f6' target='_blank'>3</a></td>
       <td></td>
-      <td></td>
+      <td><a title='e70e1a50-1053-49db-9711-1ae98826c9f6' href='../records/e70e1a50-1053-49db-9711-1ae98826c9f6' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</a></td>
@@ -3946,25 +3946,6 @@ Search your record here:
       <td><a title='152454fc-1b67-4980-a8c2-6853616936b4' href='../records/152454fc-1b67-4980-a8c2-6853616936b4' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>Juvenile Sockeye Diets Hakai 2015-2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_64f74489-b9a3-4e6f-9f25-be141b8e285c' target='_blank'>link</a></td>
-      <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>10</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2021-11-26</td>
-      <td>2024-07-23</td>
-      <td>10.21966/3s9g-w013</td>
-      <td>2</td>
-      <td>[{'year': '2023', 'total': 2}]</td>
-      <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>6</a></td>
-      <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>3</a></td>
-      <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='220c76b1-88b1-4b19-a7d6-99123de85d30' href='../records/220c76b1-88b1-4b19-a7d6-99123de85d30' target='_blank'>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_eb1feb98-b11a-4663-b7ab-2216df8187bd' target='_blank'>link</a></td>
       <td><a title='220c76b1-88b1-4b19-a7d6-99123de85d30' href='../records/220c76b1-88b1-4b19-a7d6-99123de85d30' target='_blank'>11</a></td>
@@ -4309,7 +4290,7 @@ Search your record here:
     <tr>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>5</a></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4323,7 +4304,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>3</a></td>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>1</a></td>
-      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='99626ba1-f8ac-4acb-bc63-1626a09abce4' href='../records/99626ba1-f8ac-4acb-bc63-1626a09abce4' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
