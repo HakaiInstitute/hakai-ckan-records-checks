@@ -52,12 +52,6 @@ This page present the list of all the records associated with the issue: **Recor
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
     </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/1.715729 status_code=502</td>
-    </tr>
   </tbody>
 </table>
 
