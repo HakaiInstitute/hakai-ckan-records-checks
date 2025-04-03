@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
+      <td>2025-04-01</td>
+      <td>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/8yp1-7m94 status_code=404</td>
+    </tr>
+    <tr>
       <td>2025-03-04</td>
       <td>Understory kelp biomass data from BC Central Coast</td>
       <td>ERROR</td>
@@ -51,6 +57,12 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/MQ9T-BW79 status_code=502</td>
     </tr>
   </tbody>
 </table>

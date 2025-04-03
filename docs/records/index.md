@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52d4f546-dfdf-4bf1-b1ad-f6ec6f2663c0' target='_blank'>link</a></td>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>6</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-04-01</td>
+      <td>2025-04-01</td>
+      <td>10.21966/8yp1-7m94</td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
+    </tr>
+    <tr>
       <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>Understory kelp biomass data from BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e' target='_blank'>link</a></td>
       <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>3</a></td>
@@ -471,7 +490,7 @@ Search your record here:
     <tr>
       <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f67c0c58-3225-4dac-9264-1e76f07c9374' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>3</a></td>
       <td>Genomics</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -483,9 +502,9 @@ Search your record here:
       <td>10.21966/7t4p-s714</td>
       <td>0</td>
       <td>[]</td>
+      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='42533ceb-67c8-4da6-85bb-d74cb9c055c3' href='../records/42533ceb-67c8-4da6-85bb-d74cb9c055c3' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
@@ -1554,7 +1573,7 @@ Search your record here:
     <tr>
       <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9' target='_blank'>link</a></td>
-      <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>7</a></td>
+      <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>8</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1568,7 +1587,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>3</a></td>
       <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>4</a></td>
-      <td></td>
+      <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
