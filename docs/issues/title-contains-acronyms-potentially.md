@@ -17,6 +17,24 @@ This page present the list of all the records associated with the issue: **Title
   </thead>
   <tbody>
     <tr>
+      <td>2025-04-02</td>
+      <td>Elliot Creek Aerial Photo and LiDAR Survey</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2025-04-02</td>
+      <td>Mount Robson Aerial Photo and LiDAR Survey</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2025-04-02</td>
+      <td>Place Glacier Aerial Photo and LiDAR Survey</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
       <td>2024-12-16</td>
       <td>Elliot Creek Landslide LiDAR Mapping - 2023 - Airborne Coastal Observatory</td>
       <td>WARNING</td>

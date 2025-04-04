@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2025-04-02</td>
+      <td>Mount Robson Aerial Photo and LiDAR Survey</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Tula Foundation' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2025-04-02</td>
+      <td>Place Glacier Aerial Photo and LiDAR Survey</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Tula Foundation' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2025-01-08</td>
       <td>Owikeno Lake Bathymetric Survey</td>
       <td>ERROR</td>
