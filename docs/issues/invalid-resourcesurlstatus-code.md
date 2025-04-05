@@ -78,6 +78,12 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS</td>
@@ -99,6 +105,18 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.html</td>
+    </tr>
+    <tr>
+      <td>2024-07-12</td>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
+    </tr>
+    <tr>
+      <td>2024-07-12</td>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[1].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
     </tr>
   </tbody>
 </table>
