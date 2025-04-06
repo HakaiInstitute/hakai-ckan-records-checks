@@ -36,12 +36,6 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</td>
       <td>ERROR</td>
       <td>No projects associated</td>

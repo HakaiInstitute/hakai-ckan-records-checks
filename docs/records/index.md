@@ -129,7 +129,7 @@ Search your record here:
     <tr>
       <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026' target='_blank'>link</a></td>
-      <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>5</a></td>
+      <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>2</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -137,12 +137,12 @@ Search your record here:
       <td>dataset</td>
       <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
       <td>2025-01-28</td>
-      <td>2025-02-14</td>
+      <td>2025-04-04</td>
       <td>10.21966/jj9p-d309</td>
       <td>0</td>
       <td>[]</td>
       <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>2</a></td>
-      <td><a title='da94e9ed-7b04-4413-a0fe-064d56c10693' href='../records/da94e9ed-7b04-4413-a0fe-064d56c10693' target='_blank'>3</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2424,25 +2424,6 @@ Search your record here:
       <td><a title='b3631e93-a845-4c48-bc7f-0990350b418e' href='../records/b3631e93-a845-4c48-bc7f-0990350b418e' target='_blank'>1</a></td>
       <td><a title='b3631e93-a845-4c48-bc7f-0990350b418e' href='../records/b3631e93-a845-4c48-bc7f-0990350b418e' target='_blank'>8</a></td>
       <td><a title='b3631e93-a845-4c48-bc7f-0990350b418e' href='../records/b3631e93-a845-4c48-bc7f-0990350b418e' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='beb9f09b-75da-4338-8469-28bcf6f4b10d' href='../records/beb9f09b-75da-4338-8469-28bcf6f4b10d' target='_blank'>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7241811a-f75c-469f-baa2-ad769d6c75cd' target='_blank'>link</a></td>
-      <td><a title='beb9f09b-75da-4338-8469-28bcf6f4b10d' href='../records/beb9f09b-75da-4338-8469-28bcf6f4b10d' target='_blank'>10</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-24</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='beb9f09b-75da-4338-8469-28bcf6f4b10d' href='../records/beb9f09b-75da-4338-8469-28bcf6f4b10d' target='_blank'>2</a></td>
-      <td><a title='beb9f09b-75da-4338-8469-28bcf6f4b10d' href='../records/beb9f09b-75da-4338-8469-28bcf6f4b10d' target='_blank'>7</a></td>
-      <td><a title='beb9f09b-75da-4338-8469-28bcf6f4b10d' href='../records/beb9f09b-75da-4338-8469-28bcf6f4b10d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='ca36837c-a9f1-4e06-9cfa-ba4856889820' href='../records/ca36837c-a9f1-4e06-9cfa-ba4856889820' target='_blank'>Kelp Canopy Extent 2006 - NW Calvert Island</a></td>
