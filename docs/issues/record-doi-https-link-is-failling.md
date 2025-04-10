@@ -58,6 +58,12 @@ This page present the list of all the records associated with the issue: **Recor
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>
     </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/wfcv-n753 status_code=502</td>
+    </tr>
   </tbody>
 </table>
 

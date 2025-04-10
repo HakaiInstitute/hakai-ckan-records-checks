@@ -1602,8 +1602,8 @@ Search your record here:
       <td>2022-03-29</td>
       <td>2024-07-24</td>
       <td>10.21966/7qnv-6y88</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='2a7375fa-67be-4f42-b59a-014821b740d9' href='../records/2a7375fa-67be-4f42-b59a-014821b740d9' target='_blank'>6</a></td>
       <td><a title='2a7375fa-67be-4f42-b59a-014821b740d9' href='../records/2a7375fa-67be-4f42-b59a-014821b740d9' target='_blank'>2</a></td>
       <td></td>
@@ -2960,7 +2960,7 @@ Search your record here:
     <tr>
       <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a></td>
-      <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>5</a></td>
+      <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>6</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2974,7 +2974,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>2</a></td>
       <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>3</a></td>
-      <td></td>
+      <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='f8a1284d-ac71-4809-b0e9-d8991707900c' href='../records/f8a1284d-ac71-4809-b0e9-d8991707900c' target='_blank'>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</a></td>
