@@ -773,6 +773,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>3</a></td>
@@ -3887,6 +3906,25 @@ Search your record here:
       <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>1</a></td>
       <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>1</a></td>
       <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='10fdd7a8-f733-496e-ab52-c7109504b710' href='../records/10fdd7a8-f733-496e-ab52-c7109504b710' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ea6c0e20-9b99-48f7-adfb-6c1b70f6bd2a' target='_blank'>link</a></td>
+      <td><a title='10fdd7a8-f733-496e-ab52-c7109504b710' href='../records/10fdd7a8-f733-496e-ab52-c7109504b710' target='_blank'>10</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
+      <td>2022-01-13</td>
+      <td>2024-07-23</td>
+      <td>10.21966/kg0p-mt85</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='10fdd7a8-f733-496e-ab52-c7109504b710' href='../records/10fdd7a8-f733-496e-ab52-c7109504b710' target='_blank'>5</a></td>
+      <td><a title='10fdd7a8-f733-496e-ab52-c7109504b710' href='../records/10fdd7a8-f733-496e-ab52-c7109504b710' target='_blank'>5</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='308ed98f-a008-4a39-a664-9744dd3f1b61' href='../records/308ed98f-a008-4a39-a664-9744dd3f1b61' target='_blank'>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</a></td>
