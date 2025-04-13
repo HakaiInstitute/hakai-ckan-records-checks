@@ -120,13 +120,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Research Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Research Institute'</td>
     </tr>
@@ -270,21 +270,9 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Kennedy, Estjer' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Krkosek, Martin' contact['organisation-name']='University of Toronto'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Lanphier, Karie' contact['organisation-name']='Sitka Tribe of Alaska'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -303,12 +291,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Hyperspectral Imagery - Calvert Island - 2012</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Mostyn, David' contact['organisation-name']='Terra Remote Sensing Inc.'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Peterson, Willoughby' contact['organisation-name']='Sitka Tribe of Alaska'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -339,12 +321,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Timmer, Brian' contact['organisation-name']='University Of Victoria'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
     </tr>
   </tbody>
 </table>

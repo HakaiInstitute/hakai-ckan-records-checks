@@ -1134,25 +1134,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='be1214fa-4a95-4fdb-a8f1-2daf46289c2b' href='../records/be1214fa-4a95-4fdb-a8f1-2daf46289c2b' target='_blank'>Glaciers and Ice - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
-      <td><a title='be1214fa-4a95-4fdb-a8f1-2daf46289c2b' href='../records/be1214fa-4a95-4fdb-a8f1-2daf46289c2b' target='_blank'>2</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-18</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='be1214fa-4a95-4fdb-a8f1-2daf46289c2b' href='../records/be1214fa-4a95-4fdb-a8f1-2daf46289c2b' target='_blank'>1</a></td>
-      <td><a title='be1214fa-4a95-4fdb-a8f1-2daf46289c2b' href='../records/be1214fa-4a95-4fdb-a8f1-2daf46289c2b' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='d87c45d4-a298-4206-aa03-b0743cab3f04' href='../records/d87c45d4-a298-4206-aa03-b0743cab3f04' target='_blank'>Elliot Creek Landslide – 2022 – Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c39138f-8f01-4948-a3de-864044686c55' target='_blank'>link</a></td>
       <td><a title='d87c45d4-a298-4206-aa03-b0743cab3f04' href='../records/d87c45d4-a298-4206-aa03-b0743cab3f04' target='_blank'>4</a></td>
@@ -1227,25 +1208,6 @@ Search your record here:
       <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>2</a></td>
       <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>3</a></td>
       <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>15</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>oxygen, inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity</td>
-      <td>2022-12-01</td>
-      <td>2024-07-23</td>
-      <td>10.25921/9vnv-0g64</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>12</a></td>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>1</a></td>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' href='../records/248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
