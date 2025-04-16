@@ -2996,6 +2996,25 @@ Search your record here:
       <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>1</a></td>
     </tr>
     <tr>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a></td>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>9</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>underDevelopment</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, zooplanktonBiomassAndDiversity</td>
+      <td>2022-02-04</td>
+      <td>2024-07-23</td>
+      <td>10.21966/bhqd-9361</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>7</a></td>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0263680-f0d5-46d5-85ea-483fa58c74b6' target='_blank'>link</a></td>
       <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>6</a></td>
