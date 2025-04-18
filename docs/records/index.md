@@ -528,7 +528,7 @@ Search your record here:
     <tr>
       <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f67c0c58-3225-4dac-9264-1e76f07c9374' target='_blank'>link</a></td>
-      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>3</a></td>
+      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>4</a></td>
       <td>Genomics</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -542,7 +542,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>1</a></td>
+      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='42533ceb-67c8-4da6-85bb-d74cb9c055c3' href='../records/42533ceb-67c8-4da6-85bb-d74cb9c055c3' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
@@ -585,7 +585,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>4</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -599,12 +599,12 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
-      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>3</a></td>
+      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -618,7 +618,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
-      <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='b51a58ad-12d6-4f30-941a-8a74d38b00df' href='../records/b51a58ad-12d6-4f30-941a-8a74d38b00df' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
@@ -794,7 +794,7 @@ Search your record here:
     <tr>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
-      <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>3</a></td>
+      <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -808,7 +808,7 @@ Search your record here:
       <td></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>2</a></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='eabab8be-ccfa-4269-bb21-cd81cd4761e3' href='../records/eabab8be-ccfa-4269-bb21-cd81cd4761e3' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
@@ -2044,25 +2044,6 @@ Search your record here:
       <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>2</a></td>
       <td></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b5207300-9f76-4f14-ae6f-a08ed6f5a213' target='_blank'>link</a></td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>6</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>particulateMatter, dissolvedOrganicCarbon</td>
-      <td>2022-03-25</td>
-      <td>2024-07-23</td>
-      <td>10.21966/66x5-a210</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>4</a></td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>1</a></td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='e88286d7-1388-4258-a56b-8b5b8be4a293' href='../records/e88286d7-1388-4258-a56b-8b5b8be4a293' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
