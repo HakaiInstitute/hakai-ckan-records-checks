@@ -54,12 +54,6 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-08-02</td>
-      <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/7t4p-s714 status_code=502</td>
-    </tr>
-    <tr>
-      <td>2024-08-02</td>
       <td>Nearshore Macrophyte Stable Isotopes - BC Central Coast</td>
       <td>ERROR</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/q31x-qg72 status_code=404</td>

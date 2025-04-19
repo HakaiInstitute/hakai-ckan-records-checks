@@ -90,6 +90,12 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Hakai Geosptatial' expects 'Hakai Institute'</td>
