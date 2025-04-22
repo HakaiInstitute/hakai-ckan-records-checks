@@ -452,7 +452,7 @@ Search your record here:
     <tr>
       <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43422dc8-2573-4f60-bf87-df447d57ab7a' target='_blank'>link</a></td>
-      <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>6</a></td>
+      <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>4</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -462,11 +462,11 @@ Search your record here:
       <td>2024-10-09</td>
       <td>2024-12-05</td>
       <td>10.21966/bzr6-er66</td>
-      <td>-1</td>
-      <td></td>
+      <td>0</td>
+      <td>[]</td>
       <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>1</a></td>
       <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>3</a></td>
-      <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</a></td>
@@ -769,25 +769,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -3872,7 +3853,7 @@ Search your record here:
     <tr>
       <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a></td>
-      <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>3</a></td>
+      <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>2</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3886,7 +3867,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>1</a></td>
       <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>1</a></td>
-      <td><a title='08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' href='../records/08aa4f2f-cc82-4b57-8e1d-fb45dfca7cee' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='10fdd7a8-f733-496e-ab52-c7109504b710' href='../records/10fdd7a8-f733-496e-ab52-c7109504b710' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</a></td>
