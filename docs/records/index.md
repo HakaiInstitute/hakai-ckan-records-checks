@@ -916,7 +916,7 @@ Search your record here:
       <td>dataset</td>
       <td>fishAbundanceAndDistribution, macroalgalCanopyCoverAndComposition, invertebrateAbundanceAndDistribution, other</td>
       <td>2023-04-24</td>
-      <td>2024-07-23</td>
+      <td>2025-04-21</td>
       <td>10.21966/wabn-bq33</td>
       <td>0</td>
       <td>[]</td>
@@ -935,7 +935,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2023-03-13</td>
-      <td>2024-07-23</td>
+      <td>2025-04-21</td>
       <td>10.5281/zenodo.4005400</td>
       <td>2</td>
       <td>[{'year': '2024', 'total': 2}]</td>
@@ -2312,25 +2312,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea' target='_blank'>link</a></td>
-      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>2</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-24</td>
-      <td>10.21966/63rs-yt91</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>1</a></td>
-      <td><a title='855ac3ff-6e3f-4b62-8735-b7caf49d3d87' href='../records/855ac3ff-6e3f-4b62-8735-b7caf49d3d87' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
       <td><a title='a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' href='../records/a99d7e11-3a7f-46a5-b513-ca6a78ae6dd7' target='_blank'>7</a></td>
@@ -2975,25 +2956,6 @@ Search your record here:
       <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>3</a></td>
       <td></td>
       <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a></td>
-      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>9</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>underDevelopment</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, zooplanktonBiomassAndDiversity</td>
-      <td>2022-02-04</td>
-      <td>2024-07-23</td>
-      <td>10.21966/bhqd-9361</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>7</a></td>
-      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>2</a></td>
-      <td></td>
     </tr>
     <tr>
       <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
@@ -3861,7 +3823,7 @@ Search your record here:
       <td>dataset</td>
       <td>stableCarbonIsotopes, macroalgalCanopyCoverAndComposition, seagrassCoverAndComposition</td>
       <td>2022-01-13</td>
-      <td>2024-08-02</td>
+      <td>2025-04-21</td>
       <td>10.21966/q31x-qg72</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
@@ -4361,25 +4323,6 @@ Search your record here:
       <td></td>
       <td><a title='99626ba1-f8ac-4acb-bc63-1626a09abce4' href='../records/99626ba1-f8ac-4acb-bc63-1626a09abce4' target='_blank'>1</a></td>
       <td><a title='99626ba1-f8ac-4acb-bc63-1626a09abce4' href='../records/99626ba1-f8ac-4acb-bc63-1626a09abce4' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea' target='_blank'>link</a></td>
-      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>inorganicCarbon, seaSurfaceSalinity, seaSurfaceTemperature, other</td>
-      <td>2021-03-31</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>2</a></td>
-      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>

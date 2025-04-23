@@ -26,7 +26,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-370
     - **Eov**: stableCarbonIsotopes, macroalgalCanopyCoverAndComposition, seagrassCoverAndComposition 
     - **Doi**: 10.21966/q31x-qg72 
     - **Metadata Publication**: 2022-01-13 
-    - **Metadata Revision**: 2024-08-02 
+    - **Metadata Revision**: 2025-04-21 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a> 
 
 <div id='map'></div>
