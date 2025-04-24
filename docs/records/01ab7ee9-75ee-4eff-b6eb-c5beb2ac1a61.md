@@ -26,7 +26,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b12
     - **Eov**: inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity 
     - **Doi**: 10.25921/kmam-ct93 
     - **Metadata Publication**: 2023-01-24 
-    - **Metadata Revision**: 2024-12-11 
+    - **Metadata Revision**: 2025-04-23 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b' target='_blank'>link</a> 
 
 <div id='map'></div>
@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b12
 ## Issues
 | level   | message                                                                                                                              |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Invalid resources.url.status_code: 401 for resources[1].url=https://hecate.hakai.org/erddap/tabledap/HakaiKetchikanBoLResearch.html  |
 | INFO    | Title is greater than 60 characters                                                                                                  |
 | INFO    | DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0246099 |
 | INFO    | Contact missing ORCID: contact['individual-name']='Hales, Burke' contact.get('organisation-name')='Oregon State University'          |
