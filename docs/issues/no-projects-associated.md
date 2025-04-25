@@ -96,12 +96,6 @@ This page present the list of all the records associated with the issue: **No pr
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>No projects associated</td>

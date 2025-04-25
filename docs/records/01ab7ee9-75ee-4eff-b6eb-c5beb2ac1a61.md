@@ -21,7 +21,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b12
     - **State**: active 
     - **Type**: dataset 
     - **Distributor**: Hakai Institute 
-    - **Resources Count**: 2 
+    - **Resources Count**: 1 
     - **Vertical Extent**: [{'max': '4.3', 'min': '4.3'}] 
     - **Eov**: inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity 
     - **Doi**: 10.25921/kmam-ct93 
