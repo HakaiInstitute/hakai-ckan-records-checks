@@ -870,7 +870,7 @@ Search your record here:
     <tr>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>link</a></td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>3</a></td>
+      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>4</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -884,7 +884,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' href='../records/7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' target='_blank'>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
@@ -3298,25 +3298,6 @@ Search your record here:
       <td><a title='72b34a46-cbe3-4ee5-9e96-67f015b57b33' href='../records/72b34a46-cbe3-4ee5-9e96-67f015b57b33' target='_blank'>3</a></td>
       <td><a title='72b34a46-cbe3-4ee5-9e96-67f015b57b33' href='../records/72b34a46-cbe3-4ee5-9e96-67f015b57b33' target='_blank'>2</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>Data on invasion of Calvert Island by Orthione griffenis</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>link</a></td>
-      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>7</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-24</td>
-      <td>2024-07-24</td>
-      <td>10.21966/kddh-gj22</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>2</a></td>
-      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>4</a></td>
-      <td><a title='877b645f-f0b7-4d32-9ec4-bf398ba2120d' href='../records/877b645f-f0b7-4d32-9ec4-bf398ba2120d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='99a1eab3-d210-4dbb-afb6-47afa80b2810' href='../records/99a1eab3-d210-4dbb-afb6-47afa80b2810' target='_blank'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
