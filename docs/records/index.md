@@ -471,7 +471,7 @@ Search your record here:
     <tr>
       <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43422dc8-2573-4f60-bf87-df447d57ab7a' target='_blank'>link</a></td>
-      <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>5</a></td>
+      <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>4</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -479,13 +479,13 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2024-10-09</td>
-      <td>2024-12-05</td>
+      <td>2025-04-30</td>
       <td>10.21966/bzr6-er66</td>
       <td>0</td>
       <td>[]</td>
       <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>1</a></td>
       <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>3</a></td>
-      <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</a></td>
@@ -1590,6 +1590,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='415eee64-9f0b-4745-adec-55dabe41693c' href='../records/415eee64-9f0b-4745-adec-55dabe41693c' target='_blank'>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_395aa495-de81-4947-b1c5-2c98172a6def' target='_blank'>link</a></td>
+      <td><a title='415eee64-9f0b-4745-adec-55dabe41693c' href='../records/415eee64-9f0b-4745-adec-55dabe41693c' target='_blank'>3</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-07-24</td>
+      <td>10.21966/J99C-9C14</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='415eee64-9f0b-4745-adec-55dabe41693c' href='../records/415eee64-9f0b-4745-adec-55dabe41693c' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9' target='_blank'>link</a></td>
       <td><a title='521a73f1-1a6a-42ac-8138-e261a7e7f936' href='../records/521a73f1-1a6a-42ac-8138-e261a7e7f936' target='_blank'>7</a></td>
@@ -2010,7 +2029,7 @@ Search your record here:
     <tr>
       <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 1</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5cf59eac-2fb4-4ed2-8ffc-372030c9438e' target='_blank'>link</a></td>
-      <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>2</a></td>
+      <td></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -2022,7 +2041,7 @@ Search your record here:
       <td>10.21966/wbg6-7z68</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>2</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
