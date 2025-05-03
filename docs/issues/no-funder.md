@@ -42,13 +42,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -102,13 +102,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -162,19 +162,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
+      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -186,13 +180,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
+      <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -204,19 +198,25 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -270,6 +270,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>WARNING</td>
       <td>No funder</td>
@@ -282,19 +288,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -306,13 +300,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>UAV Imagery - Coastal British Columbia - 2015</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -330,13 +318,19 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -348,13 +342,19 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
+      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
