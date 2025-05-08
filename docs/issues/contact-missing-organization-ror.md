@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2025-05-06</td>
+      <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geosptatial'</td>
+    </tr>
+    <tr>
       <td>2025-04-23</td>
       <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
       <td>INFO</td>
@@ -141,12 +147,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Saunders, Sari' contact['organisation-name']='BC Ministry of Forests, Lands and Natural Resource Operations'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geosptatial'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
