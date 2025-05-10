@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2025-05-08</td>
+      <td>Calliarthron 2023 Experiment - Environmental Data</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
+    </tr>
+    <tr>
       <td>2024-12-19</td>
       <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>ERROR</td>

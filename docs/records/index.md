@@ -32,6 +32,82 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='f6fe0015-66e5-465b-bd91-ba3b21830abb' href='../records/f6fe0015-66e5-465b-bd91-ba3b21830abb' target='_blank'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a' target='_blank'>link</a></td>
+      <td><a title='f6fe0015-66e5-465b-bd91-ba3b21830abb' href='../records/f6fe0015-66e5-465b-bd91-ba3b21830abb' target='_blank'>3</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-05-09</td>
+      <td>2025-05-09</td>
+      <td>10.21966/p6jv-pe95</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='f6fe0015-66e5-465b-bd91-ba3b21830abb' href='../records/f6fe0015-66e5-465b-bd91-ba3b21830abb' target='_blank'>2</a></td>
+      <td><a title='f6fe0015-66e5-465b-bd91-ba3b21830abb' href='../records/f6fe0015-66e5-465b-bd91-ba3b21830abb' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_87341cb3-f906-4fa5-973c-b6742aa0fbb5' target='_blank'>link</a></td>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>4</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-05-08</td>
+      <td>2025-05-08</td>
+      <td>10.21966/ks82-th39</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>2</a></td>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>4</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-05-08</td>
+      <td>2025-05-08</td>
+      <td>10.21966/n3b4-d226</td>
+      <td>0</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>2</a></td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>Calliarthron 2023 Experiment - Environmental Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e' target='_blank'>link</a></td>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>3</a></td>
+      <td>Wet Lab</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2025-05-08</td>
+      <td>2025-05-08</td>
+      <td>10.21966/7nwn-bj60</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>1</a></td>
+      <td></td>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>2</a></td>
+    </tr>
+    <tr>
       <td><a title='81815aec-68c0-437e-b477-f8b8f9eb99a1' href='../records/81815aec-68c0-437e-b477-f8b8f9eb99a1' target='_blank'>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_53730b70-be6f-4e24-8b9d-4a5e2c491121' target='_blank'>link</a></td>
       <td><a title='81815aec-68c0-437e-b477-f8b8f9eb99a1' href='../records/81815aec-68c0-437e-b477-f8b8f9eb99a1' target='_blank'>7</a></td>
@@ -91,7 +167,7 @@ Search your record here:
     <tr>
       <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52d4f546-dfdf-4bf1-b1ad-f6ec6f2663c0' target='_blank'>link</a></td>
-      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>6</a></td>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>4</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -101,11 +177,11 @@ Search your record here:
       <td>2025-04-01</td>
       <td>2025-04-01</td>
       <td>10.21966/8yp1-7m94</td>
-      <td>-1</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
+      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
-      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
-      <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='2041dbb0-61ff-4279-8e8f-ef4096541c2a' href='../records/2041dbb0-61ff-4279-8e8f-ef4096541c2a' target='_blank'>Understory kelp biomass data from BC Central Coast</a></td>
