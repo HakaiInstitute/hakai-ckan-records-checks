@@ -1571,25 +1571,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='963df151-9695-424f-9fcd-031d2a7c4b83' href='../records/963df151-9695-424f-9fcd-031d2a7c4b83' target='_blank'>Stream Event Sampling - Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c981d76-5fea-44af-904f-58b159838b0a' target='_blank'>link</a></td>
-      <td><a title='963df151-9695-424f-9fcd-031d2a7c4b83' href='../records/963df151-9695-424f-9fcd-031d2a7c4b83' target='_blank'>6</a></td>
-      <td>Watersheds, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-30</td>
-      <td>2024-07-24</td>
-      <td>10.21966/ywbk-5h57</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='963df151-9695-424f-9fcd-031d2a7c4b83' href='../records/963df151-9695-424f-9fcd-031d2a7c4b83' target='_blank'>3</a></td>
-      <td><a title='963df151-9695-424f-9fcd-031d2a7c4b83' href='../records/963df151-9695-424f-9fcd-031d2a7c4b83' target='_blank'>2</a></td>
-      <td><a title='963df151-9695-424f-9fcd-031d2a7c4b83' href='../records/963df151-9695-424f-9fcd-031d2a7c4b83' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='bd06480f-2de9-4cd5-8c87-aaffed2c2478' href='../records/bd06480f-2de9-4cd5-8c87-aaffed2c2478' target='_blank'>Stream Event Sampling - Calvert Island - 2015-2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_de9b2a6d-9ba0-4384-9adf-22abc0eb061f' target='_blank'>link</a></td>
       <td><a title='bd06480f-2de9-4cd5-8c87-aaffed2c2478' href='../records/bd06480f-2de9-4cd5-8c87-aaffed2c2478' target='_blank'>6</a></td>
