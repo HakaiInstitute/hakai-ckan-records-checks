@@ -324,6 +324,18 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Salomon, Anne' contact['organisation-name']='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Salomon, Anne' contact['organisation-name']='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Timmer, Brian' contact['organisation-name']='University Of Victoria'</td>
