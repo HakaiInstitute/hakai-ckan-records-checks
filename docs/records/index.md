@@ -680,7 +680,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -694,7 +694,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -3354,25 +3354,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='5782d393-c8e3-4a16-8916-b76476369bb0' href='../records/5782d393-c8e3-4a16-8916-b76476369bb0' target='_blank'>3</a></td>
       <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c113d7a8-6a46-46fc-b49c-a4e69afedfbc' target='_blank'>link</a></td>
-      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, inorganicCarbon</td>
-      <td>2022-01-24</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.521066</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>2</a></td>
-      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
