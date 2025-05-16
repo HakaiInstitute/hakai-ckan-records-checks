@@ -23,6 +23,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
     </tr>
     <tr>
+      <td>2025-04-21</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.ncbi.nlm.nih.gov/bioproject/PRJNA865652/</td>
+    </tr>
+    <tr>
       <td>2024-12-19</td>
       <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>ERROR</td>
@@ -81,12 +87,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleResearch.html</td>
-    </tr>
-    <tr>
-      <td>2024-07-12</td>
-      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
     </tr>
   </tbody>
 </table>
