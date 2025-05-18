@@ -48,12 +48,6 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
       <td>WARNING</td>
       <td>No publisher</td>
@@ -61,6 +55,12 @@ This page present the list of all the records associated with the issue: **No pu
     <tr>
       <td>2024-07-23</td>
       <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -78,13 +78,13 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
@@ -144,6 +144,12 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>WARNING</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
@@ -168,25 +174,19 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
-      <td>WARNING</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Kelp forest communities along an otter gradient</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
