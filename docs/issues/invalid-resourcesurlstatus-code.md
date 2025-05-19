@@ -41,12 +41,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-itrackfeb2023</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 500 for resources[1].url=https://drive.google.com/open?id=1VoS3DQvDkm5mOzSzhUoD1bf7_qdf_NrH</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>ERROR</td>
