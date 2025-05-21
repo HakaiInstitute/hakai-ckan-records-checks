@@ -604,7 +604,7 @@ Search your record here:
     <tr>
       <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_355467ad-104d-40a6-b06e-52a67bfe247e' target='_blank'>link</a></td>
-      <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>2</a></td>
+      <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -618,7 +618,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
+      <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='8378f933-8de7-4590-8897-58044b410ca5' href='../records/8378f933-8de7-4590-8897-58044b410ca5' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
@@ -718,7 +718,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>4</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -732,7 +732,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -902,6 +902,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1303,6 +1322,25 @@ Search your record here:
       <td><a title='2cfd812a-b031-4cf8-b801-e58dc1331a63' href='../records/2cfd812a-b031-4cf8-b801-e58dc1331a63' target='_blank'>6</a></td>
       <td><a title='2cfd812a-b031-4cf8-b801-e58dc1331a63' href='../records/2cfd812a-b031-4cf8-b801-e58dc1331a63' target='_blank'>1</a></td>
       <td><a title='2cfd812a-b031-4cf8-b801-e58dc1331a63' href='../records/2cfd812a-b031-4cf8-b801-e58dc1331a63' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6dc431f0-3ca4-4c48-992c-df82d6f8521c' target='_blank'>link</a></td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>6</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-NC-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-17</td>
+      <td>2024-07-23</td>
+      <td>10.21966/ks3a-kg21</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>2</a></td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>3</a></td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
