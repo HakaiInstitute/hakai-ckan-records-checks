@@ -80,7 +80,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2025-05-09</td>
-      <td>2025-05-12</td>
+      <td>2025-05-21</td>
       <td>10.21966/p6jv-pe95</td>
       <td>0</td>
       <td>[]</td>
@@ -357,7 +357,7 @@ Search your record here:
     <tr>
       <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>Sentinels of Change Sea surface temperature time series data along the British Columbia Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5185ac00-8148-4472-adfd-21741d8a10ce' target='_blank'>link</a></td>
-      <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>1</a></td>
+      <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>2</a></td>
       <td>Sentinels of Change</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -371,7 +371,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>1</a></td>
       <td></td>
-      <td></td>
+      <td><a title='258b52ec-c791-4665-8cd0-9330eb8a4bd7' href='../records/258b52ec-c791-4665-8cd0-9330eb8a4bd7' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='4c8e705a-665e-4668-bde3-f05be9debc90' href='../records/4c8e705a-665e-4668-bde3-f05be9debc90' target='_blank'>Denali Fault - 2024 - Airborne LiDAR Survey</a></td>
@@ -604,7 +604,7 @@ Search your record here:
     <tr>
       <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_355467ad-104d-40a6-b06e-52a67bfe247e' target='_blank'>link</a></td>
-      <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>3</a></td>
+      <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -618,7 +618,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='7878d267-7edf-428c-8e0c-2a6cdf25a994' href='../records/7878d267-7edf-428c-8e0c-2a6cdf25a994' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='8378f933-8de7-4590-8897-58044b410ca5' href='../records/8378f933-8de7-4590-8897-58044b410ca5' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
@@ -642,7 +642,7 @@ Search your record here:
     <tr>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e' target='_blank'>link</a></td>
-      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>8</a></td>
+      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>9</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -656,7 +656,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>5</a></td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>3</a></td>
-      <td></td>
+      <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
@@ -718,7 +718,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -732,7 +732,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -902,25 +902,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -3169,7 +3150,7 @@ Search your record here:
     <tr>
       <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>link</a></td>
-      <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>2</a></td>
+      <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>3</a></td>
       <td>Oceanography, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3183,7 +3164,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
+      <td><a title='2597fa4f-a883-4179-a5b6-f6e225519714' href='../records/2597fa4f-a883-4179-a5b6-f6e225519714' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</a></td>
