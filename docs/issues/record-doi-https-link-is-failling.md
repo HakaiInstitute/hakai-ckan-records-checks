@@ -17,22 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2025-01-30</td>
-      <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
+      <td>2024-12-04</td>
+      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/n0h9-cq15 status_code=502</td>
-    </tr>
-    <tr>
-      <td>2024-11-27</td>
-      <td>Sentinels of Change Sea surface temperature time series data along the British Columbia Coast</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/4kr2-jc55 status_code=502</td>
-    </tr>
-    <tr>
-      <td>2024-08-30</td>
-      <td>Motile Invertebrate Surveys - BC Central Coast</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/0052-wk15 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/CZ48-D388 status_code=502</td>
     </tr>
   </tbody>
 </table>

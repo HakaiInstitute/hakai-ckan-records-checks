@@ -1535,7 +1535,7 @@ Search your record here:
     <tr>
       <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_71447a55-3eca-41b1-87ff-b8ef69314c4d' target='_blank'>link</a></td>
-      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>2</a></td>
+      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>3</a></td>
       <td>Geospatial, 100 Islands</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1549,7 +1549,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
+      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>Adjusted Koeye River stage and temperature from 2013 to 2021</a></td>
@@ -4209,25 +4209,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='1d19d31d-4132-42fa-9340-0560532e55da' href='../records/1d19d31d-4132-42fa-9340-0560532e55da' target='_blank'>2</a></td>
       <td><a title='1d19d31d-4132-42fa-9340-0560532e55da' href='../records/1d19d31d-4132-42fa-9340-0560532e55da' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4' target='_blank'>link</a></td>
-      <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>5</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>underDevelopment</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2021-09-23</td>
-      <td>2024-07-24</td>
-      <td>10.21966/nmds-rx42</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>3</a></td>
-      <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
