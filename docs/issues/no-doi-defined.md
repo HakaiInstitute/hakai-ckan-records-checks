@@ -156,13 +156,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute Sensor Network</td>
+      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Hakai Institute Sensor Network</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -175,6 +175,12 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2024-07-23</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -210,12 +216,6 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Vegetated Islands Polygons - 100 Islands Research</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
@@ -234,13 +234,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</td>
+      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
+      <td>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -295,12 +295,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2024-07-23</td>
       <td>Kelp forest communities along an otter gradient</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
