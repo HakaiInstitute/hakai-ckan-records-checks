@@ -4423,7 +4423,7 @@ Search your record here:
     <tr>
       <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea' target='_blank'>link</a></td>
-      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>3</a></td>
+      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4437,7 +4437,7 @@ Search your record here:
       <td></td>
       <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>2</a></td>
       <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='cf6fc938-2363-49d5-a8fc-cbedfff8019d' href='../records/cf6fc938-2363-49d5-a8fc-cbedfff8019d' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
