@@ -1780,25 +1780,6 @@ Search your record here:
       <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='765b3a4d-7a99-4352-bafe-af044f375fdf' href='../records/765b3a4d-7a99-4352-bafe-af044f375fdf' target='_blank'>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e' target='_blank'>link</a></td>
-      <td><a title='765b3a4d-7a99-4352-bafe-af044f375fdf' href='../records/765b3a4d-7a99-4352-bafe-af044f375fdf' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>particulateMatter, stableCarbonIsotopes</td>
-      <td>2022-03-29</td>
-      <td>2024-07-23</td>
-      <td>10.21966/hpqq-0k76</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='765b3a4d-7a99-4352-bafe-af044f375fdf' href='../records/765b3a4d-7a99-4352-bafe-af044f375fdf' target='_blank'>3</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='76c7cb7c-7f5a-4156-9b65-b403bce05327' href='../records/76c7cb7c-7f5a-4156-9b65-b403bce05327' target='_blank'>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4c80a391-e74a-48cf-87ae-67632e485725' target='_blank'>link</a></td>
       <td><a title='76c7cb7c-7f5a-4156-9b65-b403bce05327' href='../records/76c7cb7c-7f5a-4156-9b65-b403bce05327' target='_blank'>7</a></td>
@@ -3169,7 +3150,7 @@ Search your record here:
     <tr>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>link</a></td>
-      <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>6</a></td>
+      <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>7</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3183,7 +3164,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>5</a></td>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7d3f25e0-cc38-419b-bca9-051f8d8569fa' href='../records/7d3f25e0-cc38-419b-bca9-051f8d8569fa' target='_blank'>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</a></td>
