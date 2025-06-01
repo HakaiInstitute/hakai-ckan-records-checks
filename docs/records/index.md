@@ -718,7 +718,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -732,7 +732,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -1554,7 +1554,7 @@ Search your record here:
     <tr>
       <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>Adjusted Koeye River stage and temperature from 2013 to 2021</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_44dbd3c8-93bf-4e2f-9532-cbaebcf4a2be' target='_blank'>link</a></td>
-      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>10</a></td>
+      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>11</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1568,7 +1568,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>5</a></td>
       <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>4</a></td>
-      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>1</a></td>
+      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='8798750c-28cd-4b89-a19f-64eaf3d6789f' href='../records/8798750c-28cd-4b89-a19f-64eaf3d6789f' target='_blank'>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</a></td>
@@ -2749,6 +2749,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='77360042-77f4-49fc-8ba3-907f95b50d4b' href='../records/77360042-77f4-49fc-8ba3-907f95b50d4b' target='_blank'>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96' target='_blank'>link</a></td>
+      <td><a title='77360042-77f4-49fc-8ba3-907f95b50d4b' href='../records/77360042-77f4-49fc-8ba3-907f95b50d4b' target='_blank'>6</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, macroalgalCanopyCoverAndComposition</td>
+      <td>2022-03-02</td>
+      <td>2024-07-23</td>
+      <td>10.21966/82bd-ks94</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='77360042-77f4-49fc-8ba3-907f95b50d4b' href='../records/77360042-77f4-49fc-8ba3-907f95b50d4b' target='_blank'>3</a></td>
+      <td><a title='77360042-77f4-49fc-8ba3-907f95b50d4b' href='../records/77360042-77f4-49fc-8ba3-907f95b50d4b' target='_blank'>2</a></td>
+      <td><a title='77360042-77f4-49fc-8ba3-907f95b50d4b' href='../records/77360042-77f4-49fc-8ba3-907f95b50d4b' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='a0a1d64b-474d-43df-80bb-5e42ddcc9fb9' href='../records/a0a1d64b-474d-43df-80bb-5e42ddcc9fb9' target='_blank'>Owikeno Lake Bathymetric Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9' target='_blank'>link</a></td>
       <td><a title='a0a1d64b-474d-43df-80bb-5e42ddcc9fb9' href='../records/a0a1d64b-474d-43df-80bb-5e42ddcc9fb9' target='_blank'>5</a></td>
@@ -3373,6 +3392,25 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>2</a></td>
       <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='72b34a46-cbe3-4ee5-9e96-67f015b57b33' href='../records/72b34a46-cbe3-4ee5-9e96-67f015b57b33' target='_blank'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d' target='_blank'>link</a></td>
+      <td><a title='72b34a46-cbe3-4ee5-9e96-67f015b57b33' href='../records/72b34a46-cbe3-4ee5-9e96-67f015b57b33' target='_blank'>5</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, dissolvedOrganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.715740</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='72b34a46-cbe3-4ee5-9e96-67f015b57b33' href='../records/72b34a46-cbe3-4ee5-9e96-67f015b57b33' target='_blank'>3</a></td>
+      <td><a title='72b34a46-cbe3-4ee5-9e96-67f015b57b33' href='../records/72b34a46-cbe3-4ee5-9e96-67f015b57b33' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
