@@ -2977,25 +2977,6 @@ Search your record here:
       <td><a title='b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' href='../records/b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62de21ed-90fb-422a-9c55-29c513a00f95' target='_blank'>link</a></td>
-      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>8</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>2</a></td>
-      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>6</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='dd36f4af-b377-4abd-bdcd-194698209a70' href='../records/dd36f4af-b377-4abd-bdcd-194698209a70' target='_blank'>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d' target='_blank'>link</a></td>
       <td><a title='dd36f4af-b377-4abd-bdcd-194698209a70' href='../records/dd36f4af-b377-4abd-bdcd-194698209a70' target='_blank'>11</a></td>
