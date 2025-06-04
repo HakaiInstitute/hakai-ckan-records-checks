@@ -1305,25 +1305,6 @@ Search your record here:
       <td><a title='2cfd812a-b031-4cf8-b801-e58dc1331a63' href='../records/2cfd812a-b031-4cf8-b801-e58dc1331a63' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6dc431f0-3ca4-4c48-992c-df82d6f8521c' target='_blank'>link</a></td>
-      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>6</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>CC-BY-NC-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-17</td>
-      <td>2024-07-23</td>
-      <td>10.21966/ks3a-kg21</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>2</a></td>
-      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>3</a></td>
-      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
       <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>13</a></td>
@@ -2977,6 +2958,25 @@ Search your record here:
       <td><a title='b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' href='../records/b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' target='_blank'>1</a></td>
     </tr>
     <tr>
+      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62de21ed-90fb-422a-9c55-29c513a00f95' target='_blank'>link</a></td>
+      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>8</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>2</a></td>
+      <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>6</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='dd36f4af-b377-4abd-bdcd-194698209a70' href='../records/dd36f4af-b377-4abd-bdcd-194698209a70' target='_blank'>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d' target='_blank'>link</a></td>
       <td><a title='dd36f4af-b377-4abd-bdcd-194698209a70' href='../records/dd36f4af-b377-4abd-bdcd-194698209a70' target='_blank'>11</a></td>
@@ -3449,25 +3449,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='a36f68bf-abfd-45ac-ac1d-e38140993ebd' href='../records/a36f68bf-abfd-45ac-ac1d-e38140993ebd' target='_blank'>3</a></td>
       <td><a title='a36f68bf-abfd-45ac-ac1d-e38140993ebd' href='../records/a36f68bf-abfd-45ac-ac1d-e38140993ebd' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='adde22b7-0aaa-41ca-9b2a-c48393a7d7e3' href='../records/adde22b7-0aaa-41ca-9b2a-c48393a7d7e3' target='_blank'>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48c8f830-f281-4ca1-9a81-ea690e70cb7a' target='_blank'>link</a></td>
-      <td><a title='adde22b7-0aaa-41ca-9b2a-c48393a7d7e3' href='../records/adde22b7-0aaa-41ca-9b2a-c48393a7d7e3' target='_blank'>2</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, inorganicCarbon</td>
-      <td>2022-01-24</td>
-      <td>2024-07-23</td>
-      <td>10.21966/1.715738</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='adde22b7-0aaa-41ca-9b2a-c48393a7d7e3' href='../records/adde22b7-0aaa-41ca-9b2a-c48393a7d7e3' target='_blank'>2</a></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
