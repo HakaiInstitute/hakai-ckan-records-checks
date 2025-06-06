@@ -2806,6 +2806,25 @@ Search your record here:
       <td><a title='a0a1d64b-474d-43df-80bb-5e42ddcc9fb9' href='../records/a0a1d64b-474d-43df-80bb-5e42ddcc9fb9' target='_blank'>1</a></td>
     </tr>
     <tr>
+      <td><a title='bb6dc974-ec2a-49b9-a936-f68063648d8b' href='../records/bb6dc974-ec2a-49b9-a936-f68063648d8b' target='_blank'>Geology - Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2' target='_blank'>link</a></td>
+      <td><a title='bb6dc974-ec2a-49b9-a936-f68063648d8b' href='../records/bb6dc974-ec2a-49b9-a936-f68063648d8b' target='_blank'>3</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-02</td>
+      <td>2024-07-23</td>
+      <td>10.21966/f6bn-9773</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='bb6dc974-ec2a-49b9-a936-f68063648d8b' href='../records/bb6dc974-ec2a-49b9-a936-f68063648d8b' target='_blank'>1</a></td>
+      <td><a title='bb6dc974-ec2a-49b9-a936-f68063648d8b' href='../records/bb6dc974-ec2a-49b9-a936-f68063648d8b' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14' target='_blank'>link</a></td>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>5</a></td>
