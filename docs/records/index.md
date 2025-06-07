@@ -906,25 +906,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>3</a></td>
@@ -4442,7 +4423,7 @@ Search your record here:
     <tr>
       <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea' target='_blank'>link</a></td>
-      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>4</a></td>
+      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4456,7 +4437,7 @@ Search your record here:
       <td></td>
       <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>2</a></td>
       <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>1</a></td>
-      <td><a title='c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' href='../records/c7ab8ec6-9720-4ae5-a0b3-f7c030a66d65' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='cf6fc938-2363-49d5-a8fc-cbedfff8019d' href='../records/cf6fc938-2363-49d5-a8fc-cbedfff8019d' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
