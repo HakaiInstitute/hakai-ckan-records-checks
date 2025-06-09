@@ -718,7 +718,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -732,7 +732,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -2690,25 +2690,6 @@ Search your record here:
       <td><a title='6f3a5234-01a5-40d0-966e-4977d93f6fe4' href='../records/6f3a5234-01a5-40d0-966e-4977d93f6fe4' target='_blank'>4</a></td>
       <td><a title='6f3a5234-01a5-40d0-966e-4977d93f6fe4' href='../records/6f3a5234-01a5-40d0-966e-4977d93f6fe4' target='_blank'>1</a></td>
       <td><a title='6f3a5234-01a5-40d0-966e-4977d93f6fe4' href='../records/6f3a5234-01a5-40d0-966e-4977d93f6fe4' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='b09ae744-fc68-49d6-89bb-71b657d6c0b5' href='../records/b09ae744-fc68-49d6-89bb-71b657d6c0b5' target='_blank'>Field Station Structures - Calvert Island</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1b517e6f-4f0a-4577-b7c2-c37f95d5b413' target='_blank'>link</a></td>
-      <td><a title='b09ae744-fc68-49d6-89bb-71b657d6c0b5' href='../records/b09ae744-fc68-49d6-89bb-71b657d6c0b5' target='_blank'>3</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-03</td>
-      <td>2024-07-23</td>
-      <td>10.21966/s2m2-0386</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='b09ae744-fc68-49d6-89bb-71b657d6c0b5' href='../records/b09ae744-fc68-49d6-89bb-71b657d6c0b5' target='_blank'>1</a></td>
-      <td><a title='b09ae744-fc68-49d6-89bb-71b657d6c0b5' href='../records/b09ae744-fc68-49d6-89bb-71b657d6c0b5' target='_blank'>2</a></td>
-      <td></td>
     </tr>
     <tr>
       <td><a title='ef0d9157-1d5a-4100-86e7-c257bd513476' href='../records/ef0d9157-1d5a-4100-86e7-c257bd513476' target='_blank'>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</a></td>
