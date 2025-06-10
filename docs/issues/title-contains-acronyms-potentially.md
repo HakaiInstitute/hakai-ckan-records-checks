@@ -48,12 +48,6 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2025-04-02</td>
-      <td>Elliot Creek Aerial Photo and LiDAR Survey</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>2025-04-02</td>
       <td>Mount Robson Aerial Photo and LiDAR Survey</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
