@@ -165,6 +165,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' href='../records/73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' target='_blank'>Elliot Creek Aerial Photo and LiDAR Survey</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_31e15496-e906-43f4-9120-2446ab6125b2' target='_blank'>link</a></td>
+      <td><a title='73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' href='../records/73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' target='_blank'>5</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-04-02</td>
+      <td>2025-04-02</td>
+      <td>10.21966/g64t-ec45</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' href='../records/73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' target='_blank'>1</a></td>
+      <td><a title='73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' href='../records/73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' target='_blank'>3</a></td>
+      <td><a title='73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' href='../records/73db133e-fc66-4dc7-9cbe-7ac182ad0bc0' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='e3973346-0462-4cfe-9c00-0d057b1b7a89' href='../records/e3973346-0462-4cfe-9c00-0d057b1b7a89' target='_blank'>Place Glacier Aerial Photo and LiDAR Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_98807d0a-ba68-41e3-a2f5-e3248b459904' target='_blank'>link</a></td>
       <td><a title='e3973346-0462-4cfe-9c00-0d057b1b7a89' href='../records/e3973346-0462-4cfe-9c00-0d057b1b7a89' target='_blank'>6</a></td>
