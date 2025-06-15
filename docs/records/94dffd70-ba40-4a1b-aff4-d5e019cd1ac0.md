@@ -37,6 +37,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-555
 ## Issues
 | level   | message                                                                                                                                       |
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.21966/bhqd-9361 status_code=502                                                         |
 | INFO    | Title is greater than 60 characters                                                                                                           |
 | INFO    | No version                                                                                                                                    |
 | INFO    | Contact missing ORCID: contact['individual-name']='Mahara, Natalie' contact.get('organisation-name')='University of British Columbia'         |
