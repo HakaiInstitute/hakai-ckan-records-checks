@@ -279,6 +279,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='63826df7-858d-470a-8665-fec7e8675c76' href='../records/63826df7-858d-470a-8665-fec7e8675c76' target='_blank'>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d' target='_blank'>link</a></td>
+      <td><a title='63826df7-858d-470a-8665-fec7e8675c76' href='../records/63826df7-858d-470a-8665-fec7e8675c76' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-01-10</td>
+      <td>2025-03-04</td>
+      <td>10.21966/zfxe-rd73</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='63826df7-858d-470a-8665-fec7e8675c76' href='../records/63826df7-858d-470a-8665-fec7e8675c76' target='_blank'>2</a></td>
+      <td><a title='63826df7-858d-470a-8665-fec7e8675c76' href='../records/63826df7-858d-470a-8665-fec7e8675c76' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' href='../records/cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' target='_blank'>Data record does not exist anymore: Geomorphology - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9fafb4c8-e61f-4372-ac71-c1ddbe57d80c' target='_blank'>link</a></td>
       <td><a title='cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' href='../records/cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' target='_blank'>5</a></td>
@@ -452,7 +471,7 @@ Search your record here:
     <tr>
       <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6e947d50-8392-42ce-bff9-24b126c7cab7' target='_blank'>link</a></td>
-      <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>4</a></td>
+      <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>3</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -466,7 +485,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>3</a></td>
       <td></td>
-      <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
@@ -699,7 +718,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -713,7 +732,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -3036,7 +3055,7 @@ Search your record here:
     <tr>
       <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a></td>
-      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>10</a></td>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>9</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>underDevelopment</td>
@@ -3050,7 +3069,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>7</a></td>
       <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>2</a></td>
-      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
