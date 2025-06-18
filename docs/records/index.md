@@ -2143,7 +2143,7 @@ Search your record here:
     <tr>
       <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 1</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5cf59eac-2fb4-4ed2-8ffc-372030c9438e' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>2</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -2155,7 +2155,7 @@ Search your record here:
       <td>10.21966/wbg6-7z68</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
+      <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>2</a></td>
       <td></td>
       <td></td>
     </tr>
