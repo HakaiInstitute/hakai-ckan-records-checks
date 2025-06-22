@@ -488,25 +488,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7' target='_blank'>link</a></td>
-      <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>1</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>phytoplanktonBiomassAndDiversity</td>
-      <td>2024-10-10</td>
-      <td>2024-10-10</td>
-      <td>10.21966/jv5k-3k59</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>1</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='19fef9a5-de00-4d72-ab8e-f092243aa7a6' href='../records/19fef9a5-de00-4d72-ab8e-f092243aa7a6' target='_blank'>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a' target='_blank'>link</a></td>
       <td><a title='19fef9a5-de00-4d72-ab8e-f092243aa7a6' href='../records/19fef9a5-de00-4d72-ab8e-f092243aa7a6' target='_blank'>6</a></td>
