@@ -488,6 +488,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7' target='_blank'>link</a></td>
+      <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>1</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>phytoplanktonBiomassAndDiversity</td>
+      <td>2024-10-10</td>
+      <td>2024-10-10</td>
+      <td>10.21966/jv5k-3k59</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='19fef9a5-de00-4d72-ab8e-f092243aa7a6' href='../records/19fef9a5-de00-4d72-ab8e-f092243aa7a6' target='_blank'>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a' target='_blank'>link</a></td>
       <td><a title='19fef9a5-de00-4d72-ab8e-f092243aa7a6' href='../records/19fef9a5-de00-4d72-ab8e-f092243aa7a6' target='_blank'>6</a></td>
@@ -965,7 +984,7 @@ Search your record here:
     <tr>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>link</a></td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>3</a></td>
+      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>4</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -979,7 +998,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' href='../records/7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' target='_blank'>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
@@ -1169,25 +1188,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='7f084dad-2c8e-4289-8372-90e2d163615d' href='../records/7f084dad-2c8e-4289-8372-90e2d163615d' target='_blank'>1</a></td>
       <td><a title='7f084dad-2c8e-4289-8372-90e2d163615d' href='../records/7f084dad-2c8e-4289-8372-90e2d163615d' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1' target='_blank'>link</a></td>
-      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>5</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2023-01-18</td>
-      <td>2024-12-05</td>
-      <td>10.21966/7hcz-7h72</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>2</a></td>
-      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
