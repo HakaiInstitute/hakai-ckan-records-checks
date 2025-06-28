@@ -906,6 +906,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>3</a></td>
@@ -2328,25 +2347,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>1</a></td>
       <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='0438cf3f-f2b0-419a-aa23-38d27767fe88' href='../records/0438cf3f-f2b0-419a-aa23-38d27767fe88' target='_blank'>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c' target='_blank'>link</a></td>
-      <td><a title='0438cf3f-f2b0-419a-aa23-38d27767fe88' href='../records/0438cf3f-f2b0-419a-aa23-38d27767fe88' target='_blank'>6</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-24</td>
-      <td>10.21966/ywpm-xf34</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='0438cf3f-f2b0-419a-aa23-38d27767fe88' href='../records/0438cf3f-f2b0-419a-aa23-38d27767fe88' target='_blank'>3</a></td>
-      <td><a title='0438cf3f-f2b0-419a-aa23-38d27767fe88' href='../records/0438cf3f-f2b0-419a-aa23-38d27767fe88' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
