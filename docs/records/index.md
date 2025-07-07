@@ -811,25 +811,6 @@ Search your record here:
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='e867379a-180c-4b00-b5e6-2f60a6a08203' href='../records/e867379a-180c-4b00-b5e6-2f60a6a08203' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b8483c9e-81e6-4e1a-b09f-2d66f8fee9a2' target='_blank'>link</a></td>
-      <td><a title='e867379a-180c-4b00-b5e6-2f60a6a08203' href='../records/e867379a-180c-4b00-b5e6-2f60a6a08203' target='_blank'>2</a></td>
-      <td>Airborne Coastal Observatory, Nearshore, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>macroalgalCanopyCoverAndComposition</td>
-      <td>2024-03-15</td>
-      <td>2024-07-17</td>
-      <td>10.21966/fmw1-8w35</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='e867379a-180c-4b00-b5e6-2f60a6a08203' href='../records/e867379a-180c-4b00-b5e6-2f60a6a08203' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='79e2265a-9068-4ee9-a69a-8c248535ff92' href='../records/79e2265a-9068-4ee9-a69a-8c248535ff92' target='_blank'>Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c24f23f0-8d16-4bfd-835a-5475f1ecd8e8' target='_blank'>link</a></td>
       <td><a title='79e2265a-9068-4ee9-a69a-8c248535ff92' href='../records/79e2265a-9068-4ee9-a69a-8c248535ff92' target='_blank'>3</a></td>
