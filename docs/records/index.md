@@ -1022,7 +1022,7 @@ Search your record here:
     <tr>
       <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_16ae186b-9d99-42cf-b18d-09f9bb0501d7' target='_blank'>link</a></td>
-      <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>8</a></td>
+      <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>7</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1036,7 +1036,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>4</a></td>
       <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>2</a></td>
-      <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>2</a></td>
+      <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</a></td>
@@ -1649,7 +1649,7 @@ Search your record here:
     <tr>
       <td><a title='1ef6aac6-1b5e-44d4-b0ae-952621354ccf' href='../records/1ef6aac6-1b5e-44d4-b0ae-952621354ccf' target='_blank'>Ecosystem Comparison Plots - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8' target='_blank'>link</a></td>
-      <td><a title='1ef6aac6-1b5e-44d4-b0ae-952621354ccf' href='../records/1ef6aac6-1b5e-44d4-b0ae-952621354ccf' target='_blank'>8</a></td>
+      <td><a title='1ef6aac6-1b5e-44d4-b0ae-952621354ccf' href='../records/1ef6aac6-1b5e-44d4-b0ae-952621354ccf' target='_blank'>7</a></td>
       <td>Geospatial, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1663,7 +1663,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='1ef6aac6-1b5e-44d4-b0ae-952621354ccf' href='../records/1ef6aac6-1b5e-44d4-b0ae-952621354ccf' target='_blank'>5</a></td>
       <td><a title='1ef6aac6-1b5e-44d4-b0ae-952621354ccf' href='../records/1ef6aac6-1b5e-44d4-b0ae-952621354ccf' target='_blank'>2</a></td>
-      <td><a title='1ef6aac6-1b5e-44d4-b0ae-952621354ccf' href='../records/1ef6aac6-1b5e-44d4-b0ae-952621354ccf' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='2784dbfb-3576-4522-a974-34e256f70dc6' href='../records/2784dbfb-3576-4522-a974-34e256f70dc6' target='_blank'>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</a></td>
