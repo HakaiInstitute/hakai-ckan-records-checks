@@ -2179,25 +2179,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b5207300-9f76-4f14-ae6f-a08ed6f5a213' target='_blank'>link</a></td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>6</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>particulateMatter, dissolvedOrganicCarbon</td>
-      <td>2022-03-25</td>
-      <td>2024-07-23</td>
-      <td>10.21966/66x5-a210</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>4</a></td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>1</a></td>
-      <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='e88286d7-1388-4258-a56b-8b5b8be4a293' href='../records/e88286d7-1388-4258-a56b-8b5b8be4a293' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34' target='_blank'>link</a></td>
       <td><a title='e88286d7-1388-4258-a56b-8b5b8be4a293' href='../records/e88286d7-1388-4258-a56b-8b5b8be4a293' target='_blank'>2</a></td>
