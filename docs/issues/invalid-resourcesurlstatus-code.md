@@ -35,12 +35,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
     </tr>
     <tr>
-      <td>2024-12-19</td>
-      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-itrackfeb2023</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>ERROR</td>

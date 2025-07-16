@@ -319,7 +319,7 @@ Search your record here:
     <tr>
       <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af344fb9-4901-470c-a441-41f11ee2ccd7' target='_blank'>link</a></td>
-      <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>4</a></td>
+      <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>3</a></td>
       <td>Wet Lab</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -333,7 +333,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>2</a></td>
+      <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' href='../records/f7da0cd4-c113-4fd1-9de7-ab9370e4ed29' target='_blank'>High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia</a></td>
@@ -2139,25 +2139,6 @@ Search your record here:
       <td><a title='a68e2f4f-657f-4977-aaa1-c96d8efd34b5' href='../records/a68e2f4f-657f-4977-aaa1-c96d8efd34b5' target='_blank'>3</a></td>
       <td><a title='a68e2f4f-657f-4977-aaa1-c96d8efd34b5' href='../records/a68e2f4f-657f-4977-aaa1-c96d8efd34b5' target='_blank'>4</a></td>
       <td><a title='a68e2f4f-657f-4977-aaa1-c96d8efd34b5' href='../records/a68e2f4f-657f-4977-aaa1-c96d8efd34b5' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 1</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5cf59eac-2fb4-4ed2-8ffc-372030c9438e' target='_blank'>link</a></td>
-      <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>2</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-25</td>
-      <td>2024-07-23</td>
-      <td>10.21966/wbg6-7z68</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='d3fe7788-7aab-428c-b37e-9d4c1e951243' href='../records/d3fe7788-7aab-428c-b37e-9d4c1e951243' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td><a title='de7a25e2-9140-44bb-baff-781f49cd0173' href='../records/de7a25e2-9140-44bb-baff-781f49cd0173' target='_blank'>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</a></td>
