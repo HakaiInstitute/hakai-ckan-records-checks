@@ -794,7 +794,7 @@ Search your record here:
     <tr>
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>link</a></td>
-      <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>2</a></td>
+      <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>3</a></td>
       <td>Oceanography, Nearshore, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -808,7 +808,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>1</a></td>
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='e867379a-180c-4b00-b5e6-2f60a6a08203' href='../records/e867379a-180c-4b00-b5e6-2f60a6a08203' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a></td>
