@@ -794,7 +794,7 @@ Search your record here:
     <tr>
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>link</a></td>
-      <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>3</a></td>
+      <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>2</a></td>
       <td>Oceanography, Nearshore, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -808,7 +808,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>1</a></td>
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>1</a></td>
-      <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e867379a-180c-4b00-b5e6-2f60a6a08203' href='../records/e867379a-180c-4b00-b5e6-2f60a6a08203' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a></td>
@@ -902,25 +902,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
