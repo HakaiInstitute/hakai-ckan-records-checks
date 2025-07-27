@@ -2293,25 +2293,6 @@ Search your record here:
       <td><a title='bf2ca511-1f75-477b-bed4-38de9b18bcf1' href='../records/bf2ca511-1f75-477b-bed4-38de9b18bcf1' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='d0b8f5be-fb8e-4de6-80ce-da228c483051' href='../records/d0b8f5be-fb8e-4de6-80ce-da228c483051' target='_blank'>Bamfield Region UAV Imagery and Surface Model Data</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_40d86401-0e95-4ff3-b1c7-25e4e9138157' target='_blank'>link</a></td>
-      <td><a title='d0b8f5be-fb8e-4de6-80ce-da228c483051' href='../records/d0b8f5be-fb8e-4de6-80ce-da228c483051' target='_blank'>9</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-15</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='d0b8f5be-fb8e-4de6-80ce-da228c483051' href='../records/d0b8f5be-fb8e-4de6-80ce-da228c483051' target='_blank'>2</a></td>
-      <td><a title='d0b8f5be-fb8e-4de6-80ce-da228c483051' href='../records/d0b8f5be-fb8e-4de6-80ce-da228c483051' target='_blank'>7</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>UAV Imagery - 2016 - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c688f31b-f82c-48f1-a707-5025c37a9b5c' target='_blank'>link</a></td>
       <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>4</a></td>
