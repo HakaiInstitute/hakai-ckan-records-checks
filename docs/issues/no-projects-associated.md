@@ -17,12 +17,6 @@ This page present the list of all the records associated with the issue: **No pr
   </thead>
   <tbody>
     <tr>
-      <td>2025-01-03</td>
-      <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>ERROR</td>
@@ -85,18 +79,6 @@ This page present the list of all the records associated with the issue: **No pr
     <tr>
       <td>2024-07-23</td>
       <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>ERROR</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>No projects associated</td>
     </tr>
