@@ -22,6 +22,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>ERROR</td>
       <td>Invalid resource format: resources[0].format=JSON</td>
     </tr>
+    <tr>
+      <td>2025-04-02</td>
+      <td>Place Glacier Aerial Photo and LiDAR Survey</td>
+      <td>ERROR</td>
+      <td>Invalid resource format: resources[0].format=JSON</td>
+    </tr>
   </tbody>
 </table>
 

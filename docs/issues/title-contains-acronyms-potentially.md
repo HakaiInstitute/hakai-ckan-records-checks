@@ -41,6 +41,12 @@ This page present the list of all the records associated with the issue: **Title
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
+      <td>2025-04-21</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
       <td>2025-04-02</td>
       <td>Elliot Creek Aerial Photo and LiDAR Survey</td>
       <td>WARNING</td>
@@ -49,6 +55,12 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2025-04-02</td>
       <td>Mount Robson Aerial Photo and LiDAR Survey</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2025-04-02</td>
+      <td>Place Glacier Aerial Photo and LiDAR Survey</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
@@ -96,7 +108,31 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>

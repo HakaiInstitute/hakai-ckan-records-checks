@@ -89,9 +89,28 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_87341cb3-f906-4fa5-973c-b6742aa0fbb5' target='_blank'>link</a></td>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>4</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-05-08</td>
+      <td>2025-05-08</td>
+      <td>10.21966/ks82-th39</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>2</a></td>
+      <td><a title='12829040-2f85-428a-ac92-45c45ed9f9af' href='../records/12829040-2f85-428a-ac92-45c45ed9f9af' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>4</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -103,9 +122,28 @@ Search your record here:
       <td>10.21966/n3b4-d226</td>
       <td>0</td>
       <td>[{'year': '2025', 'total': 1}]</td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>2</a></td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>2</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>Calliarthron 2023 Experiment - Environmental Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e' target='_blank'>link</a></td>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>3</a></td>
+      <td>Wet Lab</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2025-05-08</td>
+      <td>2025-05-08</td>
+      <td>10.21966/7nwn-bj60</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>1</a></td>
       <td></td>
-      <td></td>
+      <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='81815aec-68c0-437e-b477-f8b8f9eb99a1' href='../records/81815aec-68c0-437e-b477-f8b8f9eb99a1' target='_blank'>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</a></td>
@@ -148,7 +186,7 @@ Search your record here:
     <tr>
       <td><a title='e3973346-0462-4cfe-9c00-0d057b1b7a89' href='../records/e3973346-0462-4cfe-9c00-0d057b1b7a89' target='_blank'>Place Glacier Aerial Photo and LiDAR Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_98807d0a-ba68-41e3-a2f5-e3248b459904' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='e3973346-0462-4cfe-9c00-0d057b1b7a89' href='../records/e3973346-0462-4cfe-9c00-0d057b1b7a89' target='_blank'>6</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -160,9 +198,9 @@ Search your record here:
       <td>10.21966/0ydj-0t79</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a title='e3973346-0462-4cfe-9c00-0d057b1b7a89' href='../records/e3973346-0462-4cfe-9c00-0d057b1b7a89' target='_blank'>1</a></td>
+      <td><a title='e3973346-0462-4cfe-9c00-0d057b1b7a89' href='../records/e3973346-0462-4cfe-9c00-0d057b1b7a89' target='_blank'>3</a></td>
+      <td><a title='e3973346-0462-4cfe-9c00-0d057b1b7a89' href='../records/e3973346-0462-4cfe-9c00-0d057b1b7a89' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='facb50d6-1832-4a92-a7ea-e2a1a1661900' href='../records/facb50d6-1832-4a92-a7ea-e2a1a1661900' target='_blank'>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</a></td>
@@ -258,6 +296,25 @@ Search your record here:
       <td><a title='63826df7-858d-470a-8665-fec7e8675c76' href='../records/63826df7-858d-470a-8665-fec7e8675c76' target='_blank'>2</a></td>
       <td><a title='63826df7-858d-470a-8665-fec7e8675c76' href='../records/63826df7-858d-470a-8665-fec7e8675c76' target='_blank'>2</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' href='../records/cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' target='_blank'>Data record does not exist anymore: Geomorphology - Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9fafb4c8-e61f-4372-ac71-c1ddbe57d80c' target='_blank'>link</a></td>
+      <td><a title='cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' href='../records/cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' target='_blank'>5</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-01-03</td>
+      <td>2025-01-03</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' href='../records/cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' target='_blank'>2</a></td>
+      <td><a title='cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' href='../records/cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' target='_blank'>2</a></td>
+      <td><a title='cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' href='../records/cdc17df1-0a25-4d4f-bd10-f0e15ca412b2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='be88f054-954f-4a00-804b-1f3d5ff653d2' href='../records/be88f054-954f-4a00-804b-1f3d5ff653d2' target='_blank'>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</a></td>
@@ -376,7 +433,7 @@ Search your record here:
     <tr>
       <td><a title='5ded2c76-0281-4a0e-8599-7f7613f4a2b4' href='../records/5ded2c76-0281-4a0e-8599-7f7613f4a2b4' target='_blank'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='5ded2c76-0281-4a0e-8599-7f7613f4a2b4' href='../records/5ded2c76-0281-4a0e-8599-7f7613f4a2b4' target='_blank'>4</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -388,9 +445,9 @@ Search your record here:
       <td>10.21966/qpe8-ay93</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a title='5ded2c76-0281-4a0e-8599-7f7613f4a2b4' href='../records/5ded2c76-0281-4a0e-8599-7f7613f4a2b4' target='_blank'>2</a></td>
+      <td><a title='5ded2c76-0281-4a0e-8599-7f7613f4a2b4' href='../records/5ded2c76-0281-4a0e-8599-7f7613f4a2b4' target='_blank'>1</a></td>
+      <td><a title='5ded2c76-0281-4a0e-8599-7f7613f4a2b4' href='../records/5ded2c76-0281-4a0e-8599-7f7613f4a2b4' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b2262e15-9109-42d8-bd88-b379c6fb5eb8' href='../records/b2262e15-9109-42d8-bd88-b379c6fb5eb8' target='_blank'>Fraser River Landslide Project - Sites of Concern 2024</a></td>
@@ -410,6 +467,25 @@ Search your record here:
       <td><a title='b2262e15-9109-42d8-bd88-b379c6fb5eb8' href='../records/b2262e15-9109-42d8-bd88-b379c6fb5eb8' target='_blank'>4</a></td>
       <td><a title='b2262e15-9109-42d8-bd88-b379c6fb5eb8' href='../records/b2262e15-9109-42d8-bd88-b379c6fb5eb8' target='_blank'>1</a></td>
       <td><a title='b2262e15-9109-42d8-bd88-b379c6fb5eb8' href='../records/b2262e15-9109-42d8-bd88-b379c6fb5eb8' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6e947d50-8392-42ce-bff9-24b126c7cab7' target='_blank'>link</a></td>
+      <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>3</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition</td>
+      <td>2024-11-06</td>
+      <td>2024-11-06</td>
+      <td>10.21966/8mpe-h081</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' href='../records/34c0a7b7-422f-4078-9ba7-0a1b6ad9b5c4' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='5e85e821-6749-45d4-a9b7-98a1f05c2425' href='../records/5e85e821-6749-45d4-a9b7-98a1f05c2425' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
@@ -583,25 +659,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f67c0c58-3225-4dac-9264-1e76f07c9374' target='_blank'>link</a></td>
-      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>3</a></td>
-      <td>Genomics</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2024-08-02</td>
-      <td>2024-08-02</td>
-      <td>10.21966/7t4p-s714</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>2</a></td>
-      <td></td>
-      <td><a title='d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' href='../records/d3913e96-308e-4d3c-bb5d-3f2ed27fdabb' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='42533ceb-67c8-4da6-85bb-d74cb9c055c3' href='../records/42533ceb-67c8-4da6-85bb-d74cb9c055c3' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d' target='_blank'>link</a></td>
       <td><a title='42533ceb-67c8-4da6-85bb-d74cb9c055c3' href='../records/42533ceb-67c8-4da6-85bb-d74cb9c055c3' target='_blank'>2</a></td>
@@ -618,6 +675,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='42533ceb-67c8-4da6-85bb-d74cb9c055c3' href='../records/42533ceb-67c8-4da6-85bb-d74cb9c055c3' target='_blank'>2</a></td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='1a1efd62-6910-4e30-9fd1-8865049987a0' href='../records/1a1efd62-6910-4e30-9fd1-8865049987a0' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63' target='_blank'>link</a></td>
+      <td><a title='1a1efd62-6910-4e30-9fd1-8865049987a0' href='../records/1a1efd62-6910-4e30-9fd1-8865049987a0' target='_blank'>3</a></td>
+      <td>Juvenile Salmon Program, Oceanography, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
+      <td>2024-07-17</td>
+      <td>2024-12-04</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='1a1efd62-6910-4e30-9fd1-8865049987a0' href='../records/1a1efd62-6910-4e30-9fd1-8865049987a0' target='_blank'>2</a></td>
+      <td><a title='1a1efd62-6910-4e30-9fd1-8865049987a0' href='../records/1a1efd62-6910-4e30-9fd1-8865049987a0' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -656,6 +732,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='b51a58ad-12d6-4f30-941a-8a74d38b00df' href='../records/b51a58ad-12d6-4f30-941a-8a74d38b00df' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>link</a></td>
+      <td><a title='b51a58ad-12d6-4f30-941a-8a74d38b00df' href='../records/b51a58ad-12d6-4f30-941a-8a74d38b00df' target='_blank'>1</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>phytoplanktonBiomassAndDiversity, particulateMatter, other</td>
+      <td>2024-04-05</td>
+      <td>2024-07-18</td>
+      <td>10.21966/175j-8k96</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='b51a58ad-12d6-4f30-941a-8a74d38b00df' href='../records/b51a58ad-12d6-4f30-941a-8a74d38b00df' target='_blank'>1</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -756,7 +851,7 @@ Search your record here:
     <tr>
       <td><a title='2e8b204c-b74f-4f8e-9155-24061f859109' href='../records/2e8b204c-b74f-4f8e-9155-24061f859109' target='_blank'>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6f6560e7-7497-4685-9df2-51c66080b7c9' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='2e8b204c-b74f-4f8e-9155-24061f859109' href='../records/2e8b204c-b74f-4f8e-9155-24061f859109' target='_blank'>3</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -768,7 +863,7 @@ Search your record here:
       <td>10.21966/9ktc-qm09</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
-      <td></td>
+      <td><a title='2e8b204c-b74f-4f8e-9155-24061f859109' href='../records/2e8b204c-b74f-4f8e-9155-24061f859109' target='_blank'>3</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -870,7 +965,7 @@ Search your record here:
     <tr>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>link</a></td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>4</a></td>
+      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>3</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -884,7 +979,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>2</a></td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' href='../records/7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' target='_blank'>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
@@ -923,6 +1018,25 @@ Search your record here:
       <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>4</a></td>
       <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>2</a></td>
       <td><a title='07176c3a-60e8-4c55-878b-b0abba811b6d' href='../records/07176c3a-60e8-4c55-878b-b0abba811b6d' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_60f653ae-a3fd-484d-807c-3d7e4a0712cb' target='_blank'>link</a></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>5</a></td>
+      <td>Nearshore, Genomics</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, macroalgalCanopyCoverAndComposition, invertebrateAbundanceAndDistribution, other</td>
+      <td>2023-04-24</td>
+      <td>2025-04-21</td>
+      <td>10.21966/wabn-bq33</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>3</a></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
@@ -1017,6 +1131,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='01ab7ee9-75ee-4eff-b6eb-c5beb2ac1a61' href='../records/01ab7ee9-75ee-4eff-b6eb-c5beb2ac1a61' target='_blank'>3</a></td>
       <td><a title='01ab7ee9-75ee-4eff-b6eb-c5beb2ac1a61' href='../records/01ab7ee9-75ee-4eff-b6eb-c5beb2ac1a61' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='1ac792ad-2f83-41f5-92fb-86e182308ff7' href='../records/1ac792ad-2f83-41f5-92fb-86e182308ff7' target='_blank'>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2baa28d-c063-4354-ae1f-2abdb8397d8f' target='_blank'>link</a></td>
+      <td><a title='1ac792ad-2f83-41f5-92fb-86e182308ff7' href='../records/1ac792ad-2f83-41f5-92fb-86e182308ff7' target='_blank'>2</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-23</td>
+      <td>2024-07-23</td>
+      <td>10.21966/9271-9z54</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='1ac792ad-2f83-41f5-92fb-86e182308ff7' href='../records/1ac792ad-2f83-41f5-92fb-86e182308ff7' target='_blank'>2</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1151,6 +1284,25 @@ Search your record here:
       <td><a title='2cfd812a-b031-4cf8-b801-e58dc1331a63' href='../records/2cfd812a-b031-4cf8-b801-e58dc1331a63' target='_blank'>6</a></td>
       <td><a title='2cfd812a-b031-4cf8-b801-e58dc1331a63' href='../records/2cfd812a-b031-4cf8-b801-e58dc1331a63' target='_blank'>1</a></td>
       <td><a title='2cfd812a-b031-4cf8-b801-e58dc1331a63' href='../records/2cfd812a-b031-4cf8-b801-e58dc1331a63' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6dc431f0-3ca4-4c48-992c-df82d6f8521c' target='_blank'>link</a></td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>6</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-NC-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-17</td>
+      <td>2024-07-23</td>
+      <td>10.21966/ks3a-kg21</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>2</a></td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>3</a></td>
+      <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
@@ -1324,6 +1476,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='fa79cbe9-5333-4723-aaf1-838a5befd0ea' href='../records/fa79cbe9-5333-4723-aaf1-838a5befd0ea' target='_blank'>Mussel Dynamics - Point Intercepts - BC Central Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cec3dcef-8dba-4d91-aee6-b60ce416497c' target='_blank'>link</a></td>
+      <td><a title='fa79cbe9-5333-4723-aaf1-838a5befd0ea' href='../records/fa79cbe9-5333-4723-aaf1-838a5befd0ea' target='_blank'>14</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, invertebrateAbundanceAndDistribution</td>
+      <td>2022-10-08</td>
+      <td>2024-11-29</td>
+      <td>10.21966/ns9h-1126</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='fa79cbe9-5333-4723-aaf1-838a5befd0ea' href='../records/fa79cbe9-5333-4723-aaf1-838a5befd0ea' target='_blank'>5</a></td>
+      <td><a title='fa79cbe9-5333-4723-aaf1-838a5befd0ea' href='../records/fa79cbe9-5333-4723-aaf1-838a5befd0ea' target='_blank'>9</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='d4831b20-0a6f-4ea3-b851-4516fa561041' href='../records/d4831b20-0a6f-4ea3-b851-4516fa561041' target='_blank'>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c1b9801b-742b-41b6-a69b-5e7ae6f09bce' target='_blank'>link</a></td>
       <td><a title='d4831b20-0a6f-4ea3-b851-4516fa561041' href='../records/d4831b20-0a6f-4ea3-b851-4516fa561041' target='_blank'>5</a></td>
@@ -1345,7 +1516,7 @@ Search your record here:
     <tr>
       <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_71447a55-3eca-41b1-87ff-b8ef69314c4d' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>2</a></td>
       <td>Geospatial, 100 Islands</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1357,7 +1528,7 @@ Search your record here:
       <td>10.21966/CZ48-D388</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
+      <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>2</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1383,7 +1554,7 @@ Search your record here:
     <tr>
       <td><a title='8798750c-28cd-4b89-a19f-64eaf3d6789f' href='../records/8798750c-28cd-4b89-a19f-64eaf3d6789f' target='_blank'>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5eda02a9-36b6-4875-91c9-989e9e06c5ad' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='8798750c-28cd-4b89-a19f-64eaf3d6789f' href='../records/8798750c-28cd-4b89-a19f-64eaf3d6789f' target='_blank'>15</a></td>
       <td>100 Islands</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1395,8 +1566,8 @@ Search your record here:
       <td>10.21966/8j4j-7039</td>
       <td>1</td>
       <td>[{'year': '2022', 'total': 1}]</td>
-      <td></td>
-      <td></td>
+      <td><a title='8798750c-28cd-4b89-a19f-64eaf3d6789f' href='../records/8798750c-28cd-4b89-a19f-64eaf3d6789f' target='_blank'>3</a></td>
+      <td><a title='8798750c-28cd-4b89-a19f-64eaf3d6789f' href='../records/8798750c-28cd-4b89-a19f-64eaf3d6789f' target='_blank'>12</a></td>
       <td></td>
     </tr>
     <tr>
@@ -1552,6 +1723,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef' target='_blank'>link</a></td>
+      <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>11</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.135248</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>6</a></td>
+      <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>4</a></td>
+      <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>link</a></td>
       <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>18</a></td>
@@ -1704,6 +1894,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='b82b572b-44b0-455b-a8ff-734e5bd64d2b' href='../records/b82b572b-44b0-455b-a8ff-734e5bd64d2b' target='_blank'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4' target='_blank'>link</a></td>
+      <td><a title='b82b572b-44b0-455b-a8ff-734e5bd64d2b' href='../records/b82b572b-44b0-455b-a8ff-734e5bd64d2b' target='_blank'>9</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-07-24</td>
+      <td>10.21966/mnwn-gw16</td>
+      <td>1</td>
+      <td>[{'year': '2022', 'total': 1}]</td>
+      <td><a title='b82b572b-44b0-455b-a8ff-734e5bd64d2b' href='../records/b82b572b-44b0-455b-a8ff-734e5bd64d2b' target='_blank'>3</a></td>
+      <td><a title='b82b572b-44b0-455b-a8ff-734e5bd64d2b' href='../records/b82b572b-44b0-455b-a8ff-734e5bd64d2b' target='_blank'>6</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='c681d278-c882-4906-81b3-aec84230ceff' href='../records/c681d278-c882-4906-81b3-aec84230ceff' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345' target='_blank'>link</a></td>
       <td><a title='c681d278-c882-4906-81b3-aec84230ceff' href='../records/c681d278-c882-4906-81b3-aec84230ceff' target='_blank'>11</a></td>
@@ -1801,7 +2010,7 @@ Search your record here:
     <tr>
       <td><a title='d758a42f-bab3-4cb9-b463-3de0f53ef732' href='../records/d758a42f-bab3-4cb9-b463-3de0f53ef732' target='_blank'>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='d758a42f-bab3-4cb9-b463-3de0f53ef732' href='../records/d758a42f-bab3-4cb9-b463-3de0f53ef732' target='_blank'>6</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1813,8 +2022,8 @@ Search your record here:
       <td>10.21966/q2tr-2n80</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
+      <td><a title='d758a42f-bab3-4cb9-b463-3de0f53ef732' href='../records/d758a42f-bab3-4cb9-b463-3de0f53ef732' target='_blank'>3</a></td>
+      <td><a title='d758a42f-bab3-4cb9-b463-3de0f53ef732' href='../records/d758a42f-bab3-4cb9-b463-3de0f53ef732' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2086,7 +2295,7 @@ Search your record here:
     <tr>
       <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>UAV Imagery - 2016 - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c688f31b-f82c-48f1-a707-5025c37a9b5c' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>4</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2098,8 +2307,8 @@ Search your record here:
       <td>10.21966/jhqc-fq17</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
+      <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>1</a></td>
+      <td><a title='de460463-96ba-4a61-b930-69e3fc845d09' href='../records/de460463-96ba-4a61-b930-69e3fc845d09' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2328,6 +2537,25 @@ Search your record here:
       <td></td>
       <td><a title='fb44546e-5e9b-46c4-bd70-cb705cefd547' href='../records/fb44546e-5e9b-46c4-bd70-cb705cefd547' target='_blank'>1</a></td>
       <td><a title='fb44546e-5e9b-46c4-bd70-cb705cefd547' href='../records/fb44546e-5e9b-46c4-bd70-cb705cefd547' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='b5317ff4-e589-494c-9589-69648961bd81' href='../records/b5317ff4-e589-494c-9589-69648961bd81' target='_blank'>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_82a543b1-686c-45c9-a03d-4f93e0ab8e8a' target='_blank'>link</a></td>
+      <td><a title='b5317ff4-e589-494c-9589-69648961bd81' href='../records/b5317ff4-e589-494c-9589-69648961bd81' target='_blank'>3</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-08</td>
+      <td>2024-07-23</td>
+      <td>10.21966/42r2-pz17</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='b5317ff4-e589-494c-9589-69648961bd81' href='../records/b5317ff4-e589-494c-9589-69648961bd81' target='_blank'>1</a></td>
+      <td><a title='b5317ff4-e589-494c-9589-69648961bd81' href='../records/b5317ff4-e589-494c-9589-69648961bd81' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2673,6 +2901,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='81878d94-a840-4652-b223-3b78c0497509' href='../records/81878d94-a840-4652-b223-3b78c0497509' target='_blank'>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e0c768fc-5c37-455f-b2a3-604f766f4148' target='_blank'>link</a></td>
+      <td><a title='81878d94-a840-4652-b223-3b78c0497509' href='../records/81878d94-a840-4652-b223-3b78c0497509' target='_blank'>11</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='81878d94-a840-4652-b223-3b78c0497509' href='../records/81878d94-a840-4652-b223-3b78c0497509' target='_blank'>2</a></td>
+      <td><a title='81878d94-a840-4652-b223-3b78c0497509' href='../records/81878d94-a840-4652-b223-3b78c0497509' target='_blank'>8</a></td>
+      <td><a title='81878d94-a840-4652-b223-3b78c0497509' href='../records/81878d94-a840-4652-b223-3b78c0497509' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='8bd510f9-09a0-4c18-8367-a6b77578c713' href='../records/8bd510f9-09a0-4c18-8367-a6b77578c713' target='_blank'>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3eff62f-bcee-4faa-a7e1-7b9380d94e74' target='_blank'>link</a></td>
       <td><a title='8bd510f9-09a0-4c18-8367-a6b77578c713' href='../records/8bd510f9-09a0-4c18-8367-a6b77578c713' target='_blank'>6</a></td>
@@ -2690,6 +2937,25 @@ Search your record here:
       <td><a title='8bd510f9-09a0-4c18-8367-a6b77578c713' href='../records/8bd510f9-09a0-4c18-8367-a6b77578c713' target='_blank'>2</a></td>
       <td><a title='8bd510f9-09a0-4c18-8367-a6b77578c713' href='../records/8bd510f9-09a0-4c18-8367-a6b77578c713' target='_blank'>3</a></td>
       <td><a title='8bd510f9-09a0-4c18-8367-a6b77578c713' href='../records/8bd510f9-09a0-4c18-8367-a6b77578c713' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' href='../records/b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' target='_blank'>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d2e83e40-9e95-4a47-a899-b37c744be3ab' target='_blank'>link</a></td>
+      <td><a title='b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' href='../records/b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' target='_blank'>7</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' href='../records/b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' target='_blank'>2</a></td>
+      <td><a title='b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' href='../records/b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' target='_blank'>4</a></td>
+      <td><a title='b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' href='../records/b747892e-7a7c-4dd4-b38b-91a2e7cc5dd9' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bbd559eb-9cbe-4a74-a0ee-050e576e8e09' href='../records/bbd559eb-9cbe-4a74-a0ee-050e576e8e09' target='_blank'>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
@@ -2746,6 +3012,63 @@ Search your record here:
       <td>[]</td>
       <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>2</a></td>
       <td><a title='e83af7c3-d1bf-4292-83d0-680607ab27ae' href='../records/e83af7c3-d1bf-4292-83d0-680607ab27ae' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_77a256cd-baf7-434e-9f62-53ba809e48cb' target='_blank'>link</a></td>
+      <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>4</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2022-02-04</td>
+      <td>2024-07-23</td>
+      <td>10.21966/1.622315</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>3</a></td>
+      <td></td>
+      <td><a title='362c306b-af7f-449b-9ee9-d3ea022da5f9' href='../records/362c306b-af7f-449b-9ee9-d3ea022da5f9' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a></td>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>9</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>underDevelopment</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, zooplanktonBiomassAndDiversity</td>
+      <td>2022-02-04</td>
+      <td>2024-07-23</td>
+      <td>10.21966/bhqd-9361</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>7</a></td>
+      <td><a title='94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' href='../records/94dffd70-ba40-4a1b-aff4-d5e019cd1ac0' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0263680-f0d5-46d5-85ea-483fa58c74b6' target='_blank'>link</a></td>
+      <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>6</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>underDevelopment</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>nutrients</td>
+      <td>2022-02-04</td>
+      <td>2024-07-23</td>
+      <td>10.21966/yk87-4x24</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>3</a></td>
+      <td><a title='e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' href='../records/e1bbfc23-d529-4b5a-88bf-5bf2b25e4c00' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2841,6 +3164,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>5</a></td>
       <td><a title='796ababa-8386-4ea6-b805-70c8daea0765' href='../records/796ababa-8386-4ea6-b805-70c8daea0765' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='7d3f25e0-cc38-419b-bca9-051f8d8569fa' href='../records/7d3f25e0-cc38-419b-bca9-051f8d8569fa' target='_blank'>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0ca5d26-b457-4726-97d4-ed0c8dd6cd99' target='_blank'>link</a></td>
+      <td><a title='7d3f25e0-cc38-419b-bca9-051f8d8569fa' href='../records/7d3f25e0-cc38-419b-bca9-051f8d8569fa' target='_blank'>9</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition</td>
+      <td>2022-02-02</td>
+      <td>2024-07-24</td>
+      <td>10.21966/exy6-1k58</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='7d3f25e0-cc38-419b-bca9-051f8d8569fa' href='../records/7d3f25e0-cc38-419b-bca9-051f8d8569fa' target='_blank'>6</a></td>
+      <td><a title='7d3f25e0-cc38-419b-bca9-051f8d8569fa' href='../records/7d3f25e0-cc38-419b-bca9-051f8d8569fa' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2958,6 +3300,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='12fbe835-3756-4b88-ac08-f4cdaa38d82d' href='../records/12fbe835-3756-4b88-ac08-f4cdaa38d82d' target='_blank'>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8' target='_blank'>link</a></td>
+      <td><a title='12fbe835-3756-4b88-ac08-f4cdaa38d82d' href='../records/12fbe835-3756-4b88-ac08-f4cdaa38d82d' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-24</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.715693</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='12fbe835-3756-4b88-ac08-f4cdaa38d82d' href='../records/12fbe835-3756-4b88-ac08-f4cdaa38d82d' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='343c5877-82a0-49fc-9c36-c5c77582cd76' href='../records/343c5877-82a0-49fc-9c36-c5c77582cd76' target='_blank'>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d' target='_blank'>link</a></td>
       <td><a title='343c5877-82a0-49fc-9c36-c5c77582cd76' href='../records/343c5877-82a0-49fc-9c36-c5c77582cd76' target='_blank'>11</a></td>
@@ -2993,6 +3354,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='5782d393-c8e3-4a16-8916-b76476369bb0' href='../records/5782d393-c8e3-4a16-8916-b76476369bb0' target='_blank'>3</a></td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c113d7a8-6a46-46fc-b49c-a4e69afedfbc' target='_blank'>link</a></td>
+      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.521066</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>2</a></td>
+      <td><a title='5faae0e6-5e33-4c82-86f3-aef4470bd2e8' href='../records/5faae0e6-5e33-4c82-86f3-aef4470bd2e8' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3093,7 +3473,7 @@ Search your record here:
     <tr>
       <td><a title='bae4b824-6150-454b-b862-fa6b0034f3da' href='../records/bae4b824-6150-454b-b862-fa6b0034f3da' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2019</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dc50a22a-44c0-478c-aa19-a46343bc764a' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='bae4b824-6150-454b-b862-fa6b0034f3da' href='../records/bae4b824-6150-454b-b862-fa6b0034f3da' target='_blank'>2</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3105,7 +3485,7 @@ Search your record here:
       <td>10.21966/m8kp-gy81</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
+      <td><a title='bae4b824-6150-454b-b862-fa6b0034f3da' href='../records/bae4b824-6150-454b-b862-fa6b0034f3da' target='_blank'>2</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -3243,6 +3623,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='3d151268-7fac-438c-86c7-e44cf9da0958' href='../records/3d151268-7fac-438c-86c7-e44cf9da0958' target='_blank'>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e' target='_blank'>link</a></td>
+      <td><a title='3d151268-7fac-438c-86c7-e44cf9da0958' href='../records/3d151268-7fac-438c-86c7-e44cf9da0958' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seaSurfaceTemperature, subSurfaceSalinity, subSurfaceTemperature, oxygen, particulateMatter</td>
+      <td>2022-01-21</td>
+      <td>2024-07-24</td>
+      <td>10.21966/xg0y-1z76</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='3d151268-7fac-438c-86c7-e44cf9da0958' href='../records/3d151268-7fac-438c-86c7-e44cf9da0958' target='_blank'>2</a></td>
+      <td><a title='3d151268-7fac-438c-86c7-e44cf9da0958' href='../records/3d151268-7fac-438c-86c7-e44cf9da0958' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='3f7d8466-aee0-4d6a-9e76-49ed4413d76b' href='../records/3f7d8466-aee0-4d6a-9e76-49ed4413d76b' target='_blank'>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306' target='_blank'>link</a></td>
       <td><a title='3f7d8466-aee0-4d6a-9e76-49ed4413d76b' href='../records/3f7d8466-aee0-4d6a-9e76-49ed4413d76b' target='_blank'>3</a></td>
@@ -3316,6 +3715,25 @@ Search your record here:
       <td></td>
       <td><a title='860bde93-3799-4037-9a2d-ed6bdee33e64' href='../records/860bde93-3799-4037-9a2d-ed6bdee33e64' target='_blank'>2</a></td>
       <td><a title='860bde93-3799-4037-9a2d-ed6bdee33e64' href='../records/860bde93-3799-4037-9a2d-ed6bdee33e64' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='8cd27036-1ff1-48db-a139-c824a8927b08' href='../records/8cd27036-1ff1-48db-a139-c824a8927b08' target='_blank'>25m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5feb907e-e63e-4172-94ae-831fbe92aee5' target='_blank'>link</a></td>
+      <td><a title='8cd27036-1ff1-48db-a139-c824a8927b08' href='../records/8cd27036-1ff1-48db-a139-c824a8927b08' target='_blank'>5</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-21</td>
+      <td>2024-07-24</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='8cd27036-1ff1-48db-a139-c824a8927b08' href='../records/8cd27036-1ff1-48db-a139-c824a8927b08' target='_blank'>2</a></td>
+      <td><a title='8cd27036-1ff1-48db-a139-c824a8927b08' href='../records/8cd27036-1ff1-48db-a139-c824a8927b08' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3430,6 +3848,25 @@ Search your record here:
       <td></td>
       <td><a title='fc0be4ec-4d87-4655-96da-2f6316b4f09b' href='../records/fc0be4ec-4d87-4655-96da-2f6316b4f09b' target='_blank'>4</a></td>
       <td><a title='fc0be4ec-4d87-4655-96da-2f6316b4f09b' href='../records/fc0be4ec-4d87-4655-96da-2f6316b4f09b' target='_blank'>6</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='132c7ed9-4f3a-42fe-bb12-448ccb3029eb' href='../records/132c7ed9-4f3a-42fe-bb12-448ccb3029eb' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f' target='_blank'>link</a></td>
+      <td><a title='132c7ed9-4f3a-42fe-bb12-448ccb3029eb' href='../records/132c7ed9-4f3a-42fe-bb12-448ccb3029eb' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-17</td>
+      <td>2024-07-24</td>
+      <td>10.21966/b0xc-8m25</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='132c7ed9-4f3a-42fe-bb12-448ccb3029eb' href='../records/132c7ed9-4f3a-42fe-bb12-448ccb3029eb' target='_blank'>2</a></td>
+      <td><a title='132c7ed9-4f3a-42fe-bb12-448ccb3029eb' href='../records/132c7ed9-4f3a-42fe-bb12-448ccb3029eb' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3867,6 +4304,25 @@ Search your record here:
       <td></td>
       <td><a title='d88511dd-60bf-449a-8817-7d492efaea67' href='../records/d88511dd-60bf-449a-8817-7d492efaea67' target='_blank'>1</a></td>
       <td><a title='d88511dd-60bf-449a-8817-7d492efaea67' href='../records/d88511dd-60bf-449a-8817-7d492efaea67' target='_blank'>6</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f47539a1-a996-495c-b20b-02ee617fa8e4' href='../records/f47539a1-a996-495c-b20b-02ee617fa8e4' target='_blank'>Keen’s Mouse Food Web Study – 100 Islands Project – Central Coast, BC (2015-2017)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_82c07005-9313-436c-9239-7be3f5907be2' target='_blank'>link</a></td>
+      <td><a title='f47539a1-a996-495c-b20b-02ee617fa8e4' href='../records/f47539a1-a996-495c-b20b-02ee617fa8e4' target='_blank'>5</a></td>
+      <td>100 Islands</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2021-09-23</td>
+      <td>2024-07-24</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='f47539a1-a996-495c-b20b-02ee617fa8e4' href='../records/f47539a1-a996-495c-b20b-02ee617fa8e4' target='_blank'>3</a></td>
+      <td><a title='f47539a1-a996-495c-b20b-02ee617fa8e4' href='../records/f47539a1-a996-495c-b20b-02ee617fa8e4' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>

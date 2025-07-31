@@ -29,6 +29,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-seastars2024</td>
     </tr>
     <tr>
+      <td>2025-05-08</td>
+      <td>Calliarthron 2023 Experiment - Environmental Data</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
+    </tr>
+    <tr>
       <td>2024-07-24</td>
       <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>ERROR</td>
@@ -54,6 +60,12 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 401 for resources[1].url=https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6</td>
@@ -69,12 +81,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
-    </tr>
-    <tr>
-      <td>2024-06-12</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[2].url=https://catalogue.hakai.org/erddap/info/HakaiWaterPropertiesInstrumentProfileResearch/index.html</td>
     </tr>
   </tbody>
 </table>

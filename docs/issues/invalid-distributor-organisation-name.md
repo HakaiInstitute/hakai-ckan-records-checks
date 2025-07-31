@@ -23,6 +23,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid distributor organisation-name: organization_name='University of Victoria' expects 'Hakai Institute'</td>
     </tr>
     <tr>
+      <td>2025-05-08</td>
+      <td>Calliarthron 2023 Experiment - Environmental Data</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2025-05-06</td>
       <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
@@ -31,6 +37,12 @@ This page present the list of all the records associated with the issue: **Inval
     <tr>
       <td>2025-04-02</td>
       <td>Mount Robson Aerial Photo and LiDAR Survey</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Tula Foundation' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2025-04-02</td>
+      <td>Place Glacier Aerial Photo and LiDAR Survey</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Tula Foundation' expects 'Hakai Institute'</td>
     </tr>
@@ -59,16 +71,16 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
     </tr>
     <tr>
-      <td>2024-11-20</td>
-      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
+      <td>2024-11-21</td>
+      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
     </tr>
     <tr>
-      <td>2024-08-02</td>
-      <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
+      <td>2024-11-20</td>
+      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
       <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
+      <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -81,6 +93,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='University of Victoria' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
