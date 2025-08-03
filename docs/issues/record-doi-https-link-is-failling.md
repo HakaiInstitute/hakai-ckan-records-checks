@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-31</td>
-      <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</td>
+      <td>2024-07-23</td>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/kace-2d24 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/8j4j-7039 status_code=502</td>
     </tr>
   </tbody>
 </table>
