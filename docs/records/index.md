@@ -1003,7 +1003,7 @@ Search your record here:
     <tr>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>link</a></td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>3</a></td>
+      <td></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1015,8 +1015,8 @@ Search your record here:
       <td>10.21966/82q4-y443</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -1060,7 +1060,7 @@ Search your record here:
     <tr>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_60f653ae-a3fd-484d-807c-3d7e4a0712cb' target='_blank'>link</a></td>
-      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>5</a></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>6</a></td>
       <td>Nearshore, Genomics</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1074,7 +1074,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>3</a></td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
