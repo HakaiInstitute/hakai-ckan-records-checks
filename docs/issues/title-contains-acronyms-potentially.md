@@ -238,6 +238,12 @@ This page present the list of all the records associated with the issue: **Title
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
+    <tr>
+      <td>2024-06-12</td>
+      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
   </tbody>
 </table>
 
