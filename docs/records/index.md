@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' href='../records/1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d959f8f3-6d20-42fe-94da-be49bcd3aeca' target='_blank'>link</a></td>
+      <td><a title='1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' href='../records/1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' target='_blank'>4</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition</td>
+      <td>2025-08-08</td>
+      <td>2025-08-08</td>
+      <td>10.21966/x3jm-p494</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' href='../records/1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' target='_blank'>3</a></td>
+      <td></td>
+      <td><a title='1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' href='../records/1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='66a61f08-bdb8-4b68-9918-7a19a11a323d' href='../records/66a61f08-bdb8-4b68-9918-7a19a11a323d' target='_blank'>iTrack Oysters September 2023 Experiment - Environmental and Oyster Health Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1d142201-cbbe-4c58-b2c2-1feeac112c51' target='_blank'>link</a></td>
       <td><a title='66a61f08-bdb8-4b68-9918-7a19a11a323d' href='../records/66a61f08-bdb8-4b68-9918-7a19a11a323d' target='_blank'>4</a></td>
@@ -902,6 +921,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -2808,7 +2846,7 @@ Search your record here:
     <tr>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14' target='_blank'>link</a></td>
-      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>6</a></td>
+      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>5</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2822,7 +2860,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>3</a></td>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>2</a></td>
-      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='ebae9877-3802-4777-83bb-63d347256093' href='../records/ebae9877-3802-4777-83bb-63d347256093' target='_blank'>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</a></td>
