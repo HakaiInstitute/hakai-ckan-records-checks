@@ -4404,7 +4404,7 @@ Search your record here:
     <tr>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>4</a></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>5</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4418,7 +4418,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>3</a></td>
       <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='51e844ed-bf2f-44cf-b53e-cd81547e77fd' href='../records/51e844ed-bf2f-44cf-b53e-cd81547e77fd' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='99626ba1-f8ac-4acb-bc63-1626a09abce4' href='../records/99626ba1-f8ac-4acb-bc63-1626a09abce4' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
