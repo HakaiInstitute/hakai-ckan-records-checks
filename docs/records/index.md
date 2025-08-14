@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='f2332df4-224d-4f16-bd3d-046741217079' href='../records/f2332df4-224d-4f16-bd3d-046741217079' target='_blank'>Size-fractionated zooplankton biomass and isotopes along the BC coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dbb33efe-c207-4d9c-abef-2350595bf47a' target='_blank'>link</a></td>
+      <td><a title='f2332df4-224d-4f16-bd3d-046741217079' href='../records/f2332df4-224d-4f16-bd3d-046741217079' target='_blank'>2</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>zooplanktonBiomassAndDiversity</td>
+      <td>2025-08-12</td>
+      <td>2025-08-12</td>
+      <td>10.21966/tcp2-mm86</td>
+      <td>2</td>
+      <td>[{'year': '2025', 'total': 2}]</td>
+      <td><a title='f2332df4-224d-4f16-bd3d-046741217079' href='../records/f2332df4-224d-4f16-bd3d-046741217079' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' href='../records/1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d959f8f3-6d20-42fe-94da-be49bcd3aeca' target='_blank'>link</a></td>
       <td><a title='1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' href='../records/1a2396a2-0d69-4d11-9e3e-fd2cf14ad954' target='_blank'>4</a></td>
@@ -4495,6 +4514,25 @@ Search your record here:
       <td><a title='cf6fc938-2363-49d5-a8fc-cbedfff8019d' href='../records/cf6fc938-2363-49d5-a8fc-cbedfff8019d' target='_blank'>3</a></td>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='920c2212-7c54-4164-8641-136b1e3897e1' href='../records/920c2212-7c54-4164-8641-136b1e3897e1' target='_blank'>Zooplankton taxonomic abundance and biomass along the BC Coast</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_39a83551-ab8e-45be-a564-cece4b229371' target='_blank'>link</a></td>
+      <td><a title='920c2212-7c54-4164-8641-136b1e3897e1' href='../records/920c2212-7c54-4164-8641-136b1e3897e1' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>zooplanktonBiomassAndDiversity</td>
+      <td></td>
+      <td>2025-08-12</td>
+      <td>10.21966/g7zf-1v08</td>
+      <td>2</td>
+      <td>[{'year': '2025', 'total': 2}]</td>
+      <td><a title='920c2212-7c54-4164-8641-136b1e3897e1' href='../records/920c2212-7c54-4164-8641-136b1e3897e1' target='_blank'>2</a></td>
+      <td></td>
+      <td><a title='920c2212-7c54-4164-8641-136b1e3897e1' href='../records/920c2212-7c54-4164-8641-136b1e3897e1' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='c3b43863-c64a-4c9f-a8a9-b4dbd4f2d75c' href='../records/c3b43863-c64a-4c9f-a8a9-b4dbd4f2d75c' target='_blank'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
