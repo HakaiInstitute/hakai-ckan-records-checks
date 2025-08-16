@@ -84,13 +84,13 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>

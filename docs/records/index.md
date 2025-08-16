@@ -688,10 +688,10 @@ Search your record here:
       <td>dataset</td>
       <td>invertebrateAbundanceAndDistribution</td>
       <td>2024-08-30</td>
-      <td>2025-08-01</td>
+      <td>2025-08-14</td>
       <td>10.21966/0052-wk15</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>5</a></td>
       <td><a title='2ed9ebf7-af2f-4045-967e-bb0718095b8a' href='../records/2ed9ebf7-af2f-4045-967e-bb0718095b8a' target='_blank'>3</a></td>
       <td></td>
@@ -940,25 +940,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -4024,7 +4005,7 @@ Search your record here:
     <tr>
       <td><a title='308ed98f-a008-4a39-a664-9744dd3f1b61' href='../records/308ed98f-a008-4a39-a664-9744dd3f1b61' target='_blank'>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d87de5ca-a18a-406d-a4c1-74e6f8f28e5b' target='_blank'>link</a></td>
-      <td><a title='308ed98f-a008-4a39-a664-9744dd3f1b61' href='../records/308ed98f-a008-4a39-a664-9744dd3f1b61' target='_blank'>6</a></td>
+      <td></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4036,8 +4017,8 @@ Search your record here:
       <td>10.21966/nrmz-a516</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='308ed98f-a008-4a39-a664-9744dd3f1b61' href='../records/308ed98f-a008-4a39-a664-9744dd3f1b61' target='_blank'>5</a></td>
-      <td><a title='308ed98f-a008-4a39-a664-9744dd3f1b61' href='../records/308ed98f-a008-4a39-a664-9744dd3f1b61' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
