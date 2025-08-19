@@ -1362,25 +1362,6 @@ Search your record here:
       <td><a title='d125862b-47e2-47f6-b9ff-8ed2dd96b02b' href='../records/d125862b-47e2-47f6-b9ff-8ed2dd96b02b' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>13</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>oxygen, inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity</td>
-      <td>2022-12-01</td>
-      <td>2025-04-23</td>
-      <td>10.25921/9vnv-0g64</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>12</a></td>
-      <td><a title='40dce4cd-a607-4641-9da5-8196ce6678af' href='../records/40dce4cd-a607-4641-9da5-8196ce6678af' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' href='../records/248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2c7a84f-a33b-4713-9b7f-a9ed57efc5c3' target='_blank'>link</a></td>
       <td><a title='248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' href='../records/248f5eb9-dec8-4985-8dc7-e347bd1a8b7f' target='_blank'>5</a></td>
