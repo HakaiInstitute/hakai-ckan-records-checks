@@ -30,6 +30,12 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2025-04-23</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2025-04-23</td>
       <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
@@ -71,12 +77,6 @@ This page present the list of all the records associated with the issue: **Title
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
-      <td>2024-11-28</td>
-      <td>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
       <td>2024-11-26</td>
       <td>Denali Fault - 2024 - Airborne LiDAR Survey</td>
       <td>WARNING</td>
@@ -90,13 +90,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
@@ -108,7 +108,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
@@ -120,19 +120,31 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Bamfield Region UAV Imagery and Surface Model Data</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
@@ -145,6 +157,12 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>Hakai RPAS (Drone) Operations and Methods</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
@@ -186,13 +204,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
+      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
+      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
