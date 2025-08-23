@@ -1913,25 +1913,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373' target='_blank'>link</a></td>
-      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>6</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-07-24</td>
-      <td>10.21966/7nb6-zk37</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>4</a></td>
-      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>LiDAR Derived Watersheds with Metrics - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d' target='_blank'>link</a></td>
       <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>3</a></td>
