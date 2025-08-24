@@ -148,7 +148,7 @@ Search your record here:
     <tr>
       <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
-      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>4</a></td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>5</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -162,7 +162,7 @@ Search your record here:
       <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>2</a></td>
       <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='1f6380fd-6917-4f64-bdcf-3511fdda73a9' href='../records/1f6380fd-6917-4f64-bdcf-3511fdda73a9' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='4f0e114a-e88d-4e7c-940c-7d53302650d6' href='../records/4f0e114a-e88d-4e7c-940c-7d53302650d6' target='_blank'>Calliarthron 2023 Experiment - Environmental Data</a></td>
@@ -433,7 +433,7 @@ Search your record here:
     <tr>
       <td><a title='74623ae6-b474-4709-a426-e84a4d983e84' href='../records/74623ae6-b474-4709-a426-e84a4d983e84' target='_blank'>Larval Dungeness crab abundance and size time series along the coast of British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d4942b86-d362-40a3-9399-c124c4c263bd' target='_blank'>link</a></td>
-      <td><a title='74623ae6-b474-4709-a426-e84a4d983e84' href='../records/74623ae6-b474-4709-a426-e84a4d983e84' target='_blank'>2</a></td>
+      <td></td>
       <td>Sentinels of Change</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -445,7 +445,7 @@ Search your record here:
       <td>10.21966/36hp-7f40</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='74623ae6-b474-4709-a426-e84a4d983e84' href='../records/74623ae6-b474-4709-a426-e84a4d983e84' target='_blank'>2</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -940,6 +940,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1910,6 +1929,25 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='985c8c26-3a6f-46ca-81cd-a0e553442a65' href='../records/985c8c26-3a6f-46ca-81cd-a0e553442a65' target='_blank'>3</a></td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373' target='_blank'>link</a></td>
+      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>6</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-07-24</td>
+      <td>10.21966/7nb6-zk37</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>4</a></td>
+      <td><a title='99c5739d-5f8e-4054-97f9-3ea8a5bf2389' href='../records/99c5739d-5f8e-4054-97f9-3ea8a5bf2389' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>

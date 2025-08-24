@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-19</td>
-      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
+      <td>2025-05-08</td>
+      <td>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/pvy6-nw38 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/n3b4-d226 status_code=502</td>
     </tr>
   </tbody>
 </table>
