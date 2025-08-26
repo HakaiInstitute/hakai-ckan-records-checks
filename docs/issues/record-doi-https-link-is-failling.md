@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2025-05-08</td>
-      <td>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>2024-07-24</td>
+      <td>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/n3b4-d226 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/1.715793 status_code=502</td>
     </tr>
   </tbody>
 </table>
