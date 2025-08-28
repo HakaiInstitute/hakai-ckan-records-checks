@@ -4383,25 +4383,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea' target='_blank'>link</a></td>
-      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>8</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>seaSurfaceTemperature, inorganicCarbon, oxygen, seaSurfaceSalinity, other</td>
-      <td>2021-09-20</td>
-      <td>2024-07-23</td>
-      <td>10.21966/m0es-7520</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>7</a></td>
-      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='b8571568-9f54-4984-83ee-34c42281fde7' href='../records/b8571568-9f54-4984-83ee-34c42281fde7' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a></td>
       <td><a title='b8571568-9f54-4984-83ee-34c42281fde7' href='../records/b8571568-9f54-4984-83ee-34c42281fde7' target='_blank'>8</a></td>
