@@ -228,18 +228,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
@@ -261,6 +249,12 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Godwin, Sean' contact['organisation-name']='Simon Fraser University'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Harrington, Christen D.' contact['organisation-name']='Alaska Marine Highway, Department of Transportation'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

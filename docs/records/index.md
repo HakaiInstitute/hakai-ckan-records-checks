@@ -2920,25 +2920,6 @@ Search your record here:
       <td><a title='30c73db0-37ff-4790-8f7e-b7b127179308' href='../records/30c73db0-37ff-4790-8f7e-b7b127179308' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
-      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>12</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>2</a></td>
-      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>9</a></td>
-      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='60e4c627-5a78-4f75-b5ca-f54f3148d8f7' href='../records/60e4c627-5a78-4f75-b5ca-f54f3148d8f7' target='_blank'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679' target='_blank'>link</a></td>
       <td><a title='60e4c627-5a78-4f75-b5ca-f54f3148d8f7' href='../records/60e4c627-5a78-4f75-b5ca-f54f3148d8f7' target='_blank'>6</a></td>
@@ -4380,6 +4361,25 @@ Search your record here:
       <td></td>
       <td><a title='f47539a1-a996-495c-b20b-02ee617fa8e4' href='../records/f47539a1-a996-495c-b20b-02ee617fa8e4' target='_blank'>3</a></td>
       <td><a title='f47539a1-a996-495c-b20b-02ee617fa8e4' href='../records/f47539a1-a996-495c-b20b-02ee617fa8e4' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea' target='_blank'>link</a></td>
+      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>8</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>seaSurfaceTemperature, inorganicCarbon, oxygen, seaSurfaceSalinity, other</td>
+      <td>2021-09-20</td>
+      <td>2024-07-23</td>
+      <td>10.21966/m0es-7520</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>7</a></td>
+      <td><a title='f5807991-a1e7-475e-ac61-4e5e7736b60f' href='../records/f5807991-a1e7-475e-ac61-4e5e7736b60f' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
