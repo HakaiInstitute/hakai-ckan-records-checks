@@ -2901,9 +2901,9 @@ Search your record here:
       <td><a title='015c65ac-5643-4470-aa13-04ac545ed9c7' href='../records/015c65ac-5643-4470-aa13-04ac545ed9c7' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='30c73db0-37ff-4790-8f7e-b7b127179308' href='../records/30c73db0-37ff-4790-8f7e-b7b127179308' target='_blank'>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a60a0468-3f56-4f22-abd4-5268fcfb9744' target='_blank'>link</a></td>
-      <td><a title='30c73db0-37ff-4790-8f7e-b7b127179308' href='../records/30c73db0-37ff-4790-8f7e-b7b127179308' target='_blank'>12</a></td>
+      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
+      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>12</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2915,9 +2915,9 @@ Search your record here:
       <td></td>
       <td>-1</td>
       <td></td>
-      <td><a title='30c73db0-37ff-4790-8f7e-b7b127179308' href='../records/30c73db0-37ff-4790-8f7e-b7b127179308' target='_blank'>2</a></td>
-      <td><a title='30c73db0-37ff-4790-8f7e-b7b127179308' href='../records/30c73db0-37ff-4790-8f7e-b7b127179308' target='_blank'>9</a></td>
-      <td><a title='30c73db0-37ff-4790-8f7e-b7b127179308' href='../records/30c73db0-37ff-4790-8f7e-b7b127179308' target='_blank'>1</a></td>
+      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>2</a></td>
+      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>9</a></td>
+      <td><a title='563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' href='../records/563294fe-6ee1-43c0-b0b3-e8023ba8f4e3' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='60e4c627-5a78-4f75-b5ca-f54f3148d8f7' href='../records/60e4c627-5a78-4f75-b5ca-f54f3148d8f7' target='_blank'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
@@ -4114,25 +4114,6 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='c89c6ef5-ce19-4f4d-baa7-383f4a35a5e9' href='../records/c89c6ef5-ce19-4f4d-baa7-383f4a35a5e9' target='_blank'>3</a></td>
       <td><a title='c89c6ef5-ce19-4f4d-baa7-383f4a35a5e9' href='../records/c89c6ef5-ce19-4f4d-baa7-383f4a35a5e9' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='75656423-abb5-46cd-b0af-a9cf2379030b' href='../records/75656423-abb5-46cd-b0af-a9cf2379030b' target='_blank'>QU5M Oceanographic Mooring in Hyacinthe Bay, Quadra Island, Provisional</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7ddae37a-e706-45d2-8060-8306300a98c8' target='_blank'>link</a></td>
-      <td><a title='75656423-abb5-46cd-b0af-a9cf2379030b' href='../records/75656423-abb5-46cd-b0af-a9cf2379030b' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>subSurfaceTemperature, seaSurfaceTemperature</td>
-      <td>2021-10-20</td>
-      <td>2024-08-21</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='75656423-abb5-46cd-b0af-a9cf2379030b' href='../records/75656423-abb5-46cd-b0af-a9cf2379030b' target='_blank'>2</a></td>
-      <td><a title='75656423-abb5-46cd-b0af-a9cf2379030b' href='../records/75656423-abb5-46cd-b0af-a9cf2379030b' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
