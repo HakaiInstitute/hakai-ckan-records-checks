@@ -3585,25 +3585,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2738ef2b-0c74-422d-a140-082e5f7b3793' target='_blank'>link</a></td>
-      <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>4</a></td>
-      <td>Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, invertebrateAbundanceAndDistribution</td>
-      <td>2022-01-24</td>
-      <td>2024-07-24</td>
-      <td>10.21966/zs6a-j496</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>3</a></td>
-      <td><a title='f538dde5-6246-43e4-88a9-ce8b1bffe7cb' href='../records/f538dde5-6246-43e4-88a9-ce8b1bffe7cb' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='e51332eb-211e-4b16-8174-475af2553546' href='../records/e51332eb-211e-4b16-8174-475af2553546' target='_blank'>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_154e88e6-2300-4ca0-b3f8-ee822d32a9a4' target='_blank'>link</a></td>
       <td><a title='e51332eb-211e-4b16-8174-475af2553546' href='../records/e51332eb-211e-4b16-8174-475af2553546' target='_blank'>15</a></td>
