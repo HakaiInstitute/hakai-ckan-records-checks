@@ -1022,7 +1022,7 @@ Search your record here:
     <tr>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>link</a></td>
-      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>3</a></td>
+      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>4</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1036,7 +1036,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
       <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='46294e7b-d36f-4275-90c2-4968f5de0c56' href='../records/46294e7b-d36f-4275-90c2-4968f5de0c56' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' href='../records/7d7e9a8b-fa21-4f0a-aa68-9a70507d777f' target='_blank'>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
@@ -1417,6 +1417,25 @@ Search your record here:
       <td><a title='f0d6727f-2727-4ca1-a356-b73752f15a94' href='../records/f0d6727f-2727-4ca1-a356-b73752f15a94' target='_blank'>2</a></td>
       <td><a title='f0d6727f-2727-4ca1-a356-b73752f15a94' href='../records/f0d6727f-2727-4ca1-a356-b73752f15a94' target='_blank'>1</a></td>
       <td><a title='f0d6727f-2727-4ca1-a356-b73752f15a94' href='../records/f0d6727f-2727-4ca1-a356-b73752f15a94' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='2f033fd7-2379-4942-8779-2a0954793e2c' href='../records/2f033fd7-2379-4942-8779-2a0954793e2c' target='_blank'>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8e99157a-8daf-4e68-92ae-9d22cfd46ce7' target='_blank'>link</a></td>
+      <td><a title='2f033fd7-2379-4942-8779-2a0954793e2c' href='../records/2f033fd7-2379-4942-8779-2a0954793e2c' target='_blank'>3</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-11-24</td>
+      <td>2024-07-23</td>
+      <td>10.21966/scaa-p138</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='2f033fd7-2379-4942-8779-2a0954793e2c' href='../records/2f033fd7-2379-4942-8779-2a0954793e2c' target='_blank'>1</a></td>
+      <td><a title='2f033fd7-2379-4942-8779-2a0954793e2c' href='../records/2f033fd7-2379-4942-8779-2a0954793e2c' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='a7091c33-50d8-402d-85fd-564868977626' href='../records/a7091c33-50d8-402d-85fd-564868977626' target='_blank'>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</a></td>
@@ -2029,7 +2048,7 @@ Search your record here:
     <tr>
       <td><a title='d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' href='../records/d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>link</a></td>
-      <td><a title='d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' href='../records/d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' target='_blank'>13</a></td>
+      <td><a title='d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' href='../records/d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' target='_blank'>12</a></td>
       <td></td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2043,7 +2062,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' href='../records/d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' target='_blank'>6</a></td>
       <td><a title='d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' href='../records/d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' target='_blank'>5</a></td>
-      <td><a title='d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' href='../records/d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' target='_blank'>2</a></td>
+      <td><a title='d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' href='../records/d2bdbe63-6934-4c11-8111-27c0b7ed5dfa' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='d758a42f-bab3-4cb9-b463-3de0f53ef732' href='../records/d758a42f-bab3-4cb9-b463-3de0f53ef732' target='_blank'>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</a></td>
