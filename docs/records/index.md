@@ -1250,7 +1250,7 @@ Search your record here:
     <tr>
       <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1' target='_blank'>link</a></td>
-      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>5</a></td>
+      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>6</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1264,7 +1264,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>2</a></td>
       <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>3</a></td>
-      <td></td>
+      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='673f8fdb-7528-48fb-be39-0f1be96fdd0c' href='../records/673f8fdb-7528-48fb-be39-0f1be96fdd0c' target='_blank'>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
