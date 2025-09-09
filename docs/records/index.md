@@ -1250,7 +1250,7 @@ Search your record here:
     <tr>
       <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1' target='_blank'>link</a></td>
-      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>6</a></td>
+      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>5</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1264,7 +1264,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>2</a></td>
       <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>3</a></td>
-      <td><a title='277dcb2c-0fe6-4a45-b774-181a71bbec1b' href='../records/277dcb2c-0fe6-4a45-b774-181a71bbec1b' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='673f8fdb-7528-48fb-be39-0f1be96fdd0c' href='../records/673f8fdb-7528-48fb-be39-0f1be96fdd0c' target='_blank'>Fraser River - BCSRIF Landslide Mapping – 2022 – Hakai Airborne Coastal Observatory</a></td>
@@ -4195,7 +4195,7 @@ Search your record here:
     <tr>
       <td><a title='07a4f6df-e7c6-407a-b759-fbf5225d3207' href='../records/07a4f6df-e7c6-407a-b759-fbf5225d3207' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>link</a></td>
-      <td><a title='07a4f6df-e7c6-407a-b759-fbf5225d3207' href='../records/07a4f6df-e7c6-407a-b759-fbf5225d3207' target='_blank'>14</a></td>
+      <td><a title='07a4f6df-e7c6-407a-b759-fbf5225d3207' href='../records/07a4f6df-e7c6-407a-b759-fbf5225d3207' target='_blank'>15</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4209,7 +4209,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='07a4f6df-e7c6-407a-b759-fbf5225d3207' href='../records/07a4f6df-e7c6-407a-b759-fbf5225d3207' target='_blank'>9</a></td>
       <td><a title='07a4f6df-e7c6-407a-b759-fbf5225d3207' href='../records/07a4f6df-e7c6-407a-b759-fbf5225d3207' target='_blank'>5</a></td>
-      <td></td>
+      <td><a title='07a4f6df-e7c6-407a-b759-fbf5225d3207' href='../records/07a4f6df-e7c6-407a-b759-fbf5225d3207' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7113a20f-4975-49e6-b42b-a91ae7805400' href='../records/7113a20f-4975-49e6-b42b-a91ae7805400' target='_blank'>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</a></td>
