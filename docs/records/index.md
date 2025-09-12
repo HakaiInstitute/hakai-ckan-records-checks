@@ -1934,7 +1934,7 @@ Search your record here:
     <tr>
       <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>LiDAR Derived Watersheds with Metrics - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d' target='_blank'>link</a></td>
-      <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>3</a></td>
+      <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>4</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1948,7 +1948,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 2}]</td>
       <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>1</a></td>
       <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='ae3f1a61-4f27-40fb-903c-718f3a92f94f' href='../records/ae3f1a61-4f27-40fb-903c-718f3a92f94f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b82b572b-44b0-455b-a8ff-734e5bd64d2b' href='../records/b82b572b-44b0-455b-a8ff-734e5bd64d2b' target='_blank'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</a></td>
