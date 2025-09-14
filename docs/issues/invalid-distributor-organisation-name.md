@@ -148,12 +148,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='University of Victoria' expects 'Hakai Institute'</td>
     </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Wild Salmon Centre' expects 'Hakai Institute'</td>
-    </tr>
   </tbody>
 </table>
 
