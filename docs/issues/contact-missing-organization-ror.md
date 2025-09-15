@@ -186,6 +186,12 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Atlas, Will' contact['organisation-name']='Wild Salmon Centre'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>

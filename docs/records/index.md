@@ -813,7 +813,7 @@ Search your record here:
     <tr>
       <td><a title='601e1a4d-fd6b-433f-aa53-2d1273297f07' href='../records/601e1a4d-fd6b-433f-aa53-2d1273297f07' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_59b33373-ae4a-4719-a3df-0e36a08187d8' target='_blank'>link</a></td>
-      <td><a title='601e1a4d-fd6b-433f-aa53-2d1273297f07' href='../records/601e1a4d-fd6b-433f-aa53-2d1273297f07' target='_blank'>3</a></td>
+      <td><a title='601e1a4d-fd6b-433f-aa53-2d1273297f07' href='../records/601e1a4d-fd6b-433f-aa53-2d1273297f07' target='_blank'>2</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -827,7 +827,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='601e1a4d-fd6b-433f-aa53-2d1273297f07' href='../records/601e1a4d-fd6b-433f-aa53-2d1273297f07' target='_blank'>1</a></td>
       <td><a title='601e1a4d-fd6b-433f-aa53-2d1273297f07' href='../records/601e1a4d-fd6b-433f-aa53-2d1273297f07' target='_blank'>1</a></td>
-      <td><a title='601e1a4d-fd6b-433f-aa53-2d1273297f07' href='../records/601e1a4d-fd6b-433f-aa53-2d1273297f07' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='76174cb6-dc7a-43f1-8a40-7101a6eaba36' href='../records/76174cb6-dc7a-43f1-8a40-7101a6eaba36' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</a></td>
@@ -940,6 +940,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1569,6 +1588,25 @@ Search your record here:
       <td><a title='a43a0c85-99ac-45dc-8c55-610735ac0661' href='../records/a43a0c85-99ac-45dc-8c55-610735ac0661' target='_blank'>2</a></td>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>Adjusted Koeye River stage and temperature from 2013 to 2021</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_44dbd3c8-93bf-4e2f-9532-cbaebcf4a2be' target='_blank'>link</a></td>
+      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>10</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-07-08</td>
+      <td>2024-07-23</td>
+      <td>10.21966/eh5c-jh12</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>5</a></td>
+      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>4</a></td>
+      <td><a title='1e36a1b1-d4cf-47a5-a012-911a97f71e3e' href='../records/1e36a1b1-d4cf-47a5-a012-911a97f71e3e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='8798750c-28cd-4b89-a19f-64eaf3d6789f' href='../records/8798750c-28cd-4b89-a19f-64eaf3d6789f' target='_blank'>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</a></td>
@@ -3525,6 +3563,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='d5301037-93d9-4d8e-9e27-ac1a5676a444' href='../records/d5301037-93d9-4d8e-9e27-ac1a5676a444' target='_blank'>6</a></td>
       <td><a title='d5301037-93d9-4d8e-9e27-ac1a5676a444' href='../records/d5301037-93d9-4d8e-9e27-ac1a5676a444' target='_blank'>4</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' href='../records/e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94ded8f9-4ee7-407d-80eb-bf217ce7d260' target='_blank'>link</a></td>
+      <td><a title='e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' href='../records/e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' target='_blank'>10</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, dissolvedOrganicCarbon, oceanSurfaceStress</td>
+      <td>2022-01-24</td>
+      <td>2024-07-23</td>
+      <td>10.21966/pk18-z035</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' href='../records/e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' target='_blank'>3</a></td>
+      <td><a title='e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' href='../records/e2411ffd-66e3-4ce3-ab4f-4a74a3af8693' target='_blank'>7</a></td>
       <td></td>
     </tr>
     <tr>
