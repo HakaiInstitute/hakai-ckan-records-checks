@@ -88,12 +88,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
     </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 502 for resources[1].url=https://doi.org/10.21966/e5c1-c396</td>
-    </tr>
   </tbody>
 </table>
 
