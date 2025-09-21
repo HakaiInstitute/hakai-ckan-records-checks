@@ -17,10 +17,16 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-18</td>
-      <td>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>2024-12-16</td>
+      <td>Cryosphere Snow Surveys Southwest British Columbia - 2023 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/175j-8k96 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/thq7-0g08 status_code=502</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ez7j-cy15 status_code=502</td>
     </tr>
   </tbody>
 </table>
