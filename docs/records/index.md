@@ -604,7 +604,7 @@ Search your record here:
     <tr>
       <td><a title='ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' href='../records/ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' target='_blank'>Cryosphere Snow Surveys Southwest British Columbia - 2023 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0' target='_blank'>link</a></td>
-      <td><a title='ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' href='../records/ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' target='_blank'>4</a></td>
+      <td><a title='ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' href='../records/ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -618,7 +618,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' href='../records/ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' target='_blank'>1</a></td>
       <td><a title='ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' href='../records/ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' target='_blank'>2</a></td>
-      <td><a title='ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' href='../records/ce1e8be7-0a89-47e9-ae0c-ed26200d03c1' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='f64e41be-19d6-41a7-be2b-ae2af1db7e53' href='../records/f64e41be-19d6-41a7-be2b-ae2af1db7e53' target='_blank'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
@@ -1041,7 +1041,7 @@ Search your record here:
     <tr>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_60f653ae-a3fd-484d-807c-3d7e4a0712cb' target='_blank'>link</a></td>
-      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>5</a></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>6</a></td>
       <td>Nearshore, Genomics</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1055,7 +1055,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>3</a></td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
@@ -2789,7 +2789,7 @@ Search your record here:
     <tr>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14' target='_blank'>link</a></td>
-      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>6</a></td>
+      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>5</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2803,7 +2803,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>3</a></td>
       <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>2</a></td>
-      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='ebae9877-3802-4777-83bb-63d347256093' href='../records/ebae9877-3802-4777-83bb-63d347256093' target='_blank'>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</a></td>
