@@ -35,11 +35,12 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408
 
 
 ## Issues
-| level   | message                                               |
-|:--------|:------------------------------------------------------|
-| ERROR   | Invalid licence: CC-BY-NC-4.0                         |
-| INFO    | Title is greater than 60 characters                   |
-| INFO    | Record isn't accesible via a standard data repository |
+| level   | message                                                                               |
+|:--------|:--------------------------------------------------------------------------------------|
+| ERROR   | Invalid licence: CC-BY-NC-4.0                                                         |
+| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.21966/7ze4-x883 status_code=502 |
+| INFO    | Title is greater than 60 characters                                                   |
+| INFO    | Record isn't accesible via a standard data repository                                 |
 
 
 <script>

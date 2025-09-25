@@ -30,24 +30,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Kennedy, Estjer' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Lanphier, Karie' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Peterson, Willoughby' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
       <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Poppe, Katrina' contact['organisation-name']='Western Washington University'</td>
@@ -57,12 +39,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Poppe, Katrina' contact['organisation-name']='Western Washington University'</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
     </tr>
     <tr>
       <td>2025-01-08</td>
@@ -87,12 +63,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Denali Fault - 2024 - Airborne LiDAR Survey</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Kîsik Geospatial & Aerial Survey' contact['organisation-name']='Kîsik Geospatial & Aerial Survey'</td>
-    </tr>
-    <tr>
-      <td>2024-11-21</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
     </tr>
     <tr>
       <td>2024-11-20</td>
@@ -309,12 +279,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Mahara, Natalie' contact['organisation-name']='University of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Miller, Becky' contact['organisation-name']='University of Victoria'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
