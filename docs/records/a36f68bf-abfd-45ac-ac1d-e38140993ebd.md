@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e23
 ## Issues
 | level   | message                                                                                                             |
 |:--------|:--------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.21966/zxzr-e472 status_code=502                               |
 | INFO    | Title is greater than 60 characters                                                                                 |
 | INFO    | No version                                                                                                          |
 | INFO    | Record isn't accesible via a standard data repository                                                               |
