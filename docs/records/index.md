@@ -756,7 +756,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -770,7 +770,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -2101,25 +2101,6 @@ Search your record here:
       <td><a title='2c7ff415-953c-4b63-9374-0d8377779661' href='../records/2c7ff415-953c-4b63-9374-0d8377779661' target='_blank'>4</a></td>
       <td><a title='2c7ff415-953c-4b63-9374-0d8377779661' href='../records/2c7ff415-953c-4b63-9374-0d8377779661' target='_blank'>6</a></td>
       <td><a title='2c7ff415-953c-4b63-9374-0d8377779661' href='../records/2c7ff415-953c-4b63-9374-0d8377779661' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897' target='_blank'>link</a></td>
-      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>11</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>dissolvedOrganicCarbon, other</td>
-      <td>2022-03-25</td>
-      <td>2024-12-05</td>
-      <td>10.21966/1.715701</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>6</a></td>
-      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>5</a></td>
-      <td></td>
     </tr>
     <tr>
       <td><a title='a68e2f4f-657f-4977-aaa1-c96d8efd34b5' href='../records/a68e2f4f-657f-4977-aaa1-c96d8efd34b5' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
