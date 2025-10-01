@@ -2048,7 +2048,7 @@ Search your record here:
     <tr>
       <td><a title='f1efe467-81bd-412a-9835-c0a170d3349f' href='../records/f1efe467-81bd-412a-9835-c0a170d3349f' target='_blank'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997' target='_blank'>link</a></td>
-      <td><a title='f1efe467-81bd-412a-9835-c0a170d3349f' href='../records/f1efe467-81bd-412a-9835-c0a170d3349f' target='_blank'>4</a></td>
+      <td><a title='f1efe467-81bd-412a-9835-c0a170d3349f' href='../records/f1efe467-81bd-412a-9835-c0a170d3349f' target='_blank'>5</a></td>
       <td>Watersheds, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2062,7 +2062,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='f1efe467-81bd-412a-9835-c0a170d3349f' href='../records/f1efe467-81bd-412a-9835-c0a170d3349f' target='_blank'>2</a></td>
       <td><a title='f1efe467-81bd-412a-9835-c0a170d3349f' href='../records/f1efe467-81bd-412a-9835-c0a170d3349f' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='f1efe467-81bd-412a-9835-c0a170d3349f' href='../records/f1efe467-81bd-412a-9835-c0a170d3349f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='f9605973-73bf-4f26-92b5-22497b35e0ab' href='../records/f9605973-73bf-4f26-92b5-22497b35e0ab' target='_blank'>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</a></td>
@@ -2101,6 +2101,25 @@ Search your record here:
       <td><a title='2c7ff415-953c-4b63-9374-0d8377779661' href='../records/2c7ff415-953c-4b63-9374-0d8377779661' target='_blank'>4</a></td>
       <td><a title='2c7ff415-953c-4b63-9374-0d8377779661' href='../records/2c7ff415-953c-4b63-9374-0d8377779661' target='_blank'>6</a></td>
       <td><a title='2c7ff415-953c-4b63-9374-0d8377779661' href='../records/2c7ff415-953c-4b63-9374-0d8377779661' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897' target='_blank'>link</a></td>
+      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>11</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>dissolvedOrganicCarbon, other</td>
+      <td>2022-03-25</td>
+      <td>2024-12-05</td>
+      <td>10.21966/1.715701</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>6</a></td>
+      <td><a title='39adc50d-7439-4b3a-abe4-7da281aee8c3' href='../records/39adc50d-7439-4b3a-abe4-7da281aee8c3' target='_blank'>5</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='a68e2f4f-657f-4977-aaa1-c96d8efd34b5' href='../records/a68e2f4f-657f-4977-aaa1-c96d8efd34b5' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
@@ -4195,7 +4214,7 @@ Search your record here:
     <tr>
       <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4' target='_blank'>link</a></td>
-      <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>5</a></td>
+      <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>6</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>underDevelopment</td>
@@ -4209,7 +4228,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>3</a></td>
       <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='2190b7fe-9430-4550-83c1-142a6a9eee2e' href='../records/2190b7fe-9430-4550-83c1-142a6a9eee2e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='2a3a7d5e-d8b5-4deb-b8f2-acd9b4a420ac' href='../records/2a3a7d5e-d8b5-4deb-b8f2-acd9b4a420ac' target='_blank'>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</a></td>

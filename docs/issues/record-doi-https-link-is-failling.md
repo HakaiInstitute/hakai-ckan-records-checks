@@ -18,21 +18,15 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2024-07-24</td>
-      <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
+      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/jhqc-fq17 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/fcwf-p919 status_code=502</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</td>
+      <td>2024-07-24</td>
+      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/7ze4-x883 status_code=502</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/zxzr-e472 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/nmds-rx42 status_code=502</td>
     </tr>
   </tbody>
 </table>
