@@ -41,6 +41,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
     </tr>
     <tr>
+      <td>2025-04-21</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 500 for resources[1].url=https://www.ncbi.nlm.nih.gov/bioproject/PRJNA865652/</td>
+    </tr>
+    <tr>
       <td>2024-07-24</td>
       <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>ERROR</td>
@@ -83,10 +89,10 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
+      <td>2024-07-12</td>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
       <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
     </tr>
   </tbody>
 </table>
