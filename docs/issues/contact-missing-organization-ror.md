@@ -270,13 +270,19 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Hunt, Brian P.V.' contact['organisation-name']='University of British Columbia'</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hunt, Brian' contact['organisation-name']='University of British Columbia'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hunt, Brian' contact['organisation-name']='University of British Columbia'</td>
     </tr>

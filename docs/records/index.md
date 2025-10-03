@@ -756,7 +756,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -770,7 +770,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -1041,7 +1041,7 @@ Search your record here:
     <tr>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_60f653ae-a3fd-484d-807c-3d7e4a0712cb' target='_blank'>link</a></td>
-      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>6</a></td>
+      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>5</a></td>
       <td>Nearshore, Genomics</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1055,7 +1055,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>3</a></td>
       <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>2</a></td>
-      <td><a title='eb6c056a-616f-459d-beaa-5b8d85565f91' href='../records/eb6c056a-616f-459d-beaa-5b8d85565f91' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
@@ -1074,25 +1074,6 @@ Search your record here:
       <td>[{'year': '2024', 'total': 2}]</td>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>8</a></td>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497' target='_blank'>link</a></td>
-      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>historicalArchive</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>nutrients</td>
-      <td>2023-03-13</td>
-      <td>2024-07-23</td>
-      <td>10.21966/j3j5-wt70</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>2</a></td>
-      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2787,6 +2768,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14' target='_blank'>link</a></td>
+      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>5</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, microbeBiomassAndDiversity</td>
+      <td>2022-03-02</td>
+      <td>2024-07-23</td>
+      <td>10.21966/ez7j-cy15</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>3</a></td>
+      <td><a title='e778f1ee-9a7b-48f9-8014-adcbff86df19' href='../records/e778f1ee-9a7b-48f9-8014-adcbff86df19' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='ebae9877-3802-4777-83bb-63d347256093' href='../records/ebae9877-3802-4777-83bb-63d347256093' target='_blank'>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2a92ca16-f5c6-4362-acea-6bb5117b8d65' target='_blank'>link</a></td>
       <td><a title='ebae9877-3802-4777-83bb-63d347256093' href='../records/ebae9877-3802-4777-83bb-63d347256093' target='_blank'>8</a></td>
@@ -3737,6 +3737,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='2d66d007-6ece-48e5-89c3-969ecf394876' href='../records/2d66d007-6ece-48e5-89c3-969ecf394876' target='_blank'>Clam Garden Geospatial Data - Quadra Island - 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a' target='_blank'>link</a></td>
+      <td><a title='2d66d007-6ece-48e5-89c3-969ecf394876' href='../records/2d66d007-6ece-48e5-89c3-969ecf394876' target='_blank'>8</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-19</td>
+      <td>2024-07-23</td>
+      <td>10.21966/1.346775</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='2d66d007-6ece-48e5-89c3-969ecf394876' href='../records/2d66d007-6ece-48e5-89c3-969ecf394876' target='_blank'>2</a></td>
+      <td><a title='2d66d007-6ece-48e5-89c3-969ecf394876' href='../records/2d66d007-6ece-48e5-89c3-969ecf394876' target='_blank'>5</a></td>
+      <td><a title='2d66d007-6ece-48e5-89c3-969ecf394876' href='../records/2d66d007-6ece-48e5-89c3-969ecf394876' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='38f5b08b-c972-4d93-9bfa-b152a58e768e' href='../records/38f5b08b-c972-4d93-9bfa-b152a58e768e' target='_blank'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466' target='_blank'>link</a></td>
       <td><a title='38f5b08b-c972-4d93-9bfa-b152a58e768e' href='../records/38f5b08b-c972-4d93-9bfa-b152a58e768e' target='_blank'>7</a></td>
@@ -4001,6 +4020,25 @@ Search your record here:
       <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>6</a></td>
       <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>3</a></td>
       <td><a title='fc555418-a0dd-4e5c-adbe-c4fe2a242d53' href='../records/fc555418-a0dd-4e5c-adbe-c4fe2a242d53' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='220c76b1-88b1-4b19-a7d6-99123de85d30' href='../records/220c76b1-88b1-4b19-a7d6-99123de85d30' target='_blank'>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_eb1feb98-b11a-4663-b7ab-2216df8187bd' target='_blank'>link</a></td>
+      <td><a title='220c76b1-88b1-4b19-a7d6-99123de85d30' href='../records/220c76b1-88b1-4b19-a7d6-99123de85d30' target='_blank'>11</a></td>
+      <td></td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2021-11-19</td>
+      <td>2024-07-23</td>
+      <td>10.21966/e5c1-c396</td>
+      <td>2</td>
+      <td>[{'year': '2023', 'total': 1}, {'year': '2024', 'total': 1}]</td>
+      <td><a title='220c76b1-88b1-4b19-a7d6-99123de85d30' href='../records/220c76b1-88b1-4b19-a7d6-99123de85d30' target='_blank'>5</a></td>
+      <td><a title='220c76b1-88b1-4b19-a7d6-99123de85d30' href='../records/220c76b1-88b1-4b19-a7d6-99123de85d30' target='_blank'>5</a></td>
+      <td><a title='220c76b1-88b1-4b19-a7d6-99123de85d30' href='../records/220c76b1-88b1-4b19-a7d6-99123de85d30' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='c89c6ef5-ce19-4f4d-baa7-383f4a35a5e9' href='../records/c89c6ef5-ce19-4f4d-baa7-383f4a35a5e9' target='_blank'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a></td>
