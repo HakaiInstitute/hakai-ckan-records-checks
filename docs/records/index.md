@@ -944,6 +944,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='a884a61e-4c34-4af1-8bbc-0e86d720055c' href='../records/a884a61e-4c34-4af1-8bbc-0e86d720055c' target='_blank'>3</a></td>
@@ -1074,6 +1093,25 @@ Search your record here:
       <td>[{'year': '2024', 'total': 2}]</td>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>8</a></td>
       <td><a title='5975d5c0-57b0-4cc1-ac67-de7983ff93e9' href='../records/5975d5c0-57b0-4cc1-ac67-de7983ff93e9' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497' target='_blank'>link</a></td>
+      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>historicalArchive</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>nutrients</td>
+      <td>2023-03-13</td>
+      <td>2024-07-23</td>
+      <td>10.21966/j3j5-wt70</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>2</a></td>
+      <td><a title='d7bcde1a-cb49-43b9-a90a-67c10f81e492' href='../records/d7bcde1a-cb49-43b9-a90a-67c10f81e492' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3226,7 +3264,7 @@ Search your record here:
     <tr>
       <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
-      <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>3</a></td>
+      <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3240,7 +3278,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>2</a></td>
       <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='0ada7e84-9cf3-4249-af66-1ee687afbc84' href='../records/0ada7e84-9cf3-4249-af66-1ee687afbc84' target='_blank'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
