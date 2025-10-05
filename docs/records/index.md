@@ -3264,7 +3264,7 @@ Search your record here:
     <tr>
       <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
-      <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>4</a></td>
+      <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3278,7 +3278,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>2</a></td>
       <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>1</a></td>
-      <td><a title='0ac99e39-4d6b-46e3-b331-2371c7b682a2' href='../records/0ac99e39-4d6b-46e3-b331-2371c7b682a2' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='0ada7e84-9cf3-4249-af66-1ee687afbc84' href='../records/0ada7e84-9cf3-4249-af66-1ee687afbc84' target='_blank'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
