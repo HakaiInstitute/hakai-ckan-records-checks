@@ -83,12 +83,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing organization ROR:  contact['individual-name']='Korver, Maartje C.' contact['organisation-name']='Hakai Institute -  McGill University'</td>
     </tr>
     <tr>
-      <td>2024-11-26</td>
-      <td>Denali Fault - 2024 - Airborne LiDAR Survey</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Kîsik Geospatial & Aerial Survey' contact['organisation-name']='Kîsik Geospatial & Aerial Survey'</td>
-    </tr>
-    <tr>
       <td>2024-11-21</td>
       <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
       <td>INFO</td>
@@ -235,18 +229,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Coastal Observatory, Airborne' contact['organisation-name']='Airborne Coastal Observatory - Hakai Institute'</td>
     </tr>

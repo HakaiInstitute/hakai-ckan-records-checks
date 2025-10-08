@@ -71,12 +71,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
       <td>2024-11-21</td>
       <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
       <td>ERROR</td>
@@ -87,12 +81,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Fraser River Landslide Project - Sites of Concern 2024</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Hakai Geospatial' expects 'Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2024-08-02</td>
-      <td>Data for the paper "Phylogenomic position of eupelagonemids, abundant, and diverse deep-ocean heterotrophs"</td>
-      <td>ERROR</td>
-      <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
