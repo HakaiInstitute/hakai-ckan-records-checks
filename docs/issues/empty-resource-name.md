@@ -34,12 +34,6 @@ This page present the list of all the records associated with the issue: **Empty
       <td>ERROR</td>
       <td>Empty resource name</td>
     </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>ERROR</td>
-      <td>Empty resource name</td>
-    </tr>
   </tbody>
 </table>
 

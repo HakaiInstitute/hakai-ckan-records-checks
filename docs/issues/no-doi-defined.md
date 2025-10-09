@@ -29,6 +29,18 @@ This page present the list of all the records associated with the issue: **No DO
       <td>No DOI defined</td>
     </tr>
     <tr>
+      <td>2024-12-05</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2024-12-05</td>
+      <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2024-12-04</td>
       <td>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</td>
       <td>WARNING</td>
@@ -90,7 +102,7 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
+      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -102,13 +114,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -234,13 +246,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>UAV Imagery - Coastal British Columbia - 2015</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -300,25 +312,19 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Topographic Basemap</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</td>
-      <td>WARNING</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>20m Digital Elevation Model - Calvert Island</td>
+      <td>WARNING</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2024-07-17</td>
+      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
