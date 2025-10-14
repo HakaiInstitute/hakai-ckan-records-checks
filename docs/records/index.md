@@ -70,25 +70,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='f44b4fd0-6a2c-4d4c-a2e8-229135c0ef69' href='../records/f44b4fd0-6a2c-4d4c-a2e8-229135c0ef69' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7a867ce-0f18-43f6-8148-775235d800b6' target='_blank'>link</a></td>
-      <td><a title='f44b4fd0-6a2c-4d4c-a2e8-229135c0ef69' href='../records/f44b4fd0-6a2c-4d4c-a2e8-229135c0ef69' target='_blank'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial, Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>macroalgalCanopyCoverAndComposition</td>
-      <td>2025-10-06</td>
-      <td>2025-10-06</td>
-      <td>10.21966/qs1b-g693</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='f44b4fd0-6a2c-4d4c-a2e8-229135c0ef69' href='../records/f44b4fd0-6a2c-4d4c-a2e8-229135c0ef69' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='f2332df4-224d-4f16-bd3d-046741217079' href='../records/f2332df4-224d-4f16-bd3d-046741217079' target='_blank'>Size-fractionated zooplankton biomass and isotopes along the BC coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dbb33efe-c207-4d9c-abef-2350595bf47a' target='_blank'>link</a></td>
       <td><a title='f2332df4-224d-4f16-bd3d-046741217079' href='../records/f2332df4-224d-4f16-bd3d-046741217079' target='_blank'>2</a></td>
