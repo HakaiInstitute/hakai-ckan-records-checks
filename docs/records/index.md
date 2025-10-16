@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_291b98a4-d868-462c-852a-d6cf79ecf6ce' target='_blank'>link</a></td>
+      <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>4</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2025-10-14</td>
+      <td>2025-10-14</td>
+      <td>10.21966/9cbv-ra30</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>2</a></td>
+      <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>1</a></td>
+      <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='45f1a631-2d81-4637-80c7-1ef46061569b' href='../records/45f1a631-2d81-4637-80c7-1ef46061569b' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8343aa0-dbea-4267-9f78-662bec08d4bc' target='_blank'>link</a></td>
       <td><a title='45f1a631-2d81-4637-80c7-1ef46061569b' href='../records/45f1a631-2d81-4637-80c7-1ef46061569b' target='_blank'>2</a></td>
@@ -813,7 +832,7 @@ Search your record here:
     <tr>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>3</a></td>
+      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -827,7 +846,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
       <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
-      <td><a title='bf97bed8-d6e8-4675-8130-5a98713bc4e3' href='../records/bf97bed8-d6e8-4675-8130-5a98713bc4e3' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c0556452-15af-4193-ae22-fc37056d693d' href='../records/c0556452-15af-4193-ae22-fc37056d693d' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
