@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548' target='_blank'>link</a></td>
+      <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>5</a></td>
+      <td>Genomics, Nearshore, Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>invertebrateAbundanceAndDistribution, marineTurtlesBirdsMammalsAbundanceAndDistribution, fishAbundanceAndDistribution, seaSurfaceTemperature, subSurfaceTemperature, other, microbeBiomassAndDiversity</td>
+      <td>2025-10-18</td>
+      <td>2025-10-18</td>
+      <td>10.21966/8sgn-jg38</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>4</a></td>
+      <td></td>
+      <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_291b98a4-d868-462c-852a-d6cf79ecf6ce' target='_blank'>link</a></td>
       <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>4</a></td>
@@ -1016,25 +1035,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='f6fda057-07aa-4542-9451-dd6fb64a8f95' href='../records/f6fda057-07aa-4542-9451-dd6fb64a8f95' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='f058c37e-2339-45a8-8df2-f8d806e92517' href='../records/f058c37e-2339-45a8-8df2-f8d806e92517' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
