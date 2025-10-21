@@ -34,7 +34,7 @@ Search your record here:
     <tr>
       <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548' target='_blank'>link</a></td>
-      <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>5</a></td>
+      <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>4</a></td>
       <td>Genomics, Nearshore, Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -48,7 +48,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>4</a></td>
       <td></td>
-      <td><a title='748d09c5-09bd-4378-9d49-ac59886f5f67' href='../records/748d09c5-09bd-4378-9d49-ac59886f5f67' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='cd47b3b2-f01b-45fc-a77c-cedd34103fbf' href='../records/cd47b3b2-f01b-45fc-a77c-cedd34103fbf' target='_blank'>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
@@ -1854,6 +1854,25 @@ Search your record here:
       <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>6</a></td>
       <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>4</a></td>
       <td><a title='5d539cf2-de1c-4b0e-a846-df9278c934d4' href='../records/5d539cf2-de1c-4b0e-a846-df9278c934d4' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>link</a></td>
+      <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>18</a></td>
+      <td>Watersheds, Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, dissolvedOrganicCarbon</td>
+      <td>2022-03-29</td>
+      <td>2024-07-24</td>
+      <td>10.21966/66x5-a210</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>12</a></td>
+      <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>5</a></td>
+      <td><a title='6a1ac300-7fc3-4424-ae29-79897ed2c1cc' href='../records/6a1ac300-7fc3-4424-ae29-79897ed2c1cc' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='765b3a4d-7a99-4352-bafe-af044f375fdf' href='../records/765b3a4d-7a99-4352-bafe-af044f375fdf' target='_blank'>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
