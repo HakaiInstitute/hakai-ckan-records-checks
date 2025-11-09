@@ -1,0 +1,72 @@
+---
+title: Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016
+hide:
+  - navigation
+  - toc
+---
+
+# Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>link</a>
+
+???+ abstract "Metadata"
+
+    - **Name**: ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324 
+    - **Organization**: Hakai Institute 
+    - **Ressource Type**: dataset 
+    - **Licence**: CC-BY-4.0 
+    - **Private**: False 
+    - **Projects**: Genomics, Watersheds 
+    - **Progress**: completed 
+    - **State**: active 
+    - **Type**: dataset 
+    - **Distributor**: University of British Columbia 
+    - **Resources Count**: 1 
+    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
+    - **Eov**: other 
+    - **Doi**: 10.21966/1.715630 
+    - **Metadata Publication**: 2022-03-29 
+    - **Metadata Revision**: 2024-07-24 
+    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>link</a> 
+
+<div id='map'></div>
+
+
+
+
+## Issues
+| level   | message                                                                                                                                            |
+|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
+| ERROR   | Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'                                |
+| INFO    | Title is greater than 60 characters                                                                                                                |
+| INFO    | No version                                                                                                                                         |
+| INFO    | Contact missing ORCID: contact['individual-name']='Levy-Booth, David J.' contact.get('organisation-name')='University of British Columbia'         |
+| INFO    | Contact missing organization ROR:  contact['individual-name']='Levy-Booth, David J.' contact['organisation-name']='University of British Columbia' |
+| INFO    | Contact missing ORCID: contact['individual-name']='Heger, T.J.' contact.get('organisation-name')=''                                                |
+| INFO    | Contact missing ORCID: contact['individual-name']='D’Amore, D.V.' contact.get('organisation-name')=''                                              |
+| INFO    | Contact missing ORCID: contact['individual-name']='Keeling, P.J.' contact.get('organisation-name')=''                                              |
+| INFO    | Contact missing ORCID: contact['individual-name']='Hallam, S.J.' contact.get('organisation-name')=''                                               |
+| INFO    | Contact missing ORCID: contact['individual-name']='Mohn, W.W.' contact.get('organisation-name')=''                                                 |
+| INFO    | Contact missing ORCID: contact['individual-name']='Levy-Booth, David J.' contact.get('organisation-name')='University of British Columbia'         |
+| INFO    | Contact missing organization ROR:  contact['individual-name']='Levy-Booth, David J.' contact['organisation-name']='University of British Columbia' |
+| INFO    | Record isn't accesible via a standard data repository                                                                                              |
+| WARNING | Contact missing ORCID: contact['individual-name']='Morgan Henderson, Matthew' contact.get('organisation-name')='Hakai Institute'                   |
+
+
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+    var map = L.map('map').setView([51.505, -125.09], 5);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    var geojsonFeature = {
+        "type": "Feature",
+        "properties": {
+            "name" : "Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016"
+        },
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13650264, 51.64966999], [-128.12495841, 51.64966999], [-128.12495841, 51.65523482], [-128.13650264, 51.65523482], [-128.13650264, 51.64966999]]]}
+    }
+    L.geoJSON(geojsonFeature).addTo(map);
+   })
+</script>

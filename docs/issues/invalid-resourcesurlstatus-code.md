@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2025-10-29</td>
+      <td>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[2].url=https://doi.org/10.5061/dryad.5mkkwh7g9</td>
+    </tr>
+    <tr>
       <td>2025-08-12</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>

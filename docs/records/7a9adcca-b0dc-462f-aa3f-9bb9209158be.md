@@ -1,0 +1,85 @@
+---
+title: Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0
+hide:
+  - navigation
+  - toc
+---
+
+# Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f' target='_blank'>link</a>
+
+???+ abstract "Metadata"
+
+    - **Name**: ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f 
+    - **Organization**: Hakai Institute 
+    - **Ressource Type**: dataset 
+    - **Licence**: CC-BY-4.0 
+    - **Private**: False 
+    - **Projects**: Nearshore 
+    - **Progress**: onGoing 
+    - **State**: active 
+    - **Type**: dataset 
+    - **Distributor**: Hakai Institute 
+    - **Resources Count**: 1 
+    - **Vertical Extent**: [{'max': '30.0', 'min': '0.0'}] 
+    - **Eov**: macroalgalCanopyCoverAndComposition 
+    - **Doi**: 10.21966/d1s2-s530 
+    - **Metadata Publication**: 2022-01-21 
+    - **Metadata Revision**: 2024-07-23 
+    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f' target='_blank'>link</a> 
+
+<div id='map'></div>
+
+
+## Citations
+
+**Total Citations**: 1
+
+### Citations over time
+
+|   2024 |
+|-------:|
+|      1 |
+
+### Citations
+
+| relationship   | id                       | type   |   status_code | url                                                        |
+|:---------------|:-------------------------|:-------|--------------:|:-----------------------------------------------------------|
+| citations      | 10.1139/facets-2023-0237 | dois   |           403 | https://www.facetsjournal.com/doi/10.1139/facets-2023-0237 |
+
+
+
+
+## Issues
+| level   | message                                                                                                                      |
+|:--------|:-----------------------------------------------------------------------------------------------------------------------------|
+| INFO    | Title is greater than 60 characters                                                                                          |
+| INFO    | No version                                                                                                                   |
+| INFO    | Contact missing ORCID: contact['individual-name']='Burt, J.' contact.get('organisation-name')=''                             |
+| INFO    | Contact missing ORCID: contact['individual-name']='Okamoto, D.' contact.get('organisation-name')=''                          |
+| INFO    | Record isn't accesible via a standard data repository                                                                        |
+| WARNING | No funder                                                                                                                    |
+| WARNING | No publisher                                                                                                                 |
+| WARNING | Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
+| WARNING | Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute' |
+| WARNING | Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
+
+
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+    var map = L.map('map').setView([51.505, -125.09], 5);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    var geojsonFeature = {
+        "type": "Feature",
+        "properties": {
+            "name" : "Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0"
+        },
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.6, 51.19], [-127.1, 51.19], [-127.1, 52.28], [-128.6, 52.28], [-128.6, 51.19]]]}
+    }
+    L.geoJSON(geojsonFeature).addTo(map);
+   })
+</script>

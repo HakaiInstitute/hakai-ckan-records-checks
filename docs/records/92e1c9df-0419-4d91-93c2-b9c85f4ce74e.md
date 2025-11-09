@@ -1,0 +1,64 @@
+---
+title: Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory
+hide:
+  - navigation
+  - toc
+---
+
+# Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory
+
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679' target='_blank'>link</a>
+
+???+ abstract "Metadata"
+
+    - **Name**: ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679 
+    - **Organization**: Hakai Institute 
+    - **Ressource Type**: dataset 
+    - **Licence**: CC-BY-4.0 
+    - **Private**: False 
+    - **Projects**: Airborne Coastal Observatory 
+    - **Progress**: completed 
+    - **State**: active 
+    - **Type**: dataset 
+    - **Distributor**: Hakai Institute 
+    - **Resources Count**: 2 
+    - **Vertical Extent**: [{'max': '1000.0', 'min': '0.0'}] 
+    - **Eov**: other 
+    - **Doi**:  
+    - **Metadata Publication**: 2022-03-01 
+    - **Metadata Revision**: 2024-07-23 
+    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679' target='_blank'>link</a> 
+
+<div id='map'></div>
+
+
+
+
+## Issues
+| level   | message                                                                                                                              |
+|:--------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| INFO    | Title is greater than 60 characters                                                                                                  |
+| INFO    | No version                                                                                                                           |
+| WARNING | No DOI defined                                                                                                                       |
+| WARNING | Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'   |
+| WARNING | Contact missing ORCID: contact['individual-name']='Coastal Observatory, Airborne' contact.get('organisation-name')='Hakai Institute' |
+| WARNING | Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute'   |
+
+
+<script>
+   document.addEventListener("DOMContentLoaded", function() {
+    var map = L.map('map').setView([51.505, -125.09], 5);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    var geojsonFeature = {
+        "type": "Feature",
+        "properties": {
+            "name" : "Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory"
+        },
+        "geometry": {'type': 'Polygon', 'coordinates': [[[-128.0, 55.96], [-127.2, 55.96], [-127.2, 56.36], [-128.0, 56.36], [-128.0, 55.96]]]}
+    }
+    L.geoJSON(geojsonFeature).addTo(map);
+   })
+</script>
