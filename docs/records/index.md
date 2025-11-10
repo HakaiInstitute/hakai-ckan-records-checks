@@ -1115,25 +1115,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>3</a></td>
@@ -3184,6 +3165,25 @@ Search your record here:
       <td><a title='b5ee0615-c04d-462e-8199-f611bc6370ce' href='../records/b5ee0615-c04d-462e-8199-f611bc6370ce' target='_blank'>2</a></td>
       <td><a title='b5ee0615-c04d-462e-8199-f611bc6370ce' href='../records/b5ee0615-c04d-462e-8199-f611bc6370ce' target='_blank'>8</a></td>
       <td><a title='b5ee0615-c04d-462e-8199-f611bc6370ce' href='../records/b5ee0615-c04d-462e-8199-f611bc6370ce' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='../records/e3205958-52b4-4c42-a02d-34d713a20a53' target='_blank'>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62de21ed-90fb-422a-9c55-29c513a00f95' target='_blank'>link</a></td>
+      <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='../records/e3205958-52b4-4c42-a02d-34d713a20a53' target='_blank'>8</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='../records/e3205958-52b4-4c42-a02d-34d713a20a53' target='_blank'>2</a></td>
+      <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='../records/e3205958-52b4-4c42-a02d-34d713a20a53' target='_blank'>6</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='6338c2fa-3d4d-42dc-9c91-31761365e11e' href='../records/6338c2fa-3d4d-42dc-9c91-31761365e11e' target='_blank'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
