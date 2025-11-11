@@ -1115,6 +1115,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>3</a></td>
@@ -1155,7 +1174,7 @@ Search your record here:
     <tr>
       <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b63374a9-2288-4512-9820-5d1b44d2b502' target='_blank'>link</a></td>
-      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>6</a></td>
+      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>7</a></td>
       <td>Geospatial, Nearshore</td>
       <td>CC-BY-NC-ND-4.0</td>
       <td>completed</td>
@@ -1169,7 +1188,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>4</a></td>
       <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>1</a></td>
-      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>1</a></td>
+      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='../records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
@@ -3908,25 +3927,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='d1d07d48-c909-41b4-8c0f-13238720749c' href='../records/d1d07d48-c909-41b4-8c0f-13238720749c' target='_blank'>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_769311e9-1b1f-41f4-9023-38acf37a6690' target='_blank'>link</a></td>
-      <td><a title='d1d07d48-c909-41b4-8c0f-13238720749c' href='../records/d1d07d48-c909-41b4-8c0f-13238720749c' target='_blank'>9</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-20</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='d1d07d48-c909-41b4-8c0f-13238720749c' href='../records/d1d07d48-c909-41b4-8c0f-13238720749c' target='_blank'>3</a></td>
-      <td><a title='d1d07d48-c909-41b4-8c0f-13238720749c' href='../records/d1d07d48-c909-41b4-8c0f-13238720749c' target='_blank'>6</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='646dd927-3248-4fc9-970c-abea15f7d304' href='../records/646dd927-3248-4fc9-970c-abea15f7d304' target='_blank'>Mean Tidal Current - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6' target='_blank'>link</a></td>
       <td><a title='646dd927-3248-4fc9-970c-abea15f7d304' href='../records/646dd927-3248-4fc9-970c-abea15f7d304' target='_blank'>9</a></td>
@@ -4575,7 +4575,7 @@ Search your record here:
     <tr>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>4</a></td>
+      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>5</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4589,7 +4589,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>3</a></td>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='f9b1c843-e0c9-414f-a89e-bc35d26cf77d' href='../records/f9b1c843-e0c9-414f-a89e-bc35d26cf77d' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>
