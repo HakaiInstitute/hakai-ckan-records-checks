@@ -2996,6 +2996,25 @@ Search your record here:
       <td><a title='c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' href='../records/c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' target='_blank'>1</a></td>
     </tr>
     <tr>
+      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a></td>
+      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>5</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-01</td>
+      <td>2024-07-23</td>
+      <td>10.21966/wfcv-n753</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>2</a></td>
+      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='5b78f1a7-6adb-4610-9ebe-019c3da65ae8' href='../records/5b78f1a7-6adb-4610-9ebe-019c3da65ae8' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
       <td><a title='5b78f1a7-6adb-4610-9ebe-019c3da65ae8' href='../records/5b78f1a7-6adb-4610-9ebe-019c3da65ae8' target='_blank'>12</a></td>
