@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>2024-08-30</td>
+      <td>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/gv88-hv41 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/v57r-g944 status_code=502</td>
     </tr>
   </tbody>
 </table>
