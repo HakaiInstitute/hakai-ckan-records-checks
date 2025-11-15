@@ -44,8 +44,8 @@ Search your record here:
       <td>2025-11-12</td>
       <td>2025-11-12</td>
       <td>10.21966/0xex-r023</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>2</a></td>
       <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>2</a></td>
       <td></td>
@@ -851,7 +851,7 @@ Search your record here:
     <tr>
       <td><a title='a8f61379-14f9-4ccc-bc9b-4408ba8340d7' href='../records/a8f61379-14f9-4ccc-bc9b-4408ba8340d7' target='_blank'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205' target='_blank'>link</a></td>
-      <td><a title='a8f61379-14f9-4ccc-bc9b-4408ba8340d7' href='../records/a8f61379-14f9-4ccc-bc9b-4408ba8340d7' target='_blank'>12</a></td>
+      <td><a title='a8f61379-14f9-4ccc-bc9b-4408ba8340d7' href='../records/a8f61379-14f9-4ccc-bc9b-4408ba8340d7' target='_blank'>11</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -865,7 +865,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='a8f61379-14f9-4ccc-bc9b-4408ba8340d7' href='../records/a8f61379-14f9-4ccc-bc9b-4408ba8340d7' target='_blank'>3</a></td>
       <td><a title='a8f61379-14f9-4ccc-bc9b-4408ba8340d7' href='../records/a8f61379-14f9-4ccc-bc9b-4408ba8340d7' target='_blank'>8</a></td>
-      <td><a title='a8f61379-14f9-4ccc-bc9b-4408ba8340d7' href='../records/a8f61379-14f9-4ccc-bc9b-4408ba8340d7' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='1dfdbadf-6314-4411-8d18-752f6dd920e9' href='../records/1dfdbadf-6314-4411-8d18-752f6dd920e9' target='_blank'>Motile Invertebrate Surveys - BC Central Coast</a></td>
@@ -1130,25 +1130,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='432b05ce-8904-4094-94bf-b97fb6636e41' href='../records/432b05ce-8904-4094-94bf-b97fb6636e41' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -3663,7 +3644,7 @@ Search your record here:
     <tr>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
-      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>4</a></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3677,7 +3658,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>2</a></td>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
-      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
@@ -4661,8 +4642,8 @@ Search your record here:
       <td></td>
       <td>2025-11-12</td>
       <td>10.21966/2aap-hn61</td>
-      <td>0</td>
-      <td>[]</td>
+      <td>1</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>1</a></td>
       <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>1</a></td>
       <td></td>
