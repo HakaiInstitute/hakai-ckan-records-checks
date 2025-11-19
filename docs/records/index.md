@@ -946,7 +946,7 @@ Search your record here:
     <tr>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>2</a></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -960,7 +960,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -2480,6 +2480,25 @@ Search your record here:
       <td></td>
       <td><a title='abd11340-660f-48b0-8bf0-9ccb142f513d' href='../records/abd11340-660f-48b0-8bf0-9ccb142f513d' target='_blank'>2</a></td>
       <td><a title='abd11340-660f-48b0-8bf0-9ccb142f513d' href='../records/abd11340-660f-48b0-8bf0-9ccb142f513d' target='_blank'>7</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='fa913b04-1c29-4449-a78a-466f6b4fb110' href='../records/fa913b04-1c29-4449-a78a-466f6b4fb110' target='_blank'>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_06ddfa63-2611-46a5-8d63-c1b576e85bcb' target='_blank'>link</a></td>
+      <td><a title='fa913b04-1c29-4449-a78a-466f6b4fb110' href='../records/fa913b04-1c29-4449-a78a-466f6b4fb110' target='_blank'>10</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-15</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='fa913b04-1c29-4449-a78a-466f6b4fb110' href='../records/fa913b04-1c29-4449-a78a-466f6b4fb110' target='_blank'>2</a></td>
+      <td><a title='fa913b04-1c29-4449-a78a-466f6b4fb110' href='../records/fa913b04-1c29-4449-a78a-466f6b4fb110' target='_blank'>8</a></td>
       <td></td>
     </tr>
     <tr>
