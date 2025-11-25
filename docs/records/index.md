@@ -338,7 +338,7 @@ Search your record here:
     <tr>
       <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
-      <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>4</a></td>
+      <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>5</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -352,7 +352,7 @@ Search your record here:
       <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>2</a></td>
       <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053' target='_blank'>Calliarthron 2023 Experiment - Environmental Data</a></td>
@@ -1130,6 +1130,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='432b05ce-8904-4094-94bf-b97fb6636e41' href='../records/432b05ce-8904-4094-94bf-b97fb6636e41' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -2766,6 +2785,25 @@ Search your record here:
       <td><a title='0ca539a4-217f-43ff-947e-5679dd8d64dd' href='../records/0ca539a4-217f-43ff-947e-5679dd8d64dd' target='_blank'>1</a></td>
       <td><a title='0ca539a4-217f-43ff-947e-5679dd8d64dd' href='../records/0ca539a4-217f-43ff-947e-5679dd8d64dd' target='_blank'>7</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3' target='_blank'>link</a></td>
+      <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>10</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-03</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>1</a></td>
+      <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>7</a></td>
+      <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='362130df-bc83-48b7-80f9-ad11ad6a91c9' href='../records/362130df-bc83-48b7-80f9-ad11ad6a91c9' target='_blank'>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</a></td>
