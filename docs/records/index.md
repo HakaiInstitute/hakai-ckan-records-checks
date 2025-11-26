@@ -338,7 +338,7 @@ Search your record here:
     <tr>
       <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_96e3dd9c-7863-44d5-95cd-a3d0a8653d83' target='_blank'>link</a></td>
-      <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>5</a></td>
+      <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>4</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -352,7 +352,7 @@ Search your record here:
       <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>2</a></td>
       <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>2</a></td>
-      <td><a title='6c99bd67-3be1-4818-bf01-dfa56e910db3' href='../records/6c99bd67-3be1-4818-bf01-dfa56e910db3' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053' target='_blank'>Calliarthron 2023 Experiment - Environmental Data</a></td>
@@ -4456,25 +4456,6 @@ Search your record here:
       <td></td>
       <td><a title='8ad491b8-58a3-48ad-a705-18e36fad34b0' href='../records/8ad491b8-58a3-48ad-a705-18e36fad34b0' target='_blank'>1</a></td>
       <td><a title='8ad491b8-58a3-48ad-a705-18e36fad34b0' href='../records/8ad491b8-58a3-48ad-a705-18e36fad34b0' target='_blank'>6</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da' target='_blank'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408' target='_blank'>link</a></td>
-      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da' target='_blank'>4</a></td>
-      <td>Nearshore, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, macroalgalCanopyCoverAndComposition</td>
-      <td>2021-09-23</td>
-      <td>2024-07-24</td>
-      <td>10.21966/r603-b338</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da' target='_blank'>3</a></td>
-      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
