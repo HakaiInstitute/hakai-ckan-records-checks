@@ -773,7 +773,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>Cryosphere Snow Surveys Southwest British Columbia - 2023 - Airborne Coastal Observatory</a></td>
+      <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0' target='_blank'>link</a></td>
       <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
@@ -783,7 +783,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2024-10-09</td>
-      <td>2024-12-16</td>
+      <td>2025-11-27</td>
       <td>10.21966/thq7-0g08</td>
       <td>0</td>
       <td>[]</td>
