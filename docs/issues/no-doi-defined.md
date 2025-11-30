@@ -72,13 +72,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -126,13 +126,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -264,13 +264,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
@@ -306,13 +306,13 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No DOI defined</td>
     </tr>
