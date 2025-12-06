@@ -3414,25 +3414,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='87db0ae4-add1-4f71-a5cb-131de8783013' href='../records/87db0ae4-add1-4f71-a5cb-131de8783013' target='_blank'>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_41b0137d-6ac0-407d-a550-dd375475b2b0' target='_blank'>link</a></td>
-      <td><a title='87db0ae4-add1-4f71-a5cb-131de8783013' href='../records/87db0ae4-add1-4f71-a5cb-131de8783013' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>oxygen, dissolvedOrganicCarbon, subSurfaceSalinity, subSurfaceTemperature, seaSurfaceHeight</td>
-      <td>2022-02-01</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='87db0ae4-add1-4f71-a5cb-131de8783013' href='../records/87db0ae4-add1-4f71-a5cb-131de8783013' target='_blank'>2</a></td>
-      <td><a title='87db0ae4-add1-4f71-a5cb-131de8783013' href='../records/87db0ae4-add1-4f71-a5cb-131de8783013' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>link</a></td>
       <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>10</a></td>
