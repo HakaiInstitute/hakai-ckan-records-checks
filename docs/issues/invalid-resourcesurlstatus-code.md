@@ -92,7 +92,7 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2024-07-23</td>
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
+      <td>Invalid resources.url.status_code: 415 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
     </tr>
   </tbody>
 </table>
