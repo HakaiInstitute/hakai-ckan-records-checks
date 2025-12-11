@@ -946,7 +946,7 @@ Search your record here:
     <tr>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>3</a></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -960,7 +960,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
-      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -1744,7 +1744,7 @@ Search your record here:
     <tr>
       <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>Adjusted Koeye River stage and temperature from 2013 to 2021</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_44dbd3c8-93bf-4e2f-9532-cbaebcf4a2be' target='_blank'>link</a></td>
-      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>10</a></td>
+      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>11</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1758,7 +1758,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>5</a></td>
       <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>4</a></td>
-      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>1</a></td>
+      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='b47e53cd-74dd-4580-80d0-260860064f4b' href='../records/b47e53cd-74dd-4580-80d0-260860064f4b' target='_blank'>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</a></td>
@@ -4613,7 +4613,7 @@ Search your record here:
     <tr>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>5</a></td>
+      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4627,7 +4627,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>3</a></td>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>1</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='f9b1c843-e0c9-414f-a89e-bc35d26cf77d' href='../records/f9b1c843-e0c9-414f-a89e-bc35d26cf77d' target='_blank'>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</a></td>

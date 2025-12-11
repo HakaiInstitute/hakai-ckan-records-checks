@@ -18,9 +18,9 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2024-07-23</td>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/RR8V-6Y52 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/eh5c-jh12 status_code=502</td>
     </tr>
   </tbody>
 </table>
