@@ -1744,7 +1744,7 @@ Search your record here:
     <tr>
       <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>Adjusted Koeye River stage and temperature from 2013 to 2021</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_44dbd3c8-93bf-4e2f-9532-cbaebcf4a2be' target='_blank'>link</a></td>
-      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>11</a></td>
+      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>10</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1758,7 +1758,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>5</a></td>
       <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>4</a></td>
-      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>2</a></td>
+      <td><a title='782fef82-e6e7-451d-a7ac-39d08129c1d3' href='../records/782fef82-e6e7-451d-a7ac-39d08129c1d3' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b47e53cd-74dd-4580-80d0-260860064f4b' href='../records/b47e53cd-74dd-4580-80d0-260860064f4b' target='_blank'>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</a></td>
