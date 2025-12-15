@@ -18,9 +18,9 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
+      <td>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/eh5c-jh12 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/scaa-p138 status_code=502</td>
     </tr>
   </tbody>
 </table>
