@@ -1611,7 +1611,7 @@ Search your record here:
     <tr>
       <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8e99157a-8daf-4e68-92ae-9d22cfd46ce7' target='_blank'>link</a></td>
-      <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>4</a></td>
+      <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1625,7 +1625,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>1</a></td>
       <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>2</a></td>
-      <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='46377bf0-06d5-4612-970d-29cd972e4870' href='../records/46377bf0-06d5-4612-970d-29cd972e4870' target='_blank'>Mussel Dynamics - Point Intercepts - BC Central Coast</a></td>
@@ -1835,25 +1835,6 @@ Search your record here:
       <td><a title='def2a409-2319-4e8c-a584-9a467f044ada' href='../records/def2a409-2319-4e8c-a584-9a467f044ada' target='_blank'>3</a></td>
       <td><a title='def2a409-2319-4e8c-a584-9a467f044ada' href='../records/def2a409-2319-4e8c-a584-9a467f044ada' target='_blank'>2</a></td>
       <td><a title='def2a409-2319-4e8c-a584-9a467f044ada' href='../records/def2a409-2319-4e8c-a584-9a467f044ada' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='../records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345' target='_blank'>link</a></td>
-      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='../records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>11</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2025-04-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='../records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>3</a></td>
-      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='../records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>8</a></td>
-      <td></td>
     </tr>
     <tr>
       <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='../records/18911dee-9ca0-408b-8999-28da3e3dde7a' target='_blank'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
@@ -2365,6 +2346,25 @@ Search your record here:
       <td>1</td>
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='67871f51-9f69-44f6-9206-747e4d2a1553' href='../records/67871f51-9f69-44f6-9206-747e4d2a1553' target='_blank'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde' target='_blank'>link</a></td>
+      <td><a title='67871f51-9f69-44f6-9206-747e4d2a1553' href='../records/67871f51-9f69-44f6-9206-747e4d2a1553' target='_blank'>4</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-25</td>
+      <td>2024-12-05</td>
+      <td>10.21966/zvwf-qn04</td>
+      <td>1</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
+      <td><a title='67871f51-9f69-44f6-9206-747e4d2a1553' href='../records/67871f51-9f69-44f6-9206-747e4d2a1553' target='_blank'>4</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -3259,25 +3259,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='../records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' target='_blank'>7</a></td>
       <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='../records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_63765cc6-5730-4a28-9d96-3de38066312f' target='_blank'>link</a></td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>7</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, inorganicCarbon</td>
-      <td>2022-02-03</td>
-      <td>2024-07-23</td>
-      <td>10.21966/1.614670</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>3</a></td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>4</a></td>
       <td></td>
     </tr>
     <tr>
