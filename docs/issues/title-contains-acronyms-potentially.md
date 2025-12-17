@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Title
   </thead>
   <tbody>
     <tr>
+      <td>2025-12-15</td>
+      <td>Mystery Creek Aerial Photo and LiDAR Survey - 2025 - Airborne Coastal Observatory</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
       <td>2025-11-04</td>
       <td>Elliot Creek Landslide LiDAR Mapping - 2023 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
