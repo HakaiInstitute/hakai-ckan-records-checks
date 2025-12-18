@@ -129,7 +129,7 @@ Search your record here:
     <tr>
       <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='../records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9a018fe0-8bd1-41d1-af8d-079960b71473' target='_blank'>link</a></td>
-      <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='../records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>5</a></td>
+      <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='../records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>4</a></td>
       <td>Genomics, Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -143,7 +143,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='../records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>3</a></td>
       <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='../records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>1</a></td>
-      <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='../records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='c5e60545-c6f2-4945-af0a-21812ba5f0d9' href='../records/c5e60545-c6f2-4945-af0a-21812ba5f0d9' target='_blank'>Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
@@ -699,7 +699,7 @@ Search your record here:
     <tr>
       <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae' target='_blank'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137' target='_blank'>link</a></td>
-      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae' target='_blank'>4</a></td>
+      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae' target='_blank'>5</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -713,7 +713,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae' target='_blank'>2</a></td>
       <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae' target='_blank'>1</a></td>
-      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae' target='_blank'>1</a></td>
+      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='5c162406-4886-4a66-9d9c-12c3d0316e2e' href='../records/5c162406-4886-4a66-9d9c-12c3d0316e2e' target='_blank'>Fraser River Landslide Project - Sites of Concern 2024</a></td>
@@ -2065,25 +2065,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>link</a></td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>12</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-07-23</td>
-      <td>10.21966/1.715699</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>6</a></td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>5</a></td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='55e7c337-02e8-4200-8ea9-88241d978f96' href='../records/55e7c337-02e8-4200-8ea9-88241d978f96' target='_blank'>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e' target='_blank'>link</a></td>
       <td><a title='55e7c337-02e8-4200-8ea9-88241d978f96' href='../records/55e7c337-02e8-4200-8ea9-88241d978f96' target='_blank'>3</a></td>
@@ -2257,7 +2238,7 @@ Search your record here:
     <tr>
       <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='../records/d8754c99-a540-4085-8c66-d9447da5f6e9' target='_blank'>Ecosystem Comparison Plots - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8' target='_blank'>link</a></td>
-      <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='../records/d8754c99-a540-4085-8c66-d9447da5f6e9' target='_blank'>8</a></td>
+      <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='../records/d8754c99-a540-4085-8c66-d9447da5f6e9' target='_blank'>7</a></td>
       <td>Geospatial, Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2271,7 +2252,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='../records/d8754c99-a540-4085-8c66-d9447da5f6e9' target='_blank'>5</a></td>
       <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='../records/d8754c99-a540-4085-8c66-d9447da5f6e9' target='_blank'>2</a></td>
-      <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='../records/d8754c99-a540-4085-8c66-d9447da5f6e9' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e1b86825-d43b-47e1-bf45-ab791f44772d' href='../records/e1b86825-d43b-47e1-bf45-ab791f44772d' target='_blank'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
