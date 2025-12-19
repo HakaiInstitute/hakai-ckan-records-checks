@@ -17,12 +17,6 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2025-10-28</td>
-      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Tula Foundation'</td>
-    </tr>
-    <tr>
       <td>2025-10-18</td>
       <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
       <td>INFO</td>
@@ -33,12 +27,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geosptatial'</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='GeoBC'</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
@@ -87,12 +75,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Owikeno Lake Bathymetric Survey</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Geospatial'</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Korver, Maartje C.' contact['organisation-name']='Hakai Institute -  McGill University'</td>
     </tr>
     <tr>
       <td>2024-11-26</td>
