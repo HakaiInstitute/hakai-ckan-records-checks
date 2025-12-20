@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-11-21</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
+      <td>2025-04-21</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/qpe8-ay93 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.5281/zenodo.4005400 status_code=429</td>
     </tr>
   </tbody>
 </table>

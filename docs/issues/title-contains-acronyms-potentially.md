@@ -35,6 +35,12 @@ This page present the list of all the records associated with the issue: **Title
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
+      <td>2025-10-28</td>
+      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
       <td>2025-10-14</td>
       <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
       <td>WARNING</td>
@@ -49,6 +55,12 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2025-04-23</td>
       <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
+      <td>2025-04-23</td>
+      <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
