@@ -338,7 +338,7 @@ Search your record here:
     <tr>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a' target='_blank'>link</a></td>
-      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>4</a></td>
+      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>5</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -352,7 +352,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>3</a></td>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='2916abf5-419e-4cd7-8e25-f45f07a21313' href='../records/2916abf5-419e-4cd7-8e25-f45f07a21313' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</a></td>
@@ -984,7 +984,7 @@ Search your record here:
     <tr>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>2</a></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -998,7 +998,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
@@ -1288,7 +1288,7 @@ Search your record here:
     <tr>
       <td><a title='5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' href='../records/5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' target='_blank'>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_60f653ae-a3fd-484d-807c-3d7e4a0712cb' target='_blank'>link</a></td>
-      <td><a title='5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' href='../records/5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' target='_blank'>5</a></td>
+      <td><a title='5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' href='../records/5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' target='_blank'>6</a></td>
       <td>Nearshore, Genomics</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1302,7 +1302,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' href='../records/5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' target='_blank'>3</a></td>
       <td><a title='5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' href='../records/5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' href='../records/5c2aac2c-0dd8-49d8-87b2-5c52b3d42946' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
@@ -1531,6 +1531,25 @@ Search your record here:
       <td><a title='f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff' href='../records/f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff' target='_blank'>2</a></td>
       <td><a title='f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff' href='../records/f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff' target='_blank'>2</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='../records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8d36f54-4955-463c-94e5-f0030c3230f3' target='_blank'>link</a></td>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='../records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>8</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-NC-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2023-01-17</td>
+      <td>2024-07-12</td>
+      <td>10.21966/hy20-x379</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='../records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>6</a></td>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='../records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>1</a></td>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='../records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b276330c-4ee9-476a-979a-cebe52d51db6' href='../records/b276330c-4ee9-476a-979a-cebe52d51db6' target='_blank'>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</a></td>
@@ -3241,25 +3260,6 @@ Search your record here:
       <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='../records/e3205958-52b4-4c42-a02d-34d713a20a53' target='_blank'>2</a></td>
       <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='../records/e3205958-52b4-4c42-a02d-34d713a20a53' target='_blank'>6</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='6338c2fa-3d4d-42dc-9c91-31761365e11e' href='../records/6338c2fa-3d4d-42dc-9c91-31761365e11e' target='_blank'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_77a256cd-baf7-434e-9f62-53ba809e48cb' target='_blank'>link</a></td>
-      <td><a title='6338c2fa-3d4d-42dc-9c91-31761365e11e' href='../records/6338c2fa-3d4d-42dc-9c91-31761365e11e' target='_blank'>4</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, inorganicCarbon</td>
-      <td>2022-02-04</td>
-      <td>2024-07-23</td>
-      <td>10.21966/1.622315</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='6338c2fa-3d4d-42dc-9c91-31761365e11e' href='../records/6338c2fa-3d4d-42dc-9c91-31761365e11e' target='_blank'>3</a></td>
-      <td></td>
-      <td><a title='6338c2fa-3d4d-42dc-9c91-31761365e11e' href='../records/6338c2fa-3d4d-42dc-9c91-31761365e11e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='../records/7f23d45b-b777-491c-b602-def5402d3d83' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
