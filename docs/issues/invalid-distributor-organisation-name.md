@@ -138,13 +138,13 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='University of British Columbia' expects 'Hakai Institute'</td>
     </tr>
