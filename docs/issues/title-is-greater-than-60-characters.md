@@ -426,13 +426,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -468,25 +468,25 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
+      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -564,13 +564,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
+      <td>Keen’s Mouse Food Web Study – 100 Islands Project – Central Coast, BC (2015-2017)</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Keen’s Mouse Food Web Study – 100 Islands Project – Central Coast, BC (2015-2017)</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -672,13 +672,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
+      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -768,25 +768,25 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -804,12 +804,6 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -822,7 +816,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -834,7 +828,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -846,13 +840,19 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -954,6 +954,12 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -961,12 +967,6 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -1014,12 +1014,6 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -1027,6 +1021,12 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
