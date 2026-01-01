@@ -18,9 +18,9 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2024-07-24</td>
-      <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
+      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/1.15311 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/gsbw-bz85 status_code=502</td>
     </tr>
   </tbody>
 </table>

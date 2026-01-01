@@ -1115,25 +1115,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='b0e815da-1b17-404d-8bf6-0bdb4a22d170' href='../records/b0e815da-1b17-404d-8bf6-0bdb4a22d170' target='_blank'>Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c24f23f0-8d16-4bfd-835a-5475f1ecd8e8' target='_blank'>link</a></td>
-      <td><a title='b0e815da-1b17-404d-8bf6-0bdb4a22d170' href='../records/b0e815da-1b17-404d-8bf6-0bdb4a22d170' target='_blank'>3</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2024-03-14</td>
-      <td>2024-07-24</td>
-      <td>10.21966/5fs0-nn02</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='b0e815da-1b17-404d-8bf6-0bdb4a22d170' href='../records/b0e815da-1b17-404d-8bf6-0bdb4a22d170' target='_blank'>1</a></td>
-      <td><a title='b0e815da-1b17-404d-8bf6-0bdb4a22d170' href='../records/b0e815da-1b17-404d-8bf6-0bdb4a22d170' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='582c6ff0-029e-44ba-8ba1-d3f2f39f2005' href='../records/582c6ff0-029e-44ba-8ba1-d3f2f39f2005' target='_blank'>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6f6560e7-7497-4685-9df2-51c66080b7c9' target='_blank'>link</a></td>
       <td><a title='582c6ff0-029e-44ba-8ba1-d3f2f39f2005' href='../records/582c6ff0-029e-44ba-8ba1-d3f2f39f2005' target='_blank'>3</a></td>
@@ -2124,7 +2105,7 @@ Search your record here:
     <tr>
       <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='../records/79e98468-af9a-4b52-aa9c-71129fa9cb03' target='_blank'>LiDAR Derived Watersheds with Metrics - Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d' target='_blank'>link</a></td>
-      <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='../records/79e98468-af9a-4b52-aa9c-71129fa9cb03' target='_blank'>4</a></td>
+      <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='../records/79e98468-af9a-4b52-aa9c-71129fa9cb03' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2138,7 +2119,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 2}]</td>
       <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='../records/79e98468-af9a-4b52-aa9c-71129fa9cb03' target='_blank'>1</a></td>
       <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='../records/79e98468-af9a-4b52-aa9c-71129fa9cb03' target='_blank'>2</a></td>
-      <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='../records/79e98468-af9a-4b52-aa9c-71129fa9cb03' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='81436551-f025-47e1-bc7b-3f769bb5b0f4' href='../records/81436551-f025-47e1-bc7b-3f769bb5b0f4' target='_blank'>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
@@ -3167,25 +3148,6 @@ Search your record here:
       <td><a title='8a71bb9f-e419-42aa-9ed7-f891631314a5' href='../records/8a71bb9f-e419-42aa-9ed7-f891631314a5' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' href='../records/8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' target='_blank'>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d2e83e40-9e95-4a47-a899-b37c744be3ab' target='_blank'>link</a></td>
-      <td><a title='8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' href='../records/8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' target='_blank'>7</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2024-07-23</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' href='../records/8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' target='_blank'>2</a></td>
-      <td><a title='8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' href='../records/8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' target='_blank'>4</a></td>
-      <td><a title='8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' href='../records/8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='92e1c9df-0419-4d91-93c2-b9c85f4ce74e' href='../records/92e1c9df-0419-4d91-93c2-b9c85f4ce74e' target='_blank'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679' target='_blank'>link</a></td>
       <td><a title='92e1c9df-0419-4d91-93c2-b9c85f4ce74e' href='../records/92e1c9df-0419-4d91-93c2-b9c85f4ce74e' target='_blank'>6</a></td>
@@ -4062,7 +4024,7 @@ Search your record here:
     <tr>
       <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f68be641-0017-4311-b4de-5d0aed9e2b57' target='_blank'>link</a></td>
-      <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>4</a></td>
+      <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>5</a></td>
       <td>Geospatial, 100 Islands</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4076,7 +4038,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>2</a></td>
       <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='f15f9c5e-08a6-4e9f-8ff5-a6126447e138' href='../records/f15f9c5e-08a6-4e9f-8ff5-a6126447e138' target='_blank'>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</a></td>
