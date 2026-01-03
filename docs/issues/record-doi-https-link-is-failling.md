@@ -17,10 +17,16 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-24</td>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>2025-10-31</td>
+      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Coast, British Columbia, Canada</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/gsbw-bz85 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/m93t-4181 status_code=502</td>
+    </tr>
+    <tr>
+      <td>2025-10-06</td>
+      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/kqzp-f639 status_code=502</td>
     </tr>
   </tbody>
 </table>
