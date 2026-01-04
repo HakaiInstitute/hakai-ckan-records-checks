@@ -91,7 +91,7 @@ Search your record here:
     <tr>
       <td><a title='0272fd06-6ac8-48cd-80c9-b6e05f15be0f' href='../records/0272fd06-6ac8-48cd-80c9-b6e05f15be0f' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_132cecdf-de8a-4b17-b610-0e2b3a343812' target='_blank'>link</a></td>
-      <td><a title='0272fd06-6ac8-48cd-80c9-b6e05f15be0f' href='../records/0272fd06-6ac8-48cd-80c9-b6e05f15be0f' target='_blank'>3</a></td>
+      <td><a title='0272fd06-6ac8-48cd-80c9-b6e05f15be0f' href='../records/0272fd06-6ac8-48cd-80c9-b6e05f15be0f' target='_blank'>2</a></td>
       <td>Airborne Coastal Observatory, Geospatial, Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -105,7 +105,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0272fd06-6ac8-48cd-80c9-b6e05f15be0f' href='../records/0272fd06-6ac8-48cd-80c9-b6e05f15be0f' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='0272fd06-6ac8-48cd-80c9-b6e05f15be0f' href='../records/0272fd06-6ac8-48cd-80c9-b6e05f15be0f' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='b01f58f7-1518-4829-aff6-ac4a8f2c0616' href='../records/b01f58f7-1518-4829-aff6-ac4a8f2c0616' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</a></td>
@@ -224,7 +224,7 @@ Search your record here:
     <tr>
       <td><a title='439d703a-2132-4dbd-8d39-a4cacdb8f81d' href='../records/439d703a-2132-4dbd-8d39-a4cacdb8f81d' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2020-2022), Central Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8343aa0-dbea-4267-9f78-662bec08d4bc' target='_blank'>link</a></td>
-      <td><a title='439d703a-2132-4dbd-8d39-a4cacdb8f81d' href='../records/439d703a-2132-4dbd-8d39-a4cacdb8f81d' target='_blank'>3</a></td>
+      <td><a title='439d703a-2132-4dbd-8d39-a4cacdb8f81d' href='../records/439d703a-2132-4dbd-8d39-a4cacdb8f81d' target='_blank'>2</a></td>
       <td>Nearshore, Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -238,7 +238,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='439d703a-2132-4dbd-8d39-a4cacdb8f81d' href='../records/439d703a-2132-4dbd-8d39-a4cacdb8f81d' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='439d703a-2132-4dbd-8d39-a4cacdb8f81d' href='../records/439d703a-2132-4dbd-8d39-a4cacdb8f81d' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' href='../records/e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</a></td>
@@ -2312,6 +2312,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' href='../records/08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' target='_blank'>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b5207300-9f76-4f14-ae6f-a08ed6f5a213' target='_blank'>link</a></td>
+      <td><a title='08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' href='../records/08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' target='_blank'>7</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>particulateMatter, dissolvedOrganicCarbon</td>
+      <td>2022-03-25</td>
+      <td>2024-07-23</td>
+      <td>10.21966/66x5-a210</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' href='../records/08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' target='_blank'>4</a></td>
+      <td><a title='08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' href='../records/08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' target='_blank'>1</a></td>
+      <td><a title='08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' href='../records/08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' target='_blank'>2</a></td>
+    </tr>
+    <tr>
       <td><a title='0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' href='../records/0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6' target='_blank'>link</a></td>
       <td><a title='0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' href='../records/0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' target='_blank'>8</a></td>
@@ -3509,6 +3528,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='24c3b914-33d7-4267-a1aa-8ce7523b296d' href='../records/24c3b914-33d7-4267-a1aa-8ce7523b296d' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2019</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dc50a22a-44c0-478c-aa19-a46343bc764a' target='_blank'>link</a></td>
+      <td><a title='24c3b914-33d7-4267-a1aa-8ce7523b296d' href='../records/24c3b914-33d7-4267-a1aa-8ce7523b296d' target='_blank'>2</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-24</td>
+      <td>2024-08-02</td>
+      <td>10.21966/m8kp-gy81</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='24c3b914-33d7-4267-a1aa-8ce7523b296d' href='../records/24c3b914-33d7-4267-a1aa-8ce7523b296d' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='2abe9ff4-76de-4221-9ca6-ec3403a56efa' href='../records/2abe9ff4-76de-4221-9ca6-ec3403a56efa' target='_blank'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342' target='_blank'>link</a></td>
       <td><a title='2abe9ff4-76de-4221-9ca6-ec3403a56efa' href='../records/2abe9ff4-76de-4221-9ca6-ec3403a56efa' target='_blank'>7</a></td>
@@ -3663,7 +3701,7 @@ Search your record here:
     <tr>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
-      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>3</a></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3677,7 +3715,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>2</a></td>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
