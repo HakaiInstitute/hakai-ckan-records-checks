@@ -167,7 +167,7 @@ Search your record here:
     <tr>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
       <td>Genomics, Nearshore, Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -179,7 +179,7 @@ Search your record here:
       <td>10.21966/8sgn-jg38</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -433,7 +433,7 @@ Search your record here:
     <tr>
       <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>Elliot Creek Aerial Photo and LiDAR Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_31e15496-e906-43f4-9120-2446ab6125b2' target='_blank'>link</a></td>
-      <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>5</a></td>
+      <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>6</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -447,7 +447,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>1</a></td>
       <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>3</a></td>
-      <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>1</a></td>
+      <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='8ce79018-75da-42f8-b7cd-195a412ab532' href='../records/8ce79018-75da-42f8-b7cd-195a412ab532' target='_blank'>Place Glacier Aerial Photo and LiDAR Survey</a></td>
