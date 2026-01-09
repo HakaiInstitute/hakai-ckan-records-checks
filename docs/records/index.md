@@ -3072,25 +3072,6 @@ Search your record here:
       <td><a title='c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' href='../records/c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c' target='_blank'>link</a></td>
-      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>5</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-01</td>
-      <td>2024-07-23</td>
-      <td>10.21966/wfcv-n753</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>2</a></td>
-      <td><a title='281d7444-efa6-4b18-ac0a-55c8f8b484be' href='../records/281d7444-efa6-4b18-ac0a-55c8f8b484be' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='5b78f1a7-6adb-4610-9ebe-019c3da65ae8' href='../records/5b78f1a7-6adb-4610-9ebe-019c3da65ae8' target='_blank'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6' target='_blank'>link</a></td>
       <td><a title='5b78f1a7-6adb-4610-9ebe-019c3da65ae8' href='../records/5b78f1a7-6adb-4610-9ebe-019c3da65ae8' target='_blank'>12</a></td>
@@ -4136,6 +4117,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f' target='_blank'>link</a></td>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-17</td>
+      <td>2024-07-24</td>
+      <td>10.21966/b0xc-8m25</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>2</a></td>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='2adbc714-fde2-436b-a5bd-ec51457a275c' href='../records/2adbc714-fde2-436b-a5bd-ec51457a275c' target='_blank'>Nearshore Macrophyte Stable Isotopes - BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_288ea4b2-3706-4256-8146-02bd0265585b' target='_blank'>link</a></td>
       <td><a title='2adbc714-fde2-436b-a5bd-ec51457a275c' href='../records/2adbc714-fde2-436b-a5bd-ec51457a275c' target='_blank'>2</a></td>
@@ -4689,7 +4689,7 @@ Search your record here:
     <tr>
       <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='../records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b' target='_blank'>link</a></td>
-      <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='../records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>6</a></td>
+      <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='../records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>5</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4703,7 +4703,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='../records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>1</a></td>
       <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='../records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>3</a></td>
-      <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='../records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>2</a></td>
+      <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='../records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='139df6dd-772b-424f-b830-30a5ba6abfc6' href='../records/139df6dd-772b-424f-b830-30a5ba6abfc6' target='_blank'>Zooplankton taxonomic abundance and biomass along the BC Coast</a></td>
