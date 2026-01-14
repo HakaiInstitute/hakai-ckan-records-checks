@@ -1972,7 +1972,7 @@ Search your record here:
     <tr>
       <td><a title='38fabad7-d7d2-405f-aa4c-592ef064895f' href='../records/38fabad7-d7d2-405f-aa4c-592ef064895f' target='_blank'>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_23bc8c35-2e4e-4382-9296-a52d5ea49889' target='_blank'>link</a></td>
-      <td><a title='38fabad7-d7d2-405f-aa4c-592ef064895f' href='../records/38fabad7-d7d2-405f-aa4c-592ef064895f' target='_blank'>9</a></td>
+      <td><a title='38fabad7-d7d2-405f-aa4c-592ef064895f' href='../records/38fabad7-d7d2-405f-aa4c-592ef064895f' target='_blank'>10</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1986,7 +1986,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='38fabad7-d7d2-405f-aa4c-592ef064895f' href='../records/38fabad7-d7d2-405f-aa4c-592ef064895f' target='_blank'>4</a></td>
       <td><a title='38fabad7-d7d2-405f-aa4c-592ef064895f' href='../records/38fabad7-d7d2-405f-aa4c-592ef064895f' target='_blank'>5</a></td>
-      <td></td>
+      <td><a title='38fabad7-d7d2-405f-aa4c-592ef064895f' href='../records/38fabad7-d7d2-405f-aa4c-592ef064895f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='39f8b771-eb65-420f-b64e-742d94bbebf0' href='../records/39f8b771-eb65-420f-b64e-742d94bbebf0' target='_blank'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</a></td>
@@ -4589,25 +4589,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='dcde7ad3-f54e-4210-ae4e-33db5aac63fe' href='../records/dcde7ad3-f54e-4210-ae4e-33db5aac63fe' target='_blank'>7</a></td>
       <td><a title='dcde7ad3-f54e-4210-ae4e-33db5aac63fe' href='../records/dcde7ad3-f54e-4210-ae4e-33db5aac63fe' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='8bcf556e-26e2-41d4-af2c-2192c0426523' href='../records/8bcf556e-26e2-41d4-af2c-2192c0426523' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a></td>
-      <td><a title='8bcf556e-26e2-41d4-af2c-2192c0426523' href='../records/8bcf556e-26e2-41d4-af2c-2192c0426523' target='_blank'>8</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>oxygen, seaSurfaceSalinity, seaSurfaceTemperature, inorganicCarbon</td>
-      <td>2021-06-11</td>
-      <td>2024-07-24</td>
-      <td>10.25921/jq11-2268</td>
-      <td>1</td>
-      <td>[{'year': '2025', 'total': 1}]</td>
-      <td><a title='8bcf556e-26e2-41d4-af2c-2192c0426523' href='../records/8bcf556e-26e2-41d4-af2c-2192c0426523' target='_blank'>8</a></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
