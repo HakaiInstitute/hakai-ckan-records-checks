@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
+      <td>2025-04-21</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/sbyc-d030 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.5281/zenodo.4005400 status_code=429</td>
     </tr>
   </tbody>
 </table>
