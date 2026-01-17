@@ -1307,7 +1307,7 @@ Search your record here:
     <tr>
       <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_24f1c230-6c37-470c-907d-25b9b022f5c2' target='_blank'>link</a></td>
-      <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>11</a></td>
+      <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>9</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1321,7 +1321,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 2}]</td>
       <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>8</a></td>
       <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>1</a></td>
-      <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='75b60436-da51-4ccf-b14a-27f45f782b2b' href='../records/75b60436-da51-4ccf-b14a-27f45f782b2b' target='_blank'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
@@ -3506,25 +3506,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' href='../records/1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' target='_blank'>3</a></td>
       <td><a title='1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' href='../records/1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' target='_blank'>5</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='1f798a06-9c01-4025-93c6-b1a9f8ce6832' href='../records/1f798a06-9c01-4025-93c6-b1a9f8ce6832' target='_blank'>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8' target='_blank'>link</a></td>
-      <td><a title='1f798a06-9c01-4025-93c6-b1a9f8ce6832' href='../records/1f798a06-9c01-4025-93c6-b1a9f8ce6832' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-24</td>
-      <td>2024-07-24</td>
-      <td>10.21966/1.715693</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='1f798a06-9c01-4025-93c6-b1a9f8ce6832' href='../records/1f798a06-9c01-4025-93c6-b1a9f8ce6832' target='_blank'>3</a></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
