@@ -3509,6 +3509,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='1f798a06-9c01-4025-93c6-b1a9f8ce6832' href='../records/1f798a06-9c01-4025-93c6-b1a9f8ce6832' target='_blank'>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8' target='_blank'>link</a></td>
+      <td><a title='1f798a06-9c01-4025-93c6-b1a9f8ce6832' href='../records/1f798a06-9c01-4025-93c6-b1a9f8ce6832' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-24</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.715693</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='1f798a06-9c01-4025-93c6-b1a9f8ce6832' href='../records/1f798a06-9c01-4025-93c6-b1a9f8ce6832' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='24c3b914-33d7-4267-a1aa-8ce7523b296d' href='../records/24c3b914-33d7-4267-a1aa-8ce7523b296d' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2019</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dc50a22a-44c0-478c-aa19-a46343bc764a' target='_blank'>link</a></td>
       <td><a title='24c3b914-33d7-4267-a1aa-8ce7523b296d' href='../records/24c3b914-33d7-4267-a1aa-8ce7523b296d' target='_blank'>2</a></td>

@@ -144,13 +144,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -168,13 +168,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -198,19 +198,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -222,13 +216,19 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -264,7 +264,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -276,7 +276,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -384,6 +384,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>INFO</td>
       <td>No version</td>
@@ -396,13 +402,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Trails - Calvert Island - British Columbia - Canada</td>
+      <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
+      <td>Trails - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -456,13 +462,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
+      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
+      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -486,13 +492,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute Sensor Network</td>
+      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Hakai Institute Sensor Network</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -504,25 +510,25 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -540,13 +546,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -618,6 +624,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
@@ -625,12 +637,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Real-Time Provisional Surface Seawater and Marine Boundary Layer CO2 Observations made from the Kwakshua Channel (KC) Buoy on the central coast of British Columbia</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -648,19 +654,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
+      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -672,7 +672,19 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>UAV Imagery - Coastal British Columbia - 2015</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -685,12 +697,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -714,6 +720,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>INFO</td>
       <td>No version</td>
@@ -721,12 +733,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -768,6 +774,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
       <td>INFO</td>
       <td>No version</td>
@@ -775,12 +787,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -798,13 +804,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
+      <td>Hakai Topographic Basemap</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Topographic Basemap</td>
+      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -846,13 +852,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
+      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>

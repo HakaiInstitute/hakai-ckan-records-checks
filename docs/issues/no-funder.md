@@ -156,13 +156,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
+      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
+      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -186,13 +186,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute Sensor Network</td>
+      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Hakai Institute Sensor Network</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -204,13 +204,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -228,13 +228,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -294,13 +294,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
+      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
+      <td>UAV Imagery - Coastal British Columbia - 2015</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -312,13 +312,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -330,13 +330,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -372,7 +372,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -384,7 +384,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>

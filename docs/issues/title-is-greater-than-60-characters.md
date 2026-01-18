@@ -432,13 +432,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -462,13 +462,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -480,13 +480,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
+      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -498,13 +498,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</td>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -540,7 +540,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -552,7 +552,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -642,6 +642,12 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -660,12 +666,6 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -673,6 +673,12 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-24</td>
       <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -744,25 +750,19 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Pruth Dock, Calvert Island Tide and Weather Station Provisional</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
+      <td>Pruth Dock, Calvert Island Tide and Weather Station Provisional</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -780,6 +780,12 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Provisional Real-Time Hakai Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -792,25 +798,25 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -882,12 +888,6 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
@@ -895,6 +895,12 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -912,13 +918,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -936,13 +942,19 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
+      <td>INFO</td>
+      <td>Title is greater than 60 characters</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -955,12 +967,6 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Title is greater than 60 characters</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -1002,13 +1008,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
@@ -1020,7 +1026,7 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>INFO</td>
       <td>Title is greater than 60 characters</td>
     </tr>
