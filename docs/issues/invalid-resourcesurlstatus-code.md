@@ -23,6 +23,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset</td>
     </tr>
     <tr>
+      <td>2025-05-21</td>
+      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 429 for resources[0].url=https://zenodo.org/uploads/15344675</td>
+    </tr>
+    <tr>
       <td>2025-05-16</td>
       <td>iTrack Oysters September 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>ERROR</td>
@@ -39,6 +45,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
+    </tr>
+    <tr>
+      <td>2025-04-21</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 429 for resources[0].url=https://doi.org/10.5281/zenodo.4005400</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -87,12 +99,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
-    </tr>
-    <tr>
-      <td>2024-07-12</td>
-      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
     </tr>
   </tbody>
 </table>
