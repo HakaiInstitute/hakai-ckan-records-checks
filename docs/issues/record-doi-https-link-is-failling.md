@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-24</td>
-      <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
+      <td>2024-11-06</td>
+      <td>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/xg0y-1z76 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/8mpe-h081 status_code=502</td>
     </tr>
   </tbody>
 </table>

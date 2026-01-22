@@ -737,7 +737,7 @@ Search your record here:
     <tr>
       <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6e947d50-8392-42ce-bff9-24b126c7cab7' target='_blank'>link</a></td>
-      <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>3</a></td>
+      <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>4</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -751,7 +751,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>3</a></td>
       <td></td>
-      <td></td>
+      <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='../records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
@@ -3967,7 +3967,7 @@ Search your record here:
     <tr>
       <td><a title='c2b05382-684f-4349-a64b-b20521223574' href='../records/c2b05382-684f-4349-a64b-b20521223574' target='_blank'>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e' target='_blank'>link</a></td>
-      <td><a title='c2b05382-684f-4349-a64b-b20521223574' href='../records/c2b05382-684f-4349-a64b-b20521223574' target='_blank'>5</a></td>
+      <td><a title='c2b05382-684f-4349-a64b-b20521223574' href='../records/c2b05382-684f-4349-a64b-b20521223574' target='_blank'>4</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3981,7 +3981,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='c2b05382-684f-4349-a64b-b20521223574' href='../records/c2b05382-684f-4349-a64b-b20521223574' target='_blank'>2</a></td>
       <td><a title='c2b05382-684f-4349-a64b-b20521223574' href='../records/c2b05382-684f-4349-a64b-b20521223574' target='_blank'>2</a></td>
-      <td><a title='c2b05382-684f-4349-a64b-b20521223574' href='../records/c2b05382-684f-4349-a64b-b20521223574' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='d1d07d48-c909-41b4-8c0f-13238720749c' href='../records/d1d07d48-c909-41b4-8c0f-13238720749c' target='_blank'>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
@@ -4399,6 +4399,25 @@ Search your record here:
       <td>[{'year': '2023', 'total': 1}]</td>
       <td><a title='2a104224-c3eb-4778-adc3-865b36471b1b' href='../records/2a104224-c3eb-4778-adc3-865b36471b1b' target='_blank'>4</a></td>
       <td><a title='2a104224-c3eb-4778-adc3-865b36471b1b' href='../records/2a104224-c3eb-4778-adc3-865b36471b1b' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='0c08a4f0-b28c-40fe-aaa8-a03113a7c735' href='../records/0c08a4f0-b28c-40fe-aaa8-a03113a7c735' target='_blank'>Vegetated Islands Polygons - 100 Islands Research</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_55daf524-146e-4b06-8c6c-3255c7e3c77a' target='_blank'>link</a></td>
+      <td><a title='0c08a4f0-b28c-40fe-aaa8-a03113a7c735' href='../records/0c08a4f0-b28c-40fe-aaa8-a03113a7c735' target='_blank'>6</a></td>
+      <td>100 Islands</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2021-09-23</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='0c08a4f0-b28c-40fe-aaa8-a03113a7c735' href='../records/0c08a4f0-b28c-40fe-aaa8-a03113a7c735' target='_blank'>1</a></td>
+      <td><a title='0c08a4f0-b28c-40fe-aaa8-a03113a7c735' href='../records/0c08a4f0-b28c-40fe-aaa8-a03113a7c735' target='_blank'>5</a></td>
       <td></td>
     </tr>
     <tr>
