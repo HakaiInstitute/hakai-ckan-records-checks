@@ -167,7 +167,7 @@ Search your record here:
     <tr>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548' target='_blank'>link</a></td>
-      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>5</a></td>
       <td>Genomics, Nearshore, Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -181,7 +181,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
       <td></td>
-      <td></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' target='_blank'>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
@@ -737,7 +737,7 @@ Search your record here:
     <tr>
       <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6e947d50-8392-42ce-bff9-24b126c7cab7' target='_blank'>link</a></td>
-      <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>4</a></td>
+      <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>3</a></td>
       <td>Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -751,7 +751,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>3</a></td>
       <td></td>
-      <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='../records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
@@ -3581,25 +3581,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='6083b388-4d24-4ac3-9464-dfea94468203' href='../records/6083b388-4d24-4ac3-9464-dfea94468203' target='_blank'>4</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='7149f4c2-1e3d-4df7-8e37-fab3d36eba58' href='../records/7149f4c2-1e3d-4df7-8e37-fab3d36eba58' target='_blank'>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48c8f830-f281-4ca1-9a81-ea690e70cb7a' target='_blank'>link</a></td>
-      <td><a title='7149f4c2-1e3d-4df7-8e37-fab3d36eba58' href='../records/7149f4c2-1e3d-4df7-8e37-fab3d36eba58' target='_blank'>2</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, inorganicCarbon</td>
-      <td>2022-01-24</td>
-      <td>2024-07-23</td>
-      <td>10.21966/1.715738</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='7149f4c2-1e3d-4df7-8e37-fab3d36eba58' href='../records/7149f4c2-1e3d-4df7-8e37-fab3d36eba58' target='_blank'>2</a></td>
       <td></td>
       <td></td>
     </tr>
