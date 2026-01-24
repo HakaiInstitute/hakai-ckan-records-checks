@@ -3319,25 +3319,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_63765cc6-5730-4a28-9d96-3de38066312f' target='_blank'>link</a></td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>7</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other, inorganicCarbon</td>
-      <td>2022-02-03</td>
-      <td>2024-07-23</td>
-      <td>10.21966/1.614670</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>3</a></td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='45983472-7627-4227-b312-079c2aeda7ef' href='../records/45983472-7627-4227-b312-079c2aeda7ef' target='_blank'>Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a72c43e2-5b4d-4d56-89d4-464b4c513710' target='_blank'>link</a></td>
       <td><a title='45983472-7627-4227-b312-079c2aeda7ef' href='../records/45983472-7627-4227-b312-079c2aeda7ef' target='_blank'>3</a></td>
@@ -3581,6 +3562,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='6083b388-4d24-4ac3-9464-dfea94468203' href='../records/6083b388-4d24-4ac3-9464-dfea94468203' target='_blank'>4</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='7149f4c2-1e3d-4df7-8e37-fab3d36eba58' href='../records/7149f4c2-1e3d-4df7-8e37-fab3d36eba58' target='_blank'>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48c8f830-f281-4ca1-9a81-ea690e70cb7a' target='_blank'>link</a></td>
+      <td><a title='7149f4c2-1e3d-4df7-8e37-fab3d36eba58' href='../records/7149f4c2-1e3d-4df7-8e37-fab3d36eba58' target='_blank'>2</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2024-07-23</td>
+      <td>10.21966/1.715738</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='7149f4c2-1e3d-4df7-8e37-fab3d36eba58' href='../records/7149f4c2-1e3d-4df7-8e37-fab3d36eba58' target='_blank'>2</a></td>
       <td></td>
       <td></td>
     </tr>
