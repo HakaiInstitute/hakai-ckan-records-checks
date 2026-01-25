@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='37440dfd-53f8-462b-a544-b6c8d39c44cd' href='../records/37440dfd-53f8-462b-a544-b6c8d39c44cd' target='_blank'>Farwell Canyon Airborne Surveys - 2024 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43bad5e5-0484-4c11-80a5-c844245f940e' target='_blank'>link</a></td>
+      <td><a title='37440dfd-53f8-462b-a544-b6c8d39c44cd' href='../records/37440dfd-53f8-462b-a544-b6c8d39c44cd' target='_blank'>4</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2026-01-23</td>
+      <td>2026-01-23</td>
+      <td>10.21966/dtt0-s264</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='37440dfd-53f8-462b-a544-b6c8d39c44cd' href='../records/37440dfd-53f8-462b-a544-b6c8d39c44cd' target='_blank'>2</a></td>
+      <td><a title='37440dfd-53f8-462b-a544-b6c8d39c44cd' href='../records/37440dfd-53f8-462b-a544-b6c8d39c44cd' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='9eda1bfc-0d13-4e1d-9542-b9a7cce16991' href='../records/9eda1bfc-0d13-4e1d-9542-b9a7cce16991' target='_blank'>Mystery Creek Aerial Photo and LiDAR Survey - 2025 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c544ef5b-967d-46b2-bbcf-395116b50e7d' target='_blank'>link</a></td>
       <td><a title='9eda1bfc-0d13-4e1d-9542-b9a7cce16991' href='../records/9eda1bfc-0d13-4e1d-9542-b9a7cce16991' target='_blank'>5</a></td>
@@ -3316,6 +3335,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='../records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' target='_blank'>7</a></td>
       <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='../records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_63765cc6-5730-4a28-9d96-3de38066312f' target='_blank'>link</a></td>
+      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>7</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, inorganicCarbon</td>
+      <td>2022-02-03</td>
+      <td>2024-07-23</td>
+      <td>10.21966/1.614670</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>3</a></td>
+      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>4</a></td>
       <td></td>
     </tr>
     <tr>
