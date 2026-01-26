@@ -20,7 +20,7 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2025-10-18</td>
       <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
       <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[2].url=https://dx.doi.org/10.5883/DS-FCBB</td>
+      <td>Invalid resources.url.status_code: 504 for resources[2].url=https://dx.doi.org/10.5883/DS-FCBB</td>
     </tr>
     <tr>
       <td>2025-08-12</td>
