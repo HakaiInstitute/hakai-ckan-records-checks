@@ -240,13 +240,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2025-04-21</td>
-      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -360,13 +360,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -498,13 +498,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
+      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast - 2018-2019</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -552,12 +552,6 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -565,6 +559,12 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2024-07-24</td>
       <td>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -642,13 +642,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -732,13 +732,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -768,7 +768,7 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -780,7 +780,7 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -840,12 +840,6 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -859,6 +853,12 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2024-07-23</td>
       <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -894,13 +894,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Kelp forest communities along an otter gradient</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>

@@ -357,7 +357,7 @@ Search your record here:
     <tr>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a' target='_blank'>link</a></td>
-      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>4</a></td>
+      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>5</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -371,7 +371,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>3</a></td>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='2916abf5-419e-4cd7-8e25-f45f07a21313' href='../records/2916abf5-419e-4cd7-8e25-f45f07a21313' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</a></td>

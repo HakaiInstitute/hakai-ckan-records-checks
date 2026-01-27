@@ -20,13 +20,19 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2025-10-18</td>
       <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
       <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 504 for resources[2].url=https://dx.doi.org/10.5883/DS-FCBB</td>
+      <td>Invalid resources.url.status_code: 404 for resources[2].url=https://dx.doi.org/10.5883/DS-FCBB</td>
     </tr>
     <tr>
       <td>2025-08-12</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset</td>
+    </tr>
+    <tr>
+      <td>2025-05-21</td>
+      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 504 for resources[0].url=https://zenodo.org/uploads/15344675</td>
     </tr>
     <tr>
       <td>2025-05-16</td>
