@@ -89,23 +89,42 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>Gitga'at Territory Coastal Mapping Project</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b5f0f854-efe1-4132-808d-074244d813e1' target='_blank'>link</a></td>
+      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>3</a></td>
+      <td>Geospatial</td>
+      <td>None</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2025-11-12</td>
+      <td>2026-01-27</td>
+      <td>10.21966/2aap-hn61</td>
+      <td>1</td>
+      <td>[{'year': '2025', 'total': 1}]</td>
+      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>1</a></td>
+      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>1</a></td>
+      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5b4cbe9f-8f2e-414c-80ff-741372891fe9' target='_blank'>link</a></td>
-      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>4</a></td>
+      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>5</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>CC-BY-4.0</td>
+      <td>None</td>
       <td>completed</td>
       <td>active</td>
       <td>dataset</td>
       <td>other</td>
       <td>2025-11-12</td>
-      <td>2025-11-12</td>
+      <td>2026-01-27</td>
       <td>10.21966/0xex-r023</td>
       <td>1</td>
       <td>[{'year': '2025', 'total': 1}]</td>
       <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>2</a></td>
       <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='0272fd06-6ac8-48cd-80c9-b6e05f15be0f' href='../records/0272fd06-6ac8-48cd-80c9-b6e05f15be0f' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Coast, British Columbia, Canada</a></td>
@@ -357,7 +376,7 @@ Search your record here:
     <tr>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a' target='_blank'>link</a></td>
-      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>5</a></td>
+      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>4</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -371,7 +390,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>3</a></td>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>1</a></td>
-      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='2916abf5-419e-4cd7-8e25-f45f07a21313' href='../records/2916abf5-419e-4cd7-8e25-f45f07a21313' target='_blank'>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</a></td>
@@ -4703,25 +4722,6 @@ Search your record here:
       <td></td>
       <td><a title='f9b1c843-e0c9-414f-a89e-bc35d26cf77d' href='../records/f9b1c843-e0c9-414f-a89e-bc35d26cf77d' target='_blank'>2</a></td>
       <td><a title='f9b1c843-e0c9-414f-a89e-bc35d26cf77d' href='../records/f9b1c843-e0c9-414f-a89e-bc35d26cf77d' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>Gitga'at Territory Coastal Mapping Project</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b5f0f854-efe1-4132-808d-074244d813e1' target='_blank'>link</a></td>
-      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>2</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td></td>
-      <td>2025-11-12</td>
-      <td>10.21966/2aap-hn61</td>
-      <td>1</td>
-      <td>[{'year': '2025', 'total': 1}]</td>
-      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>1</a></td>
-      <td><a title='0074861a-39f2-42c1-ae71-abef4f78fd78' href='../records/0074861a-39f2-42c1-ae71-abef4f78fd78' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
