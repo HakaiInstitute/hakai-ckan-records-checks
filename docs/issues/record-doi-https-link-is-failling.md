@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-11-06</td>
-      <td>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</td>
+      <td>2024-07-24</td>
+      <td>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/8mpe-h081 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/XNH1-TP28 status_code=502</td>
     </tr>
   </tbody>
 </table>

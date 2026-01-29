@@ -17,12 +17,6 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2025-10-18</td>
-      <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 404 for resources[2].url=https://dx.doi.org/10.5883/DS-FCBB</td>
-    </tr>
-    <tr>
       <td>2025-08-12</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>
@@ -45,6 +39,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
+    </tr>
+    <tr>
+      <td>2025-04-23</td>
+      <td>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[1].url=https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.html</td>
     </tr>
     <tr>
       <td>2024-07-24</td>

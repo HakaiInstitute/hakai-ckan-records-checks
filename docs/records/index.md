@@ -205,7 +205,7 @@ Search your record here:
     <tr>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548' target='_blank'>link</a></td>
-      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>5</a></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
       <td>Genomics, Nearshore, Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -219,7 +219,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
       <td></td>
-      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' target='_blank'>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
@@ -574,7 +574,7 @@ Search your record here:
       <td>dataset</td>
       <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
       <td>2025-01-28</td>
-      <td>2025-11-06</td>
+      <td>2026-01-27</td>
       <td>10.21966/jj9p-d309</td>
       <td>0</td>
       <td>[]</td>
@@ -1611,7 +1611,7 @@ Search your record here:
     <tr>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>13</a></td>
+      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>14</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1625,7 +1625,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>12</a></td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
@@ -2428,7 +2428,7 @@ Search your record here:
     <tr>
       <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34' target='_blank'>link</a></td>
-      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>2</a></td>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>3</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -2442,7 +2442,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='67871f51-9f69-44f6-9206-747e4d2a1553' href='../records/67871f51-9f69-44f6-9206-747e4d2a1553' target='_blank'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</a></td>

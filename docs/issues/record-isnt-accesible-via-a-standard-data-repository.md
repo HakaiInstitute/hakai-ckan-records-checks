@@ -18,6 +18,12 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2026-01-27</td>
+      <td>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2026-01-27</td>
       <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -67,12 +73,6 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2025-11-18</td>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2025-11-06</td>
-      <td>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -222,13 +222,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -360,13 +360,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
+      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
+      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -462,12 +462,6 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -475,6 +469,12 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2024-07-24</td>
       <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -546,7 +546,7 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
+      <td>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -558,7 +558,7 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</td>
+      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -642,6 +642,12 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -649,12 +655,6 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2024-07-24</td>
       <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -720,13 +720,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -750,25 +750,19 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -786,6 +780,18 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Koeye River stream temperature, stage, and conductivity time-series version 1</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -793,12 +799,6 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2024-07-23</td>
       <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -864,6 +864,12 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -876,19 +882,13 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
@@ -942,12 +942,6 @@ This page present the list of all the records associated with the issue: **Recor
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
-      <td>INFO</td>
-      <td>Record isn't accesible via a standard data repository</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
@@ -955,6 +949,12 @@ This page present the list of all the records associated with the issue: **Recor
     <tr>
       <td>2024-07-23</td>
       <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>INFO</td>
+      <td>Record isn't accesible via a standard data repository</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>INFO</td>
       <td>Record isn't accesible via a standard data repository</td>
     </tr>
