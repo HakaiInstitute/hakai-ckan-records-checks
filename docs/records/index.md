@@ -2428,7 +2428,7 @@ Search your record here:
     <tr>
       <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34' target='_blank'>link</a></td>
-      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>3</a></td>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>2</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -2442,7 +2442,7 @@ Search your record here:
       <td>[{'year': '2022', 'total': 1}]</td>
       <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>2</a></td>
       <td></td>
-      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='67871f51-9f69-44f6-9206-747e4d2a1553' href='../records/67871f51-9f69-44f6-9206-747e4d2a1553' target='_blank'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</a></td>
