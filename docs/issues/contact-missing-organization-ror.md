@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-01-29</td>
+      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Timmer, Brian' contact['organisation-name']='University Of Victoria'</td>
+    </tr>
+    <tr>
       <td>2025-10-28</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>INFO</td>
@@ -345,12 +351,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Kelp forest communities along an otter gradient</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Salomon, Anne' contact['organisation-name']='Simon Fraser University'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Timmer, Brian' contact['organisation-name']='University Of Victoria'</td>
     </tr>
   </tbody>
 </table>

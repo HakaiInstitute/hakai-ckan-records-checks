@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='a48161da-c603-43d6-9dc6-44b861984b49' href='../records/a48161da-c603-43d6-9dc6-44b861984b49' target='_blank'>Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7cafde4f-bdd5-4b95-a41d-7939ddcf08c6' target='_blank'>link</a></td>
+      <td><a title='a48161da-c603-43d6-9dc6-44b861984b49' href='../records/a48161da-c603-43d6-9dc6-44b861984b49' target='_blank'>3</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2026-01-29</td>
+      <td>2026-01-30</td>
+      <td>10.21966/xc7x-9207</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='a48161da-c603-43d6-9dc6-44b861984b49' href='../records/a48161da-c603-43d6-9dc6-44b861984b49' target='_blank'>3</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='37440dfd-53f8-462b-a544-b6c8d39c44cd' href='../records/37440dfd-53f8-462b-a544-b6c8d39c44cd' target='_blank'>Farwell Canyon Airborne Surveys - 2024 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43bad5e5-0484-4c11-80a5-c844245f940e' target='_blank'>link</a></td>
       <td><a title='37440dfd-53f8-462b-a544-b6c8d39c44cd' href='../records/37440dfd-53f8-462b-a544-b6c8d39c44cd' target='_blank'>4</a></td>
@@ -1611,7 +1630,7 @@ Search your record here:
     <tr>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>14</a></td>
+      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>13</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1625,7 +1644,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>12</a></td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
-      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
@@ -3509,7 +3528,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>Hakai Institute British Columbia Central Coast Fixed Platform Acoustic Doppler Current Profiler Time Series Provisional</a></td>
+      <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>link</a></td>
       <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>10</a></td>
       <td>Oceanography</td>
@@ -3519,7 +3538,7 @@ Search your record here:
       <td>dataset</td>
       <td>subSurfaceCurrents, subSurfaceTemperature, seaSurfaceHeight</td>
       <td>2022-02-01</td>
-      <td>2024-07-23</td>
+      <td>2026-01-29</td>
       <td></td>
       <td>-1</td>
       <td></td>
