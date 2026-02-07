@@ -659,7 +659,7 @@ Search your record here:
       <td><a title='0781c19a-7efb-4680-92fd-8cd5faf0cfe4' href='../records/0781c19a-7efb-4680-92fd-8cd5faf0cfe4' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='cb0f4710-d78a-4073-959c-95f874f88711' href='../records/cb0f4710-d78a-4073-959c-95f874f88711' target='_blank'>High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia</a></td>
+      <td><a title='cb0f4710-d78a-4073-959c-95f874f88711' href='../records/cb0f4710-d78a-4073-959c-95f874f88711' target='_blank'>Phytoplankton Pigment Timeseries from High-Performance Liquid Chromatography for the Northern Salish Sea and Central Coast, BC, Canada (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7fd3ec6c-083a-4942-84b4-215e69492072' target='_blank'>link</a></td>
       <td><a title='cb0f4710-d78a-4073-959c-95f874f88711' href='../records/cb0f4710-d78a-4073-959c-95f874f88711' target='_blank'>1</a></td>
       <td>Oceanography</td>
@@ -669,7 +669,7 @@ Search your record here:
       <td>dataset</td>
       <td>phytoplanktonBiomassAndDiversity</td>
       <td>2024-12-11</td>
-      <td>2024-12-11</td>
+      <td>2026-02-05</td>
       <td>10.21966/bw2d-tg65</td>
       <td>0</td>
       <td>[]</td>
@@ -678,7 +678,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='0049e274-f23e-448c-b307-14aa3b4e0b4a' href='../records/0049e274-f23e-448c-b307-14aa3b4e0b4a' target='_blank'>Sentinels of Change Sea surface temperature time series data along the British Columbia Coast</a></td>
+      <td><a title='0049e274-f23e-448c-b307-14aa3b4e0b4a' href='../records/0049e274-f23e-448c-b307-14aa3b4e0b4a' target='_blank'>Sentinels of Change Sea Surface Temperature Time Series Data Along the British Columbia Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5185ac00-8148-4472-adfd-21741d8a10ce' target='_blank'>link</a></td>
       <td><a title='0049e274-f23e-448c-b307-14aa3b4e0b4a' href='../records/0049e274-f23e-448c-b307-14aa3b4e0b4a' target='_blank'>1</a></td>
       <td>Sentinels of Change</td>
@@ -688,7 +688,7 @@ Search your record here:
       <td>dataset</td>
       <td>seaSurfaceTemperature</td>
       <td>2024-11-27</td>
-      <td>2024-11-27</td>
+      <td>2026-02-05</td>
       <td>10.21966/4kr2-jc55</td>
       <td>1</td>
       <td>[{'year': '2024', 'total': 1}]</td>
@@ -1001,7 +1001,7 @@ Search your record here:
       <td><a title='2081eb2e-67c5-44b7-b048-aeb2c646f238' href='../records/2081eb2e-67c5-44b7-b048-aeb2c646f238' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='7607322d-6dea-4758-a257-de8353c899c1' href='../records/7607322d-6dea-4758-a257-de8353c899c1' target='_blank'>Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research</a></td>
+      <td><a title='7607322d-6dea-4758-a257-de8353c899c1' href='../records/7607322d-6dea-4758-a257-de8353c899c1' target='_blank'>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d' target='_blank'>link</a></td>
       <td><a title='7607322d-6dea-4758-a257-de8353c899c1' href='../records/7607322d-6dea-4758-a257-de8353c899c1' target='_blank'>2</a></td>
       <td>Oceanography</td>
@@ -1011,7 +1011,7 @@ Search your record here:
       <td>dataset</td>
       <td>seaSurfaceHeight</td>
       <td>2024-07-18</td>
-      <td>2024-07-18</td>
+      <td>2026-02-05</td>
       <td>10.21966/kqd6-1j57</td>
       <td>0</td>
       <td>[]</td>
@@ -1020,7 +1020,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Provisional</a></td>
+      <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63' target='_blank'>link</a></td>
       <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>3</a></td>
       <td>Juvenile Salmon Program, Oceanography, Nearshore</td>
@@ -1030,7 +1030,7 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2024-07-17</td>
-      <td>2024-12-04</td>
+      <td>2026-02-05</td>
       <td></td>
       <td>-1</td>
       <td></td>
@@ -1058,7 +1058,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Provisional</a></td>
+      <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>link</a></td>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>2</a></td>
       <td>Oceanography</td>
@@ -1068,7 +1068,7 @@ Search your record here:
       <td>dataset</td>
       <td>particulateMatter</td>
       <td>2024-07-12</td>
-      <td>2025-04-23</td>
+      <td>2026-02-05</td>
       <td>10.21966/90h6-b497</td>
       <td>0</td>
       <td>[]</td>
@@ -1077,7 +1077,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>8-day average satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
+      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>link</a></td>
       <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>1</a></td>
       <td>Oceanography</td>
@@ -1087,7 +1087,7 @@ Search your record here:
       <td>dataset</td>
       <td>phytoplanktonBiomassAndDiversity, particulateMatter, other</td>
       <td>2024-04-05</td>
-      <td>2024-07-18</td>
+      <td>2026-02-05</td>
       <td>10.21966/175j-8k96</td>
       <td>0</td>
       <td>[]</td>
@@ -1115,7 +1115,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='0aa06844-3141-4d02-833d-d65b0659bd6f' href='../records/0aa06844-3141-4d02-833d-d65b0659bd6f' target='_blank'>Hakai Water Properties Vertical Profile Data Measured by Oceanographic Profilers, Research</a></td>
+      <td><a title='0aa06844-3141-4d02-833d-d65b0659bd6f' href='../records/0aa06844-3141-4d02-833d-d65b0659bd6f' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>link</a></td>
       <td><a title='0aa06844-3141-4d02-833d-d65b0659bd6f' href='../records/0aa06844-3141-4d02-833d-d65b0659bd6f' target='_blank'>2</a></td>
       <td>Oceanography, Nearshore, Watersheds</td>
@@ -1125,7 +1125,7 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2024-03-19</td>
-      <td>2024-07-31</td>
+      <td>2026-02-05</td>
       <td>10.21966/kace-2d24</td>
       <td>0</td>
       <td>[]</td>
@@ -1153,7 +1153,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='11051c56-8d67-43fc-a13c-b706e851a5a4' href='../records/11051c56-8d67-43fc-a13c-b706e851a5a4' target='_blank'>Pruth Dock, Calvert Island Tide and Weather Station Provisional</a></td>
+      <td><a title='11051c56-8d67-43fc-a13c-b706e851a5a4' href='../records/11051c56-8d67-43fc-a13c-b706e851a5a4' target='_blank'>Water Level and Weather Station Time Series, Pruth Bay, Kwakshua Channel, Central Coast, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2d693456-7e65-46be-95d7-6bb697320017' target='_blank'>link</a></td>
       <td><a title='11051c56-8d67-43fc-a13c-b706e851a5a4' href='../records/11051c56-8d67-43fc-a13c-b706e851a5a4' target='_blank'>1</a></td>
       <td>Oceanography, Watersheds</td>
@@ -1163,7 +1163,7 @@ Search your record here:
       <td>dataset</td>
       <td>seaSurfaceHeight, other</td>
       <td>2024-03-14</td>
-      <td>2024-07-23</td>
+      <td>2026-02-05</td>
       <td>10.21966/8d4w-sr07</td>
       <td>0</td>
       <td>[]</td>
@@ -1229,7 +1229,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</a></td>
+      <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>4</a></td>
       <td>Oceanography</td>
@@ -1239,13 +1239,13 @@ Search your record here:
       <td>dataset</td>
       <td>seaSurfaceTemperature, inorganicCarbon, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2023-10-20</td>
-      <td>2026-01-30</td>
-      <td>10.21966/vkcg-9893</td>
+      <td>2026-02-05</td>
+      <td></td>
       <td>-1</td>
       <td></td>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>2</a></td>
-      <td></td>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
@@ -1609,7 +1609,7 @@ Search your record here:
       <td><a title='b276330c-4ee9-476a-979a-cebe52d51db6' href='../records/b276330c-4ee9-476a-979a-cebe52d51db6' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA</a></td>
+      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>13</a></td>
       <td>Oceanography</td>
@@ -1619,7 +1619,7 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity</td>
       <td>2022-12-01</td>
-      <td>2025-04-23</td>
+      <td>2026-02-05</td>
       <td>10.25921/9vnv-0g64</td>
       <td>0</td>
       <td>[]</td>
@@ -1856,9 +1856,9 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>Hakai Rivers Inlet Mooring Research</a></td>
+      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1866,11 +1866,11 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2022-04-11</td>
-      <td>2024-08-29</td>
+      <td>2026-02-05</td>
       <td>10.21966/yp9n-w389</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
+      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>1</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -4630,7 +4630,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='8bcf556e-26e2-41d4-af2c-2192c0426523' href='../records/8bcf556e-26e2-41d4-af2c-2192c0426523' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations Made from the Alaska Marine Highway System M/V Columbia</a></td>
+      <td><a title='8bcf556e-26e2-41d4-af2c-2192c0426523' href='../records/8bcf556e-26e2-41d4-af2c-2192c0426523' target='_blank'>Underway Surface Seawater and Marine Boundary Layer Observations from the M/V Columbia (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dd325fc4-033c-4696-b38d-0ac883ad67eb' target='_blank'>link</a></td>
       <td><a title='8bcf556e-26e2-41d4-af2c-2192c0426523' href='../records/8bcf556e-26e2-41d4-af2c-2192c0426523' target='_blank'>8</a></td>
       <td>Oceanography</td>
@@ -4640,7 +4640,7 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, seaSurfaceSalinity, seaSurfaceTemperature, inorganicCarbon</td>
       <td>2021-06-11</td>
-      <td>2024-07-24</td>
+      <td>2026-02-05</td>
       <td>10.25921/jq11-2268</td>
       <td>1</td>
       <td>[{'year': '2025', 'total': 1}]</td>
@@ -4649,7 +4649,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='3f883dc6-56ac-42f5-a1d4-6de554a9e63d' href='../records/3f883dc6-56ac-42f5-a1d4-6de554a9e63d' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia</a></td>
+      <td><a title='3f883dc6-56ac-42f5-a1d4-6de554a9e63d' href='../records/3f883dc6-56ac-42f5-a1d4-6de554a9e63d' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations Made from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45' target='_blank'>link</a></td>
       <td><a title='3f883dc6-56ac-42f5-a1d4-6de554a9e63d' href='../records/3f883dc6-56ac-42f5-a1d4-6de554a9e63d' target='_blank'>3</a></td>
       <td>Oceanography</td>
@@ -4659,7 +4659,7 @@ Search your record here:
       <td>dataset</td>
       <td>inorganicCarbon, seaSurfaceSalinity, seaSurfaceTemperature</td>
       <td>2021-03-31</td>
-      <td>2024-07-23</td>
+      <td>2026-02-05</td>
       <td>10.25921/8q3v-0k22</td>
       <td>1</td>
       <td>[{'year': '2022', 'total': 1}]</td>
@@ -4668,9 +4668,9 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>Real-Time Provisional High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
+      <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a' target='_blank'>link</a></td>
-      <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>3</a></td>
+      <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4678,18 +4678,18 @@ Search your record here:
       <td>dataset</td>
       <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
       <td>2021-03-31</td>
-      <td>2024-07-23</td>
+      <td>2026-02-05</td>
       <td></td>
       <td>-1</td>
       <td></td>
       <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>1</a></td>
-      <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>2</a></td>
+      <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>High-Resolution Record of Surface Seawater Carbon Dioxide (CO2) Content Collected From Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada</a></td>
+      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>4</a></td>
+      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>5</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4697,12 +4697,12 @@ Search your record here:
       <td>dataset</td>
       <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
       <td>2021-03-31</td>
-      <td>2024-07-24</td>
+      <td>2026-02-05</td>
       <td>10.25921/v5j2-x847</td>
       <td>0</td>
       <td>[]</td>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>3</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>1</a></td>
+      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>

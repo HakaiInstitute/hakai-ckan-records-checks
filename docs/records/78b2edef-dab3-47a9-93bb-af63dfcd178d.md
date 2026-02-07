@@ -1,11 +1,11 @@
 ---
-title: High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA
+title: Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)
 hide:
   - navigation
   - toc
 ---
 
-# High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA
+# Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a>
 
@@ -26,7 +26,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b80
     - **Eov**: oxygen, inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity 
     - **Doi**: 10.25921/9vnv-0g64 
     - **Metadata Publication**: 2022-12-01 
-    - **Metadata Revision**: 2025-04-23 
+    - **Metadata Revision**: 2026-02-05 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a> 
 
 <div id='map'></div>
@@ -62,7 +62,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b80
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA"
+            "name" : "Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)"
         },
         "geometry": {'type': 'Point', 'coordinates': [-135.3456, 57.0526]}
     }

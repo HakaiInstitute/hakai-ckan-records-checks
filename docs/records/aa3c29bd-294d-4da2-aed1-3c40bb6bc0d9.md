@@ -1,11 +1,11 @@
 ---
-title: Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada
+title: Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)
 hide:
   - navigation
   - toc
 ---
 
-# Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada
+# Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)
 
 Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a>
 
@@ -24,9 +24,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a91
     - **Resources Count**: 1 
     - **Vertical Extent**: [{'max': '20.0', 'min': '20.0'}] 
     - **Eov**: seaSurfaceTemperature, inorganicCarbon, subSurfaceSalinity, subSurfaceTemperature 
-    - **Doi**: 10.21966/vkcg-9893 
+    - **Doi**:  
     - **Metadata Publication**: 2023-10-20 
-    - **Metadata Revision**: 2026-01-30 
+    - **Metadata Revision**: 2026-02-05 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a> 
 
 <div id='map'></div>
@@ -35,12 +35,12 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a91
 
 
 ## Issues
-| level   | message                                                                                                        |
-|:--------|:---------------------------------------------------------------------------------------------------------------|
-| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.21966/vkcg-9893 status_code=404                          |
-| ERROR   | Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/vkcg-9893 |
-| INFO    | Title is greater than 60 characters                                                                            |
-| INFO    | No version                                                                                                     |
+| level   | message                             |
+|:--------|:------------------------------------|
+| INFO    | Title is greater than 60 characters |
+| INFO    | No version                          |
+| WARNING | Title contains acronyms potentially |
+| WARNING | No DOI defined                      |
 
 
 <script>
@@ -53,7 +53,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a91
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada"
+            "name" : "Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)"
         },
         "geometry": {'type': 'Point', 'coordinates': [-125.13535, 48.83515]}
     }

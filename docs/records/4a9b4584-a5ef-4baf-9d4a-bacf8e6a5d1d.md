@@ -1,17 +1,17 @@
 ---
-title: Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)
+title: Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)
 hide:
   - navigation
   - toc
 ---
 
-# Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)
+# Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d' target='_blank'>link</a>
+Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a>
 
 ???+ abstract "Metadata"
 
-    - **Name**: ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d 
+    - **Name**: ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0 
     - **Organization**: Hakai Institute 
     - **Ressource Type**: dataset 
     - **Licence**: CC-BY-4.0 
@@ -22,12 +22,12 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27
     - **Type**: dataset 
     - **Distributor**: Hakai Institute 
     - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '6.0', 'min': '0.0'}] 
-    - **Eov**: seaSurfaceHeight 
-    - **Doi**: 10.21966/kqd6-1j57 
-    - **Metadata Publication**: 2024-07-18 
+    - **Vertical Extent**: [{'max': '260.0', 'min': '90.0'}] 
+    - **Eov**: oxygen, subSurfaceSalinity, subSurfaceTemperature 
+    - **Doi**: 10.21966/yp9n-w389 
+    - **Metadata Publication**: 2022-04-11 
     - **Metadata Revision**: 2026-02-05 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d' target='_blank'>link</a> 
+    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a> 
 
 <div id='map'></div>
 
@@ -38,7 +38,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27
 | level   | message                             |
 |:--------|:------------------------------------|
 | INFO    | Title is greater than 60 characters |
-| INFO    | No version                          |
 
 
 <script>
@@ -51,9 +50,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)"
+            "name" : "Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)"
         },
-        "geometry": {'type': 'Point', 'coordinates': [-128.12103, 51.670666]}
+        "geometry": {'type': 'Point', 'coordinates': [-127.531247, 51.601505]}
     }
     L.geoJSON(geojsonFeature).addTo(map);
    })
