@@ -224,7 +224,7 @@ Search your record here:
     <tr>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548' target='_blank'>link</a></td>
-      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
+      <td></td>
       <td>Genomics, Nearshore, Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -236,7 +236,7 @@ Search your record here:
       <td>10.21966/8sgn-jg38</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -3359,7 +3359,7 @@ Search your record here:
     <tr>
       <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_63765cc6-5730-4a28-9d96-3de38066312f' target='_blank'>link</a></td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>8</a></td>
+      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>7</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3373,7 +3373,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>3</a></td>
       <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>4</a></td>
-      <td><a title='26186b9d-a292-43c4-aec6-e928aa52b002' href='../records/26186b9d-a292-43c4-aec6-e928aa52b002' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='45983472-7627-4227-b312-079c2aeda7ef' href='../records/45983472-7627-4227-b312-079c2aeda7ef' target='_blank'>Surface water CO2 parameters collected by shellfish growers and partners in the northern Salish Sea from 2016 to 2018</a></td>

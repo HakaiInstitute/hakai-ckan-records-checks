@@ -71,12 +71,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Tula Foundation'</td>
     </tr>
     <tr>
-      <td>2025-10-18</td>
-      <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='False Creek Friends Society'</td>
-    </tr>
-    <tr>
       <td>2025-05-06</td>
       <td>Glacier and Ice Field Mapping - 2021 - Airborne Coastal Observatory</td>
       <td>INFO</td>

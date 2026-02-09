@@ -88,12 +88,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
     </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 502 for resources[1].url=http://dx.doi.org/10.21966/1.614670</td>
-    </tr>
   </tbody>
 </table>
 
