@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2026-02-05</td>
+      <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 504 for resources[3].url=https://doi.org/10.3389/fmars.2022.968470</td>
+    </tr>
+    <tr>
       <td>2025-08-12</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>
