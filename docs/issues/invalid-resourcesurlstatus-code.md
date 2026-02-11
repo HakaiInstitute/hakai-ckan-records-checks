@@ -17,12 +17,6 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2026-02-05</td>
-      <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 504 for resources[3].url=https://doi.org/10.3389/fmars.2022.968470</td>
-    </tr>
-    <tr>
       <td>2025-08-12</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>
@@ -93,6 +87,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
+    </tr>
+    <tr>
+      <td>2024-07-12</td>
+      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
     </tr>
   </tbody>
 </table>

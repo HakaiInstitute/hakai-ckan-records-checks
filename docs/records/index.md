@@ -1041,7 +1041,7 @@ Search your record here:
     <tr>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>2</a></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1055,7 +1055,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</a></td>
@@ -1079,7 +1079,7 @@ Search your record here:
     <tr>
       <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>link</a></td>
-      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>2</a></td>
+      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1093,7 +1093,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>1</a></td>
       <td></td>
-      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' href='../records/9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
@@ -2423,6 +2423,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='3a6e9472-1a85-48e5-8ac6-792945e03045' href='../records/3a6e9472-1a85-48e5-8ac6-792945e03045' target='_blank'>6</a></td>
       <td><a title='3a6e9472-1a85-48e5-8ac6-792945e03045' href='../records/3a6e9472-1a85-48e5-8ac6-792945e03045' target='_blank'>5</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34' target='_blank'>link</a></td>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>2</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-25</td>
+      <td>2024-07-24</td>
+      <td>10.21966/XNH1-TP28</td>
+      <td>1</td>
+      <td>[{'year': '2022', 'total': 1}]</td>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232' target='_blank'>2</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
