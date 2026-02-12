@@ -37,6 +37,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-572
 ## Issues
 | level   | message                                                                                                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------|
+| ERROR   | Record DOI HTTPS link is failling: https://doi.org/10.21966/zfxe-rd73 status_code=502                                   |
 | INFO    | Title is greater than 60 characters                                                                                     |
 | INFO    | Record isn't accesible via a standard data repository                                                                   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |

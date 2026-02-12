@@ -17,10 +17,16 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-01-30</td>
-      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>2025-12-03</td>
+      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/vkcg-9893 status_code=404</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/thq7-0g08 status_code=502</td>
+    </tr>
+    <tr>
+      <td>2025-03-04</td>
+      <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
+      <td>ERROR</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/zfxe-rd73 status_code=502</td>
     </tr>
   </tbody>
 </table>
