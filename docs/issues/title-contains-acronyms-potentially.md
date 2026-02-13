@@ -30,13 +30,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2026-02-05</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2026-02-05</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
@@ -73,12 +73,6 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2025-04-30</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>

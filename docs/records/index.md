@@ -469,25 +469,6 @@ Search your record here:
       <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_53730b70-be6f-4e24-8b9d-4a5e2c491121' target='_blank'>link</a></td>
-      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>7</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>service</td>
-      <td>other</td>
-      <td>2025-04-23</td>
-      <td>2025-04-23</td>
-      <td>10.21966/6x1v-1v62</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>3</a></td>
-      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>4</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>Elliot Creek Aerial Photo and LiDAR Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_31e15496-e906-43f4-9120-2446ab6125b2' target='_blank'>link</a></td>
       <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>5</a></td>
@@ -604,7 +585,7 @@ Search your record here:
     <tr>
       <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='../records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d' target='_blank'>link</a></td>
-      <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='../records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>5</a></td>
+      <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='../records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>4</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -618,7 +599,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='../records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>2</a></td>
       <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='../records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>2</a></td>
-      <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='../records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='49967494-a7b6-4128-b336-671971d1e2c6' href='../records/49967494-a7b6-4128-b336-671971d1e2c6' target='_blank'>Data record does not exist anymore: Geomorphology - Calvert Island</a></td>
@@ -870,7 +851,7 @@ Search your record here:
     <tr>
       <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0' target='_blank'>link</a></td>
-      <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>4</a></td>
+      <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -884,7 +865,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>1</a></td>
       <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>2</a></td>
-      <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='../records/6a28454e-107a-4059-9b7d-e43bf8ee693b' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='78efda1b-9688-4bcf-b16e-7167c17c0bcb' href='../records/78efda1b-9688-4bcf-b16e-7167c17c0bcb' target='_blank'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
@@ -3321,7 +3302,7 @@ Search your record here:
     <tr>
       <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='../records/7f23d45b-b777-491c-b602-def5402d3d83' target='_blank'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0263680-f0d5-46d5-85ea-483fa58c74b6' target='_blank'>link</a></td>
-      <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='../records/7f23d45b-b777-491c-b602-def5402d3d83' target='_blank'>7</a></td>
+      <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='../records/7f23d45b-b777-491c-b602-def5402d3d83' target='_blank'>6</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>underDevelopment</td>
@@ -3335,7 +3316,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='../records/7f23d45b-b777-491c-b602-def5402d3d83' target='_blank'>3</a></td>
       <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='../records/7f23d45b-b777-491c-b602-def5402d3d83' target='_blank'>3</a></td>
-      <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='../records/7f23d45b-b777-491c-b602-def5402d3d83' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='../records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
@@ -3872,7 +3853,7 @@ Search your record here:
     <tr>
       <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='../records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306' target='_blank'>link</a></td>
-      <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='../records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>4</a></td>
+      <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='../records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>3</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -3886,7 +3867,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='../records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>2</a></td>
       <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='../records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>1</a></td>
-      <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='../records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='773ef9a6-64dd-4734-ba16-566470b0edad' href='../records/773ef9a6-64dd-4734-ba16-566470b0edad' target='_blank'>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</a></td>

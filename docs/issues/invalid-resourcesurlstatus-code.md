@@ -88,18 +88,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
     </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 500 for resources[0].url=https://drive.google.com/drive/folders/1cdvOEI-bFlnNRFEBRXxy2cadgl58nr0c?usp=sharing</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 504 for resources[0].url=https://drive.google.com/drive/u/0/folders/1zTXmCu7oFrt2WqRwXw6y-gOTiOodDYfe?ths=true</td>
-    </tr>
   </tbody>
 </table>
 
