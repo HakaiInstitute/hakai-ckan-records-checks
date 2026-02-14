@@ -469,6 +469,25 @@ Search your record here:
       <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053' target='_blank'>2</a></td>
     </tr>
     <tr>
+      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_53730b70-be6f-4e24-8b9d-4a5e2c491121' target='_blank'>link</a></td>
+      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>7</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>service</td>
+      <td>other</td>
+      <td>2025-04-23</td>
+      <td>2025-04-23</td>
+      <td>10.21966/6x1v-1v62</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>3</a></td>
+      <td><a title='83f387d2-f77e-4921-af15-e064d87ad01a' href='../records/83f387d2-f77e-4921-af15-e064d87ad01a' target='_blank'>4</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>Elliot Creek Aerial Photo and LiDAR Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_31e15496-e906-43f4-9120-2446ab6125b2' target='_blank'>link</a></td>
       <td><a title='046e5ef5-1480-4868-a65f-23171088bdb8' href='../records/046e5ef5-1480-4868-a65f-23171088bdb8' target='_blank'>5</a></td>

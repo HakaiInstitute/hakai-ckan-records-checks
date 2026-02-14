@@ -84,6 +84,12 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2025-04-23</td>
+      <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='GeoBC'</td>
+    </tr>
+    <tr>
+      <td>2025-04-23</td>
       <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Poppe, Katrina' contact['organisation-name']='Western Washington University'</td>
