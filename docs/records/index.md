@@ -336,6 +336,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='262f25ca-ca11-4b10-bb6c-9aec117319a9' href='../records/262f25ca-ca11-4b10-bb6c-9aec117319a9' target='_blank'>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d959f8f3-6d20-42fe-94da-be49bcd3aeca' target='_blank'>link</a></td>
+      <td><a title='262f25ca-ca11-4b10-bb6c-9aec117319a9' href='../records/262f25ca-ca11-4b10-bb6c-9aec117319a9' target='_blank'>4</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, seagrassCoverAndComposition</td>
+      <td>2025-08-08</td>
+      <td>2025-08-08</td>
+      <td>10.21966/x3jm-p494</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='262f25ca-ca11-4b10-bb6c-9aec117319a9' href='../records/262f25ca-ca11-4b10-bb6c-9aec117319a9' target='_blank'>3</a></td>
+      <td></td>
+      <td><a title='262f25ca-ca11-4b10-bb6c-9aec117319a9' href='../records/262f25ca-ca11-4b10-bb6c-9aec117319a9' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='bd461764-55b0-4c63-935a-5e9d1d5a6fed' href='../records/bd461764-55b0-4c63-935a-5e9d1d5a6fed' target='_blank'>iTrack Oysters September 2023 Experiment - Environmental and Oyster Health Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1d142201-cbbe-4c58-b2c2-1feeac112c51' target='_blank'>link</a></td>
       <td><a title='bd461764-55b0-4c63-935a-5e9d1d5a6fed' href='../records/bd461764-55b0-4c63-935a-5e9d1d5a6fed' target='_blank'>4</a></td>
@@ -1022,7 +1041,7 @@ Search your record here:
     <tr>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>2</a></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1036,7 +1055,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
       <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='0cf058db-a52c-404a-9332-17c946f13e8e' href='../records/0cf058db-a52c-404a-9332-17c946f13e8e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</a></td>
