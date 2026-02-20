@@ -17,16 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2025-12-03</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
+      <td>2024-07-23</td>
+      <td>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/thq7-0g08 status_code=502</td>
-    </tr>
-    <tr>
-      <td>2025-03-04</td>
-      <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/zfxe-rd73 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/kg0p-mt85 status_code=502</td>
     </tr>
   </tbody>
 </table>

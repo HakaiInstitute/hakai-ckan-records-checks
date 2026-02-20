@@ -114,13 +114,13 @@ This page present the list of all the records associated with the issue: **No pu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
+      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
+      <td>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No publisher</td>
     </tr>

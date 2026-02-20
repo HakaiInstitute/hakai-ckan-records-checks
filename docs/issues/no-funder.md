@@ -48,13 +48,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -192,13 +192,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai Institute Sensor Network</td>
+      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
+      <td>Hakai Institute Sensor Network</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -294,6 +294,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>WARNING</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>UAV Imagery - Coastal British Columbia - 2015</td>
       <td>WARNING</td>
       <td>No funder</td>
@@ -318,13 +324,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -337,12 +343,6 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>WARNING</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -372,13 +372,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
@@ -426,13 +426,13 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
+      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>WARNING</td>
       <td>No funder</td>
     </tr>

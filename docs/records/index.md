@@ -1229,6 +1229,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>link</a></td>
       <td><a title='aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' href='../records/aa3c29bd-294d-4da2-aed1-3c40bb6bc0d9' target='_blank'>4</a></td>
@@ -2466,7 +2485,7 @@ Search your record here:
     <tr>
       <td><a title='8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' href='../records/8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' target='_blank'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9' target='_blank'>link</a></td>
-      <td><a title='8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' href='../records/8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' target='_blank'>11</a></td>
+      <td><a title='8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' href='../records/8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' target='_blank'>12</a></td>
       <td>Watersheds</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -2480,7 +2499,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' href='../records/8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' target='_blank'>4</a></td>
       <td><a title='8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' href='../records/8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' target='_blank'>6</a></td>
-      <td><a title='8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' href='../records/8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' target='_blank'>1</a></td>
+      <td><a title='8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' href='../records/8c6f32be-1f60-4fcb-bf8b-a63cbac302f7' target='_blank'>2</a></td>
     </tr>
     <tr>
       <td><a title='151f5813-8d7c-4042-8b7a-a878c814145e' href='../records/151f5813-8d7c-4042-8b7a-a878c814145e' target='_blank'>UAV Imagery - Coastal British Columbia - 2015</a></td>
@@ -4214,7 +4233,7 @@ Search your record here:
     <tr>
       <td><a title='35dd16d8-20b1-49d5-8c59-9cdc02475cd0' href='../records/35dd16d8-20b1-49d5-8c59-9cdc02475cd0' target='_blank'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ea6c0e20-9b99-48f7-adfb-6c1b70f6bd2a' target='_blank'>link</a></td>
-      <td><a title='35dd16d8-20b1-49d5-8c59-9cdc02475cd0' href='../records/35dd16d8-20b1-49d5-8c59-9cdc02475cd0' target='_blank'>10</a></td>
+      <td><a title='35dd16d8-20b1-49d5-8c59-9cdc02475cd0' href='../records/35dd16d8-20b1-49d5-8c59-9cdc02475cd0' target='_blank'>11</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4228,7 +4247,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='35dd16d8-20b1-49d5-8c59-9cdc02475cd0' href='../records/35dd16d8-20b1-49d5-8c59-9cdc02475cd0' target='_blank'>5</a></td>
       <td><a title='35dd16d8-20b1-49d5-8c59-9cdc02475cd0' href='../records/35dd16d8-20b1-49d5-8c59-9cdc02475cd0' target='_blank'>5</a></td>
-      <td></td>
+      <td><a title='35dd16d8-20b1-49d5-8c59-9cdc02475cd0' href='../records/35dd16d8-20b1-49d5-8c59-9cdc02475cd0' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='6a6908af-8856-431e-8277-458fee82e534' href='../records/6a6908af-8856-431e-8277-458fee82e534' target='_blank'>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</a></td>
