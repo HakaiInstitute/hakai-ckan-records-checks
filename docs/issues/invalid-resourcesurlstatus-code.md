@@ -17,7 +17,7 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2025-08-12</td>
+      <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset</td>
@@ -39,12 +39,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 504 for resources[0].url=https://drive.google.com/drive/folders/1_8IQSlcZjFl7eNijMoSr2AsJE8aVBcL5</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -93,12 +87,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
-    </tr>
-    <tr>
-      <td>2024-07-12</td>
-      <td>Hakai Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, Research</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
     </tr>
   </tbody>
 </table>

@@ -26,7 +26,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88f
     - **Eov**: other, inorganicCarbon 
     - **Doi**: 10.21966/1.715784 
     - **Metadata Publication**: 2022-01-24 
-    - **Metadata Revision**: 2024-07-23 
+    - **Metadata Revision**: 2026-02-20 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0' target='_blank'>link</a> 
 
 <div id='map'></div>

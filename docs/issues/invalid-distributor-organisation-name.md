@@ -72,13 +72,13 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
       <td>ERROR</td>
       <td>Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'</td>
     </tr>

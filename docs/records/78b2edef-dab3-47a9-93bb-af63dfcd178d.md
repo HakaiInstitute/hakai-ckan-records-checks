@@ -26,7 +26,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b80
     - **Eov**: oxygen, inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity 
     - **Doi**: 10.25921/9vnv-0g64 
     - **Metadata Publication**: 2022-12-01 
-    - **Metadata Revision**: 2026-02-05 
+    - **Metadata Revision**: 2026-02-20 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a> 
 
 <div id='map'></div>
