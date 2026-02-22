@@ -1049,7 +1049,7 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2024-07-17</td>
-      <td>2026-02-20</td>
+      <td>2026-02-21</td>
       <td></td>
       <td>-1</td>
       <td></td>
@@ -1096,25 +1096,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>link</a></td>
-      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>1</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>phytoplanktonBiomassAndDiversity, particulateMatter, other</td>
-      <td>2024-04-05</td>
-      <td>2026-02-05</td>
-      <td>10.21966/175j-8k96</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='3b713ae6-f805-41ed-b7ed-25fc731d752e' href='../records/3b713ae6-f805-41ed-b7ed-25fc731d752e' target='_blank'>1</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' href='../records/9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_59b33373-ae4a-4719-a3df-0e36a08187d8' target='_blank'>link</a></td>
       <td><a title='9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' href='../records/9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' target='_blank'>2</a></td>
@@ -1131,25 +1112,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' href='../records/9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' target='_blank'>1</a></td>
       <td><a title='9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' href='../records/9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='0aa06844-3141-4d02-833d-d65b0659bd6f' href='../records/0aa06844-3141-4d02-833d-d65b0659bd6f' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>link</a></td>
-      <td><a title='0aa06844-3141-4d02-833d-d65b0659bd6f' href='../records/0aa06844-3141-4d02-833d-d65b0659bd6f' target='_blank'>2</a></td>
-      <td>Oceanography, Nearshore, Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
-      <td>2024-03-19</td>
-      <td>2026-02-20</td>
-      <td>10.21966/kace-2d24</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='0aa06844-3141-4d02-833d-d65b0659bd6f' href='../records/0aa06844-3141-4d02-833d-d65b0659bd6f' target='_blank'>1</a></td>
-      <td><a title='0aa06844-3141-4d02-833d-d65b0659bd6f' href='../records/0aa06844-3141-4d02-833d-d65b0659bd6f' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -1666,25 +1628,6 @@ Search your record here:
       <td><a title='f20621b4-90c1-4925-a747-5e98f924d6a9' href='../records/f20621b4-90c1-4925-a747-5e98f924d6a9' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f952a904-f9f7-4876-b518-c98b1fd96f7e' target='_blank'>link</a></td>
-      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>3</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-11-24</td>
-      <td>2024-07-23</td>
-      <td>10.21966/9y7d-hb02</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>1</a></td>
-      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8e99157a-8daf-4e68-92ae-9d22cfd46ce7' target='_blank'>link</a></td>
       <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>3</a></td>
@@ -1858,7 +1801,7 @@ Search your record here:
     <tr>
       <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a></td>
-      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>1</a></td>
+      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1866,12 +1809,12 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, subSurfaceSalinity, subSurfaceTemperature</td>
       <td>2022-04-11</td>
-      <td>2026-02-05</td>
+      <td>2026-02-20</td>
       <td>10.21966/yp9n-w389</td>
       <td>0</td>
       <td>[]</td>
       <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='../records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3492,7 +3435,7 @@ Search your record here:
     <tr>
       <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e' target='_blank'>link</a></td>
-      <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>10</a></td>
+      <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>8</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -3500,12 +3443,12 @@ Search your record here:
       <td>dataset</td>
       <td>subSurfaceCurrents, subSurfaceTemperature, seaSurfaceHeight</td>
       <td>2022-02-01</td>
-      <td>2026-01-29</td>
+      <td>2026-02-20</td>
       <td></td>
       <td>-1</td>
       <td></td>
       <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>4</a></td>
-      <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>6</a></td>
+      <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='../records/9c581481-f2ee-4353-b1ab-c5bf242945fe' target='_blank'>4</a></td>
       <td></td>
     </tr>
     <tr>
@@ -3519,7 +3462,7 @@ Search your record here:
       <td>dataset</td>
       <td>oxygen, dissolvedOrganicCarbon, subSurfaceSalinity, subSurfaceTemperature, seaSurfaceHeight</td>
       <td>2022-02-01</td>
-      <td>2026-02-05</td>
+      <td>2026-02-20</td>
       <td></td>
       <td>-1</td>
       <td></td>
@@ -4369,10 +4312,10 @@ Search your record here:
       <td><a title='7c2b8668-75a3-4fc8-bff3-bdae5d95f52d' href='../records/7c2b8668-75a3-4fc8-bff3-bdae5d95f52d' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
-      <td>onGoing</td>
+      <td>completed</td>
       <td>active</td>
       <td>dataset</td>
-      <td>subSurfaceTemperature, seaSurfaceTemperature</td>
+      <td>oxygen, subSurfaceTemperature, seaSurfaceTemperature, seaSurfaceSalinity, subSurfaceSalinity</td>
       <td>2021-10-20</td>
       <td>2026-02-20</td>
       <td></td>

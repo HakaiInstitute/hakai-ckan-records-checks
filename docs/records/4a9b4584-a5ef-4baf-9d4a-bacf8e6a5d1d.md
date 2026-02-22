@@ -26,7 +26,7 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27e
     - **Eov**: oxygen, subSurfaceSalinity, subSurfaceTemperature 
     - **Doi**: 10.21966/yp9n-w389 
     - **Metadata Publication**: 2022-04-11 
-    - **Metadata Revision**: 2026-02-05 
+    - **Metadata Revision**: 2026-02-20 
     - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a> 
 
 <div id='map'></div>
@@ -35,9 +35,10 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27e
 
 
 ## Issues
-| level   | message                             |
-|:--------|:------------------------------------|
-| INFO    | Title is greater than 60 characters |
+| level   | message                                                                                                         |
+|:--------|:----------------------------------------------------------------------------------------------------------------|
+| INFO    | Title is greater than 60 characters                                                                             |
+| WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute' |
 
 
 <script>

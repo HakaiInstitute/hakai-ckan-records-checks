@@ -18,6 +18,18 @@ This page present the list of all the records associated with the issue: **Conta
   <tbody>
     <tr>
       <td>2026-02-20</td>
+      <td>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
+      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
       <td>Underway Surface Seawater and Marine Boundary Layer Observations from the M/V Columbia (Research)</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Bidlack, Allison' contact['organisation-name']='University of Alaska Southeast, Alaska Coastal Rainforest Center'</td>
@@ -66,15 +78,15 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>2026-01-29</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Timmer, Brian' contact['organisation-name']='University Of Victoria'</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
     </tr>
     <tr>
       <td>2025-10-28</td>
