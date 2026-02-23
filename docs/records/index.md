@@ -1210,6 +1210,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95' target='_blank'>link</a></td>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>3</a></td>
@@ -1626,6 +1645,25 @@ Search your record here:
       <td><a title='f20621b4-90c1-4925-a747-5e98f924d6a9' href='../records/f20621b4-90c1-4925-a747-5e98f924d6a9' target='_blank'>2</a></td>
       <td><a title='f20621b4-90c1-4925-a747-5e98f924d6a9' href='../records/f20621b4-90c1-4925-a747-5e98f924d6a9' target='_blank'>1</a></td>
       <td><a title='f20621b4-90c1-4925-a747-5e98f924d6a9' href='../records/f20621b4-90c1-4925-a747-5e98f924d6a9' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f952a904-f9f7-4876-b518-c98b1fd96f7e' target='_blank'>link</a></td>
+      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>3</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-11-24</td>
+      <td>2024-07-23</td>
+      <td>10.21966/9y7d-hb02</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>1</a></td>
+      <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='../records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='36e9e6ae-a407-456e-8fe2-a3a78b246bf7' href='../records/36e9e6ae-a407-456e-8fe2-a3a78b246bf7' target='_blank'>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</a></td>
@@ -4024,7 +4062,7 @@ Search your record here:
     <tr>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466' target='_blank'>link</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>7</a></td>
+      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>8</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4038,7 +4076,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>4</a></td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>3</a></td>
-      <td></td>
+      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
