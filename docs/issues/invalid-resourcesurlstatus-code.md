@@ -59,12 +59,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms</td>
     </tr>
     <tr>
-      <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation</td>
-    </tr>
-    <tr>
       <td>2024-07-23</td>
       <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>ERROR</td>

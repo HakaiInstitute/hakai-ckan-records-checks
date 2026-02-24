@@ -1210,25 +1210,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95' target='_blank'>link</a></td>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>3</a></td>
@@ -2350,44 +2331,6 @@ Search your record here:
       <td><a title='08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' href='../records/08d2c4ef-d157-480d-b3a9-6d0210c8d6ff' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <td><a title='0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' href='../records/0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 2</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfa79d1b-25ce-44d0-94e9-39c807bd06b6' target='_blank'>link</a></td>
-      <td><a title='0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' href='../records/0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' target='_blank'>8</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-25</td>
-      <td>2024-07-23</td>
-      <td>10.21966/nk1v-ca06</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' href='../records/0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' target='_blank'>3</a></td>
-      <td><a title='0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' href='../records/0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' target='_blank'>4</a></td>
-      <td><a title='0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' href='../records/0efd0a21-637c-4cb5-9dc3-74daef3ef4f2' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='372841fb-b091-414d-abc8-f1272473fa23' href='../records/372841fb-b091-414d-abc8-f1272473fa23' target='_blank'>Koeye River stream temperature, stage, and conductivity time-series version 1</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5cf59eac-2fb4-4ed2-8ffc-372030c9438e' target='_blank'>link</a></td>
-      <td><a title='372841fb-b091-414d-abc8-f1272473fa23' href='../records/372841fb-b091-414d-abc8-f1272473fa23' target='_blank'>2</a></td>
-      <td>Watersheds</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-25</td>
-      <td>2024-07-23</td>
-      <td>10.21966/wbg6-7z68</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='372841fb-b091-414d-abc8-f1272473fa23' href='../records/372841fb-b091-414d-abc8-f1272473fa23' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='3a6e9472-1a85-48e5-8ac6-792945e03045' href='../records/3a6e9472-1a85-48e5-8ac6-792945e03045' target='_blank'>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897' target='_blank'>link</a></td>
       <td><a title='3a6e9472-1a85-48e5-8ac6-792945e03045' href='../records/3a6e9472-1a85-48e5-8ac6-792945e03045' target='_blank'>11</a></td>
@@ -2632,25 +2575,6 @@ Search your record here:
       <td></td>
       <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='../records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>3</a></td>
       <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='../records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>6</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='688660f4-dfcc-49b9-866a-1cf2521c9e2d' href='../records/688660f4-dfcc-49b9-866a-1cf2521c9e2d' target='_blank'>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_244b5915-0ccf-4fab-9720-d2ac9394a27b' target='_blank'>link</a></td>
-      <td><a title='688660f4-dfcc-49b9-866a-1cf2521c9e2d' href='../records/688660f4-dfcc-49b9-866a-1cf2521c9e2d' target='_blank'>7</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-24</td>
-      <td>10.21966/at9a-1109</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='688660f4-dfcc-49b9-866a-1cf2521c9e2d' href='../records/688660f4-dfcc-49b9-866a-1cf2521c9e2d' target='_blank'>4</a></td>
-      <td><a title='688660f4-dfcc-49b9-866a-1cf2521c9e2d' href='../records/688660f4-dfcc-49b9-866a-1cf2521c9e2d' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
@@ -4062,7 +3986,7 @@ Search your record here:
     <tr>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466' target='_blank'>link</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>8</a></td>
+      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>7</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4076,7 +4000,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>4</a></td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>3</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
