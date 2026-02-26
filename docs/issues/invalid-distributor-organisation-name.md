@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2025-10-14</td>
+      <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
+      <td>ERROR</td>
+      <td>Invalid distributor organisation-name: organization_name='Tula Foundation' expects 'Hakai Institute'</td>
+    </tr>
+    <tr>
       <td>2025-08-08</td>
       <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</td>
       <td>ERROR</td>

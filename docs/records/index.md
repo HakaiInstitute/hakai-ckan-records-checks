@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='3d082072-1ee8-4005-8bba-f9ec795ad5ab' href='../records/3d082072-1ee8-4005-8bba-f9ec795ad5ab' target='_blank'>Hakai Institute Drone Data Index</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cfa4ad65-ee12-47c0-9527-206a0f8d92ae' target='_blank'>link</a></td>
+      <td><a title='3d082072-1ee8-4005-8bba-f9ec795ad5ab' href='../records/3d082072-1ee8-4005-8bba-f9ec795ad5ab' target='_blank'>3</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2026-02-24</td>
+      <td>2026-02-24</td>
+      <td>10.21966/0r8b-t282</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='3d082072-1ee8-4005-8bba-f9ec795ad5ab' href='../records/3d082072-1ee8-4005-8bba-f9ec795ad5ab' target='_blank'>1</a></td>
+      <td><a title='3d082072-1ee8-4005-8bba-f9ec795ad5ab' href='../records/3d082072-1ee8-4005-8bba-f9ec795ad5ab' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='a48161da-c603-43d6-9dc6-44b861984b49' href='../records/a48161da-c603-43d6-9dc6-44b861984b49' target='_blank'>Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7cafde4f-bdd5-4b95-a41d-7939ddcf08c6' target='_blank'>link</a></td>
       <td><a title='a48161da-c603-43d6-9dc6-44b861984b49' href='../records/a48161da-c603-43d6-9dc6-44b861984b49' target='_blank'>3</a></td>
@@ -224,7 +243,7 @@ Search your record here:
     <tr>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548' target='_blank'>link</a></td>
-      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>5</a></td>
       <td>Genomics, Nearshore, Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -238,7 +257,26 @@ Search your record here:
       <td>[]</td>
       <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>4</a></td>
       <td></td>
-      <td></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' target='_blank'>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_291b98a4-d868-462c-852a-d6cf79ecf6ce' target='_blank'>link</a></td>
+      <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' target='_blank'>4</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2025-10-14</td>
+      <td>2025-10-14</td>
+      <td>10.21966/9cbv-ra30</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' target='_blank'>2</a></td>
+      <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' target='_blank'>1</a></td>
+      <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='328b062b-3af6-4149-b90f-a85b99dc40eb' href='../records/328b062b-3af6-4149-b90f-a85b99dc40eb' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), Central Coast, British Columbia, Canada</a></td>
@@ -3620,6 +3658,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='cb9c0488-666b-4869-9ca4-04d7125fdf8a' href='../records/cb9c0488-666b-4869-9ca4-04d7125fdf8a' target='_blank'>3</a></td>
       <td><a title='cb9c0488-666b-4869-9ca4-04d7125fdf8a' href='../records/cb9c0488-666b-4869-9ca4-04d7125fdf8a' target='_blank'>5</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, dissolvedOrganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.437736</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>2</a></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
