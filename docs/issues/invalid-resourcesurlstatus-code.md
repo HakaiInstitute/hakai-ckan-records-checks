@@ -23,12 +23,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset</td>
     </tr>
     <tr>
-      <td>2025-10-18</td>
-      <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: 500 for resources[2].url=https://dx.doi.org/10.5883/DS-FCBB</td>
-    </tr>
-    <tr>
       <td>2025-05-16</td>
       <td>iTrack Oysters September 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>ERROR</td>
