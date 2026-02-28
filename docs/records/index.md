@@ -3661,6 +3661,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>3</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other, dissolvedOrganicCarbon</td>
+      <td>2022-01-24</td>
+      <td>2024-07-24</td>
+      <td>10.21966/1.437736</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>2</a></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4' target='_blank'>link</a></td>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>10</a></td>
