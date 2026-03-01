@@ -156,7 +156,7 @@ Search your record here:
       <td>dataset</td>
       <td>other</td>
       <td>2025-11-12</td>
-      <td>2026-01-27</td>
+      <td>2026-02-27</td>
       <td>10.21966/0xex-r023</td>
       <td>1</td>
       <td>[{'year': '2025', 'total': 1}]</td>
@@ -1225,6 +1225,25 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='432b05ce-8904-4094-94bf-b97fb6636e41' href='../records/432b05ce-8904-4094-94bf-b97fb6636e41' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>

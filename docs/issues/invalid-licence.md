@@ -17,7 +17,7 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2026-01-27</td>
+      <td>2026-02-27</td>
       <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
       <td>ERROR</td>
       <td>Invalid licence: None</td>
