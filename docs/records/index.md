@@ -2160,6 +2160,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='81436551-f025-47e1-bc7b-3f769bb5b0f4' href='../records/81436551-f025-47e1-bc7b-3f769bb5b0f4' target='_blank'>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7538807-4d49-4ed8-ad36-836c0e71428a' target='_blank'>link</a></td>
+      <td><a title='81436551-f025-47e1-bc7b-3f769bb5b0f4' href='../records/81436551-f025-47e1-bc7b-3f769bb5b0f4' target='_blank'>6</a></td>
+      <td>Geospatial, Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-29</td>
+      <td>2024-07-24</td>
+      <td>10.21966/RZVW-4A72</td>
+      <td>1</td>
+      <td>[{'year': '2022', 'total': 1}]</td>
+      <td><a title='81436551-f025-47e1-bc7b-3f769bb5b0f4' href='../records/81436551-f025-47e1-bc7b-3f769bb5b0f4' target='_blank'>3</a></td>
+      <td><a title='81436551-f025-47e1-bc7b-3f769bb5b0f4' href='../records/81436551-f025-47e1-bc7b-3f769bb5b0f4' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='9a930f50-82e2-4d7c-9686-6b551b9a458e' href='../records/9a930f50-82e2-4d7c-9686-6b551b9a458e' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>link</a></td>
       <td><a title='9a930f50-82e2-4d7c-9686-6b551b9a458e' href='../records/9a930f50-82e2-4d7c-9686-6b551b9a458e' target='_blank'>14</a></td>
@@ -3644,7 +3663,7 @@ Search your record here:
     <tr>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
-      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>4</a></td>
+      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>3</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3658,7 +3677,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>2</a></td>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
-      <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='../records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
