@@ -17,6 +17,18 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-03-05</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
+      <td>WARNING</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
+    </tr>
+    <tr>
+      <td>2026-03-05</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Tula Foundation'</td>
+    </tr>
+    <tr>
       <td>2026-02-20</td>
       <td>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</td>
       <td>WARNING</td>

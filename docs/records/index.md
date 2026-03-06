@@ -32,6 +32,44 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='0894f661-f9cb-48cb-a0b4-8a001eb69420' href='../records/0894f661-f9cb-48cb-a0b4-8a001eb69420' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Research)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bfefcdf9-c922-4e4f-a958-aa6da739d3cd' target='_blank'>link</a></td>
+      <td><a title='0894f661-f9cb-48cb-a0b4-8a001eb69420' href='../records/0894f661-f9cb-48cb-a0b4-8a001eb69420' target='_blank'>2</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>oxygen, inorganicCarbon, particulateMatter, phytoplanktonBiomassAndDiversity, seaSurfaceSalinity, seaSurfaceTemperature</td>
+      <td>2026-02-27</td>
+      <td>2026-03-05</td>
+      <td>10.21966/4jvz-bv44</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='0894f661-f9cb-48cb-a0b4-8a001eb69420' href='../records/0894f661-f9cb-48cb-a0b4-8a001eb69420' target='_blank'>1</a></td>
+      <td><a title='0894f661-f9cb-48cb-a0b4-8a001eb69420' href='../records/0894f661-f9cb-48cb-a0b4-8a001eb69420' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='5dea887f-9b1d-4b20-a59a-3d4a2877a52c' href='../records/5dea887f-9b1d-4b20-a59a-3d4a2877a52c' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a924b31b-9882-4abe-8d8e-e875dbbbec82' target='_blank'>link</a></td>
+      <td><a title='5dea887f-9b1d-4b20-a59a-3d4a2877a52c' href='../records/5dea887f-9b1d-4b20-a59a-3d4a2877a52c' target='_blank'>7</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>inorganicCarbon, oxygen, seaSurfaceSalinity, seaSurfaceTemperature</td>
+      <td>2026-02-27</td>
+      <td>2026-03-05</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='5dea887f-9b1d-4b20-a59a-3d4a2877a52c' href='../records/5dea887f-9b1d-4b20-a59a-3d4a2877a52c' target='_blank'>3</a></td>
+      <td><a title='5dea887f-9b1d-4b20-a59a-3d4a2877a52c' href='../records/5dea887f-9b1d-4b20-a59a-3d4a2877a52c' target='_blank'>3</a></td>
+      <td><a title='5dea887f-9b1d-4b20-a59a-3d4a2877a52c' href='../records/5dea887f-9b1d-4b20-a59a-3d4a2877a52c' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='3d082072-1ee8-4005-8bba-f9ec795ad5ab' href='../records/3d082072-1ee8-4005-8bba-f9ec795ad5ab' target='_blank'>Hakai Institute Drone Data Index</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cfa4ad65-ee12-47c0-9527-206a0f8d92ae' target='_blank'>link</a></td>
       <td><a title='3d082072-1ee8-4005-8bba-f9ec795ad5ab' href='../records/3d082072-1ee8-4005-8bba-f9ec795ad5ab' target='_blank'>3</a></td>
@@ -1606,25 +1644,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>12</a></td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2c7a84f-a33b-4713-9b7f-a9ed57efc5c3' target='_blank'>link</a></td>
-      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>5</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-11-25</td>
-      <td>2024-12-05</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>1</a></td>
-      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>4</a></td>
       <td></td>
     </tr>
     <tr>
