@@ -132,13 +132,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -216,7 +216,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -228,7 +228,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -252,13 +252,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
+      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
+      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -282,13 +282,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -300,13 +300,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -354,13 +354,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
+      <td>Keen’s Mouse Food Web Study – 100 Islands Project – Central Coast, BC (2015-2017)</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Keen’s Mouse Food Web Study – 100 Islands Project – Central Coast, BC (2015-2017)</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -432,6 +432,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Herring Survey Data - 2016 - BC Central Coast</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
@@ -439,12 +445,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-24</td>
       <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -463,12 +463,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-24</td>
       <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Trails - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -558,13 +552,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
+      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
+      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -577,6 +571,12 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -606,12 +606,6 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai RPAS (Drone) Operations and Methods</td>
       <td>INFO</td>
       <td>No version</td>
@@ -624,13 +618,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -654,6 +648,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>INFO</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
       <td>INFO</td>
       <td>No version</td>
@@ -661,12 +661,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</td>
-      <td>INFO</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -774,13 +768,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Kelp forest communities along an otter gradient</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
@@ -792,13 +786,13 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>INFO</td>
       <td>No version</td>
     </tr>

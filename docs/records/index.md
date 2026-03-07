@@ -1267,6 +1267,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2023-11-03</td>
+      <td>2025-01-18</td>
+      <td>10.21966/1.566666</td>
+      <td>1</td>
+      <td>[{'year': '2024', 'total': 1}]</td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95' target='_blank'>link</a></td>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>3</a></td>
@@ -1644,6 +1663,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>12</a></td>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2c7a84f-a33b-4713-9b7f-a9ed57efc5c3' target='_blank'>link</a></td>
+      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>5</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-11-25</td>
+      <td>2024-12-05</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>1</a></td>
+      <td><a title='bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' href='../records/bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356' target='_blank'>4</a></td>
       <td></td>
     </tr>
     <tr>
@@ -2689,25 +2727,6 @@ Search your record here:
       <td></td>
       <td><a title='b3e5b67d-2425-4a4f-80b0-d1076df5492a' href='../records/b3e5b67d-2425-4a4f-80b0-d1076df5492a' target='_blank'>2</a></td>
       <td><a title='b3e5b67d-2425-4a4f-80b0-d1076df5492a' href='../records/b3e5b67d-2425-4a4f-80b0-d1076df5492a' target='_blank'>5</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' href='../records/e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' target='_blank'>Trails - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c' target='_blank'>link</a></td>
-      <td><a title='e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' href='../records/e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' target='_blank'>4</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2024-07-24</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' href='../records/e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' target='_blank'>1</a></td>
-      <td><a title='e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' href='../records/e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a' target='_blank'>3</a></td>
       <td></td>
     </tr>
     <tr>
