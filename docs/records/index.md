@@ -32,6 +32,25 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='e788c2f6-c842-4240-bab4-54a323d62174' href='../records/e788c2f6-c842-4240-bab4-54a323d62174' target='_blank'>Stream Temperature Observations for Three Streams Near Gold River</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_984e6b72-15d0-4742-bb2d-9ac13b14383a' target='_blank'>link</a></td>
+      <td><a title='e788c2f6-c842-4240-bab4-54a323d62174' href='../records/e788c2f6-c842-4240-bab4-54a323d62174' target='_blank'>7</a></td>
+      <td>Watersheds</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2026-03-09</td>
+      <td>2026-03-09</td>
+      <td>10.21966/cqrt-sk09</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e788c2f6-c842-4240-bab4-54a323d62174' href='../records/e788c2f6-c842-4240-bab4-54a323d62174' target='_blank'>2</a></td>
+      <td><a title='e788c2f6-c842-4240-bab4-54a323d62174' href='../records/e788c2f6-c842-4240-bab4-54a323d62174' target='_blank'>4</a></td>
+      <td><a title='e788c2f6-c842-4240-bab4-54a323d62174' href='../records/e788c2f6-c842-4240-bab4-54a323d62174' target='_blank'>1</a></td>
+    </tr>
+    <tr>
       <td><a title='0894f661-f9cb-48cb-a0b4-8a001eb69420' href='../records/0894f661-f9cb-48cb-a0b4-8a001eb69420' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bfefcdf9-c922-4e4f-a958-aa6da739d3cd' target='_blank'>link</a></td>
       <td><a title='0894f661-f9cb-48cb-a0b4-8a001eb69420' href='../records/0894f661-f9cb-48cb-a0b4-8a001eb69420' target='_blank'>2</a></td>
@@ -1263,25 +1282,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='432b05ce-8904-4094-94bf-b97fb6636e41' href='../records/432b05ce-8904-4094-94bf-b97fb6636e41' target='_blank'>2</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -4684,25 +4684,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>3</a></td>
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>2</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' href='../records/c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Kwakshua Channel (KC) Buoy, Central Coast, BC, Canada (Provisional)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea' target='_blank'>link</a></td>
-      <td><a title='c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' href='../records/c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' target='_blank'>3</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>inorganicCarbon, seaSurfaceSalinity, seaSurfaceTemperature, other</td>
-      <td>2021-03-31</td>
-      <td>2026-02-20</td>
-      <td></td>
-      <td>-1</td>
-      <td></td>
-      <td><a title='c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' href='../records/c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' target='_blank'>2</a></td>
-      <td><a title='c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' href='../records/c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>

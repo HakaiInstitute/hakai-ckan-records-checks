@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2026-03-09</td>
+      <td>Stream Temperature Observations for Three Streams Near Gold River</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/Stream-Temperature-Observations-for-Three-Streams-Near-Gold-River/releases/tag/v1.0.0</td>
+    </tr>
+    <tr>
       <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>
