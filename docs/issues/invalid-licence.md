@@ -36,13 +36,13 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
+      <td>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</td>
       <td>ERROR</td>
       <td>Invalid licence: CC-BY-NC-4.0</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</td>
+      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
       <td>ERROR</td>
       <td>Invalid licence: CC-BY-NC-4.0</td>
     </tr>
