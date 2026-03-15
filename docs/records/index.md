@@ -2141,25 +2141,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>link</a></td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>12</a></td>
-      <td></td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-29</td>
-      <td>2024-07-23</td>
-      <td>10.21966/1.715699</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>6</a></td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>5</a></td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='../records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>1</a></td>
-    </tr>
-    <tr>
       <td><a title='55e7c337-02e8-4200-8ea9-88241d978f96' href='../records/55e7c337-02e8-4200-8ea9-88241d978f96' target='_blank'>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e' target='_blank'>link</a></td>
       <td><a title='55e7c337-02e8-4200-8ea9-88241d978f96' href='../records/55e7c337-02e8-4200-8ea9-88241d978f96' target='_blank'>3</a></td>
@@ -4385,7 +4366,7 @@ Search your record here:
     <tr>
       <td><a title='29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' href='../records/29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' target='_blank'>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8853a375-f067-4760-b5d1-98c1fcf40c6d' target='_blank'>link</a></td>
-      <td><a title='29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' href='../records/29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' target='_blank'>14</a></td>
+      <td><a title='29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' href='../records/29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' target='_blank'>15</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4399,7 +4380,7 @@ Search your record here:
       <td>[{'year': '2024', 'total': 1}]</td>
       <td><a title='29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' href='../records/29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' target='_blank'>9</a></td>
       <td><a title='29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' href='../records/29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' target='_blank'>5</a></td>
-      <td></td>
+      <td><a title='29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' href='../records/29f9a024-3b5f-46d1-a3b1-8c333eeaa89f' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='2a104224-c3eb-4778-adc3-865b36471b1b' href='../records/2a104224-c3eb-4778-adc3-865b36471b1b' target='_blank'>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</a></td>
@@ -4665,25 +4646,6 @@ Search your record here:
       <td></td>
       <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>1</a></td>
       <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='../records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663' target='_blank'>link</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>5</a></td>
-      <td>Oceanography</td>
-      <td>CC-BY-4.0</td>
-      <td>onGoing</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>seaSurfaceTemperature, inorganicCarbon, seaSurfaceSalinity</td>
-      <td>2021-03-31</td>
-      <td>2026-02-20</td>
-      <td>10.25921/v5j2-x847</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>3</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
