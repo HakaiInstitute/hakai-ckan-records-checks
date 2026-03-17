@@ -642,7 +642,7 @@ Search your record here:
     <tr>
       <td><a title='5576c279-6d3a-4323-8104-0e1040d9906c' href='../records/5576c279-6d3a-4323-8104-0e1040d9906c' target='_blank'>Understory kelp biomass data from BC Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e' target='_blank'>link</a></td>
-      <td><a title='5576c279-6d3a-4323-8104-0e1040d9906c' href='../records/5576c279-6d3a-4323-8104-0e1040d9906c' target='_blank'>2</a></td>
+      <td><a title='5576c279-6d3a-4323-8104-0e1040d9906c' href='../records/5576c279-6d3a-4323-8104-0e1040d9906c' target='_blank'>3</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -656,7 +656,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='5576c279-6d3a-4323-8104-0e1040d9906c' href='../records/5576c279-6d3a-4323-8104-0e1040d9906c' target='_blank'>2</a></td>
       <td></td>
-      <td></td>
+      <td><a title='5576c279-6d3a-4323-8104-0e1040d9906c' href='../records/5576c279-6d3a-4323-8104-0e1040d9906c' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='7fa8cfec-e2e3-4459-9b9d-836335b9fcfa' href='../records/7fa8cfec-e2e3-4459-9b9d-836335b9fcfa' target='_blank'>Knight Inlet Remotely Operated Vehicle Marine Habitat Survey</a></td>
@@ -922,25 +922,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='../records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>1</a></td>
       <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='52d607c9-46cd-4be9-a752-1b5446272f32' href='../records/52d607c9-46cd-4be9-a752-1b5446272f32' target='_blank'>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0507a738-cd65-4ba4-943e-42b9d022b637' target='_blank'>link</a></td>
-      <td><a title='52d607c9-46cd-4be9-a752-1b5446272f32' href='../records/52d607c9-46cd-4be9-a752-1b5446272f32' target='_blank'>4</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2024-10-09</td>
-      <td>2025-04-23</td>
-      <td>10.21966/ytgc-6g46</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='52d607c9-46cd-4be9-a752-1b5446272f32' href='../records/52d607c9-46cd-4be9-a752-1b5446272f32' target='_blank'>2</a></td>
-      <td><a title='52d607c9-46cd-4be9-a752-1b5446272f32' href='../records/52d607c9-46cd-4be9-a752-1b5446272f32' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
@@ -1303,25 +1284,6 @@ Search your record here:
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>2</a></td>
       <td></td>
       <td><a title='3f7bca49-27cf-4f39-9366-35808e82f2a8' href='../records/3f7bca49-27cf-4f39-9366-35808e82f2a8' target='_blank'>1</a></td>
-    </tr>
-    <tr>
-      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b63374a9-2288-4512-9820-5d1b44d2b502' target='_blank'>link</a></td>
-      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>6</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>CC-BY-NC-ND-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>seagrassCoverAndComposition</td>
-      <td>2023-09-19</td>
-      <td>2024-07-23</td>
-      <td>10.21966/gv88-hv41</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>4</a></td>
-      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>1</a></td>
-      <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='../records/e40c42ef-cabf-4969-aeb3-263407a91a68' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='../records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
@@ -4062,7 +4024,7 @@ Search your record here:
     <tr>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466' target='_blank'>link</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>8</a></td>
+      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>7</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4076,7 +4038,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>4</a></td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>3</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd' target='_blank'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>

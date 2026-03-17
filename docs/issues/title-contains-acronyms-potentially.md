@@ -60,13 +60,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
