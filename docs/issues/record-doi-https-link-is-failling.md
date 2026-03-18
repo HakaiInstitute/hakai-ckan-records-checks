@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2025-03-04</td>
-      <td>Understory kelp biomass data from BC Central Coast</td>
+      <td>2024-07-23</td>
+      <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/wmsy-5g39 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/e5c1-c396 status_code=502</td>
     </tr>
   </tbody>
 </table>
