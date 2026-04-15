@@ -37,7 +37,7 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
         with:
-          commit_message: "Update records skip-checks:true"
+          commit_message: "Update records [skip ci]"
 
       - name: Build site with mkdocs
         run: mkdocs build --site-dir site
