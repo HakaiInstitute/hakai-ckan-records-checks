@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2026-03-24</td>
+      <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
+      <td>ERROR</td>
+      <td>Invalid resource format: resources[0].format=application/x-troff-man</td>
+    </tr>
+    <tr>
       <td>2025-04-02</td>
       <td>Elliot Creek Aerial Photo and LiDAR Survey</td>
       <td>ERROR</td>

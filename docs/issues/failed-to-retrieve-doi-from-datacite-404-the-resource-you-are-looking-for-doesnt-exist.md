@@ -17,10 +17,10 @@ This page present the list of all the records associated with the issue: **Faile
   </thead>
   <tbody>
     <tr>
-      <td>2026-01-30</td>
-      <td>Real-Time Provisional High-Resolution Record of Seawater Carbon Dioxide (CO2) Content Collected from the Bamfield Marine Sciences Centre in Bamfield, BC, Canada</td>
+      <td>2026-04-14</td>
+      <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
       <td>ERROR</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/vkcg-9893</td>
+      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/rj8w-aa62</td>
     </tr>
   </tbody>
 </table>

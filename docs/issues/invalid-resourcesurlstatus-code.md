@@ -17,10 +17,16 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2026-03-09</td>
+      <td>2026-04-10</td>
       <td>Stream Temperature Observations for Three Streams Near Gold River</td>
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/Stream-Temperature-Observations-for-Three-Streams-Near-Gold-River/releases/tag/v1.0.0</td>
+    </tr>
+    <tr>
+      <td>2026-03-24</td>
+      <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island/releases/tag/v1.0.2</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
