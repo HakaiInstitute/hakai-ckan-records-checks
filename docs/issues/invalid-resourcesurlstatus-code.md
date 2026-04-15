@@ -23,12 +23,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/Stream-Temperature-Observations-for-Three-Streams-Near-Gold-River/releases/tag/v1.0.0</td>
     </tr>
     <tr>
-      <td>2026-03-25</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
-    </tr>
-    <tr>
       <td>2026-03-24</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
       <td>ERROR</td>
