@@ -5,19 +5,26 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 3 * * 0"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.CI_TOKEN }}
           fetch-depth: 0
+
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v6
         with:
           python-version: 3.11
 
@@ -26,20 +33,20 @@ jobs:
 
       - name: Run Hakai CKAN Record Checks
         run: python hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
+
       - name: Commit changes
-        run: |
-          git config --global user.name "Hakai Institute"
-          git config --global user.email "hakai.it@hakai.org"
-          git add .
-          git commit -m "Update records"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
+        with:
+          commit_message: "Update records skip-checks:true"
 
       - name: Build site with mkdocs
         run: mkdocs build --site-dir site
+
       - name: Upload Page artifacts
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./site
+
   deploy:
     needs: build
     permissions:
@@ -52,4 +59,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
