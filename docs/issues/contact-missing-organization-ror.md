@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-04-15</td>
+      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Tula Foundation'</td>
+    </tr>
+    <tr>
       <td>2026-03-26</td>
       <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
       <td>INFO</td>
@@ -33,18 +39,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Terra Remote Sensing'</td>
-    </tr>
-    <tr>
-      <td>2026-03-24</td>
-      <td>Water Level and Weather Station Time Series, Pruth Bay, Kwakshua Channel, Central Coast, BC, Canada (Provisional)</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Mackenzie, Christopher James' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2026-03-24</td>
-      <td>Water Level and Weather Station Time Series, Pruth Bay, Kwakshua Channel, Central Coast, BC, Canada (Provisional)</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='Mackenzie, Christopher James' contact['organisation-name']='Hakai Institute'</td>
     </tr>
     <tr>
       <td>2026-03-19</td>
@@ -123,12 +117,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
-    </tr>
-    <tr>
-      <td>2025-10-28</td>
-      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Tula Foundation'</td>
     </tr>
     <tr>
       <td>2025-05-06</td>
@@ -348,13 +336,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hunt, Brian' contact['organisation-name']='University of British Columbia'</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:  contact['individual-name']='Hunt, Brian' contact['organisation-name']='University of British Columbia'</td>
     </tr>
