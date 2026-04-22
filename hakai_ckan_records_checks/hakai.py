@@ -65,9 +65,6 @@ def test_record_requirements(record) -> pd.DataFrame:
         "INFO",
         "Title contains the word dataset",
     )
-    _test(
-        len(record.get("title", "")) < 60, "INFO", "Title is greater than 60 characters"
-    )
 
     # Review licence
     _test("license_id" in record, "ERROR", "No licence")
