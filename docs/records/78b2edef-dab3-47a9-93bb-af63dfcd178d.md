@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b80
 ## Issues
 | level   | message                                                                                                                                   |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------------------|
-| INFO    | Title is greater than 60 characters                                                                                                       |
 | INFO    | No version                                                                                                                                |
 | INFO    | DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0247208      |
 | INFO    | Contact missing ORCID: contact['individual-name']='Whitehead, Chris' contact.get('organisation-name')='Sitka Tribe of Alaska'             |

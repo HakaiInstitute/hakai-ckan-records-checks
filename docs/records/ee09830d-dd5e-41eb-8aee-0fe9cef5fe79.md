@@ -35,10 +35,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a10
 
 
 ## Issues
-| level   | message                             |
-|:--------|:------------------------------------|
-| INFO    | Title is greater than 60 characters |
-| INFO    | No version                          |
+| level   | message    |
+|:--------|:-----------|
+| INFO    | No version |
 
 
 <script>

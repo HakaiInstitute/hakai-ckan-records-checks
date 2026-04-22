@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-571
 ## Issues
 | level   | message                                                                                                                                    |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------------|
-| INFO    | Title is greater than 60 characters                                                                                                        |
 | INFO    | Contact missing ORCID: contact['individual-name']='Rockwell, Lisa' contact.get('organisation-name')='Gulf Islands National Park Reserve'   |
 | INFO    | Contact missing ORCID: contact['individual-name']='Collyer, M. J. P.' contact.get('organisation-name')='Pacific Rim National Park Reserve' |
 | INFO    | Contact missing ORCID: contact['individual-name']='Helms, Sibylla' contact.get('organisation-name')='Gulf Islands National Park Reserve'   |

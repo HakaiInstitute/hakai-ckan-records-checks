@@ -54,7 +54,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f
 ## Issues
 | level   | message                                                                                                                      |
 |:--------|:-----------------------------------------------------------------------------------------------------------------------------|
-| INFO    | Title is greater than 60 characters                                                                                          |
 | INFO    | No version                                                                                                                   |
 | INFO    | Contact missing ORCID: contact['individual-name']='Burt, J.' contact.get('organisation-name')=''                             |
 | INFO    | Contact missing ORCID: contact['individual-name']='Okamoto, D.' contact.get('organisation-name')=''                          |

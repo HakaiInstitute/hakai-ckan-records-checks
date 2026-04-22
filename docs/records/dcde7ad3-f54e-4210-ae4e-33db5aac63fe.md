@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-120
 ## Issues
 | level   | message                                                                                                                                                                    |
 |:--------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| INFO    | Title is greater than 60 characters                                                                                                                                        |
 | INFO    | No version                                                                                                                                                                 |
 | INFO    | Contact missing ORCID: contact['individual-name']='Lebon, Geoffrey T.' contact.get('organisation-name')='NOAA Pacific Marine Environmental Laboratory'                     |
 | INFO    | Contact missing ORCID: contact['individual-name']='Harrington, Christen D.' contact.get('organisation-name')='Alaska Marine Highway, Department of Transportation'         |

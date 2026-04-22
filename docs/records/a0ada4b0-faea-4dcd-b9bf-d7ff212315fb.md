@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aed
 ## Issues
 | level   | message                                                                                                                                 |
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------------|
-| INFO    | Title is greater than 60 characters                                                                                                     |
 | INFO    | Record isn't accesible via a standard data repository                                                                                   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Korver, Maartje' contact.get('organisation-name')='Hakai Institute'                  |

@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-555
 ## Issues
 | level   | message                                                                                                                                       |
 |:--------|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| INFO    | Title is greater than 60 characters                                                                                                           |
 | INFO    | No version                                                                                                                                    |
 | INFO    | Contact missing ORCID: contact['individual-name']='Mahara, Natalie' contact.get('organisation-name')='University of British Columbia'         |
 | INFO    | Contact missing organization ROR:  contact['individual-name']='Mahara, Natalie' contact['organisation-name']='University of British Columbia' |

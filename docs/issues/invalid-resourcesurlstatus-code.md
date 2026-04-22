@@ -94,6 +94,12 @@ This page present the list of all the records associated with the issue: **Inval
       <td>ERROR</td>
       <td>Invalid resources.url.status_code: 404 for resources[1].url=https://www.hakai.org/blog/life-at-hakai/great-walls-quadra</td>
     </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
+      <td>ERROR</td>
+      <td>Invalid resources.url.status_code: 502 for resources[1].url=http://dx.doi.org/10.14288/1.0380885</td>
+    </tr>
   </tbody>
 </table>
 

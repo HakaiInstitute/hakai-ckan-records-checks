@@ -38,7 +38,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e17
 | level   | message                                                                                                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | Empty resource name                                                                                                     |
-| INFO    | Title is greater than 60 characters                                                                                     |
 | INFO    | No version                                                                                                              |
 | INFO    | Record isn't accesible via a standard data repository                                                                   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |

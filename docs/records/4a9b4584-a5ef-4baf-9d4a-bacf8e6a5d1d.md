@@ -37,7 +37,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27e
 ## Issues
 | level   | message                                                                                                         |
 |:--------|:----------------------------------------------------------------------------------------------------------------|
-| INFO    | Title is greater than 60 characters                                                                             |
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute' |
 
 

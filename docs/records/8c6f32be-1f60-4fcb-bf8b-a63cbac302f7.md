@@ -38,7 +38,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b5
 | level   | message                                                                                                                                                |
 |:--------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ERROR   | Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'                                       |
-| INFO    | Title is greater than 60 characters                                                                                                                    |
 | INFO    | No version                                                                                                                                             |
 | INFO    | Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Vancouver Island University'                   |
 | INFO    | Record isn't accesible via a standard data repository                                                                                                  |
