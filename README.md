@@ -14,18 +14,18 @@ The purpose of this repository is to ensure the quality and integrity of the CKA
 To get started with running the tests, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install poetry
-3. Install the necessary dependencies (ideally within an environment). 4. We recommend to use poetry:
+2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+3. Install dependencies:
    ```console
-   poetry install
+   uv sync
    ```
 4. Execute the tests:
    ```console
-   poetry run hakai_ckan_records_checks -c https://catalogue.hakai.org --cache
+   uv run hakai_ckan_records_checks -c https://catalogue.hakai.org --cache
    ```
-5. Render pages
+5. Render pages:
    ```console
-   poetry run mkdocs serve
+   uv run mkdocs serve
    ```
 
 ## Test Categories
