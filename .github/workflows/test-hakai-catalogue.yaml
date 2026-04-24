@@ -23,16 +23,16 @@ jobs:
           token: ${{ secrets.CI_TOKEN }}
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v6
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
         with:
-          python-version: 3.11
+          python-version: 3.12
 
       - name: Install dependencies
-        run: pip install .
+        run: uv sync --group dev
 
       - name: Run Hakai CKAN Record Checks
-        run: python hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
+        run: uv run hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
@@ -40,7 +40,7 @@ jobs:
           commit_message: "Update records [skip ci]"
 
       - name: Build site with mkdocs
-        run: mkdocs build --site-dir site
+        run: uv run mkdocs build --site-dir site
 
       - name: Upload Page artifacts
         uses: actions/upload-pages-artifact@v5
