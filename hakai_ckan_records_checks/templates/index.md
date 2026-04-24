@@ -9,31 +9,6 @@ This page present a summary of the differrent metadata records distributed at <{
 
 Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered.
 
-## Spatial Distribution
-
-This map present the differet polygons and coordinates associated with all the metadata records.
-
-<div id="map"></div>
-
-
-## Record Submission Timeseries
-
-This diagram present the cumulative timeseries of the different metadata records made available on the 
-hakai catalogue.
-
-``` plotly
-{{pio.to_json(timeseries_figure)}}
-```
-
-## Citations over time
-
-The citations are retrieved from [DataCite](https://commons.datacite.org) for
-each records assoicated with a DOI.
-
-``` plotly
-{{ pio.to_json(citations_over_time_figure)}}
-```
-
 ## Records Summary Table
 
 Download:
@@ -41,25 +16,18 @@ Download:
 [CSV](catalog_summary.csv){ .md-button }
 
 {{
-  catalog_summary[[
-    'Title','Catalogue','sum','projects','licence','progress','state',
-    'ressource-type','eov','metadata_publication','metadata_revision',
-    'doi',
-    'citation_count','citations_over_time',
-  ]]
+  catalog_summary
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
+  [['Title','Catalogue','sum','projects']]
   .rename(columns={
     "sum": "Issues",
-    "metadata_publication":"publication",
-    "metadata_revision":"revision",
-    "ressource-type":"ressour type",
-    "citation_count": "Citations",
-    "citation_over_time": "Citation Distribution"
+    "projects": "Project"
   })
   .to_html(
       render_links=True,
       table_id='records_table',
       escape=False,
+      index=False,
       classes='table table-striped table-hover table-sm'
   )
 }}
