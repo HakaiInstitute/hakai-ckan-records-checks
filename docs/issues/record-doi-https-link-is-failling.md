@@ -23,10 +23,10 @@ This page present the list of all the records associated with the issue: **Recor
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/rj8w-aa62 status_code=404</td>
     </tr>
     <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>2024-10-10</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
       <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/20SJ-J017 status_code=502</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/jv5k-3k59 status_code=502</td>
     </tr>
   </tbody>
 </table>

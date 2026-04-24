@@ -1098,7 +1098,7 @@ Search your record here:
     <tr>
       <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='../records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='../records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1112,7 +1112,7 @@ Search your record here:
       <td>[]</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='../records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='52d607c9-46cd-4be9-a752-1b5446272f32' href='../records/52d607c9-46cd-4be9-a752-1b5446272f32' target='_blank'>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</a></td>
@@ -2863,7 +2863,7 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='../records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></td>
+      <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='../records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>Discovery Islands LiDAR Dataset&nbsp;&nbsp;- 2014 - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>link</a></td>
       <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='../records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>8</a></td>
       <td>Geospatial</td>
@@ -3089,6 +3089,25 @@ Search your record here:
       <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>1</a></td>
       <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>7</a></td>
       <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='../records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>2</a></td>
+    </tr>
+    <tr>
+      <td><a title='362130df-bc83-48b7-80f9-ad11ad6a91c9' href='../records/362130df-bc83-48b7-80f9-ad11ad6a91c9' target='_blank'>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_82a3f5ec-95c5-4aeb-a0c0-bf168c985676' target='_blank'>link</a></td>
+      <td><a title='362130df-bc83-48b7-80f9-ad11ad6a91c9' href='../records/362130df-bc83-48b7-80f9-ad11ad6a91c9' target='_blank'>8</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-03</td>
+      <td>2024-07-23</td>
+      <td></td>
+      <td>-1</td>
+      <td></td>
+      <td><a title='362130df-bc83-48b7-80f9-ad11ad6a91c9' href='../records/362130df-bc83-48b7-80f9-ad11ad6a91c9' target='_blank'>2</a></td>
+      <td><a title='362130df-bc83-48b7-80f9-ad11ad6a91c9' href='../records/362130df-bc83-48b7-80f9-ad11ad6a91c9' target='_blank'>6</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='44754736-c8be-49b1-8806-a0ca4a78255a' href='../records/44754736-c8be-49b1-8806-a0ca4a78255a' target='_blank'>Hyperspectral Imagery - Calvert Island - 2012</a></td>
@@ -3948,7 +3967,7 @@ Search your record here:
     <tr>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4' target='_blank'>link</a></td>
-      <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>11</a></td>
+      <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>10</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -3962,7 +3981,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>6</a></td>
       <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>4</a></td>
-      <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='../records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='ee30aa86-e786-4a3f-b90f-df09a134621d' href='../records/ee30aa86-e786-4a3f-b90f-df09a134621d' target='_blank'>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</a></td>
@@ -4499,7 +4518,7 @@ Search your record here:
     <tr>
       <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='../records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>Juvenile Sockeye Diets Hakai 2015-2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_64f74489-b9a3-4e6f-9f25-be141b8e285c' target='_blank'>link</a></td>
-      <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='../records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>11</a></td>
+      <td></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4511,9 +4530,9 @@ Search your record here:
       <td>10.21966/3s9g-w013</td>
       <td>2</td>
       <td>[{'year': '2023', 'total': 2}]</td>
-      <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='../records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>6</a></td>
-      <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='../records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>3</a></td>
-      <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='../records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>2</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='1919ea31-8ac0-4bbb-aa2e-e9121996e41e' href='../records/1919ea31-8ac0-4bbb-aa2e-e9121996e41e' target='_blank'>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</a></td>
