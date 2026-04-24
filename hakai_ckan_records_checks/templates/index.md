@@ -17,8 +17,9 @@ Download:
 
 {{
   catalog_summary
+  .assign(**{'Last Revised': lambda df: df['metadata_revision'].fillna(df['metadata_publication'])})
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
-  [['Title','Catalogue','sum','projects']]
+  [['Title','Catalogue','sum','projects','Last Revised']]
   .rename(columns={
     "sum": "Issues",
     "projects": "Project"
