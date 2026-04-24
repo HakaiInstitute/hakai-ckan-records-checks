@@ -17,7 +17,7 @@ Download:
 
 <table border="1" class="dataframe table table-striped table-hover table-sm" id="records_table">
   <thead>
-<tr style="text-align: right;">
+<tr style="text-align: left; font-weight: bold;">
 <th>Title</th>
 <th>Catalogue</th>
 <th>Issues</th>
@@ -4155,16 +4155,23 @@ Download:
     L.geoJSON(geojsonFeatures).addTo(map);
 
     $(document).ready(function () {
-      $("#records_table").DataTable({
+      var table = $("#records_table").DataTable({
         scrollX: true,
+        dom: 'lfrtip',
+        pageLength: 10,
         columnDefs: [{
           width: '300px',
-          targets: 1,
-        },{
-          className: 'max-width-100', // Assign a custom class
-          targets: [2, 3] // Example columns to have max-width
-        }
-        ]
+          targets: 0,
+        }]
+      });
+
+      table.columns().every(function () {
+        var column = this;
+        var input = $('<br><input type="text" placeholder="Filter..." style="width:90%;font-size:0.8em">')
+          .on('keyup change clear', function () {
+            column.search(this.value).draw();
+          });
+        $(column.header()).append(input);
       });
     });
     $(document).ready(function () {

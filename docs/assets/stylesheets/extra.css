@@ -21,6 +21,8 @@
 
 table.dataTable th {
   font-size: 0.8em;
+  font-weight: bold;
+  text-align: left;
   padding:0;
   margin:0;
 }
