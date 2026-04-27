@@ -43,12 +43,14 @@ def format_summary(summary, base_url=""):
         WARNING=summary.apply(lambda x: link_issue_page(x, "WARNING"), axis=1),
         ERROR=summary.apply(lambda x: link_issue_page(x, "ERROR"), axis=1),
         sum=summary.apply(lambda x: link_issue_page(x, "sum"), axis=1),
-        Title=summary.apply(lambda x: link_issue_page(x, "title"), axis=1),
-        Catalogue="<a href='https://catalogue.hakai.org/dataset/"
+        Title="<a href='https://catalogue.hakai.org/dataset/"
         + summary["name"]
-        + "' target='_blank'>link</a>",
+        + "' target='_blank'>"
+        + summary["title"].fillna("")
+        + "</a>",
     )
     summary["citation_count"] = summary["citation_count"].fillna(-1)
+    summary["Last Revised"] = summary["metadata_revision"].fillna(summary["metadata_publication"])
 
     return summary.astype(
         {"resources_count": "int32", "citation_count": "int32"}
