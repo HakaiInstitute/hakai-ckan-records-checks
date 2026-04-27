@@ -5,14 +5,15 @@ hide:
 ---
 # Summary
 
-This page present a summary of the differrent metadata records distributed at <{{ ckan_url }}>.
+This page present a summary of the different metadata records distributed at <{{ ckan_url }}>. Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. 
 
-Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered.
+## Issue Distribution
+
+``` plotly
+{{ pio.to_json(figure) }}
+```
 
 ## Records Summary Table
-
-Download:
-[CSV](catalog_summary.csv){ .md-button }
 
 {{
   catalog_summary
@@ -42,3 +43,6 @@ Download:
     });
   });
 </script>
+
+Download:
+[CSV](catalog_summary.csv){ .md-button }
