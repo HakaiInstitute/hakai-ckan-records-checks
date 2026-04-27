@@ -262,7 +262,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         catalog_summary=format_summary(results["catalog_summary"]),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
-        figure=figure_issues_distribution,
+        figure_issues_distribution=figure_issues_distribution,
         pio=pio,
         ckan_url=ckan_url,
     ).dump(f"{output}/index.md")
@@ -273,7 +273,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         catalog_summary=format_summary(results["catalog_summary"], base_url="../"),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
-        figure=figure_issues_distribution,
+        figure_issues_distribution=figure_issues_distribution,
         pio=pio,
         issues_table=combined_issues,
     ).dump(f"{output}/issues/index.md")

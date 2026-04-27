@@ -10,7 +10,7 @@ This page present a summary of the different metadata records distributed at <{{
 ## Issue Distribution
 
 ``` plotly
-{{ pio.to_json(figure) }}
+{{ pio.to_json(figure_issues_distribution) }}
 ```
 
 ## Records Summary Table
