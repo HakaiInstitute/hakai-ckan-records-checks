@@ -36,7 +36,8 @@ jobs:
       - name: Install dependencies
         run: uv sync --group dev
 
-      - name: Run Hakai CKAN Record Checks
+      - if: (github.event_name != 'pull_request' && github.event_name != 'push')
+        name: Run Hakai CKAN Record Checks
         run: uv run hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
 
       - name: Commit changes
