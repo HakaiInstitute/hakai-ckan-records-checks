@@ -1,6 +1,6 @@
 site_description: Hakai hub for any topics related to data distribution.
 site_name: Hakai Catalogue Checks
-site_url: https://data.hakai.org
+site_url: https://hakaiinstitute.github.io/hakai-ckan-records-checks
 repo_url: https://github.com/HakaiInstitute/hakai-ckan-records-checks
 repo_name: HakaiInstitute/hakai-ckan-records-checks
 copyright: Copyright &copy; Hakai Institute
@@ -36,6 +36,7 @@ plugins:
   - search
   - git-revision-date-localized:
       enable_creation_date: true
+  - mike
 
 markdown_extensions:
   - admonition
@@ -67,3 +68,5 @@ extra:
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/HakaiInstitute
+  version:
+    provider: mike
