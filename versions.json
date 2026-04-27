@@ -1,5 +1,10 @@
 [
   {
+    "version": "update-summary-page",
+    "title": "update-summary-page",
+    "aliases": []
+  },
+  {
     "version": "main",
     "title": "main",
     "aliases": []
