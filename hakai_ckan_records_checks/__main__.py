@@ -180,7 +180,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         .reset_index()
     )
 
-    figure = px.histogram(
+    figure_issues_distribution = px.histogram(
         grouped_issues,
         x="message",
         y="record_id",
@@ -189,7 +189,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         color_discrete_map={"INFO": "lightblue", "WARNING": "orange", "ERROR": "red"},
     )
 
-    figure.update_layout(
+    figure_issues_distribution.update_layout(
         legend=dict(
             orientation="h",
             yanchor="bottom",
@@ -208,8 +208,8 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             title=None,
         ),
     )
-    figure.update_traces(textposition="inside")
-    figure.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
+    figure_issues_distribution.update_traces(textposition="inside")
+    figure_issues_distribution.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
 
     # submission timeseries
     publication_time = pd.to_datetime(
@@ -262,7 +262,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         catalog_summary=format_summary(results["catalog_summary"]),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
-        figure=figure,
+        figure=figure_issues_distribution,
         pio=pio,
         ckan_url=ckan_url,
     ).dump(f"{output}/index.md")
@@ -273,7 +273,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         catalog_summary=format_summary(results["catalog_summary"], base_url="../"),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
-        figure=figure,
+        figure=figure_issues_distribution,
         pio=pio,
         issues_table=combined_issues,
     ).dump(f"{output}/issues/index.md")
