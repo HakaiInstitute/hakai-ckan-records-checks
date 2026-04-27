@@ -1,0 +1,37 @@
+# Whenever a PR is opened, it creates a subfolder in gh-pages
+# This action deletes that subfolder upon PR merge to development
+name: Cleanup gh-pages on PR merge
+
+on:
+  pull_request:
+    branches:
+      - main
+    # Types closed means that this only runs when PR is merged or closed  
+    types:
+        - closed
+
+jobs:
+  deploy_docs:
+    runs-on: ubuntu-latest
+    env:
+        VERSION: ${{ github.head_ref || github.ref_name }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          token: ${{ secrets.CI_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          python-version: 3.12
+
+      - name: Install dependencies
+        run: uv sync --group dev
+
+      - name: Delete version from docs
+        # The following deletes the PR subfolder created on gh-pages when PR is closed
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          uv run mike delete "${VERSION}" --push

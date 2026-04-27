@@ -1,6 +1,9 @@
 name: Hakai CKAN Record Checks
 
 on:
+  pull_request:
+    branches:
+      - main
   push:
     branches:
       - main
@@ -39,24 +42,11 @@ jobs:
         with:
           commit_message: "Update records [skip ci]"
 
-      - name: Build site with mkdocs
-        run: uv run mkdocs build --site-dir site
+      - name: Build the site
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git fetch origin gh-pages --depth=1
+          uv run mike deploy "${VERSION}" --push
+          uv run mike set-default main
 
-      - name: Upload Page artifacts
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: ./site
-
-  deploy:
-    needs: build
-    permissions:
-      pages: write     
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
