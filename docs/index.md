@@ -5,7 +5,7 @@ hide:
 ---
 # Summary
 
-This page present a summary of the different metadata records distributed at <https://catalogue.hakai.org>. Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. 
+This page present a summary of the different metadata records distributed at <None>. Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. 
 
 ## Issue Distribution
 
@@ -30,12 +30,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='b7b923ed-b3fa-48b3-878d-40a3797046bc' href='records/b7b923ed-b3fa-48b3-878d-40a3797046bc' target='_blank'>3</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>2026-04-16</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</a></td>
-      <td></td>
-      <td>Oceanography, Nearshore, Watersheds, Juvenile Salmon Program</td>
-      <td>2026-04-13</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</a></td>
@@ -314,18 +308,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td>2024-12-19</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7fd3ec6c-083a-4942-84b4-215e69492072' target='_blank'>Phytoplankton Pigment Timeseries from High-Performance Liquid Chromatography for the Northern Salish Sea and Central Coast, BC, Canada (Research)</a></td>
-      <td></td>
-      <td>Oceanography</td>
-      <td>2026-02-05</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5185ac00-8148-4472-adfd-21741d8a10ce' target='_blank'>Sentinels of Change Sea Surface Temperature Time Series Data Along the British Columbia Coast</a></td>
-      <td></td>
-      <td>Sentinels of Change</td>
-      <td>2026-02-05</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f762a307-6dfb-41a8-a56c-ecacfb075a0a' target='_blank'>Denali Fault - 2024 - Airborne LiDAR Survey</a></td>
       <td><a title='265e0ec8-1d85-4e73-b85d-371845dbd08f' href='records/265e0ec8-1d85-4e73-b85d-371845dbd08f' target='_blank'>6</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
@@ -360,12 +342,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='records/9d1749f8-9be2-468c-946e-965f92fcdc67' target='_blank'>2</a></td>
       <td>Nearshore, Geospatial</td>
       <td>2024-11-06</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
-      <td></td>
-      <td>Oceanography</td>
-      <td>2024-10-10</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0507a738-cd65-4ba4-943e-42b9d022b637' target='_blank'>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</a></td>
@@ -464,22 +440,10 @@ This page present a summary of the different metadata records distributed at <ht
       <td>2024-07-17</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2d693456-7e65-46be-95d7-6bb697320017' target='_blank'>Water Level and Weather Station Time Series, Pruth Bay, Kwakshua Channel, Central Coast, BC, Canada (Provisional)</a></td>
-      <td></td>
-      <td>Oceanography, Watersheds</td>
-      <td>2026-04-15</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c24f23f0-8d16-4bfd-835a-5475f1ecd8e8' target='_blank'>Extent of Canopy-Forming Kelps, Derived from World View-2, Central Coast, Central Coast, British Columbia</a></td>
       <td><a title='b0e815da-1b17-404d-8bf6-0bdb4a22d170' href='records/b0e815da-1b17-404d-8bf6-0bdb4a22d170' target='_blank'>2</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2024-07-24</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d1bef0b7-4d15-4bc1-bf34-faca6352891f' target='_blank'>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
-      <td></td>
-      <td>Oceanography</td>
-      <td>2026-04-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6f6560e7-7497-4685-9df2-51c66080b7c9' target='_blank'>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</a></td>

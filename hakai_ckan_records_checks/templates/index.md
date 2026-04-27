@@ -16,7 +16,7 @@ This page present a summary of the different metadata records distributed at <{{
 ## Records Summary Table
 
 {{
-  catalog_summary
+  catalog_summary[catalog_summary['sum'] != '']
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
   [['Title','sum','projects','Last Revised']]
   .rename(columns={
