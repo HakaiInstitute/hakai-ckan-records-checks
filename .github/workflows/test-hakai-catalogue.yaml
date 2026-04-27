@@ -51,5 +51,5 @@ jobs:
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git fetch origin gh-pages --depth=1
           uv run mike deploy "${VERSION}" --push
-          uv run mike set-default main
+          uv run mike set-default main --push
 
