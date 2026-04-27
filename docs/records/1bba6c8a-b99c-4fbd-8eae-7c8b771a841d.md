@@ -7,32 +7,7 @@ hide:
 
 # Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other, inorganicCarbon 
-    - **Doi**: 10.21966/1.715784 
-    - **Metadata Publication**: 2022-01-24 
-    - **Metadata Revision**: 2026-02-20 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                                                                                             |
@@ -44,7 +19,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88f
 | WARNING | No publisher                                                                                                        |
 | WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
@@ -63,3 +37,5 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88f
     L.geoJSON(geojsonFeature).addTo(map);
    })
 </script>
+
+<div id='map'></div>

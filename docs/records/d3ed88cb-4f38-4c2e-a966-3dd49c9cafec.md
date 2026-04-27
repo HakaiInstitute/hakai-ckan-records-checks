@@ -7,32 +7,7 @@ hide:
 
 # Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography 
-    - **Progress**: underDevelopment 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other, zooplanktonBiomassAndDiversity 
-    - **Doi**: 10.21966/bhqd-9361 
-    - **Metadata Publication**: 2022-02-04 
-    - **Metadata Revision**: 2024-07-23 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                                                                                                                       |
@@ -45,7 +20,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-555
 | INFO    | Record isn't accesible via a standard data repository                                                                                         |
 | WARNING | No funder                                                                                                                                     |
 | WARNING | No publisher                                                                                                                                  |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
@@ -64,3 +38,5 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-555
     L.geoJSON(geojsonFeature).addTo(map);
    })
 </script>
+
+<div id='map'></div>

@@ -7,56 +7,12 @@ hide:
 
 # Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography, Watersheds 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: nutrients, dissolvedOrganicCarbon 
-    - **Doi**: 10.21966/n0h9-cq15 
-    - **Metadata Publication**: 2022-02-02 
-    - **Metadata Revision**: 2025-01-30 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-## Citations
-
-**Total Citations**: 1
-
-### Citations over time
-
-|   2022 |
-|-------:|
-|      1 |
-
-### Citations
-
-| relationship   | id                      | type   |   status_code | url                                                                             |
-|:---------------|:------------------------|:-------|--------------:|:--------------------------------------------------------------------------------|
-| citations      | 10.5194/bg-18-3029-2021 | dois   |           200 | https://bg.copernicus.org/articles/18/3029/2021/                                |
-| parts          | 10.5194/bg-2020-350     | dois   |           200 | https://bg.copernicus.org/articles/18/3029/2021/bg-18-3029-2021-discussion.html |
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                               |
 |:--------|:------------------------------------------------------|
 | INFO    | Record isn't accesible via a standard data repository |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
@@ -75,3 +31,5 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-211
     L.geoJSON(geojsonFeature).addTo(map);
    })
 </script>
+
+<div id='map'></div>

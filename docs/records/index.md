@@ -564,6 +564,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' href='../records/e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' target='_blank'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7a867ce-0f18-43f6-8148-775235d800b6' target='_blank'>link</a></td>
+      <td><a title='e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' href='../records/e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' target='_blank'>1</a></td>
+      <td>Airborne Coastal Observatory, Geospatial, Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>macroalgalCanopyCoverAndComposition</td>
+      <td>2025-10-06</td>
+      <td>2025-11-18</td>
+      <td>10.21966/qs1b-g693</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' href='../records/e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='139df6dd-772b-424f-b830-30a5ba6abfc6' href='../records/139df6dd-772b-424f-b830-30a5ba6abfc6' target='_blank'>Zooplankton taxonomic abundance and biomass along the BC Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_39a83551-ab8e-45be-a564-cece4b229371' target='_blank'>link</a></td>
       <td><a title='139df6dd-772b-424f-b830-30a5ba6abfc6' href='../records/139df6dd-772b-424f-b830-30a5ba6abfc6' target='_blank'>2</a></td>
@@ -846,6 +865,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='7fa8cfec-e2e3-4459-9b9d-836335b9fcfa' href='../records/7fa8cfec-e2e3-4459-9b9d-836335b9fcfa' target='_blank'>1</a></td>
       <td><a title='7fa8cfec-e2e3-4459-9b9d-836335b9fcfa' href='../records/7fa8cfec-e2e3-4459-9b9d-836335b9fcfa' target='_blank'>2</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='4a949e26-fe94-4f63-a3c6-a62e19301102' href='../records/4a949e26-fe94-4f63-a3c6-a62e19301102' target='_blank'>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026' target='_blank'>link</a></td>
+      <td><a title='4a949e26-fe94-4f63-a3c6-a62e19301102' href='../records/4a949e26-fe94-4f63-a3c6-a62e19301102' target='_blank'>1</a></td>
+      <td>Nearshore</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
+      <td>2025-01-28</td>
+      <td>2026-01-27</td>
+      <td>10.21966/jj9p-d309</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='4a949e26-fe94-4f63-a3c6-a62e19301102' href='../records/4a949e26-fe94-4f63-a3c6-a62e19301102' target='_blank'>1</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
