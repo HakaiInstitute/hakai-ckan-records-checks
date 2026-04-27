@@ -2939,25 +2939,6 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
-      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163' target='_blank'>link</a></td>
-      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>4</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-11</td>
-      <td>2025-01-03</td>
-      <td>10.21966/faz2-0m37</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>1</a></td>
-      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>3</a></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a title='b3e5b67d-2425-4a4f-80b0-d1076df5492a' href='../records/b3e5b67d-2425-4a4f-80b0-d1076df5492a' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
       <td><a title='b3e5b67d-2425-4a4f-80b0-d1076df5492a' href='../records/b3e5b67d-2425-4a4f-80b0-d1076df5492a' target='_blank'>6</a></td>
@@ -3241,25 +3222,6 @@ Search your record here:
       <td><a title='1ad9809b-16a0-44f4-abc8-a1474b728c15' href='../records/1ad9809b-16a0-44f4-abc8-a1474b728c15' target='_blank'>2</a></td>
       <td><a title='1ad9809b-16a0-44f4-abc8-a1474b728c15' href='../records/1ad9809b-16a0-44f4-abc8-a1474b728c15' target='_blank'>3</a></td>
       <td></td>
-    </tr>
-    <tr>
-      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>Owikeno Lake Bathymetric Survey</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9' target='_blank'>link</a></td>
-      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>5</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-03-02</td>
-      <td>2025-01-08</td>
-      <td>10.21966/31db-5090</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>4</a></td>
-      <td></td>
-      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='52048599-9a0c-4d33-861f-26eaedc86bd5' href='../records/52048599-9a0c-4d33-861f-26eaedc86bd5' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
