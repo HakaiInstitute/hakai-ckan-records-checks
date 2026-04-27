@@ -18,8 +18,10 @@ jobs:
     permissions:
       contents: write
 
-    steps:
+    env:
+      VERSION: ${{ github.head_ref || github.ref_name }}
 
+    steps:
       - name: Checkout repository
         uses: actions/checkout@v5
         with:
