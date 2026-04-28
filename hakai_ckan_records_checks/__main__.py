@@ -43,12 +43,14 @@ def format_summary(summary, base_url=""):
         WARNING=summary.apply(lambda x: link_issue_page(x, "WARNING"), axis=1),
         ERROR=summary.apply(lambda x: link_issue_page(x, "ERROR"), axis=1),
         sum=summary.apply(lambda x: link_issue_page(x, "sum"), axis=1),
-        Title=summary.apply(lambda x: link_issue_page(x, "title"), axis=1),
-        Catalogue="<a href='https://catalogue.hakai.org/dataset/"
+        Title="<a href='https://catalogue.hakai.org/dataset/"
         + summary["name"]
-        + "' target='_blank'>link</a>",
+        + "' target='_blank'>"
+        + summary["title"].fillna("")
+        + "</a>",
     )
     summary["citation_count"] = summary["citation_count"].fillna(-1)
+    summary["Last Revised"] = summary["metadata_revision"].fillna(summary["metadata_publication"])
 
     return summary.astype(
         {"resources_count": "int32", "citation_count": "int32"}
@@ -178,16 +180,17 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         .reset_index()
     )
 
-    figure = px.histogram(
+    figure_issues_distribution = px.histogram(
         grouped_issues,
-        x="message",
-        y="record_id",
+        x="record_id",
+        y="message",
         color="level",
-        labels={"record_id": "Issue"},
+        labels={"record_id": "Number of Issues"},
         color_discrete_map={"INFO": "lightblue", "WARNING": "orange", "ERROR": "red"},
+        orientation="h",
     )
 
-    figure.update_layout(
+    figure_issues_distribution.update_layout(
         legend=dict(
             orientation="h",
             yanchor="bottom",
@@ -199,6 +202,9 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         ),
         plot_bgcolor="rgba(0,0,0,0)",
         xaxis=dict(
+            title="Number of Issues",
+        ),
+        yaxis=dict(
             tickfont=dict(
                 size=10,
             ),
@@ -206,8 +212,8 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             title=None,
         ),
     )
-    figure.update_traces(textposition="inside")
-    figure.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
+    figure_issues_distribution.update_traces(textposition="inside")
+    figure_issues_distribution.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
 
     # submission timeseries
     publication_time = pd.to_datetime(
@@ -260,7 +266,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         catalog_summary=format_summary(results["catalog_summary"]),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
-        figure=figure,
+        figure_issues_distribution=figure_issues_distribution,
         pio=pio,
         ckan_url=ckan_url,
     ).dump(f"{output}/index.md")
@@ -271,7 +277,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         catalog_summary=format_summary(results["catalog_summary"], base_url="../"),
         timeseries_figure=timeseries_figure,
         citations_over_time_figure=citations_over_time_figure,
-        figure=figure,
+        figure_issues_distribution=figure_issues_distribution,
         pio=pio,
         issues_table=combined_issues,
     ).dump(f"{output}/issues/index.md")

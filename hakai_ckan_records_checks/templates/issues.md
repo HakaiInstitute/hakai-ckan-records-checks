@@ -9,7 +9,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]({{ ckan_
 ## Issue Distribution
 
 ```plotly
-{{ pio.to_json(figure) }}
+{{ pio.to_json(figure_issues_distribution) }}
 ```
 
 ## Records Summary

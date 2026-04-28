@@ -5,61 +5,29 @@ hide:
 ---
 # Summary
 
-This page present a summary of the differrent metadata records distributed at <{{ ckan_url }}>.
+This page present a summary of the different metadata records distributed at <{{ ckan_url }}>. Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. 
 
-Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered.
-
-## Spatial Distribution
-
-This map present the differet polygons and coordinates associated with all the metadata records.
-
-<div id="map"></div>
-
-
-## Record Submission Timeseries
-
-This diagram present the cumulative timeseries of the different metadata records made available on the 
-hakai catalogue.
+## Issue Distribution
 
 ``` plotly
-{{pio.to_json(timeseries_figure)}}
-```
-
-## Citations over time
-
-The citations are retrieved from [DataCite](https://commons.datacite.org) for
-each records assoicated with a DOI.
-
-``` plotly
-{{ pio.to_json(citations_over_time_figure)}}
+{{ pio.to_json(figure_issues_distribution) }}
 ```
 
 ## Records Summary Table
 
-Download:
-[Excel](catalog_summary.xlsx){ .md-button }
-[CSV](catalog_summary.csv){ .md-button }
-
 {{
-  catalog_summary[[
-    'Title','Catalogue','sum','projects','licence','progress','state',
-    'ressource-type','eov','metadata_publication','metadata_revision',
-    'doi',
-    'citation_count','citations_over_time',
-  ]]
+  catalog_summary[catalog_summary['sum'] != '']
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
+  [['Title','sum','projects','Last Revised']]
   .rename(columns={
     "sum": "Issues",
-    "metadata_publication":"publication",
-    "metadata_revision":"revision",
-    "ressource-type":"ressour type",
-    "citation_count": "Citations",
-    "citation_over_time": "Citation Distribution"
+    "projects": "Project"
   })
   .to_html(
       render_links=True,
       table_id='records_table',
       escape=False,
+      index=False,
       classes='table table-striped table-hover table-sm'
   )
 }}
@@ -67,40 +35,14 @@ Download:
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var map = L.map('map').setView([51.505, -125.09],3);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-    var geojsonFeatures = [
-        {% for id,row in catalog_summary.dropna(subset=['name','spatial'], how='any').iterrows() %}
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "{{row['name']}}",
-                "row_id": "{{id}}"
-            },
-            "geometry": {{row['spatial']}}
-        },
-        {% endfor %}
-    ];
-    L.geoJSON(geojsonFeatures).addTo(map);
-
     $(document).ready(function () {
       $("#records_table").DataTable({
         scrollX: true,
-        columnDefs: [{
-          width: '300px',
-          targets: 1,
-        },{
-          className: 'max-width-100', // Assign a custom class
-          targets: [2, 3] // Example columns to have max-width
-        }
-        ]
+        pageLength: 10,
       });
     });
-    $(document).ready(function () {
-      $("#issues_table").DataTable();
-    });
-  })
+  });
 </script>
+
+Download:
+[CSV](catalog_summary.csv){ .md-button }
