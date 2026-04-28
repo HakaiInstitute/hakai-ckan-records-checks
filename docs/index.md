@@ -22,7 +22,7 @@ This diagram present the cumulative timeseries of the different metadata records
 hakai catalogue.
 
 ``` plotly
-{"data":[{"fillpattern":{"shape":""},"hovertemplate":"=%{x}\u003cbr\u003ePublished Records=%{y}\u003cextra\u003e\u003c\u002fextra\u003e","legendgroup":"","line":{"color":"#AA2026"},"marker":{"symbol":"circle"},"mode":"lines","name":"","orientation":"v","showlegend":false,"stackgroup":"1","x":["2021-03-31T00:00:00.000000","2021-03-31T00:00:00.000000","2021-03-31T00:00:00.000000","2021-03-31T00:00:00.000000","2021-06-11T00:00:00.000000","2021-09-20T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-28T00:00:00.000000","2021-10-05T00:00:00.000000","2021-10-20T00:00:00.000000","2021-10-20T00:00:00.000000","2021-11-19T00:00:00.000000","2021-11-19T00:00:00.000000","2021-11-26T00:00:00.000000","2021-12-02T00:00:00.000000","2021-12-03T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-17T00:00:00.000000","2022-01-17T00:00:00.000000","2022-01-17T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-20T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-22T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-02-01T00:00:00.000000","2022-02-01T00:00:00.000000","2022-02-01T00:00:00.000000","2022-02-02T00:00:00.000000","2022-02-02T00:00:00.000000","2022-02-02T00:00:00.000000","2022-02-03T00:00:00.000000","2022-02-03T00:00:00.000000","2022-02-03T00:00:00.000000","2022-02-04T00:00:00.000000","2022-02-04T00:00:00.000000","2022-02-04T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-08T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-30T00:00:00.000000","2022-03-30T00:00:00.000000","2022-04-11T00:00:00.000000","2022-05-05T00:00:00.000000","2022-07-08T00:00:00.000000","2022-08-31T00:00:00.000000","2022-09-01T00:00:00.000000","2022-10-08T00:00:00.000000","2022-10-08T00:00:00.000000","2022-10-08T00:00:00.000000","2022-10-08T00:00:00.000000","2022-11-24T00:00:00.000000","2022-11-24T00:00:00.000000","2022-11-25T00:00:00.000000","2022-11-25T00:00:00.000000","2022-12-01T00:00:00.000000","2023-01-17T00:00:00.000000","2023-01-17T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-23T00:00:00.000000","2023-01-23T00:00:00.000000","2023-01-24T00:00:00.000000","2023-03-03T00:00:00.000000","2023-03-03T00:00:00.000000","2023-03-13T00:00:00.000000","2023-03-13T00:00:00.000000","2023-04-24T00:00:00.000000","2023-08-08T00:00:00.000000","2023-08-29T00:00:00.000000","2023-09-19T00:00:00.000000","2023-09-29T00:00:00.000000","2023-11-03T00:00:00.000000","2024-01-08T00:00:00.000000","2024-01-18T00:00:00.000000","2024-03-14T00:00:00.000000","2024-03-14T00:00:00.000000","2024-03-14T00:00:00.000000","2024-03-15T00:00:00.000000","2024-03-22T00:00:00.000000","2024-04-05T00:00:00.000000","2024-07-12T00:00:00.000000","2024-07-12T00:00:00.000000","2024-07-17T00:00:00.000000","2024-07-18T00:00:00.000000","2024-08-02T00:00:00.000000","2024-08-30T00:00:00.000000","2024-09-03T00:00:00.000000","2024-10-08T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-10T00:00:00.000000","2024-11-06T00:00:00.000000","2024-11-18T00:00:00.000000","2024-11-21T00:00:00.000000","2024-11-22T00:00:00.000000","2024-11-25T00:00:00.000000","2024-11-26T00:00:00.000000","2024-11-27T00:00:00.000000","2024-12-11T00:00:00.000000","2024-12-19T00:00:00.000000","2025-01-03T00:00:00.000000","2025-01-10T00:00:00.000000","2025-01-28T00:00:00.000000","2025-02-05T00:00:00.000000","2025-02-14T00:00:00.000000","2025-04-01T00:00:00.000000","2025-04-02T00:00:00.000000","2025-04-02T00:00:00.000000","2025-04-23T00:00:00.000000","2025-05-08T00:00:00.000000","2025-05-08T00:00:00.000000","2025-05-08T00:00:00.000000","2025-05-09T00:00:00.000000","2025-05-16T00:00:00.000000","2025-05-16T00:00:00.000000","2025-08-08T00:00:00.000000","2025-08-12T00:00:00.000000","2025-08-12T00:00:00.000000","2025-10-06T00:00:00.000000","2025-10-06T00:00:00.000000","2025-10-06T00:00:00.000000","2025-10-14T00:00:00.000000","2025-10-18T00:00:00.000000","2025-10-28T00:00:00.000000","2025-10-29T00:00:00.000000","2025-10-31T00:00:00.000000","2025-10-31T00:00:00.000000","2025-11-12T00:00:00.000000","2025-11-12T00:00:00.000000","2025-12-15T00:00:00.000000","2025-12-15T00:00:00.000000","2025-12-16T00:00:00.000000","2026-01-23T00:00:00.000000","2026-01-29T00:00:00.000000","2026-02-24T00:00:00.000000","2026-02-27T00:00:00.000000","2026-02-27T00:00:00.000000","2026-03-09T00:00:00.000000","2026-03-20T00:00:00.000000","2026-03-26T00:00:00.000000","2026-03-26T00:00:00.000000","2026-03-27T00:00:00.000000","2026-03-27T00:00:00.000000","2026-03-30T00:00:00.000000","2026-04-13T00:00:00.000000","2026-04-13T00:00:00.000000","2026-04-16T00:00:00.000000","NaT"],"xaxis":"x","y":{"dtype":"i2","bdata":"AQACAAMABAAFAAYABwAIAAkACgALAAwADQAOAA8AEAARABIAEwAUABUAFgAXABgAGQAaABsAHAAdAB4AHwAgACEAIgAjACQAJQAmACcAKAApACoAKwAsAC0ALgAvADAAMQAyADMANAA1ADYANwA4ADkAOgA7ADwAPQA+AD8AQABBAEIAQwBEAEUARgBHAEgASQBKAEsATABNAE4ATwBQAFEAUgBTAFQAVQBWAFcAWABZAFoAWwBcAF0AXgBfAGAAYQBiAGMAZABlAGYAZwBoAGkAagBrAGwAbQBuAG8AcABxAHIAcwB0AHUAdgB3AHgAeQB6AHsAfAB9AH4AfwCAAIEAggCDAIQAhQCGAIcAiACJAIoAiwCMAI0AjgCPAJAAkQCSAJMAlACVAJYAlwCYAJkAmgCbAJwAnQCeAJ8AoAChAKIAowCkAKUApgCnAKgAqQCqAKsArACtAK4ArwCwALEAsgCzALQAtQC2ALcAuAC5ALoAuwC8AL0AvgC\u002fAMAAwQDCAMMAxADFAMYAxwDIAMkAygDLAMwAzQDOAM8A0ADRANIA0wDUANUA1gDXANgA2QDaANsA3ADdAN4A3wDgAOEA4gDjAOQA5QDmAOcA6ADpAOoA6wDsAO0A7gDvAPAA8QDyAPMA9AD1APYA9wD4APkA+gD7APwA\u002fQD+AP8AAAEBAQIBAwE="},"yaxis":"y","type":"scatter"}],"layout":{"template":{"data":{"histogram2dcontour":[{"type":"histogram2dcontour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"choropleth":[{"type":"choropleth","colorbar":{"outlinewidth":0,"ticks":""}}],"histogram2d":[{"type":"histogram2d","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"heatmap":[{"type":"heatmap","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"contourcarpet":[{"type":"contourcarpet","colorbar":{"outlinewidth":0,"ticks":""}}],"contour":[{"type":"contour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"surface":[{"type":"surface","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"mesh3d":[{"type":"mesh3d","colorbar":{"outlinewidth":0,"ticks":""}}],"scatter":[{"fillpattern":{"fillmode":"overlay","size":10,"solidity":0.2},"type":"scatter"}],"parcoords":[{"type":"parcoords","line":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolargl":[{"type":"scatterpolargl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"scattergeo":[{"type":"scattergeo","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolar":[{"type":"scatterpolar","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"scattergl":[{"type":"scattergl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatter3d":[{"type":"scatter3d","line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattermap":[{"type":"scattermap","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattermapbox":[{"type":"scattermapbox","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterternary":[{"type":"scatterternary","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattercarpet":[{"type":"scattercarpet","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"type":"carpet"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}],"barpolar":[{"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"pie":[{"automargin":true,"type":"pie"}]},"layout":{"autotypenumbers":"strict","colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"hovermode":"closest","hoverlabel":{"align":"left"},"paper_bgcolor":"white","plot_bgcolor":"#E5ECF6","polar":{"bgcolor":"#E5ECF6","angularaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"radialaxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"ternary":{"bgcolor":"#E5ECF6","aaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"baxis":{"gridcolor":"white","linecolor":"white","ticks":""},"caxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]]},"xaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"yaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"scene":{"xaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"yaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"zaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"geo":{"bgcolor":"white","landcolor":"#E5ECF6","subunitcolor":"white","showland":true,"showlakes":true,"lakecolor":"white"},"title":{"x":0.05},"mapbox":{"style":"light"}}},"xaxis":{"anchor":"y","domain":[0.0,1.0],"title":{"text":""}},"yaxis":{"anchor":"x","domain":[0.0,1.0],"title":{"text":"Published Records"}},"legend":{"tracegroupgap":0},"margin":{"t":60}}}
+{"data":[{"fillpattern":{"shape":""},"hovertemplate":"=%{x}\u003cbr\u003ePublished Records=%{y}\u003cextra\u003e\u003c\u002fextra\u003e","legendgroup":"","line":{"color":"#AA2026"},"marker":{"symbol":"circle"},"mode":"lines","name":"","orientation":"v","showlegend":false,"stackgroup":"1","x":["2021-03-31T00:00:00.000000","2021-03-31T00:00:00.000000","2021-03-31T00:00:00.000000","2021-03-31T00:00:00.000000","2021-06-11T00:00:00.000000","2021-09-20T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-23T00:00:00.000000","2021-09-28T00:00:00.000000","2021-10-05T00:00:00.000000","2021-10-20T00:00:00.000000","2021-10-20T00:00:00.000000","2021-11-19T00:00:00.000000","2021-11-19T00:00:00.000000","2021-11-26T00:00:00.000000","2021-12-02T00:00:00.000000","2021-12-03T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-13T00:00:00.000000","2022-01-17T00:00:00.000000","2022-01-17T00:00:00.000000","2022-01-17T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-19T00:00:00.000000","2022-01-20T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-21T00:00:00.000000","2022-01-22T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-01-24T00:00:00.000000","2022-02-01T00:00:00.000000","2022-02-01T00:00:00.000000","2022-02-01T00:00:00.000000","2022-02-02T00:00:00.000000","2022-02-02T00:00:00.000000","2022-02-02T00:00:00.000000","2022-02-03T00:00:00.000000","2022-02-03T00:00:00.000000","2022-02-03T00:00:00.000000","2022-02-04T00:00:00.000000","2022-02-04T00:00:00.000000","2022-02-04T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-01T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-02T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-03T00:00:00.000000","2022-03-08T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-11T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-15T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-25T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-29T00:00:00.000000","2022-03-30T00:00:00.000000","2022-03-30T00:00:00.000000","2022-04-11T00:00:00.000000","2022-05-05T00:00:00.000000","2022-07-08T00:00:00.000000","2022-08-31T00:00:00.000000","2022-09-01T00:00:00.000000","2022-10-08T00:00:00.000000","2022-10-08T00:00:00.000000","2022-10-08T00:00:00.000000","2022-10-08T00:00:00.000000","2022-11-24T00:00:00.000000","2022-11-24T00:00:00.000000","2022-11-25T00:00:00.000000","2022-11-25T00:00:00.000000","2022-12-01T00:00:00.000000","2023-01-17T00:00:00.000000","2023-01-17T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-18T00:00:00.000000","2023-01-23T00:00:00.000000","2023-01-23T00:00:00.000000","2023-01-24T00:00:00.000000","2023-03-03T00:00:00.000000","2023-03-03T00:00:00.000000","2023-03-13T00:00:00.000000","2023-03-13T00:00:00.000000","2023-04-24T00:00:00.000000","2023-08-08T00:00:00.000000","2023-08-29T00:00:00.000000","2023-09-19T00:00:00.000000","2023-09-29T00:00:00.000000","2023-11-03T00:00:00.000000","2024-01-08T00:00:00.000000","2024-01-18T00:00:00.000000","2024-03-14T00:00:00.000000","2024-03-14T00:00:00.000000","2024-03-14T00:00:00.000000","2024-03-15T00:00:00.000000","2024-03-22T00:00:00.000000","2024-04-05T00:00:00.000000","2024-07-12T00:00:00.000000","2024-07-12T00:00:00.000000","2024-07-17T00:00:00.000000","2024-07-18T00:00:00.000000","2024-08-02T00:00:00.000000","2024-08-30T00:00:00.000000","2024-09-03T00:00:00.000000","2024-10-08T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-09T00:00:00.000000","2024-10-10T00:00:00.000000","2024-11-06T00:00:00.000000","2024-11-18T00:00:00.000000","2024-11-21T00:00:00.000000","2024-11-22T00:00:00.000000","2024-11-25T00:00:00.000000","2024-11-26T00:00:00.000000","2024-11-27T00:00:00.000000","2024-12-11T00:00:00.000000","2024-12-19T00:00:00.000000","2025-01-03T00:00:00.000000","2025-01-10T00:00:00.000000","2025-01-28T00:00:00.000000","2025-02-05T00:00:00.000000","2025-02-14T00:00:00.000000","2025-04-01T00:00:00.000000","2025-04-02T00:00:00.000000","2025-04-02T00:00:00.000000","2025-04-23T00:00:00.000000","2025-05-08T00:00:00.000000","2025-05-08T00:00:00.000000","2025-05-08T00:00:00.000000","2025-05-09T00:00:00.000000","2025-05-16T00:00:00.000000","2025-05-16T00:00:00.000000","2025-08-08T00:00:00.000000","2025-08-12T00:00:00.000000","2025-08-12T00:00:00.000000","2025-10-06T00:00:00.000000","2025-10-06T00:00:00.000000","2025-10-06T00:00:00.000000","2025-10-14T00:00:00.000000","2025-10-18T00:00:00.000000","2025-10-28T00:00:00.000000","2025-10-29T00:00:00.000000","2025-10-31T00:00:00.000000","2025-10-31T00:00:00.000000","2025-11-12T00:00:00.000000","2025-11-12T00:00:00.000000","2025-12-15T00:00:00.000000","2025-12-15T00:00:00.000000","2025-12-16T00:00:00.000000","2026-01-23T00:00:00.000000","2026-01-29T00:00:00.000000","2026-02-24T00:00:00.000000","2026-02-27T00:00:00.000000","2026-02-27T00:00:00.000000","2026-03-09T00:00:00.000000","2026-03-20T00:00:00.000000","2026-03-26T00:00:00.000000","2026-03-26T00:00:00.000000","2026-03-27T00:00:00.000000","2026-03-27T00:00:00.000000","2026-03-30T00:00:00.000000","2026-04-13T00:00:00.000000","2026-04-13T00:00:00.000000","2026-04-16T00:00:00.000000","2026-04-24T00:00:00.000000","2026-04-27T00:00:00.000000","NaT"],"xaxis":"x","y":{"dtype":"i2","bdata":"AQACAAMABAAFAAYABwAIAAkACgALAAwADQAOAA8AEAARABIAEwAUABUAFgAXABgAGQAaABsAHAAdAB4AHwAgACEAIgAjACQAJQAmACcAKAApACoAKwAsAC0ALgAvADAAMQAyADMANAA1ADYANwA4ADkAOgA7ADwAPQA+AD8AQABBAEIAQwBEAEUARgBHAEgASQBKAEsATABNAE4ATwBQAFEAUgBTAFQAVQBWAFcAWABZAFoAWwBcAF0AXgBfAGAAYQBiAGMAZABlAGYAZwBoAGkAagBrAGwAbQBuAG8AcABxAHIAcwB0AHUAdgB3AHgAeQB6AHsAfAB9AH4AfwCAAIEAggCDAIQAhQCGAIcAiACJAIoAiwCMAI0AjgCPAJAAkQCSAJMAlACVAJYAlwCYAJkAmgCbAJwAnQCeAJ8AoAChAKIAowCkAKUApgCnAKgAqQCqAKsArACtAK4ArwCwALEAsgCzALQAtQC2ALcAuAC5ALoAuwC8AL0AvgC\u002fAMAAwQDCAMMAxADFAMYAxwDIAMkAygDLAMwAzQDOAM8A0ADRANIA0wDUANUA1gDXANgA2QDaANsA3ADdAN4A3wDgAOEA4gDjAOQA5QDmAOcA6ADpAOoA6wDsAO0A7gDvAPAA8QDyAPMA9AD1APYA9wD4APkA+gD7APwA\u002fQD+AP8AAAEBAQIBAwEEAQUB"},"yaxis":"y","type":"scatter"}],"layout":{"template":{"data":{"histogram2dcontour":[{"type":"histogram2dcontour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"choropleth":[{"type":"choropleth","colorbar":{"outlinewidth":0,"ticks":""}}],"histogram2d":[{"type":"histogram2d","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"heatmap":[{"type":"heatmap","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"contourcarpet":[{"type":"contourcarpet","colorbar":{"outlinewidth":0,"ticks":""}}],"contour":[{"type":"contour","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"surface":[{"type":"surface","colorbar":{"outlinewidth":0,"ticks":""},"colorscale":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]]}],"mesh3d":[{"type":"mesh3d","colorbar":{"outlinewidth":0,"ticks":""}}],"scatter":[{"fillpattern":{"fillmode":"overlay","size":10,"solidity":0.2},"type":"scatter"}],"parcoords":[{"type":"parcoords","line":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolargl":[{"type":"scatterpolargl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"bar":[{"error_x":{"color":"#2a3f5f"},"error_y":{"color":"#2a3f5f"},"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"bar"}],"scattergeo":[{"type":"scattergeo","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterpolar":[{"type":"scatterpolar","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"histogram":[{"marker":{"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"histogram"}],"scattergl":[{"type":"scattergl","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatter3d":[{"type":"scatter3d","line":{"colorbar":{"outlinewidth":0,"ticks":""}},"marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattermap":[{"type":"scattermap","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattermapbox":[{"type":"scattermapbox","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scatterternary":[{"type":"scatterternary","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"scattercarpet":[{"type":"scattercarpet","marker":{"colorbar":{"outlinewidth":0,"ticks":""}}}],"carpet":[{"aaxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"baxis":{"endlinecolor":"#2a3f5f","gridcolor":"white","linecolor":"white","minorgridcolor":"white","startlinecolor":"#2a3f5f"},"type":"carpet"}],"table":[{"cells":{"fill":{"color":"#EBF0F8"},"line":{"color":"white"}},"header":{"fill":{"color":"#C8D4E3"},"line":{"color":"white"}},"type":"table"}],"barpolar":[{"marker":{"line":{"color":"#E5ECF6","width":0.5},"pattern":{"fillmode":"overlay","size":10,"solidity":0.2}},"type":"barpolar"}],"pie":[{"automargin":true,"type":"pie"}]},"layout":{"autotypenumbers":"strict","colorway":["#636efa","#EF553B","#00cc96","#ab63fa","#FFA15A","#19d3f3","#FF6692","#B6E880","#FF97FF","#FECB52"],"font":{"color":"#2a3f5f"},"hovermode":"closest","hoverlabel":{"align":"left"},"paper_bgcolor":"white","plot_bgcolor":"#E5ECF6","polar":{"bgcolor":"#E5ECF6","angularaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"radialaxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"ternary":{"bgcolor":"#E5ECF6","aaxis":{"gridcolor":"white","linecolor":"white","ticks":""},"baxis":{"gridcolor":"white","linecolor":"white","ticks":""},"caxis":{"gridcolor":"white","linecolor":"white","ticks":""}},"coloraxis":{"colorbar":{"outlinewidth":0,"ticks":""}},"colorscale":{"sequential":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"sequentialminus":[[0.0,"#0d0887"],[0.1111111111111111,"#46039f"],[0.2222222222222222,"#7201a8"],[0.3333333333333333,"#9c179e"],[0.4444444444444444,"#bd3786"],[0.5555555555555556,"#d8576b"],[0.6666666666666666,"#ed7953"],[0.7777777777777778,"#fb9f3a"],[0.8888888888888888,"#fdca26"],[1.0,"#f0f921"]],"diverging":[[0,"#8e0152"],[0.1,"#c51b7d"],[0.2,"#de77ae"],[0.3,"#f1b6da"],[0.4,"#fde0ef"],[0.5,"#f7f7f7"],[0.6,"#e6f5d0"],[0.7,"#b8e186"],[0.8,"#7fbc41"],[0.9,"#4d9221"],[1,"#276419"]]},"xaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"yaxis":{"gridcolor":"white","linecolor":"white","ticks":"","title":{"standoff":15},"zerolinecolor":"white","automargin":true,"zerolinewidth":2},"scene":{"xaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"yaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2},"zaxis":{"backgroundcolor":"#E5ECF6","gridcolor":"white","linecolor":"white","showbackground":true,"ticks":"","zerolinecolor":"white","gridwidth":2}},"shapedefaults":{"line":{"color":"#2a3f5f"}},"annotationdefaults":{"arrowcolor":"#2a3f5f","arrowhead":0,"arrowwidth":1},"geo":{"bgcolor":"white","landcolor":"#E5ECF6","subunitcolor":"white","showland":true,"showlakes":true,"lakecolor":"white"},"title":{"x":0.05},"mapbox":{"style":"light"}}},"xaxis":{"anchor":"y","domain":[0.0,1.0],"title":{"text":""}},"yaxis":{"anchor":"x","domain":[0.0,1.0],"title":{"text":"Published Records"}},"legend":{"tracegroupgap":0},"margin":{"t":60}}}
 ```
 
 ## Citations over time
@@ -61,6 +61,40 @@ Download:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>259</th>
+      <td><a title='2510cc69-bd46-4534-a62f-dae1903b388d' href='records/2510cc69-bd46-4534-a62f-dae1903b388d' target='_blank'>Water Property Measurements from the Bute Inlet Ocean Observing Station (BIOOS) Wirewalker, Bute Inlet, BC, Canada (Provisional)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a8671db6-81cc-4c92-b681-58595fe66182' target='_blank'>link</a></td>
+      <td><a title='2510cc69-bd46-4534-a62f-dae1903b388d' href='records/2510cc69-bd46-4534-a62f-dae1903b388d' target='_blank'>2</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>subSurfaceTemperature, subSurfaceSalinity, oxygen, phytoplanktonBiomassAndDiversity</td>
+      <td>2026-04-27</td>
+      <td>2026-04-27</td>
+      <td>10.21966/3q5j-n957</td>
+      <td>0</td>
+      <td>[]</td>
+    </tr>
+    <tr>
+      <th>258</th>
+      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33c8ce77-0674-4933-a305-01a25d253f70' target='_blank'>link</a></td>
+      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>3</a></td>
+      <td>Nearshore, Genomics</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>invertebrateAbundanceAndDistribution, microbeBiomassAndDiversity</td>
+      <td>2026-04-24</td>
+      <td>2026-04-24</td>
+      <td>10.21966/0xvh-1318</td>
+      <td>0</td>
+      <td>[]</td>
+    </tr>
     <tr>
       <th>257</th>
       <td><a title='b7b923ed-b3fa-48b3-878d-40a3797046bc' href='records/b7b923ed-b3fa-48b3-878d-40a3797046bc' target='_blank'>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
@@ -209,7 +243,7 @@ Download:
       <td>dataset</td>
       <td>other</td>
       <td>2026-03-20</td>
-      <td>2026-04-16</td>
+      <td>2026-04-24</td>
       <td>10.21966/chc3-rj93</td>
       <td>1</td>
       <td>[{'year': '2026', 'total': 1}]</td>
@@ -1017,7 +1051,7 @@ Download:
       <th>201</th>
       <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='5042c858-d375-42f5-82e0-ee1e4da962b6' href='records/5042c858-d375-42f5-82e0-ee1e4da962b6' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1204,7 +1238,7 @@ Download:
       <th>190</th>
       <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63' target='_blank'>link</a></td>
-      <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>3</a></td>
+      <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>1</a></td>
       <td>Juvenile Salmon Program, Oceanography, Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1214,8 +1248,8 @@ Download:
       <td>2024-07-17</td>
       <td>2026-04-14</td>
       <td>10.21966/rj8w-aa62</td>
-      <td>-1</td>
-      <td></td>
+      <td>0</td>
+      <td>[]</td>
     </tr>
     <tr>
       <th>189</th>
@@ -2000,7 +2034,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>139</th>
+      <th>140</th>
       <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345' target='_blank'>link</a></td>
       <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>10</a></td>
@@ -2357,7 +2391,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>140</th>
+      <th>139</th>
       <td><a title='f0cae885-2124-41c1-8523-2c6725c40dd6' href='records/f0cae885-2124-41c1-8523-2c6725c40dd6' target='_blank'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997' target='_blank'>link</a></td>
       <td><a title='f0cae885-2124-41c1-8523-2c6725c40dd6' href='records/f0cae885-2124-41c1-8523-2c6725c40dd6' target='_blank'>3</a></td>
@@ -3686,7 +3720,7 @@ Download:
       <th>42</th>
       <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306' target='_blank'>link</a></td>
-      <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>2</a></td>
+      <td><a title='401a599c-d74d-4a44-930a-8c0c90659e92' href='records/401a599c-d74d-4a44-930a-8c0c90659e92' target='_blank'>3</a></td>
       <td>Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -4077,7 +4111,7 @@ Download:
       <th>21</th>
       <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>Juvenile Sockeye Diets Hakai 2015-2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_64f74489-b9a3-4e6f-9f25-be141b8e285c' target='_blank'>link</a></td>
-      <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>11</a></td>
+      <td><a title='d7ca7d43-b0fb-4dfc-beb1-7033388011a0' href='records/d7ca7d43-b0fb-4dfc-beb1-7033388011a0' target='_blank'>10</a></td>
       <td>Juvenile Salmon Program</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4210,7 +4244,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>12</th>
       <td><a title='0d9ca9c8-95b0-48db-87b9-7db8af77363e' href='records/0d9ca9c8-95b0-48db-87b9-7db8af77363e' target='_blank'>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4' target='_blank'>link</a></td>
       <td><a title='0d9ca9c8-95b0-48db-87b9-7db8af77363e' href='records/0d9ca9c8-95b0-48db-87b9-7db8af77363e' target='_blank'>4</a></td>
@@ -4264,7 +4298,7 @@ Download:
       <th>7</th>
       <td><a title='8ad491b8-58a3-48ad-a705-18e36fad34b0' href='records/8ad491b8-58a3-48ad-a705-18e36fad34b0' target='_blank'>Hakai Institute Sensor Network</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_30bb20f4-1d7a-4167-a00f-613d0ff3e2fc' target='_blank'>link</a></td>
-      <td><a title='8ad491b8-58a3-48ad-a705-18e36fad34b0' href='records/8ad491b8-58a3-48ad-a705-18e36fad34b0' target='_blank'>7</a></td>
+      <td><a title='8ad491b8-58a3-48ad-a705-18e36fad34b0' href='records/8ad491b8-58a3-48ad-a705-18e36fad34b0' target='_blank'>5</a></td>
       <td>Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -4272,7 +4306,7 @@ Download:
       <td>dataset</td>
       <td>other</td>
       <td>2021-09-23</td>
-      <td>2024-07-23</td>
+      <td>2026-04-24</td>
       <td></td>
       <td>-1</td>
       <td></td>
@@ -4329,7 +4363,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>13</th>
       <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>Kelp forest communities along an otter gradient</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac' target='_blank'>link</a></td>
       <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>10</a></td>
@@ -4448,7 +4482,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>258</th>
+      <th>260</th>
       <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b' target='_blank'>link</a></td>
       <td><a title='0cef18ab-cea6-4522-baba-1bcd73a30646' href='records/0cef18ab-cea6-4522-baba-1bcd73a30646' target='_blank'>5</a></td>
@@ -4588,19 +4622,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_af65bf72-27af-4747-8911-ab05591762ac",
+                "name": "ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4",
                 "row_id": "12"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.770751953125, 51.33404377878941], [-127.74902343749999, 51.33404377878941], [-127.74902343749999, 52.19077237113535], [-128.770751953125, 52.19077237113535], [-128.770751953125, 51.33404377878941]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61145019531247, 51.61801654877371], [-127.91931152343746, 51.61801654877371], [-127.91931152343746, 52.11325243469631], [-128.61145019531247, 52.11325243469631], [-128.61145019531247, 51.61801654877371]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4",
+                "name": "ca-cioos_af65bf72-27af-4747-8911-ab05591762ac",
                 "row_id": "13"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61145019531247, 51.61801654877371], [-127.91931152343746, 51.61801654877371], [-127.91931152343746, 52.11325243469631], [-128.61145019531247, 52.11325243469631], [-128.61145019531247, 51.61801654877371]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.770751953125, 51.33404377878941], [-127.74902343749999, 51.33404377878941], [-127.74902343749999, 52.19077237113535], [-128.770751953125, 52.19077237113535], [-128.770751953125, 51.33404377878941]]]}
         },
         
         {
@@ -5731,19 +5765,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345",
+                "name": "ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997",
                 "row_id": "139"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30095161, 50.04299371], [-125.08745063, 50.04299371], [-125.08745063, 51.791595], [-128.30095161, 51.791595], [-128.30095161, 50.04299371]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.09646606445312, 51.5996802644666], [-127.9508972167969, 51.5996802644666], [-127.9508972167969, 51.69171329024539], [-128.09646606445312, 51.69171329024539], [-128.09646606445312, 51.5996802644666]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997",
+                "name": "ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345",
                 "row_id": "140"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.09646606445312, 51.5996802644666], [-127.9508972167969, 51.5996802644666], [-127.9508972167969, 51.69171329024539], [-128.09646606445312, 51.69171329024539], [-128.09646606445312, 51.5996802644666]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30095161, 50.04299371], [-125.08745063, 50.04299371], [-125.08745063, 51.791595], [-128.30095161, 51.791595], [-128.30095161, 50.04299371]]]}
         },
         
         {
@@ -6802,8 +6836,26 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b",
+                "name": "ca-cioos_33c8ce77-0674-4933-a305-01a25d253f70",
                 "row_id": "258"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.3, 49.87], [-124.8, 49.87], [-124.8, 51.75], [-128.3, 51.75], [-128.3, 49.87]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_a8671db6-81cc-4c92-b681-58595fe66182",
+                "row_id": "259"
+            },
+            "geometry": {'type': 'Point', 'coordinates': [-124.9009, 50.5744]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b",
+                "row_id": "260"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-119.3, 53.03], [-118.8, 53.03], [-118.8, 53.26], [-119.3, 53.26], [-119.3, 53.03]]]}
         },
