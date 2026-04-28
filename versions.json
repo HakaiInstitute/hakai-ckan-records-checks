@@ -10,6 +10,11 @@
     "aliases": []
   },
   {
+    "version": "remove-tabs",
+    "title": "remove-tabs",
+    "aliases": []
+  },
+  {
     "version": "main",
     "title": "main",
     "aliases": []
