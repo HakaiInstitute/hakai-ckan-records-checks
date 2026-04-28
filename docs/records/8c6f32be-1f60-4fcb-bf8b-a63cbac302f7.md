@@ -7,32 +7,7 @@ hide:
 
 # Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Watersheds 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Vancouver Island University 
-    - **Resources Count**: 3 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other 
-    - **Doi**: 10.21966/fh63-w427 
-    - **Metadata Publication**: 2022-03-25 
-    - **Metadata Revision**: 2024-12-05 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                                                                                                                                |
@@ -47,7 +22,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b5
 | WARNING | Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'                                 |
 | WARNING | Contact missing ORCID: contact['individual-name']='Brunsting, Ray' contact.get('organisation-name')='Hakai Institute'                                  |
 | WARNING | Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'                                 |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

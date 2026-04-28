@@ -7,32 +7,7 @@ hide:
 
 # Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Nearshore, Geospatial 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '100.0', 'min': '0.0'}] 
-    - **Eov**: other 
-    - **Doi**: 10.21966/t8hm-ge90 
-    - **Metadata Publication**: 2022-02-02 
-    - **Metadata Revision**: 2024-11-25 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                                                                                                                    |
@@ -42,7 +17,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-571
 | INFO    | Contact missing ORCID: contact['individual-name']='Helms, Sibylla' contact.get('organisation-name')='Gulf Islands National Park Reserve'   |
 | INFO    | Record isn't accesible via a standard data repository                                                                                      |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'    |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

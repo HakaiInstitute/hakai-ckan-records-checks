@@ -7,32 +7,7 @@ hide:
 
 # Data on invasion of Calvert Island by Orthione griffenis
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**:  
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other, invertebrateAbundanceAndDistribution 
-    - **Doi**: 10.21966/kddh-gj22 
-    - **Metadata Publication**: 2022-01-24 
-    - **Metadata Revision**: 2024-07-24 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                                                                                             |
@@ -44,7 +19,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606
 | WARNING | No publisher                                                                                                        |
 | WARNING | Contact missing ORCID: contact['individual-name']='Whalen, Matt' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Whalen, Matt' contact.get('organisation-name')='Hakai Institute' |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

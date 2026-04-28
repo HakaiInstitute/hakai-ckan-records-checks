@@ -7,49 +7,7 @@ hide:
 
 # Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Nearshore 
-    - **Progress**: onGoing 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '30.0', 'min': '0.0'}] 
-    - **Eov**: macroalgalCanopyCoverAndComposition 
-    - **Doi**: 10.21966/d1s2-s530 
-    - **Metadata Publication**: 2022-01-21 
-    - **Metadata Revision**: 2024-07-23 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-## Citations
-
-**Total Citations**: 1
-
-### Citations over time
-
-|   2024 |
-|-------:|
-|      1 |
-
-### Citations
-
-| relationship   | id                       | type   |   status_code | url                                                        |
-|:---------------|:-------------------------|:-------|--------------:|:-----------------------------------------------------------|
-| citations      | 10.1139/facets-2023-0237 | dois   |           403 | https://www.facetsjournal.com/doi/10.1139/facets-2023-0237 |
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                                                                                                      |
@@ -63,7 +21,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f
 | WARNING | Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

@@ -7,38 +7,12 @@ hide:
 
 # Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Geospatial, Nearshore 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 2 
-    - **Vertical Extent**: [{'max': '10.0', 'min': '0.0'}] 
-    - **Eov**: other 
-    - **Doi**: 10.21966/q0wm-zk34 
-    - **Metadata Publication**: 2022-03-11 
-    - **Metadata Revision**: 2024-07-24 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message    |
 |:--------|:-----------|
 | INFO    | No version |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

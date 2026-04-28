@@ -7,32 +7,7 @@ hide:
 
 # Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography 
-    - **Progress**: onGoing 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 2 
-    - **Vertical Extent**: [{'max': '1.0', 'min': '1.0'}] 
-    - **Eov**: oxygen, inorganicCarbon, seaSurfaceTemperature, seaSurfaceSalinity 
-    - **Doi**: 10.25921/9vnv-0g64 
-    - **Metadata Publication**: 2022-12-01 
-    - **Metadata Revision**: 2026-02-20 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+<a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>View Record in Hakai Catalogue</a>
 
 ## Issues
 | level   | message                                                                                                                                   |
@@ -49,7 +24,6 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b80
 | INFO    | Contact missing organization ROR:  contact['individual-name']='Kennedy, Estjer' contact['organisation-name']='Sitka Tribe of Alaska'      |
 | INFO    | Contact missing ORCID: contact['individual-name']='Hales, Burke' contact.get('organisation-name')='Oregon State University'               |
 | WARNING | Title contains acronyms potentially                                                                                                       |
-
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
