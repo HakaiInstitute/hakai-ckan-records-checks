@@ -182,11 +182,12 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
 
     figure_issues_distribution = px.histogram(
         grouped_issues,
-        x="message",
-        y="record_id",
+        x="record_id",
+        y="message",
         color="level",
-        labels={"record_id": "Issue"},
+        labels={"record_id": "Number of Issues"},
         color_discrete_map={"INFO": "lightblue", "WARNING": "orange", "ERROR": "red"},
+        orientation="h",
     )
 
     figure_issues_distribution.update_layout(
@@ -201,6 +202,9 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         ),
         plot_bgcolor="rgba(0,0,0,0)",
         xaxis=dict(
+            title="Number of Issues",
+        ),
+        yaxis=dict(
             tickfont=dict(
                 size=10,
             ),
