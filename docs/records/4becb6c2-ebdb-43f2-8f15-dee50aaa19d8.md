@@ -35,5 +35,3 @@ hide:
     L.geoJSON(geojsonFeature).addTo(map);
    })
 </script>
-
-<div id='map'></div>

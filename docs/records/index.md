@@ -32,9 +32,28 @@ Search your record here:
   </thead>
   <tbody>
     <tr>
+      <td><a title='2510cc69-bd46-4534-a62f-dae1903b388d' href='../records/2510cc69-bd46-4534-a62f-dae1903b388d' target='_blank'>Water Property Measurements from the Bute Inlet Ocean Observing Station (BIOOS) Wirewalker, Bute Inlet, BC, Canada (Provisional)</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a8671db6-81cc-4c92-b681-58595fe66182' target='_blank'>link</a></td>
+      <td><a title='2510cc69-bd46-4534-a62f-dae1903b388d' href='../records/2510cc69-bd46-4534-a62f-dae1903b388d' target='_blank'>2</a></td>
+      <td>Oceanography</td>
+      <td>CC-BY-4.0</td>
+      <td>onGoing</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>subSurfaceTemperature, subSurfaceSalinity, oxygen, phytoplanktonBiomassAndDiversity</td>
+      <td>2026-04-27</td>
+      <td>2026-04-27</td>
+      <td>10.21966/3q5j-n957</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='2510cc69-bd46-4534-a62f-dae1903b388d' href='../records/2510cc69-bd46-4534-a62f-dae1903b388d' target='_blank'>1</a></td>
+      <td><a title='2510cc69-bd46-4534-a62f-dae1903b388d' href='../records/2510cc69-bd46-4534-a62f-dae1903b388d' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33c8ce77-0674-4933-a305-01a25d253f70' target='_blank'>link</a></td>
-      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>3</a></td>
+      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>4</a></td>
       <td>Nearshore, Genomics</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -48,7 +67,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>1</a></td>
       <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>2</a></td>
-      <td></td>
+      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='b7b923ed-b3fa-48b3-878d-40a3797046bc' href='../records/b7b923ed-b3fa-48b3-878d-40a3797046bc' target='_blank'>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
@@ -1326,7 +1345,7 @@ Search your record here:
     <tr>
       <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63' target='_blank'>link</a></td>
-      <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>3</a></td>
+      <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>1</a></td>
       <td>Juvenile Salmon Program, Oceanography, Nearshore</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1336,11 +1355,11 @@ Search your record here:
       <td>2024-07-17</td>
       <td>2026-04-14</td>
       <td>10.21966/rj8w-aa62</td>
-      <td>-1</td>
-      <td></td>
+      <td>0</td>
+      <td>[]</td>
       <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>1</a></td>
       <td></td>
-      <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565' target='_blank'>2</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
@@ -1915,7 +1934,7 @@ Search your record here:
     <tr>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>12</a></td>
+      <td></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1927,8 +1946,8 @@ Search your record here:
       <td>10.25921/9vnv-0g64</td>
       <td>0</td>
       <td>[]</td>
-      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>11</a></td>
-      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -2939,6 +2958,25 @@ Search your record here:
       <td></td>
     </tr>
     <tr>
+      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163' target='_blank'>link</a></td>
+      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-11</td>
+      <td>2025-01-03</td>
+      <td>10.21966/faz2-0m37</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>1</a></td>
+      <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='../records/9001166d-e7eb-410f-92d6-17df0593cb2e' target='_blank'>3</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a title='b3e5b67d-2425-4a4f-80b0-d1076df5492a' href='../records/b3e5b67d-2425-4a4f-80b0-d1076df5492a' target='_blank'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028' target='_blank'>link</a></td>
       <td><a title='b3e5b67d-2425-4a4f-80b0-d1076df5492a' href='../records/b3e5b67d-2425-4a4f-80b0-d1076df5492a' target='_blank'>6</a></td>
@@ -3222,6 +3260,25 @@ Search your record here:
       <td><a title='1ad9809b-16a0-44f4-abc8-a1474b728c15' href='../records/1ad9809b-16a0-44f4-abc8-a1474b728c15' target='_blank'>2</a></td>
       <td><a title='1ad9809b-16a0-44f4-abc8-a1474b728c15' href='../records/1ad9809b-16a0-44f4-abc8-a1474b728c15' target='_blank'>3</a></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>Owikeno Lake Bathymetric Survey</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9' target='_blank'>link</a></td>
+      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>5</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-03-02</td>
+      <td>2025-01-08</td>
+      <td>10.21966/31db-5090</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>4</a></td>
+      <td></td>
+      <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='52048599-9a0c-4d33-861f-26eaedc86bd5' href='../records/52048599-9a0c-4d33-861f-26eaedc86bd5' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
@@ -4361,25 +4418,6 @@ Search your record here:
       <td>[]</td>
       <td><a title='cd3ca52d-dc83-4501-9e53-7b00c8ab9090' href='../records/cd3ca52d-dc83-4501-9e53-7b00c8ab9090' target='_blank'>2</a></td>
       <td><a title='cd3ca52d-dc83-4501-9e53-7b00c8ab9090' href='../records/cd3ca52d-dc83-4501-9e53-7b00c8ab9090' target='_blank'>1</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f' target='_blank'>link</a></td>
-      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>4</a></td>
-      <td>Geospatial</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>other</td>
-      <td>2022-01-17</td>
-      <td>2024-07-24</td>
-      <td>10.21966/b0xc-8m25</td>
-      <td>0</td>
-      <td>[]</td>
-      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>2</a></td>
-      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
