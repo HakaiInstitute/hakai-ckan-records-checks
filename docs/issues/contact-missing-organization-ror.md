@@ -84,15 +84,39 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-02-20</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='Kennedy, Estjer' contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='Lanphier, Karie' contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
       <td>Underway Surface Seawater and Marine Boundary Layer Observations from the M/V Columbia (Research)</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='Lebon, Geoffrey T.' contact['organisation-name']='University of Washington Joint Institute for the Study of the Atmosphere'</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='Peterson, Willoughby' contact['organisation-name']='Sitka Tribe of Alaska'</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>INFO</td>
       <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='Timmer, Brian' contact['organisation-name']='University Of Victoria'</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>INFO</td>
+      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='Whitehead, Chris' contact['organisation-name']='Sitka Tribe of Alaska'</td>
     </tr>
     <tr>
       <td>2025-05-06</td>

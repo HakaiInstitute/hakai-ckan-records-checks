@@ -53,7 +53,7 @@ Search your record here:
     <tr>
       <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33c8ce77-0674-4933-a305-01a25d253f70' target='_blank'>link</a></td>
-      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>4</a></td>
+      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>3</a></td>
       <td>Nearshore, Genomics</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -67,7 +67,7 @@ Search your record here:
       <td>[]</td>
       <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>1</a></td>
       <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>2</a></td>
-      <td><a title='e14d0456-297e-4636-8e7c-c615791b165e' href='../records/e14d0456-297e-4636-8e7c-c615791b165e' target='_blank'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a title='b7b923ed-b3fa-48b3-878d-40a3797046bc' href='../records/b7b923ed-b3fa-48b3-878d-40a3797046bc' target='_blank'>3m Digital Elevation Model - Calvert Island - British Columbia - Canada</a></td>
@@ -1364,7 +1364,7 @@ Search your record here:
     <tr>
       <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>link</a></td>
-      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>1</a></td>
+      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>2</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1378,7 +1378,7 @@ Search your record here:
       <td>[]</td>
       <td></td>
       <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>1</a></td>
-      <td></td>
+      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>1</a></td>
     </tr>
     <tr>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='../records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</a></td>
@@ -1548,25 +1548,6 @@ Search your record here:
       <td>0</td>
       <td>[]</td>
       <td><a title='432b05ce-8904-4094-94bf-b97fb6636e41' href='../records/432b05ce-8904-4094-94bf-b97fb6636e41' target='_blank'>1</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>link</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>CC-BY-4.0</td>
-      <td>completed</td>
-      <td>active</td>
-      <td>dataset</td>
-      <td>fishAbundanceAndDistribution, invertebrateAbundanceAndDistribution</td>
-      <td>2023-11-03</td>
-      <td>2025-01-18</td>
-      <td>10.21966/1.566666</td>
-      <td>1</td>
-      <td>[{'year': '2024', 'total': 1}]</td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='../records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1934,7 +1915,7 @@ Search your record here:
     <tr>
       <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>link</a></td>
-      <td></td>
+      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>12</a></td>
       <td>Oceanography</td>
       <td>CC-BY-4.0</td>
       <td>onGoing</td>
@@ -1946,8 +1927,8 @@ Search your record here:
       <td>10.25921/9vnv-0g64</td>
       <td>0</td>
       <td>[]</td>
-      <td></td>
-      <td></td>
+      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>11</a></td>
+      <td><a title='78b2edef-dab3-47a9-93bb-af63dfcd178d' href='../records/78b2edef-dab3-47a9-93bb-af63dfcd178d' target='_blank'>1</a></td>
       <td></td>
     </tr>
     <tr>
@@ -4418,6 +4399,25 @@ Search your record here:
       <td>[]</td>
       <td><a title='cd3ca52d-dc83-4501-9e53-7b00c8ab9090' href='../records/cd3ca52d-dc83-4501-9e53-7b00c8ab9090' target='_blank'>2</a></td>
       <td><a title='cd3ca52d-dc83-4501-9e53-7b00c8ab9090' href='../records/cd3ca52d-dc83-4501-9e53-7b00c8ab9090' target='_blank'>1</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>Underwater Video Transects - Calvert Island - 2016</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f' target='_blank'>link</a></td>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>4</a></td>
+      <td>Geospatial</td>
+      <td>CC-BY-4.0</td>
+      <td>completed</td>
+      <td>active</td>
+      <td>dataset</td>
+      <td>other</td>
+      <td>2022-01-17</td>
+      <td>2024-07-24</td>
+      <td>10.21966/b0xc-8m25</td>
+      <td>0</td>
+      <td>[]</td>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>2</a></td>
+      <td><a title='d64fd03b-46d4-4662-a123-c11bc42199b6' href='../records/d64fd03b-46d4-4662-a123-c11bc42199b6' target='_blank'>2</a></td>
       <td></td>
     </tr>
     <tr>
