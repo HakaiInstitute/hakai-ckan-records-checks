@@ -1,5 +1,10 @@
 [
   {
+    "version": "updating-pyproject.toml",
+    "title": "updating-pyproject.toml",
+    "aliases": []
+  },
+  {
     "version": "update-summary-page",
     "title": "update-summary-page",
     "aliases": []
