@@ -251,6 +251,9 @@ def get_record_summary(record):
         "vertical-extent": record.get("vertical-extent"),
         "eov": ", ".join(record.get("eov", [])),
         "doi": doi[0].replace("https://doi.org/", "") if doi else "",
+        "form_url": (record.get("maintenance-note") or "").split("Generated from ")[-1].strip()
+        if "Generated from" in (record.get("maintenance-note") or "")
+        else "",
         **{
             f"metadata_{item['type']}": item["value"]
             for item in record.get("metadata-reference-date", [])
