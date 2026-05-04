@@ -7,7 +7,7 @@ hide:
 
 # Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0
 
-<a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f' target='_blank'>View Record in Hakai Catalogue</a>
+View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f>
 
 ## Issues
 | level   | message                                                                                                                      |
@@ -21,6 +21,9 @@ hide:
 | WARNING | Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
+
+[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/df5J7W5Hk4e0p4yvlOAI0qcU9Gs2/-MtG8b48aDAEdJoqNT6N)
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

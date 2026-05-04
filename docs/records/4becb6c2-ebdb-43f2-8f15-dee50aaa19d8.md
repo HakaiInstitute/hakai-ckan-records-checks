@@ -7,7 +7,7 @@ hide:
 
 # Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2017, 2018) v1.0.0
 
-<a href='https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493' target='_blank'>View Record in Hakai Catalogue</a>
+View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_fd5ada9a-5719-4ca1-89d2-17adb48d1493>
 
 ## Issues
 | level   | message                                                                                                                                    |
@@ -17,6 +17,9 @@ hide:
 | INFO    | Contact missing ORCID: contact['individual-name']='Helms, Sibylla' contact.get('organisation-name')='Gulf Islands National Park Reserve'   |
 | INFO    | Record isn't accesible via a standard data repository                                                                                      |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute'    |
+
+[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MXBNZnZGekFJcFFDcm8)
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

@@ -1,6 +1,9 @@
+import io
+import json
 import os
 import pickle
 import sys
+import tarfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
@@ -8,6 +11,8 @@ import click
 import pandas as pd
 import plotly.express as px
 import plotly.io as pio
+import requests
+import yaml
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
 from tqdm import tqdm
@@ -19,10 +24,41 @@ from hakai_ckan_records_checks.datacite import Datacite, get_datacite_summary
 REPO_URL = os.getenv(
     "REPO_URL", "https://github.com/HakaiInstitute/hakai-ckan-records-checks"
 )
+FORM_FILES_TARBALL = "https://api.github.com/repos/HakaiInstitute/hakai-metadata-entry-form-files/tarball/main"
+FORM_URL_MAPPING_CACHE = Path("form_url_mapping.json")
 
 environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templates"))
 CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
+
+
+def get_form_url_mapping(use_cache=True):
+    if use_cache and FORM_URL_MAPPING_CACHE.exists():
+        return json.loads(FORM_URL_MAPPING_CACHE.read_text())
+
+    logger.info("Fetching metadata entry form files from GitHub")
+    response = requests.get(FORM_FILES_TARBALL)
+    response.raise_for_status()
+
+    mapping = {}
+    with tarfile.open(fileobj=io.BytesIO(response.content), mode="r:gz") as tar:
+        for member in tar.getmembers():
+            if not member.name.endswith(".yaml") or "/hakai/" not in member.name:
+                continue
+            f = tar.extractfile(member)
+            if not f:
+                continue
+            data = yaml.safe_load(f.read().decode("utf-8"))
+            metadata = data.get("metadata") or {}
+            uuid = metadata.get("identifier")
+            note = metadata.get("maintenance_note") or ""
+            if uuid and "Generated from" in note:
+                form_url = note.split("Generated from ")[-1].strip()
+                mapping[uuid] = form_url
+
+    FORM_URL_MAPPING_CACHE.write_text(json.dumps(mapping))
+    logger.info(f"Built form URL mapping for {len(mapping)} records")
+    return mapping
 IGNORE_RECORD_IDS = "hakai-metadata-form-data"
 level_type = pd.CategoricalDtype(categories=["INFO", "WARNING", "ERROR"], ordered=True)
 
@@ -265,11 +301,15 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     ).dump(f"{output}/index.md")
 
     # create record specific pages
+    form_url_mapping = get_form_url_mapping(use_cache=cache)
     catalog_summary_for_html = format_summary(results["catalog_summary"], base_url="../").set_index("id")
     Path(output, "records").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
+        record = catalog_summary_for_html.loc[record_id]
+        cioos_uuid = record["name"].removeprefix("ca-cioos_")
         environment.get_template("record.md").stream(
-            record=catalog_summary_for_html.loc[record_id],
+            record=record,
+            form_url=form_url_mapping.get(cioos_uuid, ""),
             issues=issues,
             pd=pd,
         ).dump(f"{output}/records/{record_id}.md")

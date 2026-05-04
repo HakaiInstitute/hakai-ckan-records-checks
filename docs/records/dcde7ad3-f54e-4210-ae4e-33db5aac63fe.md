@@ -7,7 +7,7 @@ hide:
 
 # Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry
 
-<a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea' target='_blank'>View Record in Hakai Catalogue</a>
+View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea>
 
 ## Issues
 | level   | message                                                                                                                                                                    |
@@ -19,6 +19,9 @@ hide:
 | INFO    | Contact missing ORCID: contact['individual-name']='Bidlack, Allison' contact.get('organisation-name')='University of Alaska Southeast'                                     |
 | INFO    | Record isn't accesible via a standard data repository                                                                                                                      |
 | WARNING | No funder                                                                                                                                                                  |
+
+[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/jnK2pbrIzbMBHpSiUOi8XDUeev93/-MjkHLRXiJM8cunPX2f-)
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

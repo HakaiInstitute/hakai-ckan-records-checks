@@ -7,7 +7,7 @@ hide:
 
 # Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)
 
-<a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6' target='_blank'>View Record in Hakai Catalogue</a>
+View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6>
 
 ## Issues
 | level   | message                                                                                                                                   |
@@ -24,6 +24,9 @@ hide:
 | INFO    | Contact missing organization ROR:  contact['individual-name']='Kennedy, Estjer' contact['organisation-name']='Sitka Tribe of Alaska'      |
 | INFO    | Contact missing ORCID: contact['individual-name']='Hales, Burke' contact.get('organisation-name')='Oregon State University'               |
 | WARNING | Title contains acronyms potentially                                                                                                       |
+
+[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-NHZwyY9Qlk5leV5vMEV)
+
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
