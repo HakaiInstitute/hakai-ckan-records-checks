@@ -43,7 +43,7 @@ Download:
 {{
   catalog_summary[[
     'Title','Catalogue','sum','projects','licence','progress','state',
-    'ressource-type','eov','metadata_publication','metadata_revision',
+    'resource-type','eov','metadata_publication','metadata_revision',
     'doi',
     'citation_count','citations_over_time',
   ]]
@@ -52,7 +52,7 @@ Download:
     "sum": "Issues",
     "metadata_publication":"publication",
     "metadata_revision":"revision",
-    "ressource-type":"ressour type",
+    "resource-type":"resource type",
     "citation_count": "Citations",
     "citation_over_time": "Citation Distribution"
   })
