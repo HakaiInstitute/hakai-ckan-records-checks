@@ -1306,7 +1306,7 @@ Download:
       <th>177</th>
       <td><a title='abb0b617-3a3e-43ec-b62e-e2918bfc10aa' href='records/abb0b617-3a3e-43ec-b62e-e2918bfc10aa' target='_blank'>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b8483c9e-81e6-4e1a-b09f-2d66f8fee9a2' target='_blank'>link</a></td>
-      <td><a title='abb0b617-3a3e-43ec-b62e-e2918bfc10aa' href='records/abb0b617-3a3e-43ec-b62e-e2918bfc10aa' target='_blank'>1</a></td>
+      <td><a title='abb0b617-3a3e-43ec-b62e-e2918bfc10aa' href='records/abb0b617-3a3e-43ec-b62e-e2918bfc10aa' target='_blank'>2</a></td>
       <td>Airborne Coastal Observatory, Nearshore, Geospatial</td>
       <td>CC-BY-4.0</td>
       <td>completed</td>
@@ -1507,7 +1507,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>164</th>
+      <th>165</th>
       <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_24f1c230-6c37-470c-907d-25b9b022f5c2' target='_blank'>link</a></td>
       <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='records/2709d7b1-22e1-4268-bcda-dc0c79f2878e' target='_blank'>8</a></td>
@@ -1524,7 +1524,7 @@ Download:
       <td>[{'year': '2024', 'total': 2}]</td>
     </tr>
     <tr>
-      <th>165</th>
+      <th>164</th>
       <td><a title='75b60436-da51-4ccf-b14a-27f45f782b2b' href='records/75b60436-da51-4ccf-b14a-27f45f782b2b' target='_blank'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497' target='_blank'>link</a></td>
       <td><a title='75b60436-da51-4ccf-b14a-27f45f782b2b' href='records/75b60436-da51-4ccf-b14a-27f45f782b2b' target='_blank'>3</a></td>
@@ -2000,7 +2000,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>133</th>
+      <th>132</th>
       <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345' target='_blank'>link</a></td>
       <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>10</a></td>
@@ -2017,7 +2017,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>132</th>
+      <th>129</th>
       <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='records/18911dee-9ca0-408b-8999-28da3e3dde7a' target='_blank'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef' target='_blank'>link</a></td>
       <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='records/18911dee-9ca0-408b-8999-28da3e3dde7a' target='_blank'>11</a></td>
@@ -2085,7 +2085,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>135</th>
+      <th>133</th>
       <td><a title='39f8b771-eb65-420f-b64e-742d94bbebf0' href='records/39f8b771-eb65-420f-b64e-742d94bbebf0' target='_blank'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4' target='_blank'>link</a></td>
       <td><a title='39f8b771-eb65-420f-b64e-742d94bbebf0' href='records/39f8b771-eb65-420f-b64e-742d94bbebf0' target='_blank'>8</a></td>
@@ -2102,7 +2102,7 @@ Download:
       <td>[{'year': '2022', 'total': 1}]</td>
     </tr>
     <tr>
-      <th>126</th>
+      <th>135</th>
       <td><a title='41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' href='records/41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>link</a></td>
       <td><a title='41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' href='records/41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' target='_blank'>17</a></td>
@@ -2119,7 +2119,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>130</th>
+      <th>128</th>
       <td><a title='49ec67e4-f7be-4658-b2b6-e4b57d9901df' href='records/49ec67e4-f7be-4658-b2b6-e4b57d9901df' target='_blank'>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e' target='_blank'>link</a></td>
       <td><a title='49ec67e4-f7be-4658-b2b6-e4b57d9901df' href='records/49ec67e4-f7be-4658-b2b6-e4b57d9901df' target='_blank'>5</a></td>
@@ -2136,7 +2136,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>128</th>
+      <th>126</th>
       <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>link</a></td>
       <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>11</a></td>
@@ -2153,7 +2153,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>129</th>
+      <th>127</th>
       <td><a title='55e7c337-02e8-4200-8ea9-88241d978f96' href='records/55e7c337-02e8-4200-8ea9-88241d978f96' target='_blank'>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e' target='_blank'>link</a></td>
       <td><a title='55e7c337-02e8-4200-8ea9-88241d978f96' href='records/55e7c337-02e8-4200-8ea9-88241d978f96' target='_blank'>2</a></td>
@@ -2170,7 +2170,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>131</th>
+      <th>130</th>
       <td><a title='6f261f49-dd1b-4250-ac59-e88c3d1b2470' href='records/6f261f49-dd1b-4250-ac59-e88c3d1b2470' target='_blank'>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018' target='_blank'>link</a></td>
       <td><a title='6f261f49-dd1b-4250-ac59-e88c3d1b2470' href='records/6f261f49-dd1b-4250-ac59-e88c3d1b2470' target='_blank'>9</a></td>
@@ -2187,7 +2187,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>127</th>
+      <th>136</th>
       <td><a title='9a930f50-82e2-4d7c-9686-6b551b9a458e' href='records/9a930f50-82e2-4d7c-9686-6b551b9a458e' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>link</a></td>
       <td><a title='9a930f50-82e2-4d7c-9686-6b551b9a458e' href='records/9a930f50-82e2-4d7c-9686-6b551b9a458e' target='_blank'>13</a></td>
@@ -2221,7 +2221,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>136</th>
+      <th>134</th>
       <td><a title='b36a7c12-cb56-46b7-8241-9b52ac30c766' href='records/b36a7c12-cb56-46b7-8241-9b52ac30c766' target='_blank'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9' target='_blank'>link</a></td>
       <td><a title='b36a7c12-cb56-46b7-8241-9b52ac30c766' href='records/b36a7c12-cb56-46b7-8241-9b52ac30c766' target='_blank'>6</a></td>
@@ -2289,7 +2289,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>134</th>
+      <th>131</th>
       <td><a title='f0cae885-2124-41c1-8523-2c6725c40dd6' href='records/f0cae885-2124-41c1-8523-2c6725c40dd6' target='_blank'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997' target='_blank'>link</a></td>
       <td><a title='f0cae885-2124-41c1-8523-2c6725c40dd6' href='records/f0cae885-2124-41c1-8523-2c6725c40dd6' target='_blank'>3</a></td>
@@ -2476,7 +2476,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>101</th>
+      <th>102</th>
       <td><a title='017ab2c4-70ea-484a-ae6c-7d441d2ba19d' href='records/017ab2c4-70ea-484a-ae6c-7d441d2ba19d' target='_blank'>Eelgrass Extent 2014 - Central Coast</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_51171738-7556-48f1-8757-658d99fa25dd' target='_blank'>link</a></td>
       <td><a title='017ab2c4-70ea-484a-ae6c-7d441d2ba19d' href='records/017ab2c4-70ea-484a-ae6c-7d441d2ba19d' target='_blank'>10</a></td>
@@ -2510,7 +2510,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>102</th>
+      <th>101</th>
       <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>Discovery Islands LiDAR Dataset&nbsp;&nbsp;- 2014 - British Columbia - Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>link</a></td>
       <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>8</a></td>
@@ -2816,7 +2816,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>85</th>
+      <th>86</th>
       <td><a title='1ad9809b-16a0-44f4-abc8-a1474b728c15' href='records/1ad9809b-16a0-44f4-abc8-a1474b728c15' target='_blank'>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c' target='_blank'>link</a></td>
       <td><a title='1ad9809b-16a0-44f4-abc8-a1474b728c15' href='records/1ad9809b-16a0-44f4-abc8-a1474b728c15' target='_blank'>5</a></td>
@@ -2901,7 +2901,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>86</th>
+      <th>85</th>
       <td><a title='c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' href='records/c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' target='_blank'>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96' target='_blank'>link</a></td>
       <td><a title='c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' href='records/c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' target='_blank'>5</a></td>
@@ -3326,7 +3326,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>53</th>
+      <th>54</th>
       <td><a title='2abe9ff4-76de-4221-9ca6-ec3403a56efa' href='records/2abe9ff4-76de-4221-9ca6-ec3403a56efa' target='_blank'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342' target='_blank'>link</a></td>
       <td><a title='2abe9ff4-76de-4221-9ca6-ec3403a56efa' href='records/2abe9ff4-76de-4221-9ca6-ec3403a56efa' target='_blank'>6</a></td>
@@ -3394,7 +3394,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>54</th>
+      <th>53</th>
       <td><a title='9b7adebb-5027-486a-8ed1-f97b5353a480' href='records/9b7adebb-5027-486a-8ed1-f97b5353a480' target='_blank'>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d' target='_blank'>link</a></td>
       <td><a title='9b7adebb-5027-486a-8ed1-f97b5353a480' href='records/9b7adebb-5027-486a-8ed1-f97b5353a480' target='_blank'>10</a></td>
@@ -3428,7 +3428,7 @@ Download:
       <td>[{'year': '2024', 'total': 1}, {'year': '2025', 'total': 2}]</td>
     </tr>
     <tr>
-      <th>60</th>
+      <th>61</th>
       <td><a title='ad032cd1-86cc-47cc-ac01-fce09e4cf8d9' href='records/ad032cd1-86cc-47cc-ac01-fce09e4cf8d9' target='_blank'>Data on invasion of Calvert Island by Orthione griffenis</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33' target='_blank'>link</a></td>
       <td><a title='ad032cd1-86cc-47cc-ac01-fce09e4cf8d9' href='records/ad032cd1-86cc-47cc-ac01-fce09e4cf8d9' target='_blank'>7</a></td>
@@ -3462,7 +3462,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>61</th>
+      <th>60</th>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada. Version 1.0.</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49' target='_blank'>link</a></td>
       <td><a title='d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' href='records/d8d3f510-8d7c-4b51-ba80-f7a77244eb4e' target='_blank'>2</a></td>
@@ -4108,7 +4108,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>11</th>
       <td><a title='0d9ca9c8-95b0-48db-87b9-7db8af77363e' href='records/0d9ca9c8-95b0-48db-87b9-7db8af77363e' target='_blank'>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4' target='_blank'>link</a></td>
       <td><a title='0d9ca9c8-95b0-48db-87b9-7db8af77363e' href='records/0d9ca9c8-95b0-48db-87b9-7db8af77363e' target='_blank'>4</a></td>
@@ -4227,7 +4227,7 @@ Download:
       <td></td>
     </tr>
     <tr>
-      <th>11</th>
+      <th>12</th>
       <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>Kelp forest communities along an otter gradient</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac' target='_blank'>link</a></td>
       <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>10</a></td>
@@ -4261,7 +4261,7 @@ Download:
       <td>[]</td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>2</th>
       <td><a title='3f883dc6-56ac-42f5-a1d4-6de554a9e63d' href='records/3f883dc6-56ac-42f5-a1d4-6de554a9e63d' target='_blank'>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45' target='_blank'>link</a></td>
       <td><a title='3f883dc6-56ac-42f5-a1d4-6de554a9e63d' href='records/3f883dc6-56ac-42f5-a1d4-6de554a9e63d' target='_blank'>2</a></td>
@@ -4278,7 +4278,7 @@ Download:
       <td>[{'year': '2022', 'total': 1}]</td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>1</th>
       <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</a></td>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a' target='_blank'>link</a></td>
       <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='records/5143957b-ee18-44d3-8000-a9c8f9a34a0d' target='_blank'>3</a></td>
@@ -4370,19 +4370,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45",
+                "name": "ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a",
                 "row_id": "1"
             },
-            "geometry": {'type': 'Point', 'coordinates': [-127.9697, 51.6507]}
+            "geometry": {'type': 'Point', 'coordinates': [-125.222, 50.116]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a",
+                "name": "ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45",
                 "row_id": "2"
             },
-            "geometry": {'type': 'Point', 'coordinates': [-125.222, 50.116]}
+            "geometry": {'type': 'Point', 'coordinates': [-127.9697, 51.6507]}
         },
         
         {
@@ -4460,19 +4460,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_af65bf72-27af-4747-8911-ab05591762ac",
+                "name": "ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4",
                 "row_id": "11"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.770751953125, 51.33404377878941], [-127.74902343749999, 51.33404377878941], [-127.74902343749999, 52.19077237113535], [-128.770751953125, 52.19077237113535], [-128.770751953125, 51.33404377878941]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61145019531247, 51.61801654877371], [-127.91931152343746, 51.61801654877371], [-127.91931152343746, 52.11325243469631], [-128.61145019531247, 52.11325243469631], [-128.61145019531247, 51.61801654877371]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4",
+                "name": "ca-cioos_af65bf72-27af-4747-8911-ab05591762ac",
                 "row_id": "12"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.61145019531247, 51.61801654877371], [-127.91931152343746, 51.61801654877371], [-127.91931152343746, 52.11325243469631], [-128.61145019531247, 52.11325243469631], [-128.61145019531247, 51.61801654877371]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.770751953125, 51.33404377878941], [-127.74902343749999, 51.33404377878941], [-127.74902343749999, 52.19077237113535], [-128.770751953125, 52.19077237113535], [-128.770751953125, 51.33404377878941]]]}
         },
         
         {
@@ -4838,19 +4838,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342",
+                "name": "ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d",
                 "row_id": "53"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-140.68082679, 46.98536693], [-119.96438849, 46.98536693], [-119.96438849, 59.31669647], [-140.68082679, 59.31669647], [-140.68082679, 46.98536693]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.58323147, 51.38160352], [-127.80979387, 51.38160352], [-127.80979387, 52.09997599], [-128.58323147, 52.09997599], [-128.58323147, 51.38160352]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_6ebe47c3-6d59-4cb2-a7ba-111698445d8d",
+                "name": "ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342",
                 "row_id": "54"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.58323147, 51.38160352], [-127.80979387, 51.38160352], [-127.80979387, 52.09997599], [-128.58323147, 52.09997599], [-128.58323147, 51.38160352]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-140.68082679, 46.98536693], [-119.96438849, 46.98536693], [-119.96438849, 59.31669647], [-140.68082679, 59.31669647], [-140.68082679, 46.98536693]]]}
         },
         
         {
@@ -4901,19 +4901,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33",
+                "name": "ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49",
                 "row_id": "60"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17334953, 51.61670267], [-127.92753044, 51.61670267], [-127.92753044, 51.73677458], [-128.17334953, 51.73677458], [-128.17334953, 51.61670267]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.2229619026184, 50.116395452024676], [-125.22092342376709, 50.116395452024676], [-125.22092342376709, 50.11764753238538], [-125.2229619026184, 50.11764753238538], [-125.2229619026184, 50.116395452024676]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_f00b9c87-190e-4b89-a864-7c012b989e49",
+                "name": "ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33",
                 "row_id": "61"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.2229619026184, 50.116395452024676], [-125.22092342376709, 50.116395452024676], [-125.22092342376709, 50.11764753238538], [-125.2229619026184, 50.11764753238538], [-125.2229619026184, 50.116395452024676]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.17334953, 51.61670267], [-127.92753044, 51.61670267], [-127.92753044, 51.73677458], [-128.17334953, 51.73677458], [-128.17334953, 51.61670267]]]}
         },
         
         {
@@ -5126,19 +5126,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c",
+                "name": "ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96",
                 "row_id": "85"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.65354407, 51.37817421], [-127.69773286, 51.37817421], [-127.69773286, 52.1127963], [-128.65354407, 52.1127963], [-128.65354407, 51.37817421]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30122253, 51.7689035], [-128.05512885, 51.7689035], [-128.05512885, 51.98187882], [-128.30122253, 51.98187882], [-128.30122253, 51.7689035]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96",
+                "name": "ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c",
                 "row_id": "86"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30122253, 51.7689035], [-128.05512885, 51.7689035], [-128.05512885, 51.98187882], [-128.30122253, 51.98187882], [-128.30122253, 51.7689035]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.65354407, 51.37817421], [-127.69773286, 51.37817421], [-127.69773286, 52.1127963], [-128.65354407, 52.1127963], [-128.65354407, 51.37817421]]]}
         },
         
         {
@@ -5270,19 +5270,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_51171738-7556-48f1-8757-658d99fa25dd",
+                "name": "ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880",
                 "row_id": "101"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.4878540039062, 51.653814904471545], [-128.0978393554687, 51.653814904471545], [-128.0978393554687, 52.07950600379698], [-128.4878540039062, 52.07950600379698], [-128.4878540039062, 51.653814904471545]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.3704833984375, 49.9229354544957], [-124.75524902343749, 49.9229354544957], [-124.75524902343749, 50.291094042311386], [-125.3704833984375, 50.291094042311386], [-125.3704833984375, 49.9229354544957]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880",
+                "name": "ca-cioos_51171738-7556-48f1-8757-658d99fa25dd",
                 "row_id": "102"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-125.3704833984375, 49.9229354544957], [-124.75524902343749, 49.9229354544957], [-124.75524902343749, 50.291094042311386], [-125.3704833984375, 50.291094042311386], [-125.3704833984375, 49.9229354544957]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.4878540039062, 51.653814904471545], [-128.0978393554687, 51.653814904471545], [-128.0978393554687, 52.07950600379698], [-128.4878540039062, 52.07950600379698], [-128.4878540039062, 51.653814904471545]]]}
         },
         
         {
@@ -5495,26 +5495,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef",
-                "row_id": "126"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.23772561, 51.55090182], [-127.87151456, 51.55090182], [-127.87151456, 51.75810598], [-128.23772561, 51.75810598], [-128.23772561, 51.55090182]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324",
-                "row_id": "127"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13650264, 51.64966999], [-128.12495841, 51.64966999], [-128.12495841, 51.65523482], [-128.13650264, 51.65523482], [-128.13650264, 51.64966999]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7",
-                "row_id": "128"
+                "row_id": "126"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.11706194, 51.62592806], [-127.94402727, 51.62592806], [-127.94402727, 51.71110094], [-128.11706194, 51.71110094], [-128.11706194, 51.62592806]]]}
         },
@@ -5523,7 +5505,7 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e",
-                "row_id": "129"
+                "row_id": "127"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.3, 51.27], [-126.6, 51.27], [-126.6, 51.93], [-128.3, 51.93], [-128.3, 51.27]]]}
         },
@@ -5532,7 +5514,7 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e",
-                "row_id": "130"
+                "row_id": "128"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.15445681, 51.61731613], [-127.95404703, 51.61731613], [-127.95404703, 51.71899959], [-128.15445681, 51.71899959], [-128.15445681, 51.61731613]]]}
         },
@@ -5540,17 +5522,8 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018",
-                "row_id": "131"
-            },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13217163085935, 51.59626804559349], [-127.97149658203124, 51.59626804559349], [-127.97149658203124, 51.6857538480987], [-128.13217163085935, 51.6857538480987], [-128.13217163085935, 51.59626804559349]]]}
-        },
-        
-        {
-            "type":"Feature",
-            "properties": {
                 "name": "ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef",
-                "row_id": "132"
+                "row_id": "129"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.22692871093747, 51.40948589555509], [-127.80944824218746, 51.40948589555509], [-127.80944824218746, 51.74233687689102], [-128.22692871093747, 51.74233687689102], [-128.22692871093747, 51.40948589555509]]]}
         },
@@ -5558,17 +5531,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345",
-                "row_id": "133"
+                "name": "ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018",
+                "row_id": "130"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30095161, 50.04299371], [-125.08745063, 50.04299371], [-125.08745063, 51.791595], [-128.30095161, 51.791595], [-128.30095161, 50.04299371]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13217163085935, 51.59626804559349], [-127.97149658203124, 51.59626804559349], [-127.97149658203124, 51.6857538480987], [-128.13217163085935, 51.6857538480987], [-128.13217163085935, 51.59626804559349]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997",
-                "row_id": "134"
+                "row_id": "131"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.09646606445312, 51.5996802644666], [-127.9508972167969, 51.5996802644666], [-127.9508972167969, 51.69171329024539], [-128.09646606445312, 51.69171329024539], [-128.09646606445312, 51.5996802644666]]]}
         },
@@ -5576,8 +5549,17 @@ Download:
         {
             "type":"Feature",
             "properties": {
+                "name": "ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345",
+                "row_id": "132"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.30095161, 50.04299371], [-125.08745063, 50.04299371], [-125.08745063, 51.791595], [-128.30095161, 51.791595], [-128.30095161, 50.04299371]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
                 "name": "ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4",
-                "row_id": "135"
+                "row_id": "133"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.98931373, 50.8340959], [-127.03580726, 50.8340959], [-127.03580726, 52.33530479], [-128.98931373, 52.33530479], [-128.98931373, 50.8340959]]]}
         },
@@ -5586,9 +5568,27 @@ Download:
             "type":"Feature",
             "properties": {
                 "name": "ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9",
-                "row_id": "136"
+                "row_id": "134"
             },
             "geometry": {'type': 'Polygon', 'coordinates': [[[-128.21777349337933, 51.412912129355306], [-127.82775884494184, 51.412912129355306], [-127.82775884494184, 51.74403752566786], [-128.21777349337933, 51.74403752566786], [-128.21777349337933, 51.412912129355306]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef",
+                "row_id": "135"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.23772561, 51.55090182], [-127.87151456, 51.55090182], [-127.87151456, 51.75810598], [-128.23772561, 51.75810598], [-128.23772561, 51.55090182]]]}
+        },
+        
+        {
+            "type":"Feature",
+            "properties": {
+                "name": "ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324",
+                "row_id": "136"
+            },
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-128.13650264, 51.64966999], [-128.12495841, 51.64966999], [-128.12495841, 51.65523482], [-128.13650264, 51.65523482], [-128.13650264, 51.64966999]]]}
         },
         
         {
@@ -5837,19 +5837,19 @@ Download:
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_24f1c230-6c37-470c-907d-25b9b022f5c2",
+                "name": "ca-cioos_476204a7-0714-4755-953d-61fa3c5df497",
                 "row_id": "164"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-126.87477074, 49.80151064], [-124.30109865, 49.80151064], [-124.30109865, 50.66883255], [-126.87477074, 50.66883255], [-126.87477074, 49.80151064]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.6, 50.69], [-126.3, 50.8], [-124.8, 50.44], [-123.9, 49.65], [-125.1, 49.65], [-127.6, 50.69]]]}
         },
         
         {
             "type":"Feature",
             "properties": {
-                "name": "ca-cioos_476204a7-0714-4755-953d-61fa3c5df497",
+                "name": "ca-cioos_24f1c230-6c37-470c-907d-25b9b022f5c2",
                 "row_id": "165"
             },
-            "geometry": {'type': 'Polygon', 'coordinates': [[[-127.6, 50.69], [-126.3, 50.8], [-124.8, 50.44], [-123.9, 49.65], [-125.1, 49.65], [-127.6, 50.69]]]}
+            "geometry": {'type': 'Polygon', 'coordinates': [[[-126.87477074, 49.80151064], [-124.30109865, 49.80151064], [-124.30109865, 50.66883255], [-126.87477074, 50.66883255], [-126.87477074, 49.80151064]]]}
         },
         
         {
