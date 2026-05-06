@@ -8,20 +8,11 @@ from loguru import logger
 ORGANIZATIONS = [
     "Hakai Institute",
 ]
-
-
-def test(condition, level, message):
-    if not condition:
-        logger.log(level, message)
-        raise Exception(message)
-    if not condition:
-        logger.log(level, message)
+DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
 
 
 @logger.catch(default=pd.DataFrame())
 def test_record_requirements(record) -> pd.DataFrame:
-    """Run a series of tests on a record to ensure it meets Hakai's metadata requirements"""
-
     def _test(condition, level, message):
         if not condition:
             logger.log(level, message)
@@ -30,7 +21,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     results = []
     logger.debug("Review Record {}", record["id"])
 
-    # organization
+    # Organization
     _test("organization" in record, "ERROR", "No organization")
     _test(
         record["organization"]["title"] in ORGANIZATIONS,
@@ -48,7 +39,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         "Organization is missing an ROR URI",
     )
 
-    # review title
+    # Title
     _test(record.get("title") != "", "ERROR", "No title")
     _test(
         not re.findall(r"[A-Z\.]{3,}", record.get("title", "")),
@@ -66,17 +57,17 @@ def test_record_requirements(record) -> pd.DataFrame:
         "Title contains the word dataset",
     )
 
-    # Review licence
+    # Licence
     _test("license_id" in record, "ERROR", "No licence")
     _test(record.get("license_id") != "", "ERROR", "Empty licence")
     _test(
         record.get("license_id") == "CC-BY-4.0",
         "ERROR",
-        f"Invalid licence: {record.get('license_id') }",
+        f"Invalid licence: {record.get('license_id')}",
     )
 
+    # Version
     citation = json.loads(record["citation"]["en"].replace('\\"', '"'))
-    # Review version
     version = citation[0].get("version")
     _test(version, "INFO", "No version")
     if record.get("version"):
@@ -86,85 +77,68 @@ def test_record_requirements(record) -> pd.DataFrame:
             f"Invalid version: {record.get('version')}",
         )
 
-    # Review identifier
+    # DOI
     dois = [
         item
         for item in record.get("unique-resource-identifier-full", [])
         if "doi.org" in item.get("code", "")
     ]
-    _test(
-        dois,
-        "WARNING",
-        f"No DOI defined",
-    )
+    _test(dois, "WARNING", "No DOI defined")
     if dois:
         _test(
             len(dois) < 2,
             "ERROR",
             f"Multiple doi={dois}?",
         )
-        DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
         _test(
-            all([re.match("https://doi.org", doi.get("code", "")) for doi in dois]),
+            all(re.match("https://doi.org", doi.get("code", "")) for doi in dois),
             "ERROR",
             f"Some dois do not match the expected format {DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
         )
         for doi in dois:
-            _test(
-                re.match("https://doi.org", doi.get("code", "")),
-                "ERROR",
-                f"Some dois do not match the exected format{DOI_CODE_FORMAT}: doi={doi.get('code')}",
-            )
             response = requests.get(doi.get("code"), allow_redirects=True)
             _test(
                 response.status_code in (200, 201, 403, 418, 503),
                 "ERROR",
                 f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={response.status_code}",
             )
-            # Check if the DOI is redirecting to Hakai's catalogue or doi.org which is an error
-            # if it does and it was likely caught the test prior.
             _test(
-                (
-                    re.match("https://catalogue.hakai.org", response.url)
-                    or re.match("https://doi.org", response.url)
-                ),
+                response.url.startswith("https://catalogue.hakai.org")
+                or response.url.startswith("https://doi.org"),
                 "INFO",
                 f"DOI is not redirecting to Hakai's catalogue: {response.url}",
             )
 
-    # Review distributor
+    # Distributor
     _test("distributor" in record, "ERROR", "No distributor")
     _test(record.get("distributor") != "", "ERROR", "Empty distributor")
     organization_name = record.get("distributor", [{}])[0].get("organisation-name")
     _test(
-        "Hakai" in organization_name and organization_name == "Hakai Institute",
+        organization_name == "Hakai Institute",
         "ERROR",
         f"Invalid distributor organisation-name: {organization_name=} expects 'Hakai Institute'",
     )
 
-    # Contacts related checks
+    # Contacts
     contacts = record.get("cited-responsible-party", []) + record.get(
         "metadata-point-of-contact", []
     )
 
-    # Review funder
+    # Funder
     funders = [item for item in contacts if "funder" in item["role"]]
-    _test(len(funders) > 0, "WARNING", "No funder")
+    _test(funders, "WARNING", "No funder")
     if funders:
         _test(
-            [
-                funder.get("organisation-name") == "Hakai Institute"
-                for funder in funders
-            ],
+            [funder.get("organisation-name") == "Hakai Institute" for funder in funders],
             "WARNING",
-            f"'Hakai Institute' isn't listed as funder in record",
+            "'Hakai Institute' isn't listed as funder in record",
         )
 
-    # Review publisher
+    # Publisher
     publishers = [contact for contact in contacts if "publisher" in contact["role"]]
-    _test(len(publishers) > 0, "WARNING", "No publisher")
+    _test(publishers, "WARNING", "No publisher")
 
-    # Review contacts
+    # ORCID and ROR
     for contact in contacts:
         is_hakai_contact = "@hakai.org" in contact.get(
             "organisation-info_email", ""
@@ -188,7 +162,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             f"Contact missing organization ROR:  {contact['individual-name']=} {contact['organisation-name']=}",
         )
 
-    # Review resources
+    # Resources
     for index, resource in enumerate(record.get("resources", [])):
         _test(resource["name"] != "", "ERROR", "Empty resource name")
         _test(resource["url"] != "", "ERROR", "Empty resource url")
@@ -208,19 +182,17 @@ def test_record_requirements(record) -> pd.DataFrame:
             f"Invalid resources.url.status_code: {status_code} for resources[{index}].url={resource['url']}",
         )
 
-    # Data Access via Standardized Repositories
+    # Data access via standardized repositories
     _test(
         any(
-            [
-                re.findall("obis|erddap|arcgis|ncei", resource["url"], re.IGNORECASE)
-                for resource in record.get("resources", [])
-            ]
+            re.findall("obis|erddap|arcgis|ncei", resource["url"], re.IGNORECASE)
+            for resource in record.get("resources", [])
         ),
         "INFO",
         "Record isn't accesible via a standard data repository",
     )
 
-    # test spatial
+    # Spatial
     _test("spatial" in record, "ERROR", "No spatial information available")
 
     return results
@@ -228,34 +200,57 @@ def test_record_requirements(record) -> pd.DataFrame:
 
 @logger.catch(default={})
 def get_record_summary(record):
-    doi = [
+    record_id = record["id"]
+    name = record["name"]
+    organization = record["organization"]["title"]
+    title = record["title"]
+    resource_type = record.get("resource-type")
+    licence = record.get("license_id")
+    private = record.get("private")
+    projects = ", ".join(record.get("projects", []))
+    progress = record.get("progress")
+    state = record.get("state")
+    record_type = record.get("type")
+    distributor = record.get("distributor", [{}])[0].get("organisation-name")
+    resources_count = len(record.get("resources", []))
+    spatial = record.get("spatial")
+    vertical_extent = record.get("vertical-extent")
+    eov = ", ".join(record.get("eov", []))
+    dois = [
         item["code"]
         for item in record.get("unique-resource-identifier-full", [])
         if "doi.org" in item["code"]
     ]
+    doi = dois[0].replace("https://doi.org/", "") if dois else ""
+    maintenance_note = record.get("maintenance-note") or ""
+    form_url = (
+        maintenance_note.split("Generated from ")[-1].strip()
+        if "Generated from" in maintenance_note
+        else ""
+    )
+    metadata_dates = {
+        f"metadata_{item['type']}": item["value"]
+        for item in record.get("metadata-reference-date", [])
+    }
+
     return {
-        "id": record["id"],
-        "name": record["name"],
-        "organization": record["organization"]["title"],
-        "title": record["title"],
-        "resource-type": record.get("resource-type"),
-        "licence": record.get("license_id"),
-        "private": record.get("private"),
-        "projects": ", ".join(record.get("projects", [])),
-        "progress": record.get("progress"),
-        "state": record.get("state"),
-        "type": record.get("type"),
-        "distributor": record.get("distributor", [{}])[0].get("organisation-name"),
-        "resources_count": len(record.get("resources", [])),
-        "spatial": record.get("spatial"),
-        "vertical-extent": record.get("vertical-extent"),
-        "eov": ", ".join(record.get("eov", [])),
-        "doi": doi[0].replace("https://doi.org/", "") if doi else "",
-        "form_url": (record.get("maintenance-note") or "").split("Generated from ")[-1].strip()
-        if "Generated from" in (record.get("maintenance-note") or "")
-        else "",
-        **{
-            f"metadata_{item['type']}": item["value"]
-            for item in record.get("metadata-reference-date", [])
-        },
+        "id": record_id,
+        "name": name,
+        "organization": organization,
+        "title": title,
+        "resource-type": resource_type,
+        "licence": licence,
+        "private": private,
+        "projects": projects,
+        "progress": progress,
+        "state": state,
+        "type": record_type,
+        "distributor": distributor,
+        "resources_count": resources_count,
+        "spatial": spatial,
+        "vertical-extent": vertical_extent,
+        "eov": eov,
+        "doi": doi,
+        "form_url": form_url,
+        **metadata_dates,
     }
