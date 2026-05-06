@@ -35,3 +35,16 @@ table.dataTable td {
 table.dataTable tbody th, table.dataTable tbody td {
   padding: 2px 4px;
 }
+
+.mkdocs-plotly {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+.highlight:has(> .mkdocs-plotly) {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+}
