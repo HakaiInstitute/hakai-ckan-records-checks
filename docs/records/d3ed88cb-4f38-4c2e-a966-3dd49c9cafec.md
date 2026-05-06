@@ -7,32 +7,7 @@ hide:
 
 # Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography 
-    - **Progress**: underDevelopment 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other, zooplanktonBiomassAndDiversity 
-    - **Doi**: 10.21966/bhqd-9361 
-    - **Metadata Publication**: 2022-02-04 
-    - **Metadata Revision**: 2024-07-23 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03</a>
 
 ## Issues
 | level   | message                                                                                                                                       |
@@ -45,6 +20,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-555
 | INFO    | Record isn't accesible via a standard data repository                                                                                         |
 | WARNING | No funder                                                                                                                                     |
 | WARNING | No publisher                                                                                                                                  |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTZhamNPb0U3cThnR0o" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

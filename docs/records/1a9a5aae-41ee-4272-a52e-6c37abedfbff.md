@@ -7,55 +7,15 @@ hide:
 
 # Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography, Watersheds 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: nutrients, dissolvedOrganicCarbon 
-    - **Doi**: 10.21966/n0h9-cq15 
-    - **Metadata Publication**: 2022-02-02 
-    - **Metadata Revision**: 2025-01-30 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-## Citations
-
-**Total Citations**: 1
-
-### Citations over time
-
-|   2022 |
-|-------:|
-|      1 |
-
-### Citations
-
-| relationship   | id                      | type   |   status_code | url                                                                             |
-|:---------------|:------------------------|:-------|--------------:|:--------------------------------------------------------------------------------|
-| citations      | 10.5194/bg-18-3029-2021 | dois   |           200 | https://bg.copernicus.org/articles/18/3029/2021/                                |
-| parts          | 10.5194/bg-2020-350     | dois   |           200 | https://bg.copernicus.org/articles/18/3029/2021/bg-18-3029-2021-discussion.html |
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_4b5c0c20-2115-4986-bf56-237e360240bd</a>
 
 ## Issues
 | level   | message                                               |
 |:--------|:------------------------------------------------------|
 | INFO    | Record isn't accesible via a standard data repository |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MuwHJS-RtHVqJmki_OG" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

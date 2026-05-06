@@ -7,32 +7,7 @@ hide:
 
 # Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 4 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: seaSurfaceTemperature, inorganicCarbon, oxygen, seaSurfaceSalinity, other 
-    - **Doi**: 10.21966/m0es-7520 
-    - **Metadata Publication**: 2021-09-20 
-    - **Metadata Revision**: 2024-07-23 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea</a>
 
 ## Issues
 | level   | message                                                                                                                                                                    |
@@ -44,6 +19,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-120
 | INFO    | Contact missing ORCID: contact['individual-name']='Bidlack, Allison' contact.get('organisation-name')='University of Alaska Southeast'                                     |
 | INFO    | Record isn't accesible via a standard data repository                                                                                                                      |
 | WARNING | No funder                                                                                                                                                                  |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/jnK2pbrIzbMBHpSiUOi8XDUeev93/-MjkHLRXiJM8cunPX2f-" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

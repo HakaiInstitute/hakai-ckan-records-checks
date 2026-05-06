@@ -17,6 +17,12 @@ This page present the list of all the records associated with the issue: **Title
   </thead>
   <tbody>
     <tr>
+      <td>2026-04-27</td>
+      <td>Water Property Measurements from the Bute Inlet Ocean Observing Station (BIOOS) Wirewalker, Bute Inlet, BC, Canada (Provisional)</td>
+      <td>WARNING</td>
+      <td>Title contains acronyms potentially</td>
+    </tr>
+    <tr>
       <td>2026-04-15</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>WARNING</td>
