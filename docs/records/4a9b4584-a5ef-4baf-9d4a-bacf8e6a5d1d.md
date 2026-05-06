@@ -14,6 +14,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 |:--------|:----------------------------------------------------------------------------------------------------------------|
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute' |
 
+
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-MkEosZGlTnDy2oMp9nX" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 

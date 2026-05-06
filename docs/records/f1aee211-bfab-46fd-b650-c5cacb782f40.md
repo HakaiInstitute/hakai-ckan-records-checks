@@ -18,6 +18,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 | WARNING | Contact missing ORCID: contact['individual-name']='Giesbrecht, Ian' contact.get('organisation-name')='Hakai Institute'   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute' |
 
+
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RvRPlFMSsIaBwoGdQIq5BVYfBBa2/-NpRG7xQ84LQrgS4jhie" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 

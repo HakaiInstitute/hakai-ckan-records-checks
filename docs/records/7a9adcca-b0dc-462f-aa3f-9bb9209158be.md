@@ -22,6 +22,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 | WARNING | Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
 
+
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/df5J7W5Hk4e0p4yvlOAI0qcU9Gs2/-MtG8b48aDAEdJoqNT6N" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 

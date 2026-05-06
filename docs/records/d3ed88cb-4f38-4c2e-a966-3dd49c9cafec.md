@@ -21,6 +21,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 | WARNING | No funder                                                                                                                                     |
 | WARNING | No publisher                                                                                                                                  |
 
+
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTZhamNPb0U3cThnR0o" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 

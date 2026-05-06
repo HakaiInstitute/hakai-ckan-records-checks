@@ -15,6 +15,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 | INFO    | No version                                                                                                                |
 | WARNING | Contact missing ORCID: contact['individual-name']='Michalchuk, Trevor' contact.get('organisation-name')='Hakai Institute' |
 
+
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RLSJmX44tkZoh8ncSpZECUoikBt1/-Olwvch3kCplJcz3CCeR" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
