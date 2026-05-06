@@ -1,3 +1,4 @@
+import json
 import os
 import pickle
 import sys
@@ -60,6 +61,34 @@ def format_summary(summary, base_url=""):
     return summary.astype(
         {"resources_count": "int32", "citation_count": "int32"}
     ).fillna("")
+
+
+def compute_metrics(catalog_summary):
+    total = len(catalog_summary)
+    with_doi = int((catalog_summary["doi"].fillna("") != "").sum())
+    with_issues = int(catalog_summary["sum"].notna().sum()) if "sum" in catalog_summary.columns else 0
+    total_errors = int(catalog_summary["ERROR"].fillna(0).sum()) if "ERROR" in catalog_summary.columns else 0
+    total_warnings = int(catalog_summary["WARNING"].fillna(0).sum()) if "WARNING" in catalog_summary.columns else 0
+    return {
+        "date": pd.Timestamp.now().date().isoformat(),
+        "total_records": total,
+        "records_with_issues": with_issues,
+        "pct_with_doi": round(with_doi / total * 100, 1) if total > 0 else 0.0,
+        "total_errors": total_errors,
+        "total_warnings": total_warnings,
+    }
+
+
+def _build_metric(label, value_str, raw_delta, lower_is_better=None, pct=False):
+    delta_str = None
+    color = "gray"
+    if raw_delta is not None and raw_delta != 0:
+        sign = "+" if raw_delta > 0 else ""
+        suffix = "%" if pct else ""
+        delta_str = f"{sign}{raw_delta}{suffix}"
+        if lower_is_better is not None:
+            color = "green" if (raw_delta < 0) == lower_is_better else "red"
+    return {"label": label, "value": value_str, "delta": delta_str, "color": color}
 
 
 def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
@@ -177,46 +206,40 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     standardized_issues["message"] = standardized_issues["message"].apply(
         lambda x: x.split(":")[0] if x else x
     )
-    standardized_issues["level"] = standardized_issues["level"].astype(level_type)
     grouped_issues = (
-        standardized_issues.groupby(["level", "message"])
-        .count()["record_id"]
-        .sort_index()
-        .reset_index()
+        standardized_issues
+        .drop_duplicates(subset=["record_id", "message"])
+        .groupby("message")
+        .size()
+        .sort_values()
+        .reset_index(name="count")
     )
 
-    figure_issues_distribution = px.histogram(
+    figure_issues_distribution = px.bar(
         grouped_issues,
-        x="record_id",
+        x="count",
         y="message",
-        color="level",
-        labels={"record_id": "Number of Issues"},
-        color_discrete_map={"INFO": "lightblue", "WARNING": "orange", "ERROR": "red"},
+        labels={"count": "Number of Records with Issue"},
         orientation="h",
+        template="none",
+        color_discrete_sequence=["#AA2026"],
     )
 
     figure_issues_distribution.update_layout(
-        legend=dict(
-            orientation="h",
-            yanchor="bottom",
-            y=1,
-            xanchor="left",
-            x=0,
-            font=dict(size=10),
-            itemwidth=30,
-        ),
         plot_bgcolor="rgba(0,0,0,0)",
+        paper_bgcolor="rgba(0,0,0,0)",
         xaxis=dict(
-            title="Number of Issues",
+            title="Number of Records with Issue",
+            tickformat="d",
         ),
         yaxis=dict(
-            tickfont=dict(
-                size=10,
-            ),
+            tickfont=dict(size=10),
             linecolor="black",
             title=None,
-            categoryorder="total ascending",
+            automargin=True,
         ),
+        margin=dict(l=0, r=20, t=20, b=40),
+        showlegend=False,
     )
     figure_issues_distribution.update_traces(textposition="inside")
     figure_issues_distribution.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
@@ -264,10 +287,30 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         showlegend=False,
     )
     
-     # main page
     logger.info(f"Saving results to: {output=}")
     output = Path(output)
     output.mkdir(parents=True, exist_ok=True)
+
+    # Compute and persist metrics history
+    current_metrics = compute_metrics(results["catalog_summary"])
+    metrics_file = output / "metrics_history.json"
+    history = json.loads(metrics_file.read_text()) if metrics_file.exists() else []
+    previous = history[-1] if history else None
+    delta = {}
+    if previous:
+        for k, v in current_metrics.items():
+            if k != "date" and isinstance(v, (int, float)):
+                d = round(v - previous.get(k, v), 1)
+                delta[k] = d if d != 0 else None
+    history.append(current_metrics)
+    metrics_file.write_text(json.dumps(history[-52:], indent=2))
+
+    metrics_display = [
+        _build_metric("Total Records", str(current_metrics["total_records"]), delta.get("total_records")),
+        _build_metric("Records with Issues", str(current_metrics["records_with_issues"]), delta.get("records_with_issues"), lower_is_better=True),
+        _build_metric("% Records with DOI", f"{current_metrics['pct_with_doi']}%", delta.get("pct_with_doi"), lower_is_better=False, pct=True),
+    ]
+
     environment.get_template("index.md").stream(
         catalog_summary=format_summary(results["catalog_summary"]),
         timeseries_figure=timeseries_figure,
@@ -275,6 +318,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         figure_issues_distribution=figure_issues_distribution,
         pio=pio,
         ckan_url=ckan_url,
+        metrics=metrics_display,
     ).dump(f"{output}/index.md")
 
     # save issue summary page
