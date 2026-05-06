@@ -14,6 +14,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 |:--------|:-----------|
 | INFO    | No version |
 
+
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUV1QlY5N1AwYk42TFo" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
