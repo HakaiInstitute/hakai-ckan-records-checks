@@ -215,6 +215,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             ),
             linecolor="black",
             title=None,
+            categoryorder="total ascending",
         ),
     )
     figure_issues_distribution.update_traces(textposition="inside")
