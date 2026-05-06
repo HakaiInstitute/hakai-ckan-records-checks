@@ -200,22 +200,6 @@ def test_record_requirements(record) -> pd.DataFrame:
 
 @logger.catch(default={})
 def get_record_summary(record):
-    record_id = record["id"]
-    name = record["name"]
-    organization = record["organization"]["title"]
-    title = record["title"]
-    resource_type = record.get("resource-type")
-    licence = record.get("license_id")
-    private = record.get("private")
-    projects = ", ".join(record.get("projects", []))
-    progress = record.get("progress")
-    state = record.get("state")
-    record_type = record.get("type")
-    distributor = record.get("distributor", [{}])[0].get("organisation-name")
-    resources_count = len(record.get("resources", []))
-    spatial = record.get("spatial")
-    vertical_extent = record.get("vertical-extent")
-    eov = ", ".join(record.get("eov", []))
     dois = [
         item["code"]
         for item in record.get("unique-resource-identifier-full", [])
@@ -234,22 +218,22 @@ def get_record_summary(record):
     }
 
     return {
-        "id": record_id,
-        "name": name,
-        "organization": organization,
-        "title": title,
-        "resource-type": resource_type,
-        "licence": licence,
-        "private": private,
-        "projects": projects,
-        "progress": progress,
-        "state": state,
-        "type": record_type,
-        "distributor": distributor,
-        "resources_count": resources_count,
-        "spatial": spatial,
-        "vertical-extent": vertical_extent,
-        "eov": eov,
+        "id": record["id"],
+        "name": record["name"],
+        "organization": record["organization"]["title"],
+        "title": record["title"],
+        "resource-type": record.get("resource-type"),
+        "licence": record.get("license_id"),
+        "private": record.get("private"),
+        "projects": ", ".join(record.get("projects", [])),
+        "progress": record.get("progress"),
+        "state": record.get("state"),
+        "type": record.get("type"),
+        "distributor": record.get("distributor", [{}])[0].get("organisation-name"),
+        "resources_count": len(record.get("resources", [])),
+        "spatial": record.get("spatial"),
+        "vertical-extent": record.get("vertical-extent"),
+        "eov": ", ".join(record.get("eov", [])),
         "doi": doi,
         "form_url": form_url,
         **metadata_dates,
