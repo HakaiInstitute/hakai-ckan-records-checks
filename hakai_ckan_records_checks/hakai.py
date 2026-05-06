@@ -238,7 +238,7 @@ def get_record_summary(record):
         "name": record["name"],
         "organization": record["organization"]["title"],
         "title": record["title"],
-        "ressource-type": record.get("resource-type"),
+        "resource-type": record.get("resource-type"),
         "licence": record.get("license_id"),
         "private": record.get("private"),
         "projects": ", ".join(record.get("projects", [])),
