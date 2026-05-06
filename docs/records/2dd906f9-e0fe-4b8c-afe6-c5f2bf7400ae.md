@@ -7,32 +7,7 @@ hide:
 
 # Herring Survey Data - 2016 - BC Central Coast
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Geospatial 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 2 
-    - **Vertical Extent**: [{'max': '-10.0', 'min': '0.0'}] 
-    - **Eov**: other 
-    - **Doi**:  
-    - **Metadata Publication**: 2022-01-21 
-    - **Metadata Revision**: 2024-07-24 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd</a>
 
 ## Issues
 | level   | message                                                                                                                                 |
@@ -42,6 +17,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='McInnes, Will' contact.get('organisation-name')='Hakai Institute'                    |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MXhzYmdPTzl2elpwWFM" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

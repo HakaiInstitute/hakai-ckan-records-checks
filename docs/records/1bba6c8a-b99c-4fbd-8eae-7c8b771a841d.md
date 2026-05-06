@@ -7,32 +7,7 @@ hide:
 
 # Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other, inorganicCarbon 
-    - **Doi**: 10.21966/1.715784 
-    - **Metadata Publication**: 2022-01-24 
-    - **Metadata Revision**: 2026-02-20 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0</a>
 
 ## Issues
 | level   | message                                                                                                             |
@@ -44,6 +19,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88f
 | WARNING | No publisher                                                                                                        |
 | WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MXM3TWYzcWNJZ2p1Nk0" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

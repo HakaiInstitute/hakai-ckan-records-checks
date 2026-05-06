@@ -64,9 +64,12 @@ extra_javascript:
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
   - https://cdn.datatables.net/2.0.8/js/dataTables.min.js
 
+nav:
+  - Summary: index.md
+
 extra:
   social:
-    - icon: fontawesome/brands/github 
+    - icon: fontawesome/brands/github
       link: https://github.com/HakaiInstitute
   version:
     provider: mike

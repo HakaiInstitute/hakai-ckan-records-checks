@@ -7,32 +7,7 @@ hide:
 
 # Stage-Discharge Time Series - Calvert Island - Archived Version 2.0
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Watersheds 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other 
-    - **Doi**: 10.21966/1.243102 
-    - **Metadata Publication**: 2022-01-17 
-    - **Metadata Revision**: 2024-07-24 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a</a>
 
 ## Issues
 | level   | message                                                                                                                                 |
@@ -40,6 +15,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aed
 | INFO    | Record isn't accesible via a standard data repository                                                                                   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Korver, Maartje' contact.get('organisation-name')='Hakai Institute'                  |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUVFTFdKeHlaQ29nNTQ" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

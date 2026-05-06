@@ -7,32 +7,13 @@ hide:
 
 # {{ record['title'] }}
 
-Records page: {{ record['Catalogue'] }}
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/{{ record['name'] }}" target="_blank">https://catalogue.hakai.org/dataset/{{ record['name'] }}</a>
 
-???+ abstract "Metadata"
-{% for key,value in record.to_dict().items() if key not in ('ERROR','WARNING','INFO','sum','title','spatial','Title','citation_count','citations_over_time','relationships') %}
-    - **{{ key.replace(('-'),' ').replace('_',' ').title() }}**: {{value}} {% endfor %}
-
-<div id='map'></div>
-
-{% if record['citation_count'] and record['citation_count'] > 0 %}
-## Citations
-
-**Total Citations**: {{ record['citation_count']}}
-
-### Citations over time
-
-{{ pd.DataFrame(record['citations_over_time']).set_index('year').T.to_markdown(index=False) }}
-
-### Citations
-
-{{ pd.DataFrame(record['relationships']).to_markdown(index=False) }}
-
-{% endif %}
-
-{% if not issues.empty %}
 ## Issues
-{{ issues.sort_values('level').drop(columns=['record_id']).to_markdown(index=false) }}
+{{ issues.sort_values('level').drop(columns=['record_id']).to_markdown(index=False) }}
+{% if form_url %}
+
+<a href="{{ form_url }}" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 {% endif %}
 
 <script>

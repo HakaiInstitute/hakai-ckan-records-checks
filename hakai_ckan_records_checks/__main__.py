@@ -3,7 +3,6 @@ import pickle
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-import re
 
 import click
 import pandas as pd
@@ -34,6 +33,9 @@ def format_summary(summary, base_url=""):
             return ""
         return f"<a title='{record_row['id']}' href='{base_url}records/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
 
+    for col in ["INFO", "WARNING", "ERROR", "sum"]:
+        if col not in summary.columns:
+            summary[col] = pd.NA
     summary[["INFO", "WARNING", "ERROR", "sum"]] = summary[
         ["INFO", "WARNING", "ERROR", "sum"]
     ].astype("Int64")
@@ -49,6 +51,8 @@ def format_summary(summary, base_url=""):
         + summary["title"].fillna("")
         + "</a>",
     )
+    if "citation_count" not in summary.columns:
+        summary["citation_count"] = pd.NA
     summary["citation_count"] = summary["citation_count"].fillna(-1)
     summary["Last Revised"] = summary["metadata_revision"].fillna(summary["metadata_publication"])
 
@@ -294,14 +298,13 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         ).dump(f"{output}/issues/{filename}.md")
 
     # create record specific pages
-    catalog_summary_for_html = format_summary(results["catalog_summary"],base_url="../").set_index("id")
+    catalog_summary_for_html = format_summary(results["catalog_summary"], base_url="../").set_index("id")
     Path(output, "records").mkdir(parents=True, exist_ok=True)
-    environment.get_template("records.md").stream(
-        catalog_summary=catalog_summary_for_html,
-    ).dump(f"{output}/records/index.md")
     for record_id, issues in results["test_results"].groupby("record_id"):
+        record = catalog_summary_for_html.loc[record_id]
         environment.get_template("record.md").stream(
-            record=catalog_summary_for_html.loc[record_id],
+            record=record,
+            form_url=record.get("form_url", ""),
             issues=issues,
             pd=pd,
         ).dump(f"{output}/records/{record_id}.md")
