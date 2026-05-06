@@ -7,37 +7,15 @@ hide:
 
 # Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Oceanography 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '260.0', 'min': '90.0'}] 
-    - **Eov**: oxygen, subSurfaceSalinity, subSurfaceTemperature 
-    - **Doi**: 10.21966/yp9n-w389 
-    - **Metadata Publication**: 2022-04-11 
-    - **Metadata Revision**: 2026-02-20 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0</a>
 
 ## Issues
 | level   | message                                                                                                         |
 |:--------|:----------------------------------------------------------------------------------------------------------------|
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute' |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-MkEosZGlTnDy2oMp9nX" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

@@ -7,32 +7,7 @@ hide:
 
 # Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Geospatial, Nearshore 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 3 
-    - **Vertical Extent**: [{'max': '0.0', 'min': '0.0'}] 
-    - **Eov**: other, macroalgalCanopyCoverAndComposition 
-    - **Doi**: 10.21966/82bd-ks94 
-    - **Metadata Publication**: 2022-03-02 
-    - **Metadata Revision**: 2024-07-23 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96</a>
 
 ## Issues
 | level   | message                                                                                                                 |
@@ -42,6 +17,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e17
 | INFO    | Record isn't accesible via a standard data repository                                                                   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTFIWmZWeEE0RkZrZVc" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

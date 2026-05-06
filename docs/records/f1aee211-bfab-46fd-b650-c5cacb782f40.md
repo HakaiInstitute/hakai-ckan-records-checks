@@ -7,32 +7,7 @@ hide:
 
 # Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Airborne Coastal Observatory, Geospatial 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '2600.0', 'min': '0.0'}] 
-    - **Eov**: other 
-    - **Doi**: 10.21966/e4b8-vp48 
-    - **Metadata Publication**: 2024-10-09 
-    - **Metadata Revision**: 2025-04-23 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a</a>
 
 ## Issues
 | level   | message                                                                                                                  |
@@ -42,6 +17,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08e
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'  |
 | WARNING | Contact missing ORCID: contact['individual-name']='Giesbrecht, Ian' contact.get('organisation-name')='Hakai Institute'   |
 | WARNING | Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute' |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RvRPlFMSsIaBwoGdQIq5BVYfBBa2/-NpRG7xQ84LQrgS4jhie" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

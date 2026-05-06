@@ -33,6 +33,9 @@ def format_summary(summary, base_url=""):
             return ""
         return f"<a title='{record_row['id']}' href='{base_url}records/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
 
+    for col in ["INFO", "WARNING", "ERROR", "sum"]:
+        if col not in summary.columns:
+            summary[col] = pd.NA
     summary[["INFO", "WARNING", "ERROR", "sum"]] = summary[
         ["INFO", "WARNING", "ERROR", "sum"]
     ].astype("Int64")
@@ -47,6 +50,8 @@ def format_summary(summary, base_url=""):
         + summary["name"]
         + "' target='_blank'>link</a>",
     )
+    if "citation_count" not in summary.columns:
+        summary["citation_count"] = pd.NA
     summary["citation_count"] = summary["citation_count"].fillna(-1)
 
     return summary.astype(
@@ -268,8 +273,10 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     catalog_summary_for_html = format_summary(results["catalog_summary"], base_url="../").set_index("id")
     Path(output, "records").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
+        record = catalog_summary_for_html.loc[record_id]
         environment.get_template("record.md").stream(
-            record=catalog_summary_for_html.loc[record_id],
+            record=record,
+            form_url=record.get("form_url", ""),
             issues=issues,
             pd=pd,
         ).dump(f"{output}/records/{record_id}.md")

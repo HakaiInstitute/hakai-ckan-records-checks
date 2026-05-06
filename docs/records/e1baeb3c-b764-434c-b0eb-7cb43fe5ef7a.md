@@ -7,32 +7,7 @@ hide:
 
 # Trails - Calvert Island - British Columbia - Canada
 
-Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c' target='_blank'>link</a>
-
-???+ abstract "Metadata"
-
-    - **Name**: ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c 
-    - **Organization**: Hakai Institute 
-    - **Ressource Type**: dataset 
-    - **Licence**: CC-BY-4.0 
-    - **Private**: False 
-    - **Projects**: Geospatial 
-    - **Progress**: completed 
-    - **State**: active 
-    - **Type**: dataset 
-    - **Distributor**: Hakai Institute 
-    - **Resources Count**: 1 
-    - **Vertical Extent**: [{'max': '125.0', 'min': '0.0'}] 
-    - **Eov**: other 
-    - **Doi**:  
-    - **Metadata Publication**: 2022-03-11 
-    - **Metadata Revision**: 2024-07-24 
-    - **Catalogue**: <a href='https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c' target='_blank'>link</a> 
-
-<div id='map'></div>
-
-
-
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c</a>
 
 ## Issues
 | level   | message                                                                                                                            |
@@ -41,6 +16,9 @@ Records page: <a href='https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89
 | WARNING | No DOI defined                                                                                                                     |
 | WARNING | Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute' |
+
+
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUpVU2tGOVdZMk85OHU" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

@@ -41,18 +41,18 @@ Download:
 [CSV](catalog_summary.csv){ .md-button }
 
 {{
-  catalog_summary[[
+  catalog_summary.reindex(columns=[
     'Title','Catalogue','sum','projects','licence','progress','state',
-    'ressource-type','eov','metadata_publication','metadata_revision',
+    'resource-type','eov','metadata_publication','metadata_revision',
     'doi',
     'citation_count','citations_over_time',
-  ]]
+  ]).fillna("")
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
   .rename(columns={
     "sum": "Issues",
     "metadata_publication":"publication",
     "metadata_revision":"revision",
-    "ressource-type":"ressour type",
+    "resource-type":"resource type",
     "citation_count": "Citations",
     "citation_over_time": "Citation Distribution"
   })
