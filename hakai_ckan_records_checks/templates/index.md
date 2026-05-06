@@ -41,12 +41,12 @@ Download:
 [CSV](catalog_summary.csv){ .md-button }
 
 {{
-  catalog_summary[[
+  catalog_summary.reindex(columns=[
     'Title','Catalogue','sum','projects','licence','progress','state',
     'resource-type','eov','metadata_publication','metadata_revision',
     'doi',
     'citation_count','citations_over_time',
-  ]]
+  ]).fillna("")
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
   .rename(columns={
     "sum": "Issues",
