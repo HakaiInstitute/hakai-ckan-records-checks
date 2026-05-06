@@ -7,14 +7,14 @@ hide:
 
 # Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0</a>
 
 ## Issues
 | level   | message                                                                                                         |
 |:--------|:----------------------------------------------------------------------------------------------------------------|
 | WARNING | Contact missing organization ROR:  contact['individual-name']='' contact['organisation-name']='Hakai Institute' |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-MkEosZGlTnDy2oMp9nX)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-MkEosZGlTnDy2oMp9nX" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

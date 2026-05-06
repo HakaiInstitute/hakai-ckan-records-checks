@@ -7,7 +7,7 @@ hide:
 
 # Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96</a>
 
 ## Issues
 | level   | message                                                                                                                 |
@@ -18,7 +18,7 @@ View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_5c
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTFIWmZWeEE0RkZrZVc)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTFIWmZWeEE0RkZrZVc" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

@@ -7,7 +7,7 @@ hide:
 
 # Trails - Calvert Island - British Columbia - Canada
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_ea4e84d5-c89c-4611-9594-449e468bd76c</a>
 
 ## Issues
 | level   | message                                                                                                                            |
@@ -17,7 +17,7 @@ View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_ea
 | WARNING | Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Technology Team, Geospatial' contact.get('organisation-name')='Hakai Institute' |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUpVU2tGOVdZMk85OHU)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUpVU2tGOVdZMk85OHU" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

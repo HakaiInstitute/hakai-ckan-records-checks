@@ -7,7 +7,7 @@ hide:
 
 # Seawater Carbon Dioxide (CO2) Content from the SuperCO2 System in the Pacific Ecosystem Autonomous Research Laboratory, Bamfield Marine Sciences Centre, BC, Canada (Provisional)
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_1efbadd2-e735-48cc-9498-e3a5a88e48a6>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_1efbadd2-e735-48cc-9498-e3a5a88e48a6" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_1efbadd2-e735-48cc-9498-e3a5a88e48a6</a>
 
 ## Issues
 | level   | message                                                                                                                   |
@@ -15,7 +15,7 @@ View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_1e
 | INFO    | No version                                                                                                                |
 | WARNING | Contact missing ORCID: contact['individual-name']='Michalchuk, Trevor' contact.get('organisation-name')='Hakai Institute' |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RLSJmX44tkZoh8ncSpZECUoikBt1/-Olwvch3kCplJcz3CCeR)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RLSJmX44tkZoh8ncSpZECUoikBt1/-Olwvch3kCplJcz3CCeR" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

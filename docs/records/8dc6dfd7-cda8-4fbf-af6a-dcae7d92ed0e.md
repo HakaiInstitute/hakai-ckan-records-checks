@@ -7,7 +7,7 @@ hide:
 
 # Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d</a>
 
 ## Issues
 | level   | message                                                                                                                 |
@@ -16,7 +16,7 @@ View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_d7
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RvRPlFMSsIaBwoGdQIq5BVYfBBa2/-OCe-GBA4i93dk_I9uOR)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RvRPlFMSsIaBwoGdQIq5BVYfBBa2/-OCe-GBA4i93dk_I9uOR" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

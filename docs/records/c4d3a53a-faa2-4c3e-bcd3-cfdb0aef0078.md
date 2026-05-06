@@ -7,14 +7,14 @@ hide:
 
 # Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_355467ad-104d-40a6-b06e-52a67bfe247e>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_355467ad-104d-40a6-b06e-52a67bfe247e" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_355467ad-104d-40a6-b06e-52a67bfe247e</a>
 
 ## Issues
 | level   | message                                               |
 |:--------|:------------------------------------------------------|
 | INFO    | Record isn't accesible via a standard data repository |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RLSJmX44tkZoh8ncSpZECUoikBt1/-O6XpUwSfsllQlTBMz53)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RLSJmX44tkZoh8ncSpZECUoikBt1/-O6XpUwSfsllQlTBMz53" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

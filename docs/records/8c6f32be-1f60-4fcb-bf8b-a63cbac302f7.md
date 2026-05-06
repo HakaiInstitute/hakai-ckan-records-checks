@@ -7,7 +7,7 @@ hide:
 
 # Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9</a>
 
 ## Issues
 | level   | message                                                                                                                                                |
@@ -23,7 +23,7 @@ View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_50
 | WARNING | Contact missing ORCID: contact['individual-name']='Brunsting, Ray' contact.get('organisation-name')='Hakai Institute'                                  |
 | WARNING | Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'                                 |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MVhmY1RwNHlma250bWg)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MVhmY1RwNHlma250bWg" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

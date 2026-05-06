@@ -7,12 +7,13 @@ hide:
 
 # {{ record['title'] }}
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/{{ record['name'] }}>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/{{ record['name'] }}" target="_blank">https://catalogue.hakai.org/dataset/{{ record['name'] }}</a>
 
 ## Issues
 {{ issues.sort_values('level').drop(columns=['record_id']).to_markdown(index=False) }}
 {% if form_url %}
-[Click here to resolve these issues in the Metadata Entry Form]({{ form_url }})
+
+<a href="{{ form_url }}" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 {% endif %}
 
 <script>

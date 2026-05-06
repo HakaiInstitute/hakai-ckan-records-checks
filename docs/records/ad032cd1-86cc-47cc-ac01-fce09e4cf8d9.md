@@ -7,7 +7,7 @@ hide:
 
 # Data on invasion of Calvert Island by Orthione griffenis
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33</a>
 
 ## Issues
 | level   | message                                                                                                             |
@@ -20,7 +20,7 @@ View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_fc
 | WARNING | Contact missing ORCID: contact['individual-name']='Whalen, Matt' contact.get('organisation-name')='Hakai Institute' |
 | WARNING | Contact missing ORCID: contact['individual-name']='Whalen, Matt' contact.get('organisation-name')='Hakai Institute' |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MWpwT0Z6RlAySHp6cU0)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MWpwT0Z6RlAySHp6cU0" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

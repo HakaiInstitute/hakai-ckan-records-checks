@@ -7,14 +7,14 @@ hide:
 
 # Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e</a>
 
 ## Issues
 | level   | message    |
 |:--------|:-----------|
 | INFO    | No version |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUV1QlY5N1AwYk42TFo)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUV1QlY5N1AwYk42TFo" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>

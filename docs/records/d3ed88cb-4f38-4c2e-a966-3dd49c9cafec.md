@@ -7,7 +7,7 @@ hide:
 
 # Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016
 
-View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03>
+View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03</a>
 
 ## Issues
 | level   | message                                                                                                                                       |
@@ -21,7 +21,7 @@ View Record in Hakai Catalogue: <https://catalogue.hakai.org/dataset/ca-cioos_80
 | WARNING | No funder                                                                                                                                     |
 | WARNING | No publisher                                                                                                                                  |
 
-[Click here to resolve these issues in the Metadata Entry Form](https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTZhamNPb0U3cThnR0o)
+<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTZhamNPb0U3cThnR0o" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
 
 
 <script>
