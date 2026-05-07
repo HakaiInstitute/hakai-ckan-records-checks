@@ -36,8 +36,8 @@ plugins:
   - search
   - git-revision-date-localized:
       enable_creation_date: true
-  - mike:
-      version_selector: false
+  # - mike:
+  #     version_selector: false
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -63,6 +63,7 @@ extra_javascript:
   - https://code.jquery.com/jquery-3.5.1.js
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
   - https://cdn.datatables.net/2.0.8/js/dataTables.min.js
+  - https://cdn.plot.ly/plotly-3.5.0.min.js
 
 nav:
   - Summary: index.md
@@ -71,7 +72,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/HakaiInstitute
-  version:
-    provider: mike
-    default: main
-    hidden: true
+  # version:
+  #   provider: mike
+  #   default: main
+  #   hidden: true

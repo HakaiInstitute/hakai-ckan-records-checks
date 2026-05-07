@@ -33,9 +33,17 @@ This page present a summary of the different metadata records distributed at <ht
 
 ## Issue Distribution
 
-``` plotly
-{"data":[{"hovertemplate":"Number of Records with Issue=%{x}\u003cbr\u003emessage=%{y}\u003cextra\u003e\u003c\u002fextra\u003e","legendgroup":"","marker":{"color":"#AA2026","pattern":{"shape":""}},"name":"","orientation":"h","showlegend":false,"textposition":"inside","x":{"dtype":"i2","bdata":"AQACAAMABgAHAAwAEAAZACAAJwAvADcARwCTAKUAxQA="},"xaxis":"x","y":["Title contains the word dataset","Invalid resource format","Empty resource name","DOI is not redirecting to Hakai's catalogue","Invalid licence","Invalid resources.url.status_code","No projects associated","Invalid distributor organisation-name","No publisher","Contact missing organization ROR","Title contains acronyms potentially","No DOI defined","No funder","No version","Record isn't accesible via a standard data repository","Contact missing ORCID"],"yaxis":"y","type":"bar"}],"layout":{"template":{"data":{"scatter":[{"type":"scatter"}]}},"xaxis":{"anchor":"y","domain":[0.0,1.0],"title":{"text":"Number of Records with Issue"},"tickformat":"d"},"yaxis":{"anchor":"x","domain":[0.0,1.0],"title":{},"tickfont":{"size":10},"linecolor":"black","automargin":true},"legend":{"tracegroupgap":0},"margin":{"t":20,"l":0,"r":20,"b":40},"barmode":"relative","plot_bgcolor":"rgba(0,0,0,0)","paper_bgcolor":"rgba(0,0,0,0)","showlegend":false,"uniformtext":{"minsize":12,"mode":"hide"}}}
-```
+<div id="issue-distribution-chart" style="width:100%;min-height:400px;"></div>
+<script>
+(function waitForPlotly() {
+  if (typeof Plotly !== 'undefined') {
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 3.0, 6.0, 7.0, 12.0, 16.0, 25.0, 32.0, 39.0, 47.0, 55.0, 71.0, 147.0, 165.0, 197.0], "textposition": "outside", "x": [1, 2, 3, 6, 7, 12, 16, 25, 32, 39, 47, 55, 71, 147, 165, 197], "xaxis": "x", "y": ["Title contains the word dataset", "Invalid resource format", "Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Invalid licence", "Invalid resources.url.status_code", "No projects associated", "Invalid distributor organisation-name", "No publisher", "Contact missing organization ROR", "Title contains acronyms potentially", "No DOI defined", "No funder", "No version", "Record isn't accesible via a standard data repository", "Contact missing ORCID"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    Plotly.newPlot('issue-distribution-chart', fig.data, fig.layout, {responsive: true});
+  } else {
+    setTimeout(waitForPlotly, 50);
+  }
+})();
+</script>
 
 ## Records Summary Table
 

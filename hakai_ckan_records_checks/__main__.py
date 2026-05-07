@@ -1,15 +1,17 @@
+import base64
+import datetime
 import json
 import os
 import pickle
+import re
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
-import re
 
 import click
+import numpy as np
 import pandas as pd
 import plotly.express as px
-import plotly.io as pio
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
 from tqdm import tqdm
@@ -27,6 +29,26 @@ CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
 IGNORE_RECORD_IDS = "hakai-metadata-form-data"
 level_type = pd.CategoricalDtype(categories=["INFO", "WARNING", "ERROR"], ordered=True)
+
+
+def fig_to_json(fig):
+    def to_serializable(obj):
+        if isinstance(obj, dict):
+            if "bdata" in obj and "dtype" in obj:
+                return np.frombuffer(base64.b64decode(obj["bdata"]), dtype=np.dtype("<" + obj["dtype"])).tolist()
+            return {k: to_serializable(v) for k, v in obj.items()}
+        if isinstance(obj, (list, tuple)):
+            return [to_serializable(v) for v in obj]
+        if isinstance(obj, np.ndarray):
+            return [to_serializable(v) for v in obj.tolist()]
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, (datetime.datetime, datetime.date)):
+            return obj.isoformat()
+        return obj
+    return json.dumps(to_serializable(fig.to_dict()))
 
 
 def format_summary(summary, base_url=""):
@@ -219,6 +241,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         grouped_issues,
         x="count",
         y="message",
+        text="count",
         labels={"count": "Number of Records with Issue"},
         orientation="h",
         template="none",
@@ -238,11 +261,10 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
             title=None,
             automargin=True,
         ),
-        margin=dict(l=0, r=20, t=20, b=40),
+        margin=dict(l=0, r=60, t=20, b=40),
         showlegend=False,
     )
-    figure_issues_distribution.update_traces(textposition="inside")
-    figure_issues_distribution.update_layout(uniformtext_minsize=12, uniformtext_mode="hide")
+    figure_issues_distribution.update_traces(textposition="outside", cliponaxis=False)
 
     # submission timeseries
     publication_time = pd.to_datetime(
@@ -311,12 +333,15 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         _build_metric("% Records with DOI", f"{current_metrics['pct_with_doi']}%", delta.get("pct_with_doi"), lower_is_better=False, pct=True),
     ]
 
+    figure_issues_distribution_json = fig_to_json(figure_issues_distribution)
+    timeseries_figure_json = fig_to_json(timeseries_figure)
+    citations_over_time_figure_json = fig_to_json(citations_over_time_figure)
+
     environment.get_template("index.md").stream(
         catalog_summary=format_summary(results["catalog_summary"]),
-        timeseries_figure=timeseries_figure,
-        citations_over_time_figure=citations_over_time_figure,
-        figure_issues_distribution=figure_issues_distribution,
-        pio=pio,
+        timeseries_figure_json=timeseries_figure_json,
+        citations_over_time_figure_json=citations_over_time_figure_json,
+        figure_issues_distribution_json=figure_issues_distribution_json,
         ckan_url=ckan_url,
         metrics=metrics_display,
     ).dump(f"{output}/index.md")
@@ -325,10 +350,9 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     Path(output, "issues").mkdir(parents=True, exist_ok=True)
     environment.get_template("issues.md").stream(
         catalog_summary=format_summary(results["catalog_summary"], base_url="../"),
-        timeseries_figure=timeseries_figure,
-        citations_over_time_figure=citations_over_time_figure,
-        figure_issues_distribution=figure_issues_distribution,
-        pio=pio,
+        timeseries_figure_json=timeseries_figure_json,
+        citations_over_time_figure_json=citations_over_time_figure_json,
+        figure_issues_distribution_json=figure_issues_distribution_json,
         issues_table=combined_issues,
     ).dump(f"{output}/issues/index.md")
 

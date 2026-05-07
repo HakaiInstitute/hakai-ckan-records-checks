@@ -23,9 +23,17 @@ This page present a summary of the different metadata records distributed at <{{
 
 ## Issue Distribution
 
-``` plotly
-{{ pio.to_json(figure_issues_distribution) }}
-```
+<div id="issue-distribution-chart" style="width:100%;min-height:400px;"></div>
+<script>
+(function waitForPlotly() {
+  if (typeof Plotly !== 'undefined') {
+    var fig = {{ figure_issues_distribution_json }};
+    Plotly.newPlot('issue-distribution-chart', fig.data, fig.layout, {responsive: true});
+  } else {
+    setTimeout(waitForPlotly, 50);
+  }
+})();
+</script>
 
 ## Records Summary Table
 
