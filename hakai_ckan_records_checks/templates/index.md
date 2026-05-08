@@ -65,9 +65,8 @@ This page present a summary of the different metadata records distributed at <{{
         columnDefs: [{
           targets: 1,
           render: function(data, type, row) {
-            if (type === 'sort') {
-              var match = String(data).match(/>(\d+)</);
-              return match ? parseInt(match[1], 10) : 0;
+            if (type !== 'display') {
+              return parseInt(String(data).replace(/<[^>]*>/g, ''), 10) || 0;
             }
             return data;
           }
