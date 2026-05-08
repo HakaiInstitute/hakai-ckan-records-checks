@@ -11,7 +11,6 @@ This page present the list of all the records associated with the issue: **Title
     <tr style="text-align: right;">
       <th>metadata_revision</th>
       <th>title</th>
-      <th>level</th>
       <th>message</th>
     </tr>
   </thead>
@@ -19,7 +18,6 @@ This page present the list of all the records associated with the issue: **Title
     <tr>
       <td>2024-07-23</td>
       <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>INFO</td>
       <td>Title contains the word dataset</td>
     </tr>
   </tbody>

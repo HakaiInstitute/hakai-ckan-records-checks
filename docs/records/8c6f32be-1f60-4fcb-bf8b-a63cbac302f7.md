@@ -9,19 +9,17 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9</a>
 
-## Issues
-| level   | message                                                                                                                                                |
-|:--------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Invalid distributor organisation-name: organization_name='Vancouver Island University' expects 'Hakai Institute'                                       |
-| INFO    | No version                                                                                                                                             |
-| INFO    | Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Vancouver Island University'                   |
-| INFO    | Record isn't accesible via a standard data repository                                                                                                  |
-| WARNING | No funder                                                                                                                                              |
-| WARNING | Contact missing ORCID: contact['individual-name']='Korver, Maartje C.' contact.get('organisation-name')='Hakai Institute -  McGill University'         |
-| WARNING | Contact missing organization ROR:  contact['individual-name']='Korver, Maartje C.' contact['organisation-name']='Hakai Institute -  McGill University' |
-| WARNING | Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'                                 |
-| WARNING | Contact missing ORCID: contact['individual-name']='Brunsting, Ray' contact.get('organisation-name')='Hakai Institute'                                  |
-| WARNING | Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'                                 |
+| Issue                                                                                                                                                  |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| No version                                                                                                                                             |
+| No funder                                                                                                                                              |
+| Contact missing ORCID: contact['individual-name']='Korver, Maartje C.' contact.get('organisation-name')='Hakai Institute -  McGill University'         |
+| Contact missing organization ROR:  contact['individual-name']='Korver, Maartje C.' contact['organisation-name']='Hakai Institute -  McGill University' |
+| Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'                                 |
+| Contact missing ORCID: contact['individual-name']='Floyd, William C.' contact.get('organisation-name')='Vancouver Island University'                   |
+| Contact missing ORCID: contact['individual-name']='Brunsting, Ray' contact.get('organisation-name')='Hakai Institute'                                  |
+| Contact missing ORCID: contact['individual-name']='Haughton, Emily' contact.get('organisation-name')='Hakai Institute'                                 |
+| Record isn't accesible via a standard data repository                                                                                                  |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MVhmY1RwNHlma250bWg" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

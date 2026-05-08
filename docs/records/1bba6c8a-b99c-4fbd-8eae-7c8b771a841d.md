@@ -9,16 +9,14 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0</a>
 
-## Issues
-| level   | message                                                                                                             |
-|:--------|:--------------------------------------------------------------------------------------------------------------------|
-| INFO    | No version                                                                                                          |
-| INFO    | Record isn't accesible via a standard data repository                                                               |
-| WARNING | Title contains acronyms potentially                                                                                 |
-| WARNING | No funder                                                                                                           |
-| WARNING | No publisher                                                                                                        |
-| WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
-| WARNING | Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
+| Issue                                                                                                               |
+|:--------------------------------------------------------------------------------------------------------------------|
+| No version                                                                                                          |
+| No funder                                                                                                           |
+| No publisher                                                                                                        |
+| Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
+| Contact missing ORCID: contact['individual-name']='Evans, Wiley' contact.get('organisation-name')='Hakai Institute' |
+| Record isn't accesible via a standard data repository                                                               |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MXM3TWYzcWNJZ2p1Nk0" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

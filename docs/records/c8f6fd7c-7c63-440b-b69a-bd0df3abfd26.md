@@ -9,14 +9,13 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96</a>
 
-## Issues
-| level   | message                                                                                                                 |
-|:--------|:------------------------------------------------------------------------------------------------------------------------|
-| ERROR   | Empty resource name                                                                                                     |
-| INFO    | No version                                                                                                              |
-| INFO    | Record isn't accesible via a standard data repository                                                                   |
-| WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
-| WARNING | Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
+| Issue                                                                                                                   |
+|:------------------------------------------------------------------------------------------------------------------------|
+| No version                                                                                                              |
+| Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
+| Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute' |
+| Empty resource name                                                                                                     |
+| Record isn't accesible via a standard data repository                                                                   |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MTFIWmZWeEE0RkZrZVc" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
