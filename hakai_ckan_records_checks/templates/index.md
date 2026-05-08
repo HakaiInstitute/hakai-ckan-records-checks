@@ -61,6 +61,17 @@ This page present a summary of the different metadata records distributed at <{{
       $("#records_table").DataTable({
         scrollX: true,
         pageLength: 10,
+        order: [[1, 'desc']],
+        columnDefs: [{
+          targets: 1,
+          render: function(data, type, row) {
+            if (type === 'sort') {
+              var match = String(data).match(/>(\d+)</);
+              return match ? parseInt(match[1], 10) : 0;
+            }
+            return data;
+          }
+        }],
       });
     });
   });
