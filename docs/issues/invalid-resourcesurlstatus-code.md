@@ -23,12 +23,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid resources.url.status_code: 404 for resources[0].url=https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island</td>
     </tr>
     <tr>
-      <td>2026-03-25</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
-      <td>ERROR</td>
-      <td>Invalid resources.url.status_code: timeout for resources[0].url=http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf</td>
-    </tr>
-    <tr>
       <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>ERROR</td>

@@ -5,61 +5,51 @@ hide:
 ---
 # Summary
 
-This page present a summary of the differrent metadata records distributed at <{{ ckan_url }}>.
+This page present a summary of the different metadata records distributed at <{{ ckan_url }}>. Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. 
 
-Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered.
+## Overview
 
-## Spatial Distribution
+<div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
+{% for m in metrics %}
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid {{ m['color'] }};box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">{{ m['value'] }}</div>
+  <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">{{ m['label'] }}</div>
+  {% if m['delta'] %}
+  <div style="font-size:0.8rem;font-weight:600;color:{{ m['color'] }};margin-top:0.5rem;">{{ m['delta'] }} vs last run</div>
+  {% endif %}
+</div>
+{% endfor %}
+</div>
 
-This map present the differet polygons and coordinates associated with all the metadata records.
+## Issue Distribution
 
-<div id="map"></div>
-
-
-## Record Submission Timeseries
-
-This diagram present the cumulative timeseries of the different metadata records made available on the 
-hakai catalogue.
-
-``` plotly
-{{pio.to_json(timeseries_figure)}}
-```
-
-## Citations over time
-
-The citations are retrieved from [DataCite](https://commons.datacite.org) for
-each records assoicated with a DOI.
-
-``` plotly
-{{ pio.to_json(citations_over_time_figure)}}
-```
+<div id="issue-distribution-chart" style="width:100%;min-height:400px;"></div>
+<script>
+(function waitForPlotly() {
+  if (typeof Plotly !== 'undefined') {
+    var fig = {{ figure_issues_distribution_json }};
+    Plotly.newPlot('issue-distribution-chart', fig.data, fig.layout, {responsive: true});
+  } else {
+    setTimeout(waitForPlotly, 50);
+  }
+})();
+</script>
 
 ## Records Summary Table
 
-Download:
-[Excel](catalog_summary.xlsx){ .md-button }
-[CSV](catalog_summary.csv){ .md-button }
-
 {{
-  catalog_summary.reindex(columns=[
-    'Title','Catalogue','sum','projects','licence','progress','state',
-    'resource-type','eov','metadata_publication','metadata_revision',
-    'doi',
-    'citation_count','citations_over_time',
-  ]).fillna("")
+  catalog_summary[catalog_summary['sum'] != '']
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
+  [['Title','sum','projects','Last Revised']]
   .rename(columns={
     "sum": "Issues",
-    "metadata_publication":"publication",
-    "metadata_revision":"revision",
-    "resource-type":"resource type",
-    "citation_count": "Citations",
-    "citation_over_time": "Citation Distribution"
+    "projects": "Project"
   })
   .to_html(
       render_links=True,
       table_id='records_table',
       escape=False,
+      index=False,
       classes='table table-striped table-hover table-sm'
   )
 }}
@@ -67,40 +57,24 @@ Download:
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    var map = L.map('map').setView([51.505, -125.09],3);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        maxZoom: 19,
-        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-    }).addTo(map);
-    var geojsonFeatures = [
-        {% for id,row in catalog_summary.dropna(subset=['name','spatial'], how='any').iterrows() %}
-        {
-            "type":"Feature",
-            "properties": {
-                "name": "{{row['name']}}",
-                "row_id": "{{id}}"
-            },
-            "geometry": {{row['spatial']}}
-        },
-        {% endfor %}
-    ];
-    L.geoJSON(geojsonFeatures).addTo(map);
-
     $(document).ready(function () {
       $("#records_table").DataTable({
         scrollX: true,
+        pageLength: 10,
+        order: [[1, 'desc']],
         columnDefs: [{
-          width: '300px',
           targets: 1,
-        },{
-          className: 'max-width-100', // Assign a custom class
-          targets: [2, 3] // Example columns to have max-width
-        }
-        ]
+          render: function(data, type, row) {
+            if (type !== 'display') {
+              return parseInt(String(data).replace(/<[^>]*>/g, ''), 10) || 0;
+            }
+            return data;
+          }
+        }],
       });
     });
-    $(document).ready(function () {
-      $("#issues_table").DataTable();
-    });
-  })
+  });
 </script>
+
+Download:
+[CSV](catalog_summary.csv){ .md-button }

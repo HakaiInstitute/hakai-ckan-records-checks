@@ -47,12 +47,6 @@ This page present the list of all the records associated with the issue: **Title
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
-      <td>2026-03-26</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
-      <td>WARNING</td>
-      <td>Title contains acronyms potentially</td>
-    </tr>
-    <tr>
       <td>2026-03-05</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
       <td>WARNING</td>
@@ -210,13 +204,13 @@ This page present the list of all the records associated with the issue: **Title
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
+      <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
+      <td>Hakai Institute’s Burke-o-Lator TCO2/pCO2 Analyzer Discrete Sample Analysis Protocols</td>
       <td>WARNING</td>
       <td>Title contains acronyms potentially</td>
     </tr>

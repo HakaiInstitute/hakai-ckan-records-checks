@@ -23,24 +23,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='' contact['organisation-name']='Tula Foundation'</td>
     </tr>
     <tr>
-      <td>2026-03-26</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='' contact['organisation-name']='Nanwakolas Council'</td>
-    </tr>
-    <tr>
-      <td>2026-03-26</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='' contact['organisation-name']='Province of British Columbia'</td>
-    </tr>
-    <tr>
-      <td>2026-03-26</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
-      <td>INFO</td>
-      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='' contact['organisation-name']='Terra Remote Sensing'</td>
-    </tr>
-    <tr>
       <td>2026-03-19</td>
       <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
       <td>INFO</td>

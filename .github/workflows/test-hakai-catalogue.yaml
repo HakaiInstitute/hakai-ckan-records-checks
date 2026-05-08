@@ -36,7 +36,8 @@ jobs:
       - name: Install dependencies
         run: uv sync --group dev
 
-      - name: Run Hakai CKAN Record Checks
+      - if: (github.event_name != 'pull_request' && github.event_name != 'push')
+        name: Run Hakai CKAN Record Checks
         run: uv run hakai_ckan_records_checks -c https://catalogue.hakai.org --no-cache
 
       - name: Commit changes
@@ -50,5 +51,5 @@ jobs:
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git fetch origin gh-pages --depth=1
           uv run mike deploy "${VERSION}" --push
-          uv run mike set-default main
+          uv run mike set-default main --push
 

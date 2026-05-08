@@ -9,16 +9,16 @@ This page present a summary of issues detected on the [Hakai Catalogue]({{ ckan_
 ## Issue Distribution
 
 ```plotly
-{{ pio.to_json(figure) }}
+{{ figure_issues_distribution_json }}
 ```
 
 ## Records Summary
 
 {{
-  catalog_summary[[
-    'Title','Catalogue','metadata_publication','metadata_revision',
+  catalog_summary.reindex(columns=[
+    'Title','metadata_publication','metadata_revision',
     'INFO','WARNING','ERROR'
-  ]]
+  ]).fillna("")
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
   .rename(columns={
     "sum": "Issues",
@@ -39,7 +39,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]({{ ckan_
 ## Issues
 
 {{
-  issues_table[['metadata_revision','title','level','message']]
+  issues_table.reindex(columns=['metadata_revision','title','level','message']).fillna("")
   .sort_values(['metadata_revision','level','message'],ascending=[0,0,1])
   .to_html(
     index=False,
