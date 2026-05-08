@@ -5,6 +5,11 @@
     "aliases": []
   },
   {
+    "version": "update-tests",
+    "title": "update-tests",
+    "aliases": []
+  },
+  {
     "version": "update-record-page",
     "title": "update-record-page",
     "aliases": []
