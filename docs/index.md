@@ -17,9 +17,11 @@ This page present a summary of the different metadata records distributed at <ht
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">254</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">252</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
+  
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-2 vs last run</div>
   
 </div>
 
@@ -37,7 +39,7 @@ This page present a summary of the different metadata records distributed at <ht
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 3.0, 6.0, 7.0, 12.0, 16.0, 25.0, 32.0, 39.0, 47.0, 55.0, 71.0, 147.0, 165.0, 197.0], "textposition": "outside", "x": [1, 2, 3, 6, 7, 12, 16, 25, 32, 39, 47, 55, 71, 147, 165, 197], "xaxis": "x", "y": ["Title contains the word dataset", "Invalid resource format", "Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Invalid licence", "Invalid resources.url.status_code", "No projects associated", "Invalid distributor organisation-name", "No publisher", "Contact missing organization ROR", "Title contains acronyms potentially", "No DOI defined", "No funder", "No version", "Record isn't accesible via a standard data repository", "Contact missing ORCID"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 3.0, 6.0, 7.0, 12.0, 16.0, 25.0, 32.0, 38.0, 48.0, 55.0, 70.0, 147.0, 165.0, 196.0], "textposition": "outside", "x": [1, 2, 3, 6, 7, 12, 16, 25, 32, 38, 48, 55, 70, 147, 165, 196], "xaxis": "x", "y": ["Title contains the word dataset", "Invalid resource format", "Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Invalid licence", "Invalid resources.url.status_code", "No projects associated", "Invalid distributor organisation-name", "No publisher", "Contact missing organization ROR", "Title contains acronyms potentially", "No DOI defined", "No funder", "No version", "Record isn't accesible via a standard data repository", "Contact missing ORCID"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     Plotly.newPlot('issue-distribution-chart', fig.data, fig.layout, {responsive: true});
   } else {
     setTimeout(waitForPlotly, 50);
@@ -57,6 +59,12 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_08d3e779-2f44-4ce3-82cb-c7b763f72175' target='_blank'>DNA metabarcoding data from Autonomous Reef Monitoring Structures (ARMS) deployed around Calvert Island British Columbia</a></td>
+      <td><a title='227eb965-1892-4bad-8ded-dd2e1d68fdf6' href='records/227eb965-1892-4bad-8ded-dd2e1d68fdf6' target='_blank'>2</a></td>
+      <td>Nearshore, Genomics</td>
+      <td>2026-05-08</td>
+    </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a8671db6-81cc-4c92-b681-58595fe66182' target='_blank'>Water Property Measurements from the Bute Inlet Ocean Observing Station (BIOOS) Wirewalker, Bute Inlet, BC, Canada (Provisional)</a></td>
       <td><a title='2510cc69-bd46-4534-a62f-dae1903b388d' href='records/2510cc69-bd46-4534-a62f-dae1903b388d' target='_blank'>2</a></td>
@@ -451,19 +459,13 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</a></td>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>1</a></td>
       <td>Oceanography</td>
-      <td>2026-02-20</td>
+      <td>2026-05-08</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
       <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>1</a></td>
       <td>Oceanography</td>
-      <td>2026-03-25</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0' target='_blank'>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</a></td>
-      <td><a title='185462b6-5d10-43d8-91b2-b92010e80ff4' href='records/185462b6-5d10-43d8-91b2-b92010e80ff4' target='_blank'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-04-15</td>
+      <td>2026-05-08</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_59b33373-ae4a-4719-a3df-0e36a08187d8' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
@@ -494,12 +496,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='432b05ce-8904-4094-94bf-b97fb6636e41' href='records/432b05ce-8904-4094-94bf-b97fb6636e41' target='_blank'>1</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>5</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>2025-01-18</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c074bff6-408b-443a-bdaf-4713f0eadb95' target='_blank'>Mapping Canopy-Forming Kelps in the Northeast Pacific: A Guidebook for Decision-Makers and Practitioners</a></td>
@@ -692,12 +688,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='b47e53cd-74dd-4580-80d0-260860064f4b' href='records/b47e53cd-74dd-4580-80d0-260860064f4b' target='_blank'>14</a></td>
       <td>100 Islands</td>
       <td>2024-07-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_41770c7d-27ea-4593-ba55-040bdc5b99f0' target='_blank'>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</a></td>
-      <td><a title='4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' href='records/4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d' target='_blank'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-02-20</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c981d76-5fea-44af-904f-58b159838b0a' target='_blank'>Stream Event Sampling - Calvert Island</a></td>

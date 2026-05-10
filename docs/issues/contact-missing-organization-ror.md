@@ -42,12 +42,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</td>
-      <td>WARNING</td>
-      <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>WARNING</td>
       <td>Contact missing organization ROR:&nbsp;&nbsp;contact['individual-name']='' contact['organisation-name']='Hakai Institute'</td>
