@@ -35,7 +35,7 @@ This page present a summary of the different metadata records distributed at <{{
 })();
 </script>
 
-## Records Summary Table
+## Issues By Record
 
 {{
   catalog_summary[catalog_summary['sum'] != '']
