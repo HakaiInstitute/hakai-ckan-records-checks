@@ -350,5 +350,11 @@
     "total_records": 261,
     "records_with_issues": 176,
     "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 173,
+    "pct_with_doi": 78.9
   }
 ]
