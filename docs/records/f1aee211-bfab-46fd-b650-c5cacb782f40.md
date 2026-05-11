@@ -9,13 +9,9 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a</a>
 
-| Issue                                                                                                                    |
-|:-------------------------------------------------------------------------------------------------------------------------|
-| Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'  |
-| Contact missing ORCID: contact['individual-name']='Hakai Geospatial' contact.get('organisation-name')='Hakai Institute'  |
-| Contact missing ORCID: contact['individual-name']='Giesbrecht, Ian' contact.get('organisation-name')='Hakai Institute'   |
-| Contact missing ORCID: contact['individual-name']='Heathfield, Derek' contact.get('organisation-name')='Hakai Institute' |
-| Record isn't accesible via a standard data repository                                                                    |
+| Issue                                  |
+|:---------------------------------------|
+| Contact missing ORCID: Giesbrecht, Ian |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RvRPlFMSsIaBwoGdQIq5BVYfBBa2/-NpRG7xQ84LQrgS4jhie" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

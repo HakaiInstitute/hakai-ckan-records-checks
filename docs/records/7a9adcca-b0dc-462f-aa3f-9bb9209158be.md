@@ -9,17 +9,13 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f</a>
 
-| Issue                                                                                                                        |
-|:-----------------------------------------------------------------------------------------------------------------------------|
-| No version                                                                                                                   |
-| No funder                                                                                                                    |
-| No publisher                                                                                                                 |
-| Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
-| Contact missing ORCID: contact['individual-name']='Burt, J.' contact.get('organisation-name')=''                             |
-| Contact missing ORCID: contact['individual-name']='Okamoto, D.' contact.get('organisation-name')=''                          |
-| Contact missing ORCID: contact['individual-name']='Hessing-Lewis, Margot' contact.get('organisation-name')='Hakai Institute' |
-| Contact missing ORCID: contact['individual-name']='Pontier, Ondine' contact.get('organisation-name')='Hakai Institute'       |
-| Record isn't accesible via a standard data repository                                                                        |
+| Issue                                        |
+|:---------------------------------------------|
+| No version                                   |
+| No funder                                    |
+| No publisher                                 |
+| Contact missing ORCID: Pontier, Ondine       |
+| Contact missing ORCID: Hessing-Lewis, Margot |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/df5J7W5Hk4e0p4yvlOAI0qcU9Gs2/-MtG8b48aDAEdJoqNT6N" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

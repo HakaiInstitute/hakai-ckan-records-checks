@@ -9,10 +9,9 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_1efbadd2-e735-48cc-9498-e3a5a88e48a6" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_1efbadd2-e735-48cc-9498-e3a5a88e48a6</a>
 
-| Issue                                                                                                                     |
-|:--------------------------------------------------------------------------------------------------------------------------|
-| No version                                                                                                                |
-| Contact missing ORCID: contact['individual-name']='Michalchuk, Trevor' contact.get('organisation-name')='Hakai Institute' |
+| Issue      |
+|:-----------|
+| No version |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RLSJmX44tkZoh8ncSpZECUoikBt1/-Olwvch3kCplJcz3CCeR" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

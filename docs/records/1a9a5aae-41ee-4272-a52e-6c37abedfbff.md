@@ -11,7 +11,6 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 
 | Issue                                                        |
 |:-------------------------------------------------------------|
-| Record isn't accesible via a standard data repository        |
 | Duplicate DOI shared with another record: 10.21966/n0h9-cq15 |
 
 

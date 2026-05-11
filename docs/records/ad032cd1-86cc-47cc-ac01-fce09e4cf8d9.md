@@ -9,15 +9,13 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33</a>
 
-| Issue                                                                                                               |
-|:--------------------------------------------------------------------------------------------------------------------|
-| No projects associated                                                                                              |
-| No version                                                                                                          |
-| No funder                                                                                                           |
-| No publisher                                                                                                        |
-| Contact missing ORCID: contact['individual-name']='Whalen, Matt' contact.get('organisation-name')='Hakai Institute' |
-| Contact missing ORCID: contact['individual-name']='Whalen, Matt' contact.get('organisation-name')='Hakai Institute' |
-| Record isn't accesible via a standard data repository                                                               |
+| Issue                               |
+|:------------------------------------|
+| No projects associated              |
+| No version                          |
+| No funder                           |
+| No publisher                        |
+| Contact missing ORCID: Whalen, Matt |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MWpwT0Z6RlAySHp6cU0" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

@@ -38,12 +38,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     )
 
     # Licence
-    _test("license_id" in record, "No licence")
     _test(record.get("license_id") != "", "Empty licence")
-    _test(
-        record.get("license_id") == "CC-BY-4.0",
-        f"Invalid licence: {record.get('license_id')}",
-    )
 
     # Version
     citation = json.loads(record["citation"]["en"].replace('\\"', '"'))
@@ -106,51 +101,19 @@ def test_record_requirements(record) -> pd.DataFrame:
             "Publisher contact is missing a name or organisation",
         )
 
-    # ORCID and ROR
-    for contact in contacts:
-        _test(
-            contact.get("individual-name") in (None, "")
-            or (
-                contact.get("individual-name")
-                and "orcid.org" in contact.get("individual-uri_code", "")
-            ),
-            f"Contact missing ORCID: {contact['individual-name']=} {contact.get('organisation-name')=}",
-        )
-        _test(
-            contact.get("organisation-name") in (None, "")
-            or (
-                contact.get("organisation-name")
-                and "ror.org" in contact.get("organisation-uri_code", "")
-            ),
-            f"Contact missing organization ROR:  {contact['individual-name']=} {contact['organisation-name']=}",
-        )
-
     # Resources
     for index, resource in enumerate(record.get("resources", [])):
         _test(resource["name"] != "", "Empty resource name")
         _test(resource["url"] != "", "Empty resource url")
         _test(resource["format"] != "", "Empty resource format")
-        _test(
-            resource["format"] in ["HTML", "ERDDAP", "OBIS", "PDF", "ZIP"],
-            f"Invalid resource format: resources[{index}].format={resource['format']}",
-        )
         try:
             status_code = int(requests.get(resource["url"]).status_code)
         except requests.exceptions.Timeout:
             status_code = "timeout"
         _test(
             status_code in (200, 201, 403, 418, 503),
-            f"Invalid resources.url.status_code: {status_code} for resources[{index}].url={resource['url']}",
+            f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
-
-    # Data access via standardized repositories
-    _test(
-        any(
-            re.findall("obis|erddap|arcgis|ncei", resource["url"], re.IGNORECASE)
-            for resource in record.get("resources", [])
-        ),
-        "Record isn't accesible via a standard data repository",
-    )
 
     # Spatial
     _test("spatial" in record, "No spatial information available")

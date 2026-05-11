@@ -9,15 +9,10 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_8c3c86a9-1201-479d-b2b7-a1615183ffea</a>
 
-| Issue                                                                                                                                                                      |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| No version                                                                                                                                                                 |
-| No funder                                                                                                                                                                  |
-| Contact missing ORCID: contact['individual-name']='Lebon, Geoffrey T.' contact.get('organisation-name')='NOAA Pacific Marine Environmental Laboratory'                     |
-| Contact missing ORCID: contact['individual-name']='Harrington, Christen D.' contact.get('organisation-name')='Alaska Marine Highway, Department of Transportation'         |
-| Contact missing organization ROR:  contact['individual-name']='Harrington, Christen D.' contact['organisation-name']='Alaska Marine Highway, Department of Transportation' |
-| Contact missing ORCID: contact['individual-name']='Bidlack, Allison' contact.get('organisation-name')='University of Alaska Southeast'                                     |
-| Record isn't accesible via a standard data repository                                                                                                                      |
+| Issue      |
+|:-----------|
+| No version |
+| No funder  |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/jnK2pbrIzbMBHpSiUOi8XDUeev93/-MjkHLRXiJM8cunPX2f-" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

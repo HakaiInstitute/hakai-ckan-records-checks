@@ -9,11 +9,9 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a</a>
 
-| Issue                                                                                                                                   |
-|:----------------------------------------------------------------------------------------------------------------------------------------|
-| Contact missing ORCID: contact['individual-name']='Hakai Geospatial Technology Team' contact.get('organisation-name')='Hakai Institute' |
-| Contact missing ORCID: contact['individual-name']='Korver, Maartje' contact.get('organisation-name')='Hakai Institute'                  |
-| Record isn't accesible via a standard data repository                                                                                   |
+| Issue                                  |
+|:---------------------------------------|
+| Contact missing ORCID: Korver, Maartje |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUVFTFdKeHlaQ29nNTQ" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

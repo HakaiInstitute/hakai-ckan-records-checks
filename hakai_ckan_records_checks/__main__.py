@@ -31,8 +31,18 @@ pd.set_option("future.no_silent_downcasting", True)
 IGNORE_RECORD_IDS = "hakai-metadata-form-data"
 
 
+def _normalize_name(name):
+    if ',' in name:
+        parts = [p.strip() for p in name.split(',', 1)]
+        name = f'{parts[1]} {parts[0]}'
+    normalized = re.sub(r'\s+[A-Za-z]\.\s*', ' ', name).strip()
+    return re.sub(r'\s+', ' ', normalized)
+
+
 def _fuzzy_match(a, b, threshold=0.85):
-    return bool(a and b and difflib.SequenceMatcher(None, a.lower().strip(), b.lower().strip()).ratio() >= threshold)
+    if not (a and b):
+        return False
+    return difflib.SequenceMatcher(None, _normalize_name(a.lower()), _normalize_name(b.lower())).ratio() >= threshold
 
 
 def fig_to_json(fig):
@@ -128,7 +138,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
 
         contacts = record["result"].get("cited-responsible-party", []) + record["result"].get("metadata-point-of-contact", [])
         return {
-            "record_id": record_id,
+            "record_id": record["result"]["id"],
             "test_results": test_results,
             "summary": summary,
             "contacts": contacts,
@@ -204,14 +214,14 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
             if name and not orcid:
                 for known_name, known_orcid in individual_uri_known.items():
                     if _fuzzy_match(name, known_name):
-                        extra_issues.append({"record_id": record_id, "message": f"Contact '{name}' is missing ORCID but it was found in another record"})
+                        extra_issues.append({"record_id": record_id, "message": f"Contact missing ORCID: {name}"})
                         break
             org = (contact.get("organisation-name") or "").strip()
             ror = (contact.get("organisation-uri_code") or "").strip()
             if org and not ror:
                 for known_org, known_ror in org_uri_known.items():
                     if _fuzzy_match(org, known_org):
-                        extra_issues.append({"record_id": record_id, "message": f"Organisation '{org}' is missing ROR but it was found in another record"})
+                        extra_issues.append({"record_id": record_id, "message": f"Organization missing ROR: {org}"})
                         break
 
     if extra_issues:
@@ -422,6 +432,8 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     catalog_summary_for_html = format_summary(results["catalog_summary"], base_url="../").set_index("id")
     Path(output, "records").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
+        if record_id not in catalog_summary_for_html.index:
+            continue
         record = catalog_summary_for_html.loc[record_id]
         environment.get_template("record.md").stream(
             record=record,
