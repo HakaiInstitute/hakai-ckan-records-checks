@@ -497,6 +497,11 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Contact missing ORCID: Holmes, Keith</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
@@ -564,6 +569,11 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-07-23</td>
       <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
       <td>Contact missing ORCID: Korver, Maartje C.</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
