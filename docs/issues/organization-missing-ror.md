@@ -52,11 +52,6 @@ This page present the list of all the records associated with the issue: **Organ
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
-      <td>Organization missing ROR: Simon Fraser University</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>Organization missing ROR: Simon Fraser University</td>
     </tr>
@@ -69,21 +64,6 @@ This page present the list of all the records associated with the issue: **Organ
       <td>2024-07-23</td>
       <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>Organization missing ROR: University of British Columbia</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
-      <td>Organization missing ROR: University of British Columbia</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
-      <td>Organization missing ROR: University of British Columbia</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
-      <td>Organization missing ROR: University of Toronto</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

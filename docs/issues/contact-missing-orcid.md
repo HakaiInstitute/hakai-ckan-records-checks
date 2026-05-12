@@ -126,6 +126,26 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Prentice, Carolyn</td>
     </tr>
     <tr>
+      <td>2025-04-21</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Contact missing ORCID: Godwin, Sean</td>
+    </tr>
+    <tr>
+      <td>2025-04-21</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Contact missing ORCID: Krkosek, Martin</td>
+    </tr>
+    <tr>
+      <td>2025-01-18</td>
+      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
+      <td>Contact missing ORCID: Godwin, Sean</td>
+    </tr>
+    <tr>
+      <td>2025-01-18</td>
+      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
+      <td>Contact missing ORCID: Krkosek, Martin</td>
+    </tr>
+    <tr>
       <td>2024-12-05</td>
       <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
       <td>Contact missing ORCID: Brunsting, Ray</td>
@@ -447,26 +467,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>Contact missing ORCID: Froese, Tyrel</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
-      <td>Contact missing ORCID: Gan, Julian</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
-      <td>Contact missing ORCID: Gan, Julian C.L.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>Contact missing ORCID: Gehman, Alyssa</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
       <td>Contact missing ORCID: Giesbrecht, Ian</td>
     </tr>
@@ -492,18 +492,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>Contact missing ORCID: Hessing-Lewis, Margot</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
       <td>Contact missing ORCID: Hessing-Lewis, Margot</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -567,38 +557,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
-      <td>Contact missing ORCID: Hunt, Brian</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
-      <td>Contact missing ORCID: Hunt, Brian P.V.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
       <td>Contact missing ORCID: Johnson, Brett</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile salmon migration observations in the Discovery Islands and Johnstone Strait in British Columbia, Canada in 2018</td>
-      <td>Contact missing ORCID: Johnson, Brett</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile Salmon Migration Observations from the Hakai Institute Juvenile Salmon Program in the Discovery Islands in British Columbia, Canada in 2020</td>
-      <td>Contact missing ORCID: Johnson, Brett T.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
       <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -637,18 +602,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>Contact missing ORCID: Monteith, Zach</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
       <td>Contact missing ORCID: Obrist, Debora S</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>Contact missing ORCID: Olsen, Angeleen</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

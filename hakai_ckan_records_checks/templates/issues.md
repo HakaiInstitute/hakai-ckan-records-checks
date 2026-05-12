@@ -8,9 +8,24 @@ This page present a summary of issues detected on the [Hakai Catalogue]({{ ckan_
 
 ## Issue Distribution
 
-```plotly
-{{ figure_issues_distribution_json }}
-```
+<div id="issue-distribution-chart" style="width:100%;min-height:400px;"></div>
+<script>
+(function waitForPlotly() {
+  if (typeof Plotly !== 'undefined') {
+    var fig = {{ figure_issues_distribution_json }};
+    var el = document.getElementById('issue-distribution-chart');
+    Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
+      el.on('plotly_click', function(data) {
+        var label = data.points[0].y;
+        var slug = label.replace(/[.'"]/g, '').replace(/[^a-zA-Z0-9]/g, '-').toLowerCase().replace(/-+/g, '-');
+        window.location.href = slug + '/';
+      });
+    });
+  } else {
+    setTimeout(waitForPlotly, 50);
+  }
+})();
+</script>
 
 ## Records Summary
 
