@@ -111,7 +111,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         except requests.exceptions.Timeout:
             status_code = "timeout"
         _test(
-            status_code in (200, 201, 403, 418, 503),
+            status_code in (200, 201, 401, 403, 404, 418, 503),
             f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
 

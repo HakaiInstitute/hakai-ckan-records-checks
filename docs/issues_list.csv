@@ -7,23 +7,23 @@
 5,b6621a3c-1700-4015-a359-56b6c7155835,No version
 6,b6621a3c-1700-4015-a359-56b6c7155835,No funder
 7,ee09830d-dd5e-41eb-8aee-0fe9cef5fe79,No version
-8,8a71bb9f-e419-42aa-9ed7-f891631314a5,No projects associated
-9,8a71bb9f-e419-42aa-9ed7-f891631314a5,No version
-10,8a71bb9f-e419-42aa-9ed7-f891631314a5,No DOI defined
-11,8a71bb9f-e419-42aa-9ed7-f891631314a5,No funder
-12,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No version
-13,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No DOI defined
-14,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,No version
+8,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,No version
+9,8a71bb9f-e419-42aa-9ed7-f891631314a5,No projects associated
+10,8a71bb9f-e419-42aa-9ed7-f891631314a5,No version
+11,8a71bb9f-e419-42aa-9ed7-f891631314a5,No DOI defined
+12,8a71bb9f-e419-42aa-9ed7-f891631314a5,No funder
+13,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No version
+14,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No DOI defined
 15,646dd927-3248-4fc9-970c-abea15f7d304,No version
 16,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
 17,646dd927-3248-4fc9-970c-abea15f7d304,No funder
 18,646dd927-3248-4fc9-970c-abea15f7d304,No publisher
 19,a31d44d5-2ce5-4d03-8d0b-4549023840ff,No DOI defined
 20,69268e35-08ac-4e6d-b489-4bb72ac117b1,No version
-21,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No version
-22,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No funder
-23,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No publisher
-24,79ace68f-f5a9-4224-8615-20fa255cb6d4,No version
+21,79ace68f-f5a9-4224-8615-20fa255cb6d4,No version
+22,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No version
+23,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No funder
+24,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No publisher
 25,4f9103f8-cd13-4bb1-a86b-a3ceb201db97,No version
 26,4f9103f8-cd13-4bb1-a86b-a3ceb201db97,No DOI defined
 27,4f9103f8-cd13-4bb1-a86b-a3ceb201db97,No funder
@@ -33,16 +33,16 @@
 31,773ef9a6-64dd-4734-ba16-566470b0edad,No version
 32,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,No projects associated
 33,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,No version
-34,f8f299be-a37e-43bf-9416-5ff59e664f65,No version
-35,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
-36,f6ad9487-d689-41a3-b610-352224d7759b,No version
-37,7ed2118f-ecaa-41e4-aa81-911ffa47bf34,No version
-38,1be9154a-1497-42eb-8821-b0d63000814c,No version
-39,1be9154a-1497-42eb-8821-b0d63000814c,Invalid Resource URL: https://drive.google.com/a/hakai.org/file/d/0Byed_WX-ZNMaM3BtUW5KQ2ZtLW8/view?usp=sharing returned status_code=401
-40,1be9154a-1497-42eb-8821-b0d63000814c,Invalid Resource URL: https://drive.google.com/a/hakai.org/file/d/0Byed_WX-ZNMaSkItaW5ocTY4UjQ/view?usp=sharing returned status_code=401
-41,38fabad7-d7d2-405f-aa4c-592ef064895f,No version
-42,38fabad7-d7d2-405f-aa4c-592ef064895f,No funder
-43,c5dafa6e-f2df-4f02-a94e-8f82b29dfb66,No version
+34,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
+35,f8f299be-a37e-43bf-9416-5ff59e664f65,No version
+36,7ed2118f-ecaa-41e4-aa81-911ffa47bf34,No version
+37,f6ad9487-d689-41a3-b610-352224d7759b,No version
+38,38fabad7-d7d2-405f-aa4c-592ef064895f,No version
+39,38fabad7-d7d2-405f-aa4c-592ef064895f,No funder
+40,c5dafa6e-f2df-4f02-a94e-8f82b29dfb66,No version
+41,1be9154a-1497-42eb-8821-b0d63000814c,No version
+42,1be9154a-1497-42eb-8821-b0d63000814c,Invalid Resource URL: https://drive.google.com/a/hakai.org/file/d/0Byed_WX-ZNMaM3BtUW5KQ2ZtLW8/view?usp=sharing returned status_code=401
+43,1be9154a-1497-42eb-8821-b0d63000814c,Invalid Resource URL: https://drive.google.com/a/hakai.org/file/d/0Byed_WX-ZNMaSkItaW5ocTY4UjQ/view?usp=sharing returned status_code=401
 44,8275a332-8870-4300-8ca8-48b854e7dccf,No version
 45,8275a332-8870-4300-8ca8-48b854e7dccf,No DOI defined
 46,f2f9c9d6-0385-4732-b7d5-acc6bbb2e83a,No version
@@ -59,11 +59,11 @@
 57,2709d7b1-22e1-4268-bcda-dc0c79f2878e,No publisher
 58,30560220-bc44-4020-b424-0abf617d1c00,No version
 59,30560220-bc44-4020-b424-0abf617d1c00,No funder
-60,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
-61,b1d18883-a622-4f3c-9892-57564271e009,No version
-62,b1d18883-a622-4f3c-9892-57564271e009,No DOI defined
-63,b1d18883-a622-4f3c-9892-57564271e009,No funder
-64,b1d18883-a622-4f3c-9892-57564271e009,No publisher
+60,b1d18883-a622-4f3c-9892-57564271e009,No version
+61,b1d18883-a622-4f3c-9892-57564271e009,No DOI defined
+62,b1d18883-a622-4f3c-9892-57564271e009,No funder
+63,b1d18883-a622-4f3c-9892-57564271e009,No publisher
+64,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
 65,f15f9c5e-08a6-4e9f-8ff5-a6126447e138,No version
 66,f15f9c5e-08a6-4e9f-8ff5-a6126447e138,No DOI defined
 67,f15f9c5e-08a6-4e9f-8ff5-a6126447e138,No funder
@@ -76,13 +76,13 @@
 74,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
 75,f409100d-95e4-4933-a927-fdf8d3b83204,Empty resource name
 76,f409100d-95e4-4933-a927-fdf8d3b83204,Empty resource name
-77,0f19ac6e-dc86-445b-b2da-7b61a389222e,No version
-78,0f19ac6e-dc86-445b-b2da-7b61a389222e,No DOI defined
-79,0f19ac6e-dc86-445b-b2da-7b61a389222e,No funder
-80,0f19ac6e-dc86-445b-b2da-7b61a389222e,No publisher
-81,abd11340-660f-48b0-8bf0-9ccb142f513d,No version
-82,abd11340-660f-48b0-8bf0-9ccb142f513d,No DOI defined
-83,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,No version
+77,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,No version
+78,abd11340-660f-48b0-8bf0-9ccb142f513d,No version
+79,abd11340-660f-48b0-8bf0-9ccb142f513d,No DOI defined
+80,0f19ac6e-dc86-445b-b2da-7b61a389222e,No version
+81,0f19ac6e-dc86-445b-b2da-7b61a389222e,No DOI defined
+82,0f19ac6e-dc86-445b-b2da-7b61a389222e,No funder
+83,0f19ac6e-dc86-445b-b2da-7b61a389222e,No publisher
 84,0c864dea-998e-4a5e-94d3-c5fbda339eee,No version
 85,0c864dea-998e-4a5e-94d3-c5fbda339eee,No DOI defined
 86,7a9adcca-b0dc-462f-aa3f-9bb9209158be,No version
@@ -95,33 +95,33 @@
 93,782fef82-e6e7-451d-a7ac-39d08129c1d3,No funder
 94,782fef82-e6e7-451d-a7ac-39d08129c1d3,No publisher
 95,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
-96,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No projects associated
-97,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No version
-98,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No DOI defined
-99,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No funder
-100,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No version
-101,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No DOI defined
-102,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No funder
-103,96b5a7f2-5f23-413a-b060-d268bcff83ba,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0246099
-104,57770468-42a9-4654-bf7d-7672939ed002,No version
-105,57770468-42a9-4654-bf7d-7672939ed002,No DOI defined
-106,57770468-42a9-4654-bf7d-7672939ed002,No publisher
-107,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No version
-108,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No DOI defined
-109,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No funder
-110,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No publisher
-111,44754736-c8be-49b1-8806-a0ca4a78255a,No version
-112,44754736-c8be-49b1-8806-a0ca4a78255a,No DOI defined
+96,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No version
+97,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No DOI defined
+98,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No funder
+99,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No projects associated
+100,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No version
+101,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No DOI defined
+102,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No funder
+103,57770468-42a9-4654-bf7d-7672939ed002,No version
+104,57770468-42a9-4654-bf7d-7672939ed002,No DOI defined
+105,57770468-42a9-4654-bf7d-7672939ed002,No publisher
+106,96b5a7f2-5f23-413a-b060-d268bcff83ba,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0246099
+107,44754736-c8be-49b1-8806-a0ca4a78255a,No version
+108,44754736-c8be-49b1-8806-a0ca4a78255a,No DOI defined
+109,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No version
+110,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No DOI defined
+111,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No funder
+112,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,No publisher
 113,6a1254e5-3815-4289-ba1c-984fb84dc1fe,No version
-114,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No version
-115,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No funder
-116,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,No version
-117,8a7cd5ea-e167-419e-a5c3-919acafe8455,No version
-118,8a7cd5ea-e167-419e-a5c3-919acafe8455,No DOI defined
-119,75a7ec78-6f48-41f3-92c4-9b734206d6af,No projects associated
-120,75a7ec78-6f48-41f3-92c4-9b734206d6af,No version
-121,75a7ec78-6f48-41f3-92c4-9b734206d6af,No DOI defined
-122,75a7ec78-6f48-41f3-92c4-9b734206d6af,No funder
+114,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,No version
+115,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No version
+116,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No funder
+117,75a7ec78-6f48-41f3-92c4-9b734206d6af,No projects associated
+118,75a7ec78-6f48-41f3-92c4-9b734206d6af,No version
+119,75a7ec78-6f48-41f3-92c4-9b734206d6af,No DOI defined
+120,75a7ec78-6f48-41f3-92c4-9b734206d6af,No funder
+121,8a7cd5ea-e167-419e-a5c3-919acafe8455,No version
+122,8a7cd5ea-e167-419e-a5c3-919acafe8455,No DOI defined
 123,e3205958-52b4-4c42-a02d-34d713a20a53,No version
 124,e3205958-52b4-4c42-a02d-34d713a20a53,No DOI defined
 125,13dc3c6c-9dd4-47a4-92ad-681c653d3565,No version
@@ -136,345 +136,326 @@
 134,3031aa60-689f-4b94-9dc6-9912cc742431,No publisher
 135,c8f6fd7c-7c63-440b-b69a-bd0df3abfd26,No version
 136,c8f6fd7c-7c63-440b-b69a-bd0df3abfd26,Empty resource name
-137,26186b9d-a292-43c4-aec6-e928aa52b002,No version
-138,26186b9d-a292-43c4-aec6-e928aa52b002,No funder
-139,26186b9d-a292-43c4-aec6-e928aa52b002,No publisher
-140,7607322d-6dea-4758-a257-de8353c899c1,No version
+137,7607322d-6dea-4758-a257-de8353c899c1,No version
+138,26186b9d-a292-43c4-aec6-e928aa52b002,No version
+139,26186b9d-a292-43c4-aec6-e928aa52b002,No funder
+140,26186b9d-a292-43c4-aec6-e928aa52b002,No publisher
 141,6b93216b-4bbe-4204-a2c3-551a667d00fd,No version
 142,2abe9ff4-76de-4221-9ca6-ec3403a56efa,No version
 143,2abe9ff4-76de-4221-9ca6-ec3403a56efa,No funder
 144,2abe9ff4-76de-4221-9ca6-ec3403a56efa,No publisher
-145,b276330c-4ee9-476a-979a-cebe52d51db6,No version
-146,9b7adebb-5027-486a-8ed1-f97b5353a480,No version
-147,9b7adebb-5027-486a-8ed1-f97b5353a480,No DOI defined
-148,9b7adebb-5027-486a-8ed1-f97b5353a480,No funder
-149,9b7adebb-5027-486a-8ed1-f97b5353a480,No publisher
-150,d7ca7d43-b0fb-4dfc-beb1-7033388011a0,No version
-151,d7ca7d43-b0fb-4dfc-beb1-7033388011a0,No funder
-152,d7ca7d43-b0fb-4dfc-beb1-7033388011a0,No publisher
-153,c68b9ec8-9f26-4fb0-9333-79730f4ea1ca,No version
-154,c68b9ec8-9f26-4fb0-9333-79730f4ea1ca,No DOI defined
-155,d1d07d48-c909-41b4-8c0f-13238720749c,No version
-156,d1d07d48-c909-41b4-8c0f-13238720749c,No DOI defined
-157,d1d07d48-c909-41b4-8c0f-13238720749c,No funder
-158,d1d07d48-c909-41b4-8c0f-13238720749c,No publisher
-159,b307d1bd-61be-4059-b4af-db36555dbd77,No projects associated
-160,b307d1bd-61be-4059-b4af-db36555dbd77,No version
-161,b307d1bd-61be-4059-b4af-db36555dbd77,No DOI defined
-162,9a930f50-82e2-4d7c-9686-6b551b9a458e,No version
-163,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,No version
-164,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,No funder
-165,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,No version
-166,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,No DOI defined
-167,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
-168,f31f38bf-16bc-4136-8982-a2df5fefb3a0,No version
-169,6338c2fa-3d4d-42dc-9c91-31761365e11e,No version
-170,6338c2fa-3d4d-42dc-9c91-31761365e11e,Invalid Resource URL: https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view returned status_code=401
-171,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No version
-172,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No DOI defined
-173,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No funder
-174,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,No version
-175,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,No projects associated
-176,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,No version
-177,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,No funder
-178,151f5813-8d7c-4042-8b7a-a878c814145e,No projects associated
-179,151f5813-8d7c-4042-8b7a-a878c814145e,No version
-180,151f5813-8d7c-4042-8b7a-a878c814145e,No DOI defined
-181,151f5813-8d7c-4042-8b7a-a878c814145e,No funder
-182,dc84cb4c-ba14-4632-a595-eed526bf9db1,No version
-183,dc84cb4c-ba14-4632-a595-eed526bf9db1,No DOI defined
-184,362130df-bc83-48b7-80f9-ad11ad6a91c9,No version
-185,362130df-bc83-48b7-80f9-ad11ad6a91c9,No DOI defined
-186,362130df-bc83-48b7-80f9-ad11ad6a91c9,No funder
-187,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,No version
-188,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,No funder
-189,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,No publisher
-190,9c581481-f2ee-4353-b1ab-c5bf242945fe,No version
-191,9c581481-f2ee-4353-b1ab-c5bf242945fe,No DOI defined
-192,384dbb32-4bc8-4bd1-a741-6abbd332a50a,No version
-193,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
-194,f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff,No version
-195,2a104224-c3eb-4778-adc3-865b36471b1b,No version
-196,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,No version
-197,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208810
-198,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,No funder
-199,def2a409-2319-4e8c-a584-9a467f044ada,No version
-200,def2a409-2319-4e8c-a584-9a467f044ada,No funder
-201,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
-202,55e7c337-02e8-4200-8ea9-88241d978f96,No version
-203,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No version
-204,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No funder
-205,b5ee0615-c04d-462e-8199-f611bc6370ce,No projects associated
-206,b5ee0615-c04d-462e-8199-f611bc6370ce,No version
-207,b5ee0615-c04d-462e-8199-f611bc6370ce,No DOI defined
-208,b5ee0615-c04d-462e-8199-f611bc6370ce,No funder
-209,cd3ca52d-dc83-4501-9e53-7b00c8ab9090,No version
-210,ee30aa86-e786-4a3f-b90f-df09a134621d,No version
-211,ee30aa86-e786-4a3f-b90f-df09a134621d,No funder
-212,ee30aa86-e786-4a3f-b90f-df09a134621d,No publisher
-213,49967494-a7b6-4128-b336-671971d1e2c6,No projects associated
-214,49967494-a7b6-4128-b336-671971d1e2c6,No version
-215,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
-216,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-217,49ec67e4-f7be-4658-b2b6-e4b57d9901df,No version
-218,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No version
-219,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No DOI defined
-220,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No funder
-221,52048599-9a0c-4d33-861f-26eaedc86bd5,No version
-222,18911dee-9ca0-408b-8999-28da3e3dde7a,No version
-223,18911dee-9ca0-408b-8999-28da3e3dde7a,No funder
-224,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No version
-225,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No DOI defined
-226,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No version
-227,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No DOI defined
-228,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No funder
-229,727b8863-91cc-4765-b0c0-80cb74b11182,No projects associated
-230,727b8863-91cc-4765-b0c0-80cb74b11182,No version
-231,727b8863-91cc-4765-b0c0-80cb74b11182,No DOI defined
-232,727b8863-91cc-4765-b0c0-80cb74b11182,No funder
-233,dd30b32a-2099-4909-838d-6ade9804381a,No version
-234,dd30b32a-2099-4909-838d-6ade9804381a,No funder
-235,2510cc69-bd46-4534-a62f-dae1903b388d,No version
-236,6be4c552-469a-4558-b63d-7a2c52566fe2,No version
-237,f5d51d99-ce24-4713-a317-7927dd283f1a,No version
-238,f5d51d99-ce24-4713-a317-7927dd283f1a,No DOI defined
-239,f5d51d99-ce24-4713-a317-7927dd283f1a,No funder
-240,f5d51d99-ce24-4713-a317-7927dd283f1a,No publisher
-241,45983472-7627-4227-b312-079c2aeda7ef,No version
-242,7f23d45b-b777-491c-b602-def5402d3d83,No version
-243,7f23d45b-b777-491c-b602-def5402d3d83,No funder
-244,7f23d45b-b777-491c-b602-def5402d3d83,No publisher
-245,0d9ca9c8-95b0-48db-87b9-7db8af77363e,No version
-246,9001166d-e7eb-410f-92d6-17df0593cb2e,No version
-247,5143957b-ee18-44d3-8000-a9c8f9a34a0d,No DOI defined
-248,17680b42-fb77-4ab5-8645-23bb2f28c3e0,No version
-249,17680b42-fb77-4ab5-8645-23bb2f28c3e0,No DOI defined
-250,17680b42-fb77-4ab5-8645-23bb2f28c3e0,No funder
-251,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,No version
-252,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,No funder
-253,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,No publisher
-254,08d2c4ef-d157-480d-b3a9-6d0210c8d6ff,No version
-255,a9527050-a108-46f7-ac9f-7150b4abede5,No version
-256,a9527050-a108-46f7-ac9f-7150b4abede5,No DOI defined
-257,a9527050-a108-46f7-ac9f-7150b4abede5,No funder
-258,a9527050-a108-46f7-ac9f-7150b4abede5,No publisher
-259,e40c42ef-cabf-4969-aeb3-263407a91a68,No funder
-260,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No projects associated
-261,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No version
-262,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No DOI defined
-263,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No funder
-264,f0cae885-2124-41c1-8523-2c6725c40dd6,No version
-265,eb02906a-9645-4486-ba14-46d71c581352,No version
-266,f9ff815c-c57a-4750-8f80-25f5e145c8c0,No version
-267,281d7444-efa6-4b18-ac0a-55c8f8b484be,No version
-268,0ca539a4-217f-43ff-947e-5679dd8d64dd,No version
-269,0ca539a4-217f-43ff-947e-5679dd8d64dd,No DOI defined
-270,0ca539a4-217f-43ff-947e-5679dd8d64dd,No funder
-271,a8d40002-d393-40da-882c-73c0ad8ca7e6,No version
-272,a8d40002-d393-40da-882c-73c0ad8ca7e6,Invalid Resource URL: https://drive.google.com/file/d/1w7TLX1RIP6F6S_inRKU3x-A27srXzFSa/view?usp=sharing returned status_code=401
-273,5b4d3afa-e0bd-417f-ba08-437cc7e7f864,No version
-274,39f8b771-eb65-420f-b64e-742d94bbebf0,No version
-275,39f8b771-eb65-420f-b64e-742d94bbebf0,No funder
-276,46377bf0-06d5-4612-970d-29cd972e4870,No funder
-277,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No projects associated
-278,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No version
-279,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No DOI defined
-280,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No funder
-281,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No version
-282,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No DOI defined
-283,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,No version
-284,78b2edef-dab3-47a9-93bb-af63dfcd178d,No version
-285,78b2edef-dab3-47a9-93bb-af63dfcd178d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0247208
-286,b36a7c12-cb56-46b7-8241-9b52ac30c766,No version
-287,1f798a06-9c01-4025-93c6-b1a9f8ce6832,No version
-288,22951dd4-a9f7-4f2a-b11d-d50e184dc223,No version
-289,22951dd4-a9f7-4f2a-b11d-d50e184dc223,No DOI defined
-290,22951dd4-a9f7-4f2a-b11d-d50e184dc223,No funder
-291,22951dd4-a9f7-4f2a-b11d-d50e184dc223,Invalid Resource URL: https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS returned status_code=404
-292,22951dd4-a9f7-4f2a-b11d-d50e184dc223,Empty resource name
-293,967f98cb-131a-421e-bcfd-467cff973b30,No funder
-294,826d8228-baab-4191-82de-44701cd93806,No projects associated
-295,826d8228-baab-4191-82de-44701cd93806,No version
-296,826d8228-baab-4191-82de-44701cd93806,No DOI defined
-297,826d8228-baab-4191-82de-44701cd93806,No funder
-298,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No DOI defined
-299,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No funder
-300,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No version
-301,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No DOI defined
-302,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No version
-303,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No funder
-304,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No publisher
-305,79e98468-af9a-4b52-aa9c-71129fa9cb03,No version
-306,e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a,No version
-307,e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a,No DOI defined
-308,a4e3915d-207e-493d-97ff-c1e6ad6f0ce7,No version
-309,324c5ae3-b0ac-4302-b701-598ebbb25870,No version
-310,8bcf556e-26e2-41d4-af2c-2192c0426523,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209049
-311,50037e63-bfac-4b7a-8547-56337fe40026,No version
-312,35dd16d8-20b1-49d5-8c59-9cdc02475cd0,No version
-313,693c7ca7-a244-4375-9460-ff7c27187af2,No version
-314,693c7ca7-a244-4375-9460-ff7c27187af2,No funder
-315,693c7ca7-a244-4375-9460-ff7c27187af2,No publisher
-316,693c7ca7-a244-4375-9460-ff7c27187af2,Invalid Resource URL: https://www.hakai.org/blog/life-at-hakai/great-walls-quadra returned status_code=404
-317,3fbbd892-55cd-4c96-9669-cecefe726b3f,No version
-318,3fbbd892-55cd-4c96-9669-cecefe726b3f,No funder
-319,c2b05382-684f-4349-a64b-b20521223574,No version
-320,d576481a-4f51-40eb-85e9-fb95933f94cd,No version
-321,c657dfa1-5970-4794-9c46-7c352df393d7,No version
-322,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No projects associated
-323,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No version
-324,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No funder
-325,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No publisher
-326,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No projects associated
-327,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No version
-328,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No DOI defined
-329,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No funder
-330,79433a1f-ec07-4cd5-a31a-8c2c53069085,No version
-331,79433a1f-ec07-4cd5-a31a-8c2c53069085,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208638
-332,3a6e9472-1a85-48e5-8ac6-792945e03045,No version
-333,3a6e9472-1a85-48e5-8ac6-792945e03045,No funder
-334,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
-335,1a9a5aae-41ee-4272-a52e-6c37abedfbff,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
-336,08d2c4ef-d157-480d-b3a9-6d0210c8d6ff,Duplicate DOI shared with another record: 10.21966/66x5-a210
-337,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
-338,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,Duplicate DOI shared with another record: 10.21966/66x5-a210
-339,f51d96b5-1827-4aab-b1ce-575faff1fd03,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
-340,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: McInnes, Will"
-341,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: Holmes, Keith"
-342,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Haughton, Emily R."
-343,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Floyd, William C."
-344,646dd927-3248-4fc9-970c-abea15f7d304,"Contact missing ORCID: Holmes, Keith"
-345,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,"Contact missing ORCID: Korver, Maartje"
-346,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,"Contact missing ORCID: Evans, Wiley"
-347,4f9103f8-cd13-4bb1-a86b-a3ceb201db97,"Contact missing ORCID: Holmes, Keith"
-348,f6ad9487-d689-41a3-b610-352224d7759b,"Contact missing ORCID: Janusson, Carly"
-349,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Korver, Maartje C."
-350,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Floyd, William C."
-351,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Brunsting, Ray"
-352,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Holmes, Keith"
-353,571ef4fa-eda3-4e67-baae-2e9b5e598f56,"Contact missing ORCID: Reshitnyk, Luba"
-354,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Krkosek, Martin"
-355,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Godwin, Sean"
-356,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Gonzalez Arriola, Santiago"
-357,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Giesbrecht, Ian J. W."
-358,b1d18883-a622-4f3c-9892-57564271e009,"Contact missing ORCID: Holmes, Keith"
-359,f15f9c5e-08a6-4e9f-8ff5-a6126447e138,"Contact missing ORCID: McInnes, Will"
-360,abd11340-660f-48b0-8bf0-9ccb142f513d,"Contact missing ORCID: Holmes, Keith"
-361,abd11340-660f-48b0-8bf0-9ccb142f513d,"Contact missing ORCID: McInnes, Will"
-362,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,"Contact missing ORCID: Hare, Alex"
-363,f1aee211-bfab-46fd-b650-c5cacb782f40,"Contact missing ORCID: Giesbrecht, Ian"
-364,7a9adcca-b0dc-462f-aa3f-9bb9209158be,"Contact missing ORCID: Pontier, Ondine"
-365,7a9adcca-b0dc-462f-aa3f-9bb9209158be,"Contact missing ORCID: Hessing-Lewis, Margot"
-366,cb9c0488-666b-4869-9ca4-04d7125fdf8a,"Contact missing ORCID: Evans, Wiley"
-367,782fef82-e6e7-451d-a7ac-39d08129c1d3,"Contact missing ORCID: Giesbrecht, Ian"
-368,782fef82-e6e7-451d-a7ac-39d08129c1d3,"Contact missing ORCID: Haughton, Emily"
-369,d70bcd3d-dc07-479f-856f-ad70d11c51f1,"Contact missing ORCID: Menounos, Brian"
-370,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Reshitnyk, Luba"
-371,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Holmes, Keith"
-372,96b5a7f2-5f23-413a-b060-d268bcff83ba,"Contact missing ORCID: Hales, Burke"
-373,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,"Contact missing ORCID: Reshitnyk, Luba"
-374,6a1254e5-3815-4289-ba1c-984fb84dc1fe,"Contact missing ORCID: Viner, Nick"
-375,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Korver, Maartje C."
-376,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Haughton, Emily"
-377,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Floyd, William C."
-378,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Brunsting, Ray"
-379,a8f61379-14f9-4ccc-bc9b-4408ba8340d7,"Contact missing ORCID: Opie, Rumer"
-380,75a7ec78-6f48-41f3-92c4-9b734206d6af,"Contact missing ORCID: Holmes, Keith"
-381,75a7ec78-6f48-41f3-92c4-9b734206d6af,"Contact missing ORCID: McInnes, Will"
-382,b47e53cd-74dd-4580-80d0-260860064f4b,"Contact missing ORCID: Obrist, Debora S"
-383,b47e53cd-74dd-4580-80d0-260860064f4b,"Contact missing ORCID: Fitzpatrick, O. T."
-384,3031aa60-689f-4b94-9dc6-9912cc742431,"Contact missing ORCID: Barrette, Jessy"
-385,26186b9d-a292-43c4-aec6-e928aa52b002,"Contact missing ORCID: Evans, Wiley"
-386,2abe9ff4-76de-4221-9ca6-ec3403a56efa,"Contact missing ORCID: Evans, Wiley"
-387,9b7adebb-5027-486a-8ed1-f97b5353a480,"Contact missing ORCID: Reshitnyk, Luba"
-388,9b7adebb-5027-486a-8ed1-f97b5353a480,Organization missing ROR: University of Victoria
-389,d7ca7d43-b0fb-4dfc-beb1-7033388011a0,Organization missing ROR: University of British Columbia
-390,d7ca7d43-b0fb-4dfc-beb1-7033388011a0,"Contact missing ORCID: Hunt, Brian"
-391,d7ca7d43-b0fb-4dfc-beb1-7033388011a0,"Contact missing ORCID: Johnson, Brett"
-392,d1d07d48-c909-41b4-8c0f-13238720749c,"Contact missing ORCID: Gonzalez Arriola, Santiago"
-393,b307d1bd-61be-4059-b4af-db36555dbd77,"Contact missing ORCID: Wickham, Sara"
-394,9a930f50-82e2-4d7c-9686-6b551b9a458e,Organization missing ROR: University of British Columbia
-395,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: St. Pierre, Kyra A."
-396,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Tank, Suzanne E."
-397,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Hunt, Brian P. V."
-398,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,Organization missing ROR: University of British Columbia
-399,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Giesbrecht, Ian"
-400,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Kellogg, Colleen T. E."
-401,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Jackson, Jennifer M."
-402,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Lertzman, Ken P."
-403,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Floyd, William C."
-404,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Korver, Maartje C."
-405,b3e5b67d-2425-4a4f-80b0-d1076df5492a,"Contact missing ORCID: McInnes, Will"
-406,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,"Contact missing ORCID: Korver, Maartje C."
-407,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,"Contact missing ORCID: van Meerveld, H. J."
-408,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,"Contact missing ORCID: Floyd, William C."
-409,151f5813-8d7c-4042-8b7a-a878c814145e,"Contact missing ORCID: Holmes, Keith"
-410,151f5813-8d7c-4042-8b7a-a878c814145e,"Contact missing ORCID: McInnes, Will"
-411,151f5813-8d7c-4042-8b7a-a878c814145e,"Contact missing ORCID: Reshitnyk, Luba"
-412,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,Organization missing ROR: University of British Columbia
-413,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,"Contact missing ORCID: Hunt, Brian"
-414,9c581481-f2ee-4353-b1ab-c5bf242945fe,"Contact missing ORCID: Barrette, Jessy"
-415,9c581481-f2ee-4353-b1ab-c5bf242945fe,"Contact missing ORCID: Timmer, Brian"
-416,9c581481-f2ee-4353-b1ab-c5bf242945fe,Organization missing ROR: University Of Victoria
-417,9c581481-f2ee-4353-b1ab-c5bf242945fe,Organization missing ROR: Hakai Institute
-418,c5e60545-c6f2-4945-af0a-21812ba5f0d9,"Contact missing ORCID: Savage, Rosie"
-419,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Organization missing ROR: Tula Foundation
-420,2a104224-c3eb-4778-adc3-865b36471b1b,"Contact missing ORCID: Hunt, Brian"
-421,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Godwin, Sean"
-422,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Krkosek, Martin"
-423,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Evans, Wiley"
-424,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Weekes, Carrie"
-425,49ec67e4-f7be-4658-b2b6-e4b57d9901df,"Contact missing ORCID: Haughton, Emily"
-426,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,"Contact missing ORCID: Holmes, Keith"
-427,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,"Contact missing ORCID: McInnes, Will"
-428,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,Organization missing ROR: Hakai Institute
-429,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,Organization missing ROR: Tula Foundation
-430,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Korver, Maartje"
-431,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Holmes, Keith"
-432,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Olson, Angeleen"
-433,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Hessing-Lewis, Margot"
-434,f5d51d99-ce24-4713-a317-7927dd283f1a,Organization missing ROR: Simon Fraser University
-435,5143957b-ee18-44d3-8000-a9c8f9a34a0d,"Contact missing ORCID: Hare, Alex"
-436,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Haughton, Emily R."
-437,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Floyd, William C."
-438,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Brunsting, Ray"
-439,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Hateley, Shawn"
-440,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Holmes, Keith"
-441,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,"Contact missing ORCID: Prentice, Carolyn"
-442,a9527050-a108-46f7-ac9f-7150b4abede5,"Contact missing ORCID: McInnes, Will"
-443,0ca539a4-217f-43ff-947e-5679dd8d64dd,"Contact missing ORCID: Gonzalez Arriola, Santiago"
-444,0ca539a4-217f-43ff-947e-5679dd8d64dd,"Contact missing ORCID: Holmes, Keith"
-445,5b4d3afa-e0bd-417f-ba08-437cc7e7f864,"Contact missing ORCID: McInnes, Will"
-446,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing ORCID: Monteith, Zach"
-447,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Giesbrecht, Ian"
-448,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Haughton, Emily"
-449,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Desmarais, Isabelle"
-450,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Froese, Tyrel"
-451,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Hessing-Lewis, Margot"
-452,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Gehman, Alyssa"
-453,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Olsen, Angeleen"
-454,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Monteith, Zach"
-455,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,"Contact missing ORCID: McInnes, Will"
-456,78b2edef-dab3-47a9-93bb-af63dfcd178d,"Contact missing ORCID: Hales, Burke"
-457,22951dd4-a9f7-4f2a-b11d-d50e184dc223,"Contact missing ORCID: Holmes, Keith"
-458,22951dd4-a9f7-4f2a-b11d-d50e184dc223,"Contact missing ORCID: Reshitnyk, Luba"
-459,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Hessing-Lewis, Margot"
-460,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Gehman, Alyssa"
-461,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Froese, Tyrel"
-462,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Monteith, Zach"
-463,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Holmes, Keith"
-464,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Burt, Jenn"
-465,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,"Contact missing ORCID: Evans, Wiley"
-466,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Floyd, William C."
-467,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Tank, Suzanne E."
-468,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Holmes, Keith"
-469,e1c64faf-88ac-4d28-8144-fad156971b4e,"Contact missing ORCID: Viner, Nick"
-470,693c7ca7-a244-4375-9460-ff7c27187af2,"Contact missing ORCID: Holmes, Keith"
-471,67871f51-9f69-44f6-9206-747e4d2a1553,"Contact missing ORCID: Floyd, William C."
-472,d8d3f510-8d7c-4b51-ba80-f7a77244eb4e,"Contact missing ORCID: Hare, Alex"
-473,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,"Contact missing ORCID: Whalen, Matt"
-474,fd4f6cd0-c6aa-4061-8caa-0ccade085615,"Contact missing ORCID: Gonzalez Arriola, Santiago"
-475,79433a1f-ec07-4cd5-a31a-8c2c53069085,"Contact missing ORCID: Hare, Alex"
-476,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: Korver, Maartje C."
-477,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: van Meerveld, H.J."
-478,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: Floyd, William C."
+145,9b7adebb-5027-486a-8ed1-f97b5353a480,No DOI defined
+146,b276330c-4ee9-476a-979a-cebe52d51db6,No version
+147,c68b9ec8-9f26-4fb0-9333-79730f4ea1ca,No version
+148,c68b9ec8-9f26-4fb0-9333-79730f4ea1ca,No DOI defined
+149,d1d07d48-c909-41b4-8c0f-13238720749c,No version
+150,d1d07d48-c909-41b4-8c0f-13238720749c,No DOI defined
+151,d1d07d48-c909-41b4-8c0f-13238720749c,No funder
+152,d1d07d48-c909-41b4-8c0f-13238720749c,No publisher
+153,b307d1bd-61be-4059-b4af-db36555dbd77,No projects associated
+154,b307d1bd-61be-4059-b4af-db36555dbd77,No version
+155,b307d1bd-61be-4059-b4af-db36555dbd77,No DOI defined
+156,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,No version
+157,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,No funder
+158,9a930f50-82e2-4d7c-9686-6b551b9a458e,No version
+159,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,No version
+160,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,No DOI defined
+161,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
+162,f31f38bf-16bc-4136-8982-a2df5fefb3a0,No version
+163,6338c2fa-3d4d-42dc-9c91-31761365e11e,No version
+164,6338c2fa-3d4d-42dc-9c91-31761365e11e,Invalid Resource URL: https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view returned status_code=401
+165,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No version
+166,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No DOI defined
+167,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No funder
+168,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,No version
+169,151f5813-8d7c-4042-8b7a-a878c814145e,No DOI defined
+170,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,No projects associated
+171,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,No version
+172,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,No funder
+173,dc84cb4c-ba14-4632-a595-eed526bf9db1,No version
+174,dc84cb4c-ba14-4632-a595-eed526bf9db1,No DOI defined
+175,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,No version
+176,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,No funder
+177,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,No publisher
+178,362130df-bc83-48b7-80f9-ad11ad6a91c9,No version
+179,362130df-bc83-48b7-80f9-ad11ad6a91c9,No DOI defined
+180,362130df-bc83-48b7-80f9-ad11ad6a91c9,No funder
+181,9c581481-f2ee-4353-b1ab-c5bf242945fe,No version
+182,9c581481-f2ee-4353-b1ab-c5bf242945fe,No DOI defined
+183,384dbb32-4bc8-4bd1-a741-6abbd332a50a,No version
+184,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
+185,f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff,No version
+186,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,No version
+187,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208810
+188,2a104224-c3eb-4778-adc3-865b36471b1b,No version
+189,def2a409-2319-4e8c-a584-9a467f044ada,No version
+190,def2a409-2319-4e8c-a584-9a467f044ada,No funder
+191,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
+192,55e7c337-02e8-4200-8ea9-88241d978f96,No version
+193,b5ee0615-c04d-462e-8199-f611bc6370ce,No projects associated
+194,b5ee0615-c04d-462e-8199-f611bc6370ce,No version
+195,b5ee0615-c04d-462e-8199-f611bc6370ce,No DOI defined
+196,b5ee0615-c04d-462e-8199-f611bc6370ce,No funder
+197,cd3ca52d-dc83-4501-9e53-7b00c8ab9090,No version
+198,ee30aa86-e786-4a3f-b90f-df09a134621d,No version
+199,ee30aa86-e786-4a3f-b90f-df09a134621d,No funder
+200,ee30aa86-e786-4a3f-b90f-df09a134621d,No publisher
+201,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No version
+202,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No funder
+203,52048599-9a0c-4d33-861f-26eaedc86bd5,No version
+204,49967494-a7b6-4128-b336-671971d1e2c6,No projects associated
+205,49967494-a7b6-4128-b336-671971d1e2c6,No version
+206,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
+207,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+208,49ec67e4-f7be-4658-b2b6-e4b57d9901df,No version
+209,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No version
+210,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No DOI defined
+211,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No funder
+212,18911dee-9ca0-408b-8999-28da3e3dde7a,No version
+213,18911dee-9ca0-408b-8999-28da3e3dde7a,No funder
+214,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No version
+215,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No DOI defined
+216,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No funder
+217,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No version
+218,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No DOI defined
+219,727b8863-91cc-4765-b0c0-80cb74b11182,No projects associated
+220,727b8863-91cc-4765-b0c0-80cb74b11182,No version
+221,727b8863-91cc-4765-b0c0-80cb74b11182,No DOI defined
+222,727b8863-91cc-4765-b0c0-80cb74b11182,No funder
+223,dd30b32a-2099-4909-838d-6ade9804381a,No version
+224,dd30b32a-2099-4909-838d-6ade9804381a,No funder
+225,6be4c552-469a-4558-b63d-7a2c52566fe2,No version
+226,2510cc69-bd46-4534-a62f-dae1903b388d,No version
+227,f5d51d99-ce24-4713-a317-7927dd283f1a,No version
+228,f5d51d99-ce24-4713-a317-7927dd283f1a,No DOI defined
+229,f5d51d99-ce24-4713-a317-7927dd283f1a,No funder
+230,f5d51d99-ce24-4713-a317-7927dd283f1a,No publisher
+231,7f23d45b-b777-491c-b602-def5402d3d83,No version
+232,7f23d45b-b777-491c-b602-def5402d3d83,No funder
+233,7f23d45b-b777-491c-b602-def5402d3d83,No publisher
+234,45983472-7627-4227-b312-079c2aeda7ef,No version
+235,9001166d-e7eb-410f-92d6-17df0593cb2e,No version
+236,0d9ca9c8-95b0-48db-87b9-7db8af77363e,No version
+237,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,No version
+238,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,No funder
+239,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,No publisher
+240,08d2c4ef-d157-480d-b3a9-6d0210c8d6ff,No version
+241,17680b42-fb77-4ab5-8645-23bb2f28c3e0,No version
+242,17680b42-fb77-4ab5-8645-23bb2f28c3e0,No DOI defined
+243,17680b42-fb77-4ab5-8645-23bb2f28c3e0,No funder
+244,f0cae885-2124-41c1-8523-2c6725c40dd6,No version
+245,e40c42ef-cabf-4969-aeb3-263407a91a68,No funder
+246,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No projects associated
+247,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No version
+248,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No DOI defined
+249,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No funder
+250,5143957b-ee18-44d3-8000-a9c8f9a34a0d,No DOI defined
+251,a9527050-a108-46f7-ac9f-7150b4abede5,No version
+252,a9527050-a108-46f7-ac9f-7150b4abede5,No DOI defined
+253,a9527050-a108-46f7-ac9f-7150b4abede5,No funder
+254,a9527050-a108-46f7-ac9f-7150b4abede5,No publisher
+255,eb02906a-9645-4486-ba14-46d71c581352,No version
+256,f9ff815c-c57a-4750-8f80-25f5e145c8c0,No version
+257,0894f661-f9cb-48cb-a0b4-8a001eb69420,Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiBIOOSBuoyResearch.html returned status_code=502
+258,281d7444-efa6-4b18-ac0a-55c8f8b484be,No version
+259,a8d40002-d393-40da-882c-73c0ad8ca7e6,No version
+260,a8d40002-d393-40da-882c-73c0ad8ca7e6,Invalid Resource URL: https://drive.google.com/file/d/1w7TLX1RIP6F6S_inRKU3x-A27srXzFSa/view?usp=sharing returned status_code=401
+261,0ca539a4-217f-43ff-947e-5679dd8d64dd,No version
+262,0ca539a4-217f-43ff-947e-5679dd8d64dd,No DOI defined
+263,0ca539a4-217f-43ff-947e-5679dd8d64dd,No funder
+264,5b4d3afa-e0bd-417f-ba08-437cc7e7f864,No version
+265,39f8b771-eb65-420f-b64e-742d94bbebf0,No version
+266,39f8b771-eb65-420f-b64e-742d94bbebf0,No funder
+267,46377bf0-06d5-4612-970d-29cd972e4870,No funder
+268,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,No version
+269,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No projects associated
+270,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No version
+271,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No DOI defined
+272,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No funder
+273,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No version
+274,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No DOI defined
+275,1f798a06-9c01-4025-93c6-b1a9f8ce6832,No version
+276,b36a7c12-cb56-46b7-8241-9b52ac30c766,No version
+277,22951dd4-a9f7-4f2a-b11d-d50e184dc223,No version
+278,22951dd4-a9f7-4f2a-b11d-d50e184dc223,No DOI defined
+279,22951dd4-a9f7-4f2a-b11d-d50e184dc223,No funder
+280,22951dd4-a9f7-4f2a-b11d-d50e184dc223,Invalid Resource URL: https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS returned status_code=404
+281,22951dd4-a9f7-4f2a-b11d-d50e184dc223,Empty resource name
+282,967f98cb-131a-421e-bcfd-467cff973b30,No funder
+283,324c5ae3-b0ac-4302-b701-598ebbb25870,No version
+284,826d8228-baab-4191-82de-44701cd93806,No projects associated
+285,826d8228-baab-4191-82de-44701cd93806,No version
+286,826d8228-baab-4191-82de-44701cd93806,No DOI defined
+287,826d8228-baab-4191-82de-44701cd93806,No funder
+288,79e98468-af9a-4b52-aa9c-71129fa9cb03,No version
+289,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No version
+290,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No DOI defined
+291,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No version
+292,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No funder
+293,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No publisher
+294,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No DOI defined
+295,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No funder
+296,e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a,No version
+297,e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a,No DOI defined
+298,78b2edef-dab3-47a9-93bb-af63dfcd178d,No version
+299,78b2edef-dab3-47a9-93bb-af63dfcd178d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0247208
+300,a4e3915d-207e-493d-97ff-c1e6ad6f0ce7,No version
+301,50037e63-bfac-4b7a-8547-56337fe40026,No version
+302,693c7ca7-a244-4375-9460-ff7c27187af2,No version
+303,693c7ca7-a244-4375-9460-ff7c27187af2,No funder
+304,693c7ca7-a244-4375-9460-ff7c27187af2,No publisher
+305,693c7ca7-a244-4375-9460-ff7c27187af2,Invalid Resource URL: https://www.hakai.org/blog/life-at-hakai/great-walls-quadra returned status_code=404
+306,35dd16d8-20b1-49d5-8c59-9cdc02475cd0,No version
+307,3fbbd892-55cd-4c96-9669-cecefe726b3f,No version
+308,3fbbd892-55cd-4c96-9669-cecefe726b3f,No funder
+309,8bcf556e-26e2-41d4-af2c-2192c0426523,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209049
+310,c2b05382-684f-4349-a64b-b20521223574,No version
+311,d576481a-4f51-40eb-85e9-fb95933f94cd,No version
+312,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No projects associated
+313,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No version
+314,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No funder
+315,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No publisher
+316,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No projects associated
+317,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No version
+318,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No DOI defined
+319,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No funder
+320,3a6e9472-1a85-48e5-8ac6-792945e03045,No version
+321,3a6e9472-1a85-48e5-8ac6-792945e03045,No funder
+322,c657dfa1-5970-4794-9c46-7c352df393d7,No version
+323,79433a1f-ec07-4cd5-a31a-8c2c53069085,No version
+324,79433a1f-ec07-4cd5-a31a-8c2c53069085,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208638
+325,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,No funder
+326,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
+327,1a9a5aae-41ee-4272-a52e-6c37abedfbff,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
+328,08d2c4ef-d157-480d-b3a9-6d0210c8d6ff,Duplicate DOI shared with another record: 10.21966/66x5-a210
+329,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
+330,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,Duplicate DOI shared with another record: 10.21966/66x5-a210
+331,f51d96b5-1827-4aab-b1ce-575faff1fd03,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
+332,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: McInnes, Will"
+333,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: Holmes, Keith"
+334,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Haughton, Emily R."
+335,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Floyd, William C."
+336,646dd927-3248-4fc9-970c-abea15f7d304,"Contact missing ORCID: Holmes, Keith"
+337,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,"Contact missing ORCID: Korver, Maartje"
+338,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,"Contact missing ORCID: Evans, Wiley"
+339,4f9103f8-cd13-4bb1-a86b-a3ceb201db97,"Contact missing ORCID: Holmes, Keith"
+340,f6ad9487-d689-41a3-b610-352224d7759b,"Contact missing ORCID: Janusson, Carly"
+341,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Korver, Maartje C."
+342,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Floyd, William C."
+343,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Brunsting, Ray"
+344,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Holmes, Keith"
+345,571ef4fa-eda3-4e67-baae-2e9b5e598f56,"Contact missing ORCID: Reshitnyk, Luba"
+346,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Krkosek, Martin"
+347,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Godwin, Sean"
+348,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Gonzalez Arriola, Santiago"
+349,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Giesbrecht, Ian J. W."
+350,b1d18883-a622-4f3c-9892-57564271e009,"Contact missing ORCID: Holmes, Keith"
+351,f15f9c5e-08a6-4e9f-8ff5-a6126447e138,"Contact missing ORCID: McInnes, Will"
+352,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,"Contact missing ORCID: Hare, Alex"
+353,abd11340-660f-48b0-8bf0-9ccb142f513d,"Contact missing ORCID: Holmes, Keith"
+354,abd11340-660f-48b0-8bf0-9ccb142f513d,"Contact missing ORCID: McInnes, Will"
+355,f1aee211-bfab-46fd-b650-c5cacb782f40,"Contact missing ORCID: Giesbrecht, Ian"
+356,7a9adcca-b0dc-462f-aa3f-9bb9209158be,"Contact missing ORCID: Pontier, Ondine"
+357,7a9adcca-b0dc-462f-aa3f-9bb9209158be,"Contact missing ORCID: Hessing-Lewis, Margot"
+358,cb9c0488-666b-4869-9ca4-04d7125fdf8a,"Contact missing ORCID: Evans, Wiley"
+359,782fef82-e6e7-451d-a7ac-39d08129c1d3,"Contact missing ORCID: Giesbrecht, Ian"
+360,782fef82-e6e7-451d-a7ac-39d08129c1d3,"Contact missing ORCID: Haughton, Emily"
+361,d70bcd3d-dc07-479f-856f-ad70d11c51f1,"Contact missing ORCID: Menounos, Brian"
+362,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Reshitnyk, Luba"
+363,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Holmes, Keith"
+364,96b5a7f2-5f23-413a-b060-d268bcff83ba,"Contact missing ORCID: Hales, Burke"
+365,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,"Contact missing ORCID: Reshitnyk, Luba"
+366,6a1254e5-3815-4289-ba1c-984fb84dc1fe,"Contact missing ORCID: Viner, Nick"
+367,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Korver, Maartje C."
+368,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Haughton, Emily"
+369,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Floyd, William C."
+370,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Brunsting, Ray"
+371,75a7ec78-6f48-41f3-92c4-9b734206d6af,"Contact missing ORCID: Holmes, Keith"
+372,75a7ec78-6f48-41f3-92c4-9b734206d6af,"Contact missing ORCID: McInnes, Will"
+373,a8f61379-14f9-4ccc-bc9b-4408ba8340d7,"Contact missing ORCID: Opie, Rumer"
+374,b47e53cd-74dd-4580-80d0-260860064f4b,"Contact missing ORCID: Obrist, Debora S"
+375,b47e53cd-74dd-4580-80d0-260860064f4b,"Contact missing ORCID: Fitzpatrick, O. T."
+376,3031aa60-689f-4b94-9dc6-9912cc742431,"Contact missing ORCID: Barrette, Jessy"
+377,26186b9d-a292-43c4-aec6-e928aa52b002,"Contact missing ORCID: Evans, Wiley"
+378,2abe9ff4-76de-4221-9ca6-ec3403a56efa,"Contact missing ORCID: Evans, Wiley"
+379,d1d07d48-c909-41b4-8c0f-13238720749c,"Contact missing ORCID: Gonzalez Arriola, Santiago"
+380,b307d1bd-61be-4059-b4af-db36555dbd77,"Contact missing ORCID: Wickham, Sara"
+381,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: St. Pierre, Kyra A."
+382,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Tank, Suzanne E."
+383,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Hunt, Brian P. V."
+384,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,Organization missing ROR: University of British Columbia
+385,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Giesbrecht, Ian"
+386,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Kellogg, Colleen T. E."
+387,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Jackson, Jennifer M."
+388,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Lertzman, Ken P."
+389,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Floyd, William C."
+390,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Korver, Maartje C."
+391,9a930f50-82e2-4d7c-9686-6b551b9a458e,Organization missing ROR: University of British Columbia
+392,b3e5b67d-2425-4a4f-80b0-d1076df5492a,"Contact missing ORCID: McInnes, Will"
+393,151f5813-8d7c-4042-8b7a-a878c814145e,"Contact missing ORCID: Reshitnyk, Luba"
+394,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,"Contact missing ORCID: Korver, Maartje C."
+395,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,"Contact missing ORCID: van Meerveld, H. J."
+396,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,"Contact missing ORCID: Floyd, William C."
+397,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,Organization missing ROR: University of British Columbia
+398,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,"Contact missing ORCID: Hunt, Brian"
+399,c5e60545-c6f2-4945-af0a-21812ba5f0d9,"Contact missing ORCID: Savage, Rosie"
+400,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Organization missing ROR: Tula Foundation
+401,9c581481-f2ee-4353-b1ab-c5bf242945fe,"Contact missing ORCID: Barrette, Jessy"
+402,2a104224-c3eb-4778-adc3-865b36471b1b,"Contact missing ORCID: Hunt, Brian"
+403,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Godwin, Sean"
+404,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Krkosek, Martin"
+405,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Evans, Wiley"
+406,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Weekes, Carrie"
+407,49ec67e4-f7be-4658-b2b6-e4b57d9901df,"Contact missing ORCID: Haughton, Emily"
+408,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,"Contact missing ORCID: Holmes, Keith"
+409,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,"Contact missing ORCID: McInnes, Will"
+410,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Korver, Maartje"
+411,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Holmes, Keith"
+412,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,Organization missing ROR: Hakai Institute
+413,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,Organization missing ROR: Tula Foundation
+414,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Olson, Angeleen"
+415,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Hessing-Lewis, Margot"
+416,f5d51d99-ce24-4713-a317-7927dd283f1a,Organization missing ROR: Simon Fraser University
+417,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,"Contact missing ORCID: Prentice, Carolyn"
+418,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Haughton, Emily R."
+419,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Floyd, William C."
+420,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Brunsting, Ray"
+421,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Hateley, Shawn"
+422,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Holmes, Keith"
+423,5143957b-ee18-44d3-8000-a9c8f9a34a0d,"Contact missing ORCID: Hare, Alex"
+424,a9527050-a108-46f7-ac9f-7150b4abede5,"Contact missing ORCID: McInnes, Will"
+425,0ca539a4-217f-43ff-947e-5679dd8d64dd,"Contact missing ORCID: Gonzalez Arriola, Santiago"
+426,0ca539a4-217f-43ff-947e-5679dd8d64dd,"Contact missing ORCID: Holmes, Keith"
+427,5b4d3afa-e0bd-417f-ba08-437cc7e7f864,"Contact missing ORCID: McInnes, Will"
+428,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing ORCID: Monteith, Zach"
+429,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Giesbrecht, Ian"
+430,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Haughton, Emily"
+431,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Desmarais, Isabelle"
+432,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Froese, Tyrel"
+433,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Hessing-Lewis, Margot"
+434,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Gehman, Alyssa"
+435,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Olsen, Angeleen"
+436,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Monteith, Zach"
+437,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,"Contact missing ORCID: McInnes, Will"
+438,22951dd4-a9f7-4f2a-b11d-d50e184dc223,"Contact missing ORCID: Holmes, Keith"
+439,22951dd4-a9f7-4f2a-b11d-d50e184dc223,"Contact missing ORCID: Reshitnyk, Luba"
+440,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Hessing-Lewis, Margot"
+441,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Gehman, Alyssa"
+442,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Froese, Tyrel"
+443,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Monteith, Zach"
+444,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Floyd, William C."
+445,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Tank, Suzanne E."
+446,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Holmes, Keith"
+447,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Holmes, Keith"
+448,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Burt, Jenn"
+449,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,"Contact missing ORCID: Evans, Wiley"
+450,78b2edef-dab3-47a9-93bb-af63dfcd178d,"Contact missing ORCID: Hales, Burke"
+451,693c7ca7-a244-4375-9460-ff7c27187af2,"Contact missing ORCID: Holmes, Keith"
+452,d8d3f510-8d7c-4b51-ba80-f7a77244eb4e,"Contact missing ORCID: Hare, Alex"
+453,67871f51-9f69-44f6-9206-747e4d2a1553,"Contact missing ORCID: Floyd, William C."
+454,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,"Contact missing ORCID: Whalen, Matt"
+455,fd4f6cd0-c6aa-4061-8caa-0ccade085615,"Contact missing ORCID: Gonzalez Arriola, Santiago"
+456,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: Korver, Maartje C."
+457,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: van Meerveld, H.J."
+458,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: Floyd, William C."
+459,79433a1f-ec07-4cd5-a31a-8c2c53069085,"Contact missing ORCID: Hare, Alex"

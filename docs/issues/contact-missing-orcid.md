@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-12</td>
+      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
+      <td>Contact missing ORCID: Barrette, Jessy</td>
+    </tr>
+    <tr>
+      <td>2026-05-12</td>
+      <td>UAV Imagery - Coastal British Columbia - 2015</td>
+      <td>Contact missing ORCID: Reshitnyk, Luba</td>
+    </tr>
+    <tr>
       <td>2026-04-15</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>Contact missing ORCID: Savage, Rosie</td>
@@ -23,11 +33,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2026-02-20</td>
       <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
-      <td>Contact missing ORCID: Barrette, Jessy</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>Contact missing ORCID: Barrette, Jessy</td>
     </tr>
     <tr>
@@ -74,11 +79,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2026-02-20</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
       <td>Contact missing ORCID: Hare, Alex</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
-      <td>Contact missing ORCID: Timmer, Brian</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -527,11 +527,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
@@ -552,18 +547,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
-      <td>Contact missing ORCID: Hunt, Brian</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>Contact missing ORCID: Hunt, Brian</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Juvenile Sockeye Diets Hakai 2015-2016</td>
-      <td>Contact missing ORCID: Johnson, Brett</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -593,11 +578,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
     <tr>
@@ -632,23 +612,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bald eagles as vectors of marine nutrients – Central Coast Islands (100 Islands study area) – May – July 2017</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Bathymetric Survey - Northwest Calvert Island</td>
-      <td>Contact missing ORCID: Viner, Nick</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
