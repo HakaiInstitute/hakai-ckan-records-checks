@@ -19,7 +19,7 @@ from tqdm import tqdm
 
 from hakai_ckan_records_checks import hakai
 from hakai_ckan_records_checks.ckan import CKAN
-from hakai_ckan_records_checks.datacite import Datacite, get_datacite_summary
+from hakai_ckan_records_checks.datacite import Datacite, compare_datacite_metadata, get_datacite_summary
 
 REPO_URL = os.getenv(
     "REPO_URL", "https://github.com/HakaiInstitute/hakai-ckan-records-checks"
@@ -130,6 +130,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         summary.update(get_datacite_summary(datacite_metadata))
         if error_msg:
             test_results.append([error_msg])
+        test_results.extend([[msg] for msg in compare_datacite_metadata(record["result"], datacite_metadata)])
         test_results = pd.DataFrame(test_results, columns=["message"])
         test_results.insert(0, "record_id", record["result"]["id"])
 
