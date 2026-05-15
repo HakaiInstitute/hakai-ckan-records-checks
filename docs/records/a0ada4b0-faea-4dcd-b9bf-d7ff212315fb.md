@@ -9,9 +9,11 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a</a>
 
-| Issue                                  |
-|:---------------------------------------|
-| Contact missing ORCID: Korver, Maartje |
+| Issue                                                                             |
+|:----------------------------------------------------------------------------------|
+| Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record |
+| Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record  |
+| Contact missing ORCID: Korver, Maartje                                            |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUVFTFdKeHlaQ29nNTQ" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

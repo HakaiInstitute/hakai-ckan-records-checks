@@ -1,6 +1,5 @@
 import base64
 import datetime
-import difflib
 import json
 import os
 import pickle
@@ -18,6 +17,7 @@ from loguru import logger
 from tqdm import tqdm
 
 from hakai_ckan_records_checks import hakai
+from hakai_ckan_records_checks.hakai import _fuzzy_match
 from hakai_ckan_records_checks.ckan import CKAN
 from hakai_ckan_records_checks.datacite import Datacite, compare_datacite_metadata, get_datacite_summary
 
@@ -30,19 +30,6 @@ CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
 IGNORE_RECORD_IDS = "hakai-metadata-form-data"
 
-
-def _normalize_name(name):
-    if ',' in name:
-        parts = [p.strip() for p in name.split(',', 1)]
-        name = f'{parts[1]} {parts[0]}'
-    normalized = re.sub(r'\s+[A-Za-z]\.\s*', ' ', name).strip()
-    return re.sub(r'\s+', ' ', normalized)
-
-
-def _fuzzy_match(a, b, threshold=0.85):
-    if not (a and b):
-        return False
-    return difflib.SequenceMatcher(None, _normalize_name(a.lower()), _normalize_name(b.lower())).ratio() >= threshold
 
 
 def fig_to_json(fig):

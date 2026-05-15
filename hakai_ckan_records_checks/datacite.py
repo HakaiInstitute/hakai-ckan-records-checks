@@ -1,9 +1,10 @@
-import difflib
 import json
 import re
 
 import requests
 from loguru import logger
+
+from hakai_ckan_records_checks.hakai import _fuzzy_match
 
 DATACITE_API_URL = "https://api.datacite.org/dois"
 
@@ -19,26 +20,6 @@ RELATIONSHIPS_TRACKED = [
 # relationType values auto-populated by DataCite (not manually curated)
 _SKIP_RELATION_TYPES = {"Cites", "IsCitedBy", "IsSupplementTo", "IsSupplementedBy"}
 
-_AUTHOR_ROLES = {"author", "principalInvestigator", "coInvestigator", "originator"}
-
-
-def _normalize_name(name):
-    if "," in name:
-        parts = [p.strip() for p in name.split(",", 1)]
-        name = f"{parts[1]} {parts[0]}"
-    normalized = re.sub(r"\s+[A-Za-z]\.\s*", " ", name).strip()
-    return re.sub(r"\s+", " ", normalized)
-
-
-def _names_match(a, b, threshold=0.85):
-    if not (a and b):
-        return False
-    return (
-        difflib.SequenceMatcher(
-            None, _normalize_name(a.lower()), _normalize_name(b.lower())
-        ).ratio()
-        >= threshold
-    )
 
 
 def _normalize_identifier(identifier, id_type=""):
@@ -111,6 +92,14 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
     attrs = datacite_metadata["data"]["attributes"]
     issues = []
 
+    try:
+        ckan_citation = json.loads(
+            (ckan_record.get("citation") or {}).get("en", "[]").replace('\\"', '"')
+        )
+        ckan_citation = ckan_citation[0] if ckan_citation else {}
+    except Exception:
+        ckan_citation = {}
+
     # Title
     dc_titles = attrs.get("titles", [])
     primary_dc_title = next(
@@ -119,7 +108,7 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
     )
     if primary_dc_title:
         ckan_title = ckan_record.get("title", "")
-        if not _names_match(ckan_title, primary_dc_title, threshold=0.80):
+        if not _fuzzy_match(ckan_title, primary_dc_title, threshold=0.80):
             issues.append(
                 f"Metadata mismatch: title CKAN='{ckan_title}' | DataCite='{primary_dc_title}'"
             )
@@ -136,23 +125,13 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
 
     # Version
     dc_version = (attrs.get("version") or "").lstrip("v").strip()
-    try:
-        ckan_citation = json.loads(
-            (ckan_record.get("citation") or {}).get("en", "[]").replace('\\"', '"')
-        )
-        ckan_version = (
-            (ckan_citation[0].get("version") if ckan_citation else None)
-            or ckan_record.get("version")
-            or ""
-        ).lstrip("v").strip()
-    except Exception:
-        ckan_version = (ckan_record.get("version") or "").lstrip("v").strip()
+    ckan_version = (ckan_citation.get("version") or ckan_record.get("version") or "").lstrip("v").strip()
     if dc_version and ckan_version and dc_version != ckan_version:
         issues.append(
             f"Metadata mismatch: version CKAN='{ckan_version}' | DataCite='{dc_version}'"
         )
 
-    # Authors / Creators
+    # Authors / Creators — compare DataCite creators against citation authors only
     dc_creators = attrs.get("creators", [])
     dc_creator_names = []
     for c in dc_creators:
@@ -163,20 +142,18 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
         if name:
             dc_creator_names.append(name)
 
-    ckan_contacts = ckan_record.get("cited-responsible-party", [])
     ckan_author_names = [
-        c.get("individual-name") or c.get("organisation-name")
-        for c in ckan_contacts
-        if any(r in _AUTHOR_ROLES for r in c.get("role", []))
-        and (c.get("individual-name") or c.get("organisation-name"))
+        f"{a.get('given', '')} {a.get('family', '')}".strip()
+        for a in ckan_citation.get("author", [])
+        if a.get("given") or a.get("family")
     ]
 
     for dc_name in dc_creator_names:
-        if not any(_names_match(dc_name, n) for n in ckan_author_names):
+        if not any(_fuzzy_match(dc_name, n) for n in ckan_author_names):
             issues.append(f"Metadata mismatch: creator '{dc_name}' in DataCite not found in CKAN record")
 
     for ckan_name in ckan_author_names:
-        if not any(_names_match(ckan_name, dc_name) for dc_name in dc_creator_names):
+        if not any(_fuzzy_match(ckan_name, dc_name) for dc_name in dc_creator_names):
             issues.append(f"Metadata mismatch: author '{ckan_name}' in CKAN record not found in DataCite")
 
     # Related works

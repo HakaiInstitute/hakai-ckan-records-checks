@@ -1,3 +1,4 @@
+import difflib
 import json
 import re
 
@@ -9,6 +10,20 @@ ORGANIZATIONS = [
     "Hakai Institute",
 ]
 DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
+
+
+def _normalize_name(name):
+    if "," in name:
+        parts = [p.strip() for p in name.split(",", 1)]
+        name = f"{parts[1]} {parts[0]}"
+    normalized = re.sub(r"\s+[A-Za-z]\.\s*", " ", name).strip()
+    return re.sub(r"\s+", " ", normalized)
+
+
+def _fuzzy_match(a, b, threshold=0.85):
+    if not (a and b):
+        return False
+    return difflib.SequenceMatcher(None, _normalize_name(a.lower()), _normalize_name(b.lower())).ratio() >= threshold
 
 
 @logger.catch(default=pd.DataFrame())

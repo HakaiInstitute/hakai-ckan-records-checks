@@ -9,9 +9,10 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e</a>
 
-| Issue      |
-|:-----------|
-| No version |
+| Issue                                                                      |
+|:---------------------------------------------------------------------------|
+| No version                                                                 |
+| Metadata mismatch: author 'Jenn Burt' in CKAN record not found in DataCite |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUV1QlY5N1AwYk42TFo" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

@@ -447,36 +447,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of surface seawater CO2 content from April 2016 to November 2017 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Evans, Wiley</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</td>
-      <td>Contact missing ORCID: Evans, Wiley</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
-      <td>Contact missing ORCID: Fitzpatrick, O. T.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
-      <td>Contact missing ORCID: Giesbrecht, Ian</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Gonzalez Arriola, Santiago</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai Topographic Basemap</td>
       <td>Contact missing ORCID: Gonzalez Arriola, Santiago</td>
     </tr>
@@ -484,11 +454,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-07-23</td>
       <td>20m Digital Elevation Model - Calvert Island</td>
       <td>Contact missing ORCID: Gonzalez Arriola, Santiago</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Adjusted Koeye River stage and temperature from 2013 to 2021</td>
-      <td>Contact missing ORCID: Haughton, Emily</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -552,11 +517,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
@@ -592,11 +552,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
-      <td>Contact missing ORCID: Obrist, Debora S</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
       <td>Contact missing ORCID: Pontier, Ondine</td>
     </tr>
@@ -617,8 +572,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
-      <td>Contact missing ORCID: van Meerveld, H. J.</td>
+      <td>Bathymetric Survey - Northwest Calvert Island</td>
+      <td>Contact missing ORCID: Viner, Nick</td>
     </tr>
   </tbody>
 </table>

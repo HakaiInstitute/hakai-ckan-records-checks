@@ -9,14 +9,19 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9</a>
 
-| Issue                                     |
-|:------------------------------------------|
-| No version                                |
-| No funder                                 |
-| Contact missing ORCID: Korver, Maartje C. |
-| Contact missing ORCID: Haughton, Emily    |
-| Contact missing ORCID: Floyd, William C.  |
-| Contact missing ORCID: Brunsting, Ray     |
+| Issue                                                                              |
+|:-----------------------------------------------------------------------------------|
+| No version                                                                         |
+| No funder                                                                          |
+| Metadata mismatch: creator 'M Korver' in DataCite not found in CKAN record         |
+| Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite |
+| Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite    |
+| Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite  |
+| Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite     |
+| Contact missing ORCID: Korver, Maartje C.                                          |
+| Contact missing ORCID: Haughton, Emily                                             |
+| Contact missing ORCID: Floyd, William C.                                           |
+| Contact missing ORCID: Brunsting, Ray                                              |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MVhmY1RwNHlma250bWg" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

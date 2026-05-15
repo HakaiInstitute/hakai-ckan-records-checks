@@ -9,12 +9,13 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0</a>
 
-| Issue                               |
-|:------------------------------------|
-| No version                          |
-| No funder                           |
-| No publisher                        |
-| Contact missing ORCID: Evans, Wiley |
+| Issue                                                                             |
+|:----------------------------------------------------------------------------------|
+| No version                                                                        |
+| No funder                                                                         |
+| No publisher                                                                      |
+| Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record |
+| Contact missing ORCID: Evans, Wiley                                               |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MXM3TWYzcWNJZ2p1Nk0" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

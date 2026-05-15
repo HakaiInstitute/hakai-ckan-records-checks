@@ -9,9 +9,10 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d</a>
 
-| Issue                                                 |
-|:------------------------------------------------------|
-| Record isn't accesible via a standard data repository |
+| Issue                                                                                                                                                                     |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Metadata mismatch: related work 'https://drive.google.com/file/d/1cyodfkonv4nbh8c_tb9re4ra-8cxjkz7/view?usp=sharing' in CKAN not found in DataCite                        |
+| Metadata mismatch: related identifier 'https://drive.google.com/file/d/1GO3hrEXNGrfRjAYD24fLVe20DZ1T63YT/view?usp=sharing' (IsDocumentedBy) in DataCite not found in CKAN |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/RvRPlFMSsIaBwoGdQIq5BVYfBBa2/-OCe-GBA4i93dk_I9uOR" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
