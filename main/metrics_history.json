@@ -184,38 +184,6 @@
     "total_warnings": 659
   },
   {
-    "date": "2026-05-06",
-    "total_records": 260,
-    "records_with_issues": 254,
-    "pct_with_doi": 78.8,
-    "total_errors": 67,
-    "total_warnings": 659
-  },
-  {
-    "date": "2026-05-06",
-    "total_records": 260,
-    "records_with_issues": 254,
-    "pct_with_doi": 78.8,
-    "total_errors": 67,
-    "total_warnings": 659
-  },
-  {
-    "date": "2026-05-06",
-    "total_records": 260,
-    "records_with_issues": 254,
-    "pct_with_doi": 78.8,
-    "total_errors": 67,
-    "total_warnings": 659
-  },
-  {
-    "date": "2026-05-06",
-    "total_records": 260,
-    "records_with_issues": 254,
-    "pct_with_doi": 78.8,
-    "total_errors": 67,
-    "total_warnings": 659
-  },
-  {
     "date": "2026-05-07",
     "total_records": 260,
     "records_with_issues": 254,
@@ -256,11 +224,147 @@
     "total_warnings": 659
   },
   {
-    "date": "2026-05-10",
+    "date": "2026-05-08",
     "total_records": 260,
-    "records_with_issues": 252,
-    "pct_with_doi": 78.8,
-    "total_errors": 67,
-    "total_warnings": 658
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-08",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-08",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-08",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-08",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-08",
+    "total_records": 260,
+    "records_with_issues": 253,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 260,
+    "records_with_issues": 253,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 260,
+    "records_with_issues": 253,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 238,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 236,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 237,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 238,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 238,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 177,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 176,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 176,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-11",
+    "total_records": 261,
+    "records_with_issues": 173,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-12",
+    "total_records": 261,
+    "records_with_issues": 173,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-12",
+    "total_records": 260,
+    "records_with_issues": 171,
+    "pct_with_doi": 79.2
+  },
+  {
+    "date": "2026-05-12",
+    "total_records": 261,
+    "records_with_issues": 172,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-13",
+    "total_records": 260,
+    "records_with_issues": 171,
+    "pct_with_doi": 78.8
+  },
+  {
+    "date": "2026-05-14",
+    "total_records": 261,
+    "records_with_issues": 240,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-14",
+    "total_records": 261,
+    "records_with_issues": 211,
+    "pct_with_doi": 78.9
+  },
+  {
+    "date": "2026-05-15",
+    "total_records": 261,
+    "records_with_issues": 208,
+    "pct_with_doi": 78.9
   }
 ]
