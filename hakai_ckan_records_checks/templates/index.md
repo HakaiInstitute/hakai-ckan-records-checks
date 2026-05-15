@@ -28,14 +28,21 @@ This page present a summary of the different metadata records distributed at <{{
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
     var fig = {{ figure_issues_distribution_json }};
-    Plotly.newPlot('issue-distribution-chart', fig.data, fig.layout, {responsive: true});
+    var el = document.getElementById('issue-distribution-chart');
+    Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
+      el.on('plotly_click', function(data) {
+        var label = data.points[0].y;
+        var slug = label.replace(/[.'"]/g, '').replace(/[^a-zA-Z0-9]/g, '-').toLowerCase().replace(/-+/g, '-');
+        window.location.href = 'issues/' + slug + '/';
+      });
+    });
   } else {
     setTimeout(waitForPlotly, 50);
   }
 })();
 </script>
 
-## Records Summary Table
+## Issues By Record
 
 {{
   catalog_summary[catalog_summary['sum'] != '']

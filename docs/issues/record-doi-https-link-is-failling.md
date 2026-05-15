@@ -11,16 +11,14 @@ This page present the list of all the records associated with the issue: **Recor
     <tr style="text-align: right;">
       <th>metadata_revision</th>
       <th>title</th>
-      <th>level</th>
       <th>message</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2026-04-24</td>
-      <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
-      <td>ERROR</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/0xvh-1318 status_code=502</td>
+      <td>2025-04-21</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.5281/zenodo.4005400 status_code=504</td>
     </tr>
   </tbody>
 </table>
