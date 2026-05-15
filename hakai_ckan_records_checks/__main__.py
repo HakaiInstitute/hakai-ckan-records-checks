@@ -101,7 +101,7 @@ def compute_metrics(catalog_summary):
     }
 
 
-def _build_metric(label, value_str, raw_delta, lower_is_better=None, pct=False):
+def _build_metric(label, value_str, raw_delta, lower_is_better=None, pct=False, previous_date=None):
     delta_str = None
     color = "gray"
     if raw_delta is not None and raw_delta != 0:
@@ -110,7 +110,7 @@ def _build_metric(label, value_str, raw_delta, lower_is_better=None, pct=False):
         delta_str = f"{sign}{raw_delta}{suffix}"
         if lower_is_better is not None:
             color = "green" if (raw_delta < 0) == lower_is_better else "red"
-    return {"label": label, "value": value_str, "delta": delta_str, "color": color}
+    return {"label": label, "value": value_str, "delta": delta_str, "color": color, "previous_date": previous_date}
 
 
 def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
@@ -327,10 +327,11 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     history.append(current_metrics)
     metrics_file.write_text(json.dumps(history[-52:], indent=2))
 
+    prev_date = previous["date"] if previous else None
     metrics_display = [
-        _build_metric("Total Records", str(current_metrics["total_records"]), delta.get("total_records")),
-        _build_metric("Records with Issues", str(current_metrics["records_with_issues"]), delta.get("records_with_issues"), lower_is_better=True),
-        _build_metric("% Records with DOI", f"{current_metrics['pct_with_doi']}%", delta.get("pct_with_doi"), lower_is_better=False, pct=True),
+        _build_metric("Total Records", str(current_metrics["total_records"]), delta.get("total_records"), previous_date=prev_date),
+        _build_metric("Records with Issues", str(current_metrics["records_with_issues"]), delta.get("records_with_issues"), lower_is_better=True, previous_date=prev_date),
+        _build_metric("% Records with DOI", f"{current_metrics['pct_with_doi']}%", delta.get("pct_with_doi"), lower_is_better=False, pct=True, previous_date=prev_date),
     ]
 
     figure_issues_distribution_json = fig_to_json(figure_issues_distribution)

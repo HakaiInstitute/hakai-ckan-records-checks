@@ -15,7 +15,7 @@ This page present a summary of the different metadata records distributed at <{{
   <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">{{ m['value'] }}</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">{{ m['label'] }}</div>
   {% if m['delta'] %}
-  <div style="font-size:0.8rem;font-weight:600;color:{{ m['color'] }};margin-top:0.5rem;">{{ m['delta'] }} vs last run</div>
+  <div style="font-size:0.8rem;font-weight:600;color:{{ m['color'] }};margin-top:0.5rem;">{{ m['delta'] }} since {{ m['previous_date'] }}</div>
   {% endif %}
 </div>
 {% endfor %}
