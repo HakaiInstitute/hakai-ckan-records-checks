@@ -237,12 +237,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Kelp forest communities along an otter gradient</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -252,12 +252,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>

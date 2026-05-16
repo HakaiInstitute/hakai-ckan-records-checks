@@ -11,8 +11,8 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 
 | Issue                                                                                                                                                         |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Metadata mismatch: related work 'https://drive.google.com/file/d/1mt2v_uv78afjp5z_lhi1gu52bqwko4ms/view?usp=drive_link' in CKAN not found in DataCite         |
 | Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite |
+| Metadata mismatch: related work 'https://drive.google.com/file/d/1mt2v_uv78afjp5z_lhi1gu52bqwko4ms/view?usp=drive_link' in CKAN not found in DataCite         |
 | Contact missing ORCID: Giesbrecht, Ian                                                                                                                        |
 
 

@@ -136,16 +136,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Krkosek, Martin</td>
     </tr>
     <tr>
-      <td>2025-01-18</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>Contact missing ORCID: Godwin, Sean</td>
-    </tr>
-    <tr>
-      <td>2025-01-18</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>Contact missing ORCID: Krkosek, Martin</td>
-    </tr>
-    <tr>
       <td>2024-12-05</td>
       <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
       <td>Contact missing ORCID: Brunsting, Ray</td>
