@@ -12,26 +12,24 @@ This page present a summary of the different metadata records distributed at <ht
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">260</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">261</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-1 since 2026-05-15</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+1 since 2026-05-16</div>
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
   <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">211</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+3 since 2026-05-15</div>
-  
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">78.8%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">78.9%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">-0.1% since 2026-05-15</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.1% since 2026-05-16</div>
   
 </div>
 
@@ -43,7 +41,7 @@ This page present a summary of the different metadata records distributed at <ht
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 3.0, 6.0, 6.0, 6.0, 9.0, 14.0, 23.0, 55.0, 57.0, 64.0, 122.0, 134.0], "textposition": "outside", "x": [2, 3, 6, 6, 6, 9, 14, 23, 55, 57, 64, 122, 134], "xaxis": "x", "y": ["Empty resource name", "Record DOI HTTPS link is failling", "Duplicate DOI shared with another record", "DOI is not redirecting to Hakai's catalogue", "Organization missing ROR", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 6.0, 6.0, 6.0, 9.0, 14.0, 23.0, 55.0, 57.0, 65.0, 123.0, 134.0], "textposition": "outside", "x": [2, 6, 6, 6, 9, 14, 23, 55, 57, 65, 123, 134], "xaxis": "x", "y": ["Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "Organization missing ROR", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -101,12 +99,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td>2026-04-13</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7b34963-67bc-404b-bdd1-b41cc750bdaa' target='_blank'>Fraser River Airborne Surveys - 2020 - Airborne Coastal Observatory</a></td>
-      <td><a title='63f6c693-7c22-49cc-ad7d-9aa1774a5972' href='records/63f6c693-7c22-49cc-ad7d-9aa1774a5972' target='_blank'>1</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-03-26</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_84820f31-b6db-479c-a47e-f22f2899b4d2' target='_blank'>Biogeochemical Sampling of 28 Streams on Vancouver Island</a></td>
       <td><a title='0e92249d-74e1-4253-a8a5-876d08a8ff65' href='records/0e92249d-74e1-4253-a8a5-876d08a8ff65' target='_blank'>3</a></td>
       <td>Watersheds</td>
@@ -158,7 +150,7 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9a018fe0-8bd1-41d1-af8d-079960b71473' target='_blank'>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</a></td>
       <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>1</a></td>
       <td>Genomics, Nearshore</td>
-      <td>2025-10-29</td>
+      <td>2026-05-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e9c97a3-4bf1-4852-81b6-d74cedf2c94c' target='_blank'>Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
@@ -387,6 +379,12 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='582c6ff0-029e-44ba-8ba1-d3f2f39f2005' href='records/582c6ff0-029e-44ba-8ba1-d3f2f39f2005' target='_blank'>1</a></td>
       <td>Juvenile Salmon Program</td>
       <td>2024-06-27</td>
+    </tr>
+    <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
+      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>3</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>2025-01-18</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b63374a9-2288-4512-9820-5d1b44d2b502' target='_blank'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
@@ -636,7 +634,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7' target='_blank'>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
-      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>2</a></td>
+      <td><a title='4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' href='records/4f1e8eac-8390-44d8-93d6-9263fc1dfcf9' target='_blank'>1</a></td>
       <td></td>
       <td>2026-05-14</td>
     </tr>
@@ -1008,7 +1006,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0ca5d26-b457-4726-97d4-ed0c8dd6cd99' target='_blank'>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</a></td>
-      <td><a title='dd30b32a-2099-4909-838d-6ade9804381a' href='records/dd30b32a-2099-4909-838d-6ade9804381a' target='_blank'>10</a></td>
+      <td><a title='dd30b32a-2099-4909-838d-6ade9804381a' href='records/dd30b32a-2099-4909-838d-6ade9804381a' target='_blank'>9</a></td>
       <td>Nearshore</td>
       <td>2024-07-24</td>
     </tr>

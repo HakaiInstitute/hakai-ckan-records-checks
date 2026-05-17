@@ -541,6 +541,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1cyodfkonv4nbh8c_tb9re4ra-8cxjkz7/view?usp=sharing' in CKAN not found in DataCite</td>
     </tr>
     <tr>
+      <td>2025-01-18</td>
+      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
+      <td>Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_jsp' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
       <td>2025-01-03</td>
       <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
@@ -627,12 +632,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
+      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
@@ -1292,12 +1297,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
+      <td>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
