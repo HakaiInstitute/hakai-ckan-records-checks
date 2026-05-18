@@ -167,12 +167,12 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
+      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
     </tr>
     <tr>
