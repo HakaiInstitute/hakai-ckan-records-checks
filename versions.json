@@ -10,6 +10,11 @@
     "aliases": []
   },
   {
+    "version": "run-update",
+    "title": "run-update",
+    "aliases": []
+  },
+  {
     "version": "remove-tabs",
     "title": "remove-tabs",
     "aliases": []
