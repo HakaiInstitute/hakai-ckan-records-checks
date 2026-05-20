@@ -452,33 +452,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Metadata mismatch: author 'Carolyn Prentice' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Metadata mismatch: author 'Katrina Poppe' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
       <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
       <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
       <td>Metadata mismatch: related identifier '10.1098/rspb.2020.0108' (HasPart) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Metadata mismatch: related work '10.1029/2019gb006345' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
@@ -539,11 +519,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2025-03-04</td>
       <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1cyodfkonv4nbh8c_tb9re4ra-8cxjkz7/view?usp=sharing' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-01-18</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_jsp' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2025-01-03</td>
@@ -1002,12 +977,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
+      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -1062,12 +1037,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -1129,11 +1104,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-23</td>
       <td>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Airborne Coastal Observatory' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>Metadata mismatch: author 'Brian Hunt' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -1217,18 +1187,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>Metadata mismatch: author 'Natalie Mahara' in CKAN record not found in DataCite</td>
+      <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
+      <td>Metadata mismatch: author 'Thea Mai' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>Metadata mismatch: author 'Ondine Pontier' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
-      <td>Metadata mismatch: author 'Thea Mai' in CKAN record not found in DataCite</td>
+      <td>Metadata mismatch: creator 'Daniel Okamoto' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -1324,11 +1289,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-23</td>
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>Metadata mismatch: creator 'Keith Holmes' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>Metadata mismatch: creator 'Mathew Brown' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

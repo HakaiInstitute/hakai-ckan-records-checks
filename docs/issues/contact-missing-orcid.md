@@ -121,11 +121,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
     <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Contact missing ORCID: Prentice, Carolyn</td>
-    </tr>
-    <tr>
       <td>2025-04-21</td>
       <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>Contact missing ORCID: Godwin, Sean</td>
@@ -133,16 +128,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2025-04-21</td>
       <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Contact missing ORCID: Krkosek, Martin</td>
-    </tr>
-    <tr>
-      <td>2025-01-18</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>Contact missing ORCID: Godwin, Sean</td>
-    </tr>
-    <tr>
-      <td>2025-01-18</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
       <td>Contact missing ORCID: Krkosek, Martin</td>
     </tr>
     <tr>

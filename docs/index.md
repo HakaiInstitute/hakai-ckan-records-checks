@@ -14,7 +14,7 @@ This page present a summary of the different metadata records distributed at <ht
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">261</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">259</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
@@ -33,8 +33,8 @@ This page present a summary of the different metadata records distributed at <ht
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">78.9%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">78.8%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
@@ -411,12 +411,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='582c6ff0-029e-44ba-8ba1-d3f2f39f2005' href='records/582c6ff0-029e-44ba-8ba1-d3f2f39f2005' target='_blank'>1</a></td>
       <td>Juvenile Salmon Program</td>
       <td>2024-06-27</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7' target='_blank'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' target='_blank'>3</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>2025-01-18</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b63374a9-2288-4512-9820-5d1b44d2b502' target='_blank'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
@@ -1010,7 +1004,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03' target='_blank'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
-      <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' target='_blank'>8</a></td>
+      <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' target='_blank'>5</a></td>
       <td>Oceanography</td>
       <td>2024-07-23</td>
     </tr>
@@ -1103,12 +1097,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='ee30aa86-e786-4a3f-b90f-df09a134621d' href='records/ee30aa86-e786-4a3f-b90f-df09a134621d' target='_blank'>9</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4' target='_blank'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
-      <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf' target='_blank'>8</a></td>
-      <td>Nearshore</td>
-      <td>2025-04-23</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8' target='_blank'>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</a></td>
