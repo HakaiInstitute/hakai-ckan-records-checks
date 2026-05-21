@@ -32,23 +32,18 @@ This page present the list of all the records associated with the issue: **Organ
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>Organization missing ROR: University of British Columbia</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>Organization missing ROR: University of British Columbia</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>Organization missing ROR: Simon Fraser University</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>Organization missing ROR: University of British Columbia</td>
     </tr>
   </tbody>
 </table>

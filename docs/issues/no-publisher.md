@@ -46,6 +46,11 @@ This page present the list of all the records associated with the issue: **No pu
       <td>No publisher</td>
     </tr>
     <tr>
+      <td>2025-04-23</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
       <td>2025-04-21</td>
       <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
       <td>No publisher</td>
@@ -83,26 +88,6 @@ This page present the list of all the records associated with the issue: **No pu
     <tr>
       <td>2024-07-23</td>
       <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Discovery Islands LiDAR Dataset&nbsp;&nbsp;- 2014 - British Columbia - Canada</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Vegetated Islands Polygons - 100 Islands Research</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>No publisher</td>
     </tr>
     <tr>

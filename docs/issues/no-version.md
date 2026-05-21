@@ -132,6 +132,11 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2025-04-23</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2025-04-23</td>
       <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>No version</td>
     </tr>
@@ -197,12 +202,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
+      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -222,22 +227,22 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -297,12 +302,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -377,17 +382,17 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Herring Survey Data - 2016 - BC Central Coast</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -432,12 +437,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
+      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
+      <td>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -482,22 +487,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Discovery Islands LiDAR Dataset&nbsp;&nbsp;- 2014 - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hyperspectral Imagery - Calvert Island - 2012</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Vegetated Islands Polygons - 100 Islands Research</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -513,11 +503,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Eelgrass (Z. marina) extent at sites along the Central Coast, British Columbia</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -543,11 +528,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>No version</td>
     </tr>
     <tr>

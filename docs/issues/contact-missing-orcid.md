@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-19</td>
+      <td>Vegetated Islands Polygons - 100 Islands Research</td>
+      <td>Contact missing ORCID: Reshitnyk, Luba</td>
+    </tr>
+    <tr>
       <td>2026-05-12</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>Contact missing ORCID: Barrette, Jessy</td>
@@ -119,6 +124,11 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2025-04-23</td>
       <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
+    </tr>
+    <tr>
+      <td>2025-04-23</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>Contact missing ORCID: Prentice, Carolyn</td>
     </tr>
     <tr>
       <td>2025-04-21</td>
@@ -442,11 +452,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>Contact missing ORCID: Hessing-Lewis, Margot</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
@@ -497,11 +502,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
-      <td>Contact missing ORCID: Hunt, Brian</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
@@ -537,17 +537,7 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0</td>
-      <td>Contact missing ORCID: Pontier, Ondine</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Vegetated Islands Polygons - 100 Islands Research</td>
       <td>Contact missing ORCID: Reshitnyk, Luba</td>
     </tr>
     <tr>
