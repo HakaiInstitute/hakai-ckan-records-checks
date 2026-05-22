@@ -909,21 +909,21 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>132</th>
+      <th>130</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6844547c-708e-437b-aef7-157b4d9d9bcb' target='_blank'>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
       <td><a title='3c4cc294-1e9a-410e-81b0-0d9461e4b1c9' href='../records/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9' target='_blank'>3</a></td>
     </tr>
     <tr>
-      <th>130</th>
+      <th>131</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
       <td><a title='41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' href='../records/41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' target='_blank'>16</a></td>
     </tr>
     <tr>
-      <th>131</th>
+      <th>132</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
@@ -1217,14 +1217,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='fd4f6cd0-c6aa-4061-8caa-0ccade085615' href='../records/fd4f6cd0-c6aa-4061-8caa-0ccade085615' target='_blank'>5</a></td>
     </tr>
     <tr>
-      <th>86</th>
+      <th>85</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9' target='_blank'>Owikeno Lake Bathymetric Survey</a></td>
       <td>2022-03-02</td>
       <td>2025-01-08</td>
       <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>85</th>
+      <th>86</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2a92ca16-f5c6-4362-acea-6bb5117b8d65' target='_blank'>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</a></td>
       <td>2022-03-02</td>
       <td>2024-07-23</td>
@@ -1784,14 +1784,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='dc84cb4c-ba14-4632-a595-eed526bf9db1' href='../records/dc84cb4c-ba14-4632-a595-eed526bf9db1' target='_blank'>2</a></td>
     </tr>
     <tr>
-      <th>12</th>
+      <th>13</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4' target='_blank'>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</a></td>
       <td>2021-09-23</td>
       <td>2024-07-24</td>
       <td><a title='0d9ca9c8-95b0-48db-87b9-7db8af77363e' href='../records/0d9ca9c8-95b0-48db-87b9-7db8af77363e' target='_blank'>3</a></td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>12</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac' target='_blank'>Kelp forest communities along an otter gradient</a></td>
       <td>2021-09-23</td>
       <td>2024-07-23</td>
@@ -3784,12 +3784,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
+      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -4034,17 +4034,17 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4059,12 +4059,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
+      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4219,17 +4219,17 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4649,12 +4649,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
@@ -4704,12 +4704,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
@@ -4834,12 +4834,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -5014,12 +5014,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
+      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
+      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -5124,12 +5124,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
