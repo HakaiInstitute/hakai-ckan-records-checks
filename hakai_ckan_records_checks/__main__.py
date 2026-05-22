@@ -244,9 +244,9 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
 )
 def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     logger.remove()
-    logger.add(sys.stderr, level=log_level)
+    logger.add(lambda msg: tqdm.write(msg, end=""), level=log_level, colorize=False)
 
-    logger.info("Starting checks for CKAN instance at {ckan_url}")
+    logger.info(f"Starting checks for CKAN instance at {ckan_url}")
     ckan = CKAN(ckan_url, api_key)
     if record_ids:
         record_ids = record_ids.split(",")
