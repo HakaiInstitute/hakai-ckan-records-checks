@@ -9,7 +9,7 @@ This page present a summary of the different metadata records distributed at <ht
 
 ## Overview
 
-*Last updated: 2026-05-19*
+*Last updated: 2026-05-22*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
@@ -18,27 +18,27 @@ This page present a summary of the different metadata records distributed at <ht
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-05-15</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-2 since 2026-05-15</div>
+  
+  
+</div>
+
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">207</div>
+  <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
+  
+  
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-1 since 2026-05-15</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">211</div>
-  <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
-  
-  
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+3 since 2026-05-15</div>
-  
-  
-</div>
-
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
   <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">78.8%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-05-15</div>
+  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">-0.1% since 2026-05-15</div>
   
   
 </div>
@@ -51,8 +51,7 @@ This page present a summary of the different metadata records distributed at <ht
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 6.0, 6.0, 6.0, 9.0, 14.0, 23.0, 55.0, 57.0, 65.0, 123.0, 134.0], "textposition": "outside", "x": [2, 6, 6, 6, 9, 14, 23, 55, 57, 65, 123, 134], "xaxis": "x", "y": ["Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "Organization missing ROR", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 6.0, 6.0, 6.0, 9.0, 14.0, 23.0, 55.0, 57.0, 65.0, 123.0, 134.0], "textposition": "outside", "x": [2, 6, 6, 6, 9, 14, 23, 55, 57, 65, 123, 134], "xaxis": "x", "y": ["Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "Organization missing ROR", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 5.0, 6.0, 6.0, 9.0, 14.0, 19.0, 54.0, 55.0, 62.0, 115.0, 129.0], "textposition": "outside", "x": [2, 5, 6, 6, 9, 14, 19, 54, 55, 62, 115, 129], "xaxis": "x", "y": ["Empty resource name", "Organization missing ROR", "Duplicate DOI shared with another record", "DOI is not redirecting to Hakai's catalogue", "Invalid Resource URL", "No projects associated", "No publisher", "No funder", "No DOI defined", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -112,7 +111,6 @@ This page present a summary of the different metadata records distributed at <ht
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_84820f31-b6db-479c-a47e-f22f2899b4d2' target='_blank'>Biogeochemical Sampling of 28 Streams on Vancouver Island</a></td>
       <td><a title='0e92249d-74e1-4253-a8a5-876d08a8ff65' href='records/0e92249d-74e1-4253-a8a5-876d08a8ff65' target='_blank'>3</a></td>
-      <td><a title='0e92249d-74e1-4253-a8a5-876d08a8ff65' href='records/0e92249d-74e1-4253-a8a5-876d08a8ff65' target='_blank'>3</a></td>
       <td>Watersheds</td>
       <td>2026-04-24</td>
     </tr>
@@ -163,7 +161,6 @@ This page present a summary of the different metadata records distributed at <ht
       <td><a title='6be4c552-469a-4558-b63d-7a2c52566fe2' href='records/6be4c552-469a-4558-b63d-7a2c52566fe2' target='_blank'>1</a></td>
       <td>Genomics, Nearshore</td>
       <td>2026-05-15</td>
-      <td>2026-05-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e9c97a3-4bf1-4852-81b6-d74cedf2c94c' target='_blank'>Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
@@ -191,7 +188,6 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_39a83551-ab8e-45be-a564-cece4b229371' target='_blank'>Zooplankton taxonomic abundance and biomass along the BC Coast</a></td>
-      <td><a title='139df6dd-772b-424f-b830-30a5ba6abfc6' href='records/139df6dd-772b-424f-b830-30a5ba6abfc6' target='_blank'>4</a></td>
       <td><a title='139df6dd-772b-424f-b830-30a5ba6abfc6' href='records/139df6dd-772b-424f-b830-30a5ba6abfc6' target='_blank'>4</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
@@ -221,28 +217,10 @@ This page present a summary of the different metadata records distributed at <ht
       <td>2025-05-16</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1d142201-cbbe-4c58-b2c2-1feeac112c51' target='_blank'>iTrack Oysters September 2023 Experiment - Environmental and Oyster Health Data</a></td>
-      <td><a title='bd461764-55b0-4c63-935a-5e9d1d5a6fed' href='records/bd461764-55b0-4c63-935a-5e9d1d5a6fed' target='_blank'>1</a></td>
-      <td>Wet Lab</td>
-      <td>2025-05-16</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_31ac855d-bf15-42d8-b20d-754638202c66' target='_blank'>Sea Stars 2024 Experiment - Environmental Data</a></td>
-      <td><a title='da040f55-984d-490d-b917-a67856de4bac' href='records/da040f55-984d-490d-b917-a67856de4bac' target='_blank'>1</a></td>
-      <td>Wet Lab</td>
-      <td>2025-05-16</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a' target='_blank'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
       <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='records/d70bcd3d-dc07-479f-856f-ad70d11c51f1' target='_blank'>2</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>2025-05-21</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e' target='_blank'>Calliarthron 2023 Experiment - Environmental Data</a></td>
-      <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='records/e4038a43-060b-474e-b6f2-ea68d0081053' target='_blank'>1</a></td>
-      <td>Wet Lab</td>
-      <td>2025-05-08</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e' target='_blank'>Calliarthron 2023 Experiment - Environmental Data</a></td>
@@ -282,7 +260,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d7ffd737-5725-4a56-9134-a9ad91c2734d' target='_blank'>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</a></td>
-      <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>2</a></td>
+      <td><a title='8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' href='records/8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e' target='_blank'>1</a></td>
       <td>Geospatial</td>
       <td>2025-03-04</td>
     </tr>
@@ -379,12 +357,6 @@ This page present a summary of the different metadata records distributed at <ht
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1755dc37-8d33-4158-8041-c22536fd5771' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</a></td>
       <td><a title='bf7c05e8-510d-4449-9e81-4c358ff3f440' href='records/bf7c05e8-510d-4449-9e81-4c358ff3f440' target='_blank'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-05-08</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
-      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>2026-05-08</td>
     </tr>
@@ -588,7 +560,6 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8c981d76-5fea-44af-904f-58b159838b0a' target='_blank'>Stream Event Sampling - Calvert Island</a></td>
-      <td><a title='def2a409-2319-4e8c-a584-9a467f044ada' href='records/def2a409-2319-4e8c-a584-9a467f044ada' target='_blank'>3</a></td>
       <td><a title='def2a409-2319-4e8c-a584-9a467f044ada' href='records/def2a409-2319-4e8c-a584-9a467f044ada' target='_blank'>3</a></td>
       <td>Watersheds, Geospatial</td>
       <td>2024-07-24</td>
@@ -859,7 +830,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1b517e6f-4f0a-4577-b7c2-c37f95d5b413' target='_blank'>Field Station Structures - Calvert Island</a></td>
-      <td><a title='7ed2118f-ecaa-41e4-aa81-911ffa47bf34' href='records/7ed2118f-ecaa-41e4-aa81-911ffa47bf34' target='_blank'>3</a></td>
+      <td><a title='7ed2118f-ecaa-41e4-aa81-911ffa47bf34' href='records/7ed2118f-ecaa-41e4-aa81-911ffa47bf34' target='_blank'>2</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
     </tr>
@@ -890,13 +861,12 @@ This page present a summary of the different metadata records distributed at <ht
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3' target='_blank'>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</a></td>
       <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>7</a></td>
-      <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='records/22951dd4-a9f7-4f2a-b11d-d50e184dc223' target='_blank'>7</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2d3d616-9ee2-451f-8584-14801b4c6fd0' target='_blank'>Bathymetric Survey - Northwest Calvert Island</a></td>
-      <td><a title='e1c64faf-88ac-4d28-8144-fad156971b4e' href='records/e1c64faf-88ac-4d28-8144-fad156971b4e' target='_blank'>2</a></td>
+      <td><a title='e1c64faf-88ac-4d28-8144-fad156971b4e' href='records/e1c64faf-88ac-4d28-8144-fad156971b4e' target='_blank'>3</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
     </tr>
@@ -926,13 +896,13 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2' target='_blank'>Geology - Calvert Island</a></td>
-      <td><a title='6b93216b-4bbe-4204-a2c3-551a667d00fd' href='records/6b93216b-4bbe-4204-a2c3-551a667d00fd' target='_blank'>3</a></td>
+      <td><a title='6b93216b-4bbe-4204-a2c3-551a667d00fd' href='records/6b93216b-4bbe-4204-a2c3-551a667d00fd' target='_blank'>1</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14' target='_blank'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
-      <td><a title='52048599-9a0c-4d33-861f-26eaedc86bd5' href='records/52048599-9a0c-4d33-861f-26eaedc86bd5' target='_blank'>3</a></td>
+      <td><a title='52048599-9a0c-4d33-861f-26eaedc86bd5' href='records/52048599-9a0c-4d33-861f-26eaedc86bd5' target='_blank'>2</a></td>
       <td>Nearshore, Geospatial</td>
       <td>2024-07-23</td>
     </tr>
@@ -1191,7 +1161,6 @@ This page present a summary of the different metadata records distributed at <ht
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a' target='_blank'>Clam Garden Geospatial Data - Quadra Island - 2016</a></td>
       <td><a title='693c7ca7-a244-4375-9460-ff7c27187af2' href='records/693c7ca7-a244-4375-9460-ff7c27187af2' target='_blank'>8</a></td>
-      <td><a title='693c7ca7-a244-4375-9460-ff7c27187af2' href='records/693c7ca7-a244-4375-9460-ff7c27187af2' target='_blank'>8</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
     </tr>
@@ -1215,7 +1184,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94b4992f-19e2-46d4-875e-f0c952ea62f7' target='_blank'>Kelp Field Data for Remote Sensing - BC Central Coast</a></td>
-      <td><a title='cd3ca52d-dc83-4501-9e53-7b00c8ab9090' href='records/cd3ca52d-dc83-4501-9e53-7b00c8ab9090' target='_blank'>2</a></td>
+      <td><a title='cd3ca52d-dc83-4501-9e53-7b00c8ab9090' href='records/cd3ca52d-dc83-4501-9e53-7b00c8ab9090' target='_blank'>1</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2024-07-24</td>
     </tr>
@@ -1276,13 +1245,12 @@ This page present a summary of the different metadata records distributed at <ht
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3732444b-7a97-4d9c-9f2e-2fc6f9618bae' target='_blank'>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</a></td>
       <td><a title='f409100d-95e4-4933-a927-fdf8d3b83204' href='records/f409100d-95e4-4933-a927-fdf8d3b83204' target='_blank'>2</a></td>
-      <td><a title='f409100d-95e4-4933-a927-fdf8d3b83204' href='records/f409100d-95e4-4933-a927-fdf8d3b83204' target='_blank'>2</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2026-05-13</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4bf1e341-637c-4884-b373-033e033b3cba' target='_blank'>Northwest Calvert Substrate Mapping</a></td>
-      <td><a title='6a1254e5-3815-4289-ba1c-984fb84dc1fe' href='records/6a1254e5-3815-4289-ba1c-984fb84dc1fe' target='_blank'>3</a></td>
+      <td><a title='6a1254e5-3815-4289-ba1c-984fb84dc1fe' href='records/6a1254e5-3815-4289-ba1c-984fb84dc1fe' target='_blank'>2</a></td>
       <td>Geospatial</td>
       <td>2024-07-24</td>
     </tr>
@@ -1312,7 +1280,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408' target='_blank'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
-      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da' target='_blank'>2</a></td>
+      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da' target='_blank'>1</a></td>
       <td>Nearshore, Geospatial</td>
       <td>2024-07-24</td>
     </tr>
