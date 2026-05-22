@@ -394,6 +394,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         figure_issues_distribution_json=figure_issues_distribution_json,
         ckan_url=ckan_url,
         metrics=metrics_display,
+        last_updated=current_metrics["date"],
     ).dump(f"{output}/index.md")
 
     # save issue summary page

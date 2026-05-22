@@ -128,6 +128,62 @@
     "total_warnings": 659
   },
   {
+    "date": "2026-05-06",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8,
+    "total_errors": 67,
+    "total_warnings": 659
+  },
+  {
+    "date": "2026-05-06",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8,
+    "total_errors": 67,
+    "total_warnings": 659
+  },
+  {
+    "date": "2026-05-06",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8,
+    "total_errors": 67,
+    "total_warnings": 659
+  },
+  {
+    "date": "2026-05-06",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8,
+    "total_errors": 67,
+    "total_warnings": 659
+  },
+  {
+    "date": "2026-05-06",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8,
+    "total_errors": 67,
+    "total_warnings": 659
+  },
+  {
+    "date": "2026-05-06",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8,
+    "total_errors": 67,
+    "total_warnings": 659
+  },
+  {
+    "date": "2026-05-06",
+    "total_records": 260,
+    "records_with_issues": 254,
+    "pct_with_doi": 78.8,
+    "total_errors": 67,
+    "total_warnings": 659
+  },
+  {
     "date": "2026-05-07",
     "total_records": 260,
     "records_with_issues": 254,
@@ -310,47 +366,5 @@
     "total_records": 261,
     "records_with_issues": 208,
     "pct_with_doi": 78.9
-  },
-  {
-    "date": "2026-05-16",
-    "total_records": 260,
-    "records_with_issues": 211,
-    "pct_with_doi": 78.8
-  },
-  {
-    "date": "2026-05-17",
-    "total_records": 261,
-    "records_with_issues": 211,
-    "pct_with_doi": 78.9
-  },
-  {
-    "date": "2026-05-18",
-    "total_records": 261,
-    "records_with_issues": 211,
-    "pct_with_doi": 78.9
-  },
-  {
-    "date": "2026-05-19",
-    "total_records": 261,
-    "records_with_issues": 211,
-    "pct_with_doi": 78.9
-  },
-  {
-    "date": "2026-05-20",
-    "total_records": 259,
-    "records_with_issues": 209,
-    "pct_with_doi": 78.8
-  },
-  {
-    "date": "2026-05-21",
-    "total_records": 259,
-    "records_with_issues": 208,
-    "pct_with_doi": 78.8
-  },
-  {
-    "date": "2026-05-22",
-    "total_records": 259,
-    "records_with_issues": 208,
-    "pct_with_doi": 78.8
   }
 ]
