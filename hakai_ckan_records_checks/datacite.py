@@ -8,18 +8,8 @@ from hakai_ckan_records_checks.hakai import _fuzzy_match
 
 DATACITE_API_URL = "https://api.datacite.org/dois"
 
-RELATIONSHIPS_TRACKED = [
-    "references",
-    "citations",
-    "parts",
-    "partOf",
-    "versions",
-    "versionOf",
-]
-
 # relationType values auto-populated by DataCite (not manually curated)
 _SKIP_RELATION_TYPES = {"Cites", "IsCitedBy", "IsSupplementTo", "IsSupplementedBy"}
-
 
 
 def _normalize_identifier(identifier, id_type=""):
@@ -54,10 +44,6 @@ class Datacite:
 
 
 def get_datacite_summary(record):
-    def review_doi(doi):
-        response = requests.get(f"https://doi.org/{doi}")
-        return {"status_code": response.status_code, "url": response.url}
-
     if not record:
         return {}
     if record["data"]["attributes"]["citationCount"] > 0:
@@ -65,22 +51,9 @@ def get_datacite_summary(record):
             f"Found citation count: {record['data']['attributes']['citationCount']}"
         )
 
-    # Generate relationships table
-    if record["data"]["attributes"]["citationCount"]:
-        relationships = [
-            {"relationship": relationship, **item, **review_doi(item["id"])}
-            for relationship, attrs in record["data"]["relationships"].items()
-            if relationship in RELATIONSHIPS_TRACKED and attrs["data"]
-            for item in attrs["data"]
-        ]
-    else:
-        relationships = []
-    if relationships:
-        logger.debug(f"Found relationships: {relationships}")
     return {
         "citation_count": record["data"]["attributes"]["citationCount"],
         "citations_over_time": record["data"]["attributes"]["citationsOverTime"],
-        "relationships": relationships,
     }
 
 
