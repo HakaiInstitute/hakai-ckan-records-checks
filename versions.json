@@ -18,5 +18,10 @@
     "version": "main",
     "title": "main",
     "aliases": []
+  },
+  {
+    "version": "drop-doi-review",
+    "title": "drop-doi-review",
+    "aliases": []
   }
 ]
