@@ -98,7 +98,11 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
 
     # Version
     dc_version = (attrs.get("version") or "").lstrip("v").strip()
-    ckan_version = (ckan_citation.get("version") or ckan_record.get("version") or "").lstrip("v").strip()
+    ckan_version = (
+        (ckan_citation.get("version") or ckan_record.get("version") or "")
+        .lstrip("v")
+        .strip()
+    )
     if dc_version and ckan_version and dc_version != ckan_version:
         issues.append(
             f"Metadata mismatch: version CKAN='{ckan_version}' | DataCite='{dc_version}'"
@@ -123,16 +127,22 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
 
     for dc_name in dc_creator_names:
         if not any(_fuzzy_match(dc_name, n) for n in ckan_author_names):
-            issues.append(f"Metadata mismatch: creator '{dc_name}' in DataCite not found in CKAN record")
+            issues.append(
+                f"Metadata mismatch: creator '{dc_name}' in DataCite not found in CKAN record"
+            )
 
     for ckan_name in ckan_author_names:
         if not any(_fuzzy_match(ckan_name, dc_name) for dc_name in dc_creator_names):
-            issues.append(f"Metadata mismatch: author '{ckan_name}' in CKAN record not found in DataCite")
+            issues.append(
+                f"Metadata mismatch: author '{ckan_name}' in CKAN record not found in DataCite"
+            )
 
     # Related works
     dc_related = attrs.get("relatedIdentifiers", [])
     dc_related_ids = {
-        _normalize_identifier(r.get("relatedIdentifier", ""), r.get("relatedIdentifierType", ""))
+        _normalize_identifier(
+            r.get("relatedIdentifier", ""), r.get("relatedIdentifierType", "")
+        )
         for r in dc_related
         if r.get("relationType") not in _SKIP_RELATION_TYPES
     }
@@ -155,7 +165,11 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
         rel_id = _normalize_identifier(
             rel.get("relatedIdentifier", ""), rel.get("relatedIdentifierType", "")
         )
-        if rel_type not in _SKIP_RELATION_TYPES and rel_id and rel_id not in ckan_related_ids:
+        if (
+            rel_type not in _SKIP_RELATION_TYPES
+            and rel_id
+            and rel_id not in ckan_related_ids
+        ):
             issues.append(
                 f"Metadata mismatch: related identifier '{rel.get('relatedIdentifier')}' ({rel_type}) in DataCite not found in CKAN"
             )
