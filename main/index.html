@@ -478,18 +478,22 @@
 <h1 id="summary">Summary</h1>
 <p>This page present a summary of the different metadata records distributed at <a href="https://catalogue.hakai.org">https://catalogue.hakai.org</a>. Please refer to the <a href="issues/">issue</a> page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. </p>
 <h2 id="overview">Overview</h2>
+<p><em>Last updated: 2026-05-19</em></p>
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
 <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">259</div>
 <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
+<div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-05-15</div>
 </div>
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-<div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">208</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+<div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">211</div>
 <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
+<div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+3 since 2026-05-15</div>
 </div>
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
 <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">78.8%</div>
 <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
+<div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-05-15</div>
 </div>
 </div>
 <h2 id="issue-distribution">Issue Distribution</h2>
@@ -497,7 +501,8 @@
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 5.0, 6.0, 6.0, 10.0, 14.0, 19.0, 54.0, 55.0, 62.0, 119.0, 129.0], "textposition": "outside", "x": [2, 5, 6, 6, 10, 14, 19, 54, 55, 62, 119, 129], "xaxis": "x", "y": ["Empty resource name", "Organization missing ROR", "Duplicate DOI shared with another record", "DOI is not redirecting to Hakai's catalogue", "Invalid Resource URL", "No projects associated", "No publisher", "No funder", "No DOI defined", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 6.0, 6.0, 6.0, 9.0, 14.0, 23.0, 55.0, 57.0, 65.0, 123.0, 134.0], "textposition": "outside", "x": [2, 6, 6, 6, 9, 14, 23, 55, 57, 65, 123, 134], "xaxis": "x", "y": ["Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "Organization missing ROR", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 6.0, 6.0, 6.0, 9.0, 14.0, 23.0, 55.0, 57.0, 65.0, 123.0, 134.0], "textposition": "outside", "x": [2, 6, 6, 6, 9, 14, 23, 55, 57, 65, 123, 134], "xaxis": "x", "y": ["Empty resource name", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "Organization missing ROR", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "Metadata mismatch", "No version"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -555,6 +560,7 @@
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_84820f31-b6db-479c-a47e-f22f2899b4d2" target="_blank">Biogeochemical Sampling of 28 Streams on Vancouver Island</a></td>
 <td><a href="records/0e92249d-74e1-4253-a8a5-876d08a8ff65" target="_blank" title="0e92249d-74e1-4253-a8a5-876d08a8ff65">3</a></td>
+<td><a href="records/0e92249d-74e1-4253-a8a5-876d08a8ff65" target="_blank" title="0e92249d-74e1-4253-a8a5-876d08a8ff65">3</a></td>
 <td>Watersheds</td>
 <td>2026-04-24</td>
 </tr>
@@ -605,6 +611,7 @@
 <td><a href="records/6be4c552-469a-4558-b63d-7a2c52566fe2" target="_blank" title="6be4c552-469a-4558-b63d-7a2c52566fe2">1</a></td>
 <td>Genomics, Nearshore</td>
 <td>2026-05-15</td>
+<td>2026-05-15</td>
 </tr>
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_7e9c97a3-4bf1-4852-81b6-d74cedf2c94c" target="_blank">Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
@@ -632,6 +639,7 @@
 </tr>
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_39a83551-ab8e-45be-a564-cece4b229371" target="_blank">Zooplankton taxonomic abundance and biomass along the BC Coast</a></td>
+<td><a href="records/139df6dd-772b-424f-b830-30a5ba6abfc6" target="_blank" title="139df6dd-772b-424f-b830-30a5ba6abfc6">4</a></td>
 <td><a href="records/139df6dd-772b-424f-b830-30a5ba6abfc6" target="_blank" title="139df6dd-772b-424f-b830-30a5ba6abfc6">4</a></td>
 <td>Oceanography</td>
 <td>2026-02-20</td>
@@ -661,10 +669,28 @@
 <td>2025-05-16</td>
 </tr>
 <tr>
+<td><a href="https://catalogue.hakai.org/dataset/ca-cioos_1d142201-cbbe-4c58-b2c2-1feeac112c51" target="_blank">iTrack Oysters September 2023 Experiment - Environmental and Oyster Health Data</a></td>
+<td><a href="records/bd461764-55b0-4c63-935a-5e9d1d5a6fed" target="_blank" title="bd461764-55b0-4c63-935a-5e9d1d5a6fed">1</a></td>
+<td>Wet Lab</td>
+<td>2025-05-16</td>
+</tr>
+<tr>
+<td><a href="https://catalogue.hakai.org/dataset/ca-cioos_31ac855d-bf15-42d8-b20d-754638202c66" target="_blank">Sea Stars 2024 Experiment - Environmental Data</a></td>
+<td><a href="records/da040f55-984d-490d-b917-a67856de4bac" target="_blank" title="da040f55-984d-490d-b917-a67856de4bac">1</a></td>
+<td>Wet Lab</td>
+<td>2025-05-16</td>
+</tr>
+<tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a" target="_blank">Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
 <td><a href="records/d70bcd3d-dc07-479f-856f-ad70d11c51f1" target="_blank" title="d70bcd3d-dc07-479f-856f-ad70d11c51f1">2</a></td>
 <td>Geospatial, Airborne Coastal Observatory</td>
 <td>2025-05-21</td>
+</tr>
+<tr>
+<td><a href="https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e" target="_blank">Calliarthron 2023 Experiment - Environmental Data</a></td>
+<td><a href="records/e4038a43-060b-474e-b6f2-ea68d0081053" target="_blank" title="e4038a43-060b-474e-b6f2-ea68d0081053">1</a></td>
+<td>Wet Lab</td>
+<td>2025-05-08</td>
 </tr>
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e" target="_blank">Calliarthron 2023 Experiment - Environmental Data</a></td>
@@ -1011,6 +1037,7 @@
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_8c981d76-5fea-44af-904f-58b159838b0a" target="_blank">Stream Event Sampling - Calvert Island</a></td>
 <td><a href="records/def2a409-2319-4e8c-a584-9a467f044ada" target="_blank" title="def2a409-2319-4e8c-a584-9a467f044ada">3</a></td>
+<td><a href="records/def2a409-2319-4e8c-a584-9a467f044ada" target="_blank" title="def2a409-2319-4e8c-a584-9a467f044ada">3</a></td>
 <td>Watersheds, Geospatial</td>
 <td>2024-07-24</td>
 </tr>
@@ -1310,6 +1337,7 @@
 </tr>
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3" target="_blank">McMullin Group Kelp Extent - Based on UAS Imagery - 2017</a></td>
+<td><a href="records/22951dd4-a9f7-4f2a-b11d-d50e184dc223" target="_blank" title="22951dd4-a9f7-4f2a-b11d-d50e184dc223">7</a></td>
 <td><a href="records/22951dd4-a9f7-4f2a-b11d-d50e184dc223" target="_blank" title="22951dd4-a9f7-4f2a-b11d-d50e184dc223">7</a></td>
 <td>Geospatial</td>
 <td>2024-07-23</td>
@@ -1611,6 +1639,7 @@
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a" target="_blank">Clam Garden Geospatial Data - Quadra Island - 2016</a></td>
 <td><a href="records/693c7ca7-a244-4375-9460-ff7c27187af2" target="_blank" title="693c7ca7-a244-4375-9460-ff7c27187af2">8</a></td>
+<td><a href="records/693c7ca7-a244-4375-9460-ff7c27187af2" target="_blank" title="693c7ca7-a244-4375-9460-ff7c27187af2">8</a></td>
 <td>Geospatial</td>
 <td>2024-07-23</td>
 </tr>
@@ -1694,6 +1723,7 @@
 </tr>
 <tr>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_3732444b-7a97-4d9c-9f2e-2fc6f9618bae" target="_blank">Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</a></td>
+<td><a href="records/f409100d-95e4-4933-a927-fdf8d3b83204" target="_blank" title="f409100d-95e4-4933-a927-fdf8d3b83204">2</a></td>
 <td><a href="records/f409100d-95e4-4933-a927-fdf8d3b83204" target="_blank" title="f409100d-95e4-4933-a927-fdf8d3b83204">2</a></td>
 <td>Geospatial, Nearshore</td>
 <td>2026-05-13</td>
@@ -1826,7 +1856,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="May 21, 2026 04:33:19 UTC">May 21, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 26, 2024 16:16:10 UTC">June 26, 2024</span>
   </span>
 
     
