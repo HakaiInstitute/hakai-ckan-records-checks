@@ -993,7 +993,7 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-24</td>
       <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
-      <td>Metadata mismatch: creator 'H Hakai Geospatial' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
