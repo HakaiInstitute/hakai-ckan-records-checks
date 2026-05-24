@@ -16,6 +16,81 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-22</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'H.J. van Meerveld' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Field Station Structures - Calvert Island</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Bathymetric Survey - Northwest Calvert Island</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'M.J. Waterloo' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: related work '10.21966/e4b8-vp48' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
+      <td>Metadata mismatch: related work '10.21966/zjc2-b004' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
+      <td>Metadata mismatch: related work 'https://10.21966/xp9x-m243' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1sqnqvcxxcuqjfqasluneu6r311tfiogw/view?usp=sharing' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: version CKAN='2.0' | DataCite='1.0'</td>
+    </tr>
+    <tr>
       <td>2026-05-14</td>
       <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
       <td>Metadata mismatch: author 'Debora Obrist' in CKAN record not found in DataCite</td>
@@ -351,26 +426,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related work 'https://obis.org/dataset/80afee46-3e18-4669-ad1b-00f71b0544f5' in CKAN not found in DataCite</td>
     </tr>
     <tr>
-      <td>2025-12-03</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-12-03</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1sqnqvcxxcuqjfqasluneu6r311tfiogw/view?usp=sharing' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-12-03</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: version CKAN='2.0' | DataCite='1.0'</td>
-    </tr>
-    <tr>
-      <td>2025-12-02</td>
-      <td>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work 'https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2025-11-18</td>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</td>
       <td>Metadata mismatch: related identifier 'https://docs.google.com/document/d/1j4ENgAW_2XtIHzDYbL8u2E5kOK2JkPEBVYdxcuv8NrE/edit?usp=drive_web&ouid=110988987704080303629' (HasMetadata) in DataCite not found in CKAN</td>
@@ -531,11 +586,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: title CKAN='Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada' | DataCite='colebrookson/Juv-Pacific-Salmon-Sealice: v1.0'</td>
     </tr>
     <tr>
-      <td>2025-03-04</td>
-      <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2025-01-18</td>
       <td>Hakai Institute Juvenile Salmon Program Time Series</td>
       <td>Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_jsp' in CKAN not found in DataCite</td>
@@ -572,18 +622,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'H.J. van Meerveld' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'M.J. Waterloo' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
@@ -633,11 +673,6 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-12-05</td>
       <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
-      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
       <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
@@ -719,16 +754,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-11-29</td>
       <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
       <td>Metadata mismatch: version CKAN='3.1.0' | DataCite='3.0'</td>
-    </tr>
-    <tr>
-      <td>2024-11-21</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-      <td>Metadata mismatch: related work '10.21966/zjc2-b004' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-11-21</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-      <td>Metadata mismatch: related work 'https://10.21966/xp9x-m243' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-11-20</td>
@@ -872,11 +897,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
     </tr>
@@ -989,11 +1009,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>Metadata mismatch: creator 'Gillian Sadlier-Brown' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, & 2016</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -1122,21 +1137,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Field Station Structures - Calvert Island</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Bathymetric Survey - Northwest Calvert Island</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
     </tr>
@@ -1148,11 +1148,6 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-23</td>
       <td>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
@@ -1183,11 +1178,6 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-23</td>
       <td>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -1278,11 +1268,6 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-23</td>
       <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>Metadata mismatch: version CKAN='1' | DataCite='1.0'</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Bathymetric Survey - Northwest Calvert Island</td>
       <td>Metadata mismatch: version CKAN='1' | DataCite='1.0'</td>
     </tr>
     <tr>

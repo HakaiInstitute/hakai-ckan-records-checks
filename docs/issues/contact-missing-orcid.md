@@ -16,6 +16,26 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-22</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Floyd, William C.</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Korver, Maartje C.</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Bathymetric Survey - Northwest Calvert Island</td>
+      <td>Contact missing ORCID: Viner, Nick</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Contact missing ORCID: van Meerveld, H.J.</td>
+    </tr>
+    <tr>
       <td>2026-05-19</td>
       <td>Vegetated Islands Polygons - 100 Islands Research</td>
       <td>Contact missing ORCID: Reshitnyk, Luba</td>
@@ -24,11 +44,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2026-05-12</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>Contact missing ORCID: Barrette, Jessy</td>
-    </tr>
-    <tr>
-      <td>2026-05-12</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
     </tr>
     <tr>
       <td>2026-04-15</td>
@@ -182,11 +197,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
       <td>Contact missing ORCID: Haughton, Emily</td>
     </tr>
@@ -222,18 +232,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>Contact missing ORCID: Tank, Suzanne E.</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: van Meerveld, H.J.</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
@@ -437,11 +437,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Northwest Calvert Substrate Mapping</td>
-      <td>Contact missing ORCID: Viner, Nick</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Data on invasion of Calvert Island by Orthione griffenis</td>
       <td>Contact missing ORCID: Whalen, Matt</td>
     </tr>
@@ -473,16 +468,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
     <tr>
@@ -522,11 +507,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Bamfield Region UAV Imagery and Surface Model Data</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai RPAS (Drone) Operations and Methods</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
@@ -547,18 +527,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Bathymetric Survey - Northwest Calvert Island</td>
-      <td>Contact missing ORCID: Viner, Nick</td>
     </tr>
   </tbody>
 </table>

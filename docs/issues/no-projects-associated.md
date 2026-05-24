@@ -16,11 +16,6 @@ This page present the list of all the records associated with the issue: **No pr
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-14</td>
-      <td>Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</td>
-      <td>No projects associated</td>
-    </tr>
-    <tr>
       <td>2025-01-03</td>
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No projects associated</td>

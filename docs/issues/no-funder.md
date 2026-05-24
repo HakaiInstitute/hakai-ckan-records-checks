@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **No fu
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-22</td>
+      <td>Stream Event Sampling - Calvert Island</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
       <td>2026-02-20</td>
       <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
       <td>No funder</td>
@@ -76,11 +86,6 @@ This page present the list of all the records associated with the issue: **No fu
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
       <td>2024-11-29</td>
       <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
       <td>No funder</td>
@@ -102,22 +107,17 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream Event Sampling - Calvert Island</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -167,16 +167,6 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Google Earth Engine Kelp Tool - Central Coast Output - Version 1.0.0</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nearshore elevation and imagery models - Quadra Island Hakai Institute Facility Shoreline - British Columbia - Canada</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
@@ -193,11 +183,6 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Time-lapse Camera Imagery of Calvert Island Beaches (2012-Present)</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -222,12 +207,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Kelp forest communities along an otter gradient</td>
       <td>No funder</td>
     </tr>
     <tr>

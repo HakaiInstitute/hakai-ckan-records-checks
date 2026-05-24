@@ -11,7 +11,6 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 
 | Issue                                                                             |
 |:----------------------------------------------------------------------------------|
-| No version                                                                        |
 | Empty resource name                                                               |
 | Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record |
 | Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite |
