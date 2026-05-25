@@ -31,11 +31,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-03-19</td>
-      <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
-      <td>Invalid Resource URL: https://dx.doi.org/10.5883/DS-FCBB returned status_code=500</td>
-    </tr>
-    <tr>
       <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
