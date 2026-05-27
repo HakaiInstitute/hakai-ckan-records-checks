@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-04-15</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/dveq-bt48 status_code=502</td>
+      <td>2025-04-23</td>
+      <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/6x1v-1v62 status_code=502</td>
     </tr>
   </tbody>
 </table>

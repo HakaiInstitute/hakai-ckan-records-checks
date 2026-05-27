@@ -36,11 +36,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: van Meerveld, H.J.</td>
     </tr>
     <tr>
-      <td>2026-05-19</td>
-      <td>Vegetated Islands Polygons - 100 Islands Research</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
       <td>2026-05-12</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>Contact missing ORCID: Barrette, Jessy</td>
@@ -441,21 +436,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Whalen, Matt</td>
     </tr>
     <tr>
-      <td>2024-07-24</td>
-      <td>Summer sea wrack spatial data; Central Coast, British Columbia, Canada (2015 - 2017)</td>
-      <td>Contact missing ORCID: Wickham, Sara</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hakai Topographic Basemap</td>
-      <td>Contact missing ORCID: Gonzalez Arriola, Santiago</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>20m Digital Elevation Model - Calvert Island</td>
-      <td>Contact missing ORCID: Gonzalez Arriola, Santiago</td>
-    </tr>
-    <tr>
       <td>2024-07-23</td>
       <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
@@ -467,27 +447,7 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Killer Whale Foraging Drone Observations - Coastal British Columbia - 2019 & 2020</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hakai Topographic Basemap</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
     <tr>
@@ -507,11 +467,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hakai RPAS (Drone) Operations and Methods</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
@@ -524,11 +479,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-07-23</td>
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
     </tr>
   </tbody>
 </table>
