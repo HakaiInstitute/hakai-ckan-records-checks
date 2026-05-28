@@ -16,6 +16,56 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Floyd, William C.</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Giesbrecht, Ian</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Hunt, Brian P. V.</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Jackson, Jennifer M.</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Kellogg, Colleen T. E.</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Korver, Maartje C.</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Lertzman, Ken P.</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
+      <td>Contact missing ORCID: Savage, Rosie</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: St. Pierre, Kyra A.</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Tank, Suzanne E.</td>
+    </tr>
+    <tr>
       <td>2026-05-22</td>
       <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
@@ -39,11 +89,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2026-05-12</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>Contact missing ORCID: Barrette, Jessy</td>
-    </tr>
-    <tr>
-      <td>2026-04-15</td>
-      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
-      <td>Contact missing ORCID: Savage, Rosie</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -302,16 +347,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Giesbrecht, Ian</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>Contact missing ORCID: Giesbrecht, Ian</td>
     </tr>
@@ -367,38 +402,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Hunt, Brian P. V.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Jackson, Jennifer M.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>Contact missing ORCID: Janusson, Carly</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Kellogg, Colleen T. E.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
       <td>Contact missing ORCID: Korver, Maartje</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Lertzman, Ken P.</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -419,16 +429,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-07-24</td>
       <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: St. Pierre, Kyra A.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Tank, Suzanne E.</td>
     </tr>
     <tr>
       <td>2024-07-24</td>

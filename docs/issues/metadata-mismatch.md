@@ -16,6 +16,66 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-26</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Metadata mismatch: author 'D.V. D’Amore' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Metadata mismatch: author 'David J. Levy-Booth' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Metadata mismatch: author 'P.J. Keeling' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Metadata mismatch: author 'S.J. Hallam' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Metadata mismatch: author 'T.J. Heger' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
+      <td>Metadata mismatch: author 'W.W. Mohn' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
       <td>2026-05-25</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
@@ -52,11 +112,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-05-22</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
       <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
     </tr>
@@ -69,11 +124,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-05-22</td>
       <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
       <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-05-22</td>
@@ -164,26 +214,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-04-24</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
       <td>Metadata mismatch: version CKAN='1.0.4' | DataCite='1.0.0'</td>
-    </tr>
-    <tr>
-      <td>2026-04-15</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-04-15</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-04-15</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-04-15</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-04-14</td>
@@ -842,16 +872,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'D.V. D’Amore' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'David J. Levy-Booth' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite</td>
     </tr>
@@ -952,11 +972,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'P.J. Keeling' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite</td>
     </tr>
@@ -964,11 +979,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'S.J. Hallam' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -987,18 +997,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'T.J. Heger' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>Metadata mismatch: author 'TRIM BC Base Annotations data' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'W.W. Mohn' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -1022,12 +1022,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
+      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
+      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -1237,12 +1237,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
+      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -1268,12 +1268,7 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-23</td>
       <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/3s9g-w013' (References) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/e5c1-c396' (References) in DataCite not found in CKAN</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/1.566666' (IsPartOf) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -1281,9 +1276,9 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: title CKAN='Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016' | DataCite='Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada'</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>Metadata mismatch: version CKAN='1' | DataCite='1.0'</td>
+      <td>2024-07-17</td>
+      <td>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.48321/D18S8D' (Documents) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2024-06-27</td>
