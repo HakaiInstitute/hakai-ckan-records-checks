@@ -36,6 +36,11 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-04-13</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the SuperCO2 System in the Pacific Ecosystem Autonomous Research Laboratory, Bamfield Marine Sciences Centre, BC, Canada (Provisional)</td>
+      <td>Invalid Resource URL: https://hakai-ctd-map.server.hakai.app/ returned status_code=timeout</td>
+    </tr>
+    <tr>
       <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
@@ -54,6 +59,11 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2025-05-08</td>
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2025-04-23</td>
+      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
+      <td>Invalid Resource URL: https://data.hakai.org/home/sensor-network/ returned status_code=timeout</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

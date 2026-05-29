@@ -11,16 +11,14 @@ This page present the list of all the records associated with the issue: **Faile
     <tr style="text-align: right;">
       <th>metadata_revision</th>
       <th>title</th>
-      <th>level</th>
       <th>message</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>2026-04-14</td>
-      <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
-      <td>ERROR</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/rj8w-aa62</td>
+      <td>2026-05-27</td>
+      <td>Horne Lake Bathymetry Mapping</td>
+      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/vwee-e004</td>
     </tr>
   </tbody>
 </table>

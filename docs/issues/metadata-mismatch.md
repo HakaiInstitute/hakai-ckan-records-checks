@@ -16,6 +16,21 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-27</td>
+      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1JzY5ELRe1sIbZdq7wBmAOT1t7Y1dNJ2v/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-05-27</td>
+      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1wnjcvyyaphx-oq6ur8btaejzbv8t_nih/view?usp=sharing' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-27</td>
+      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: title CKAN='Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory' | DataCite='Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory'</td>
+    </tr>
+    <tr>
       <td>2026-05-26</td>
       <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
       <td>Metadata mismatch: author 'D.V. D’Amore' in CKAN record not found in DataCite</td>
@@ -1117,11 +1132,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Metadata mismatch: author 'A. A. Oliver' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
       <td>Metadata mismatch: author 'Airborne Coastal Observatory' in CKAN record not found in DataCite</td>
     </tr>
@@ -1174,11 +1184,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-23</td>
       <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Metadata mismatch: creator 'Alison A. Oliver' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -1264,16 +1269,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-23</td>
       <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>Metadata mismatch: related identifier '10.21966/v57r-g944' (References) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/1.566666' (IsPartOf) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Metadata mismatch: title CKAN='Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016' | DataCite='Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada'</td>
     </tr>
     <tr>
       <td>2024-07-17</td>

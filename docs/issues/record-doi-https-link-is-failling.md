@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2025-04-23</td>
-      <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/6x1v-1v62 status_code=502</td>
+      <td>2026-05-27</td>
+      <td>Horne Lake Bathymetry Mapping</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/vwee-e004 status_code=404</td>
     </tr>
   </tbody>
 </table>

@@ -16,54 +16,54 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-26</td>
+      <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
+      <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
       <td>Contact missing ORCID: Giesbrecht, Ian</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
+      <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
       <td>Contact missing ORCID: Hunt, Brian P. V.</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
+      <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
       <td>Contact missing ORCID: Jackson, Jennifer M.</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
+      <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
       <td>Contact missing ORCID: Kellogg, Colleen T. E.</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
+      <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
       <td>Contact missing ORCID: Korver, Maartje C.</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
+      <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
       <td>Contact missing ORCID: Lertzman, Ken P.</td>
+    </tr>
+    <tr>
+      <td>2026-05-27</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: St. Pierre, Kyra A.</td>
+    </tr>
+    <tr>
+      <td>2026-05-27</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Tank, Suzanne E.</td>
     </tr>
     <tr>
       <td>2026-05-26</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>Contact missing ORCID: Savage, Rosie</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: St. Pierre, Kyra A.</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Tank, Suzanne E.</td>
     </tr>
     <tr>
       <td>2026-05-22</td>
@@ -442,11 +442,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
@@ -458,11 +453,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
     <tr>
