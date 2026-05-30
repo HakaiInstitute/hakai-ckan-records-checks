@@ -16,16 +16,6 @@ This page present the list of all the records associated with the issue: **Dupli
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Duplicate DOI shared with another record: 10.21966/0xex-r023</td>
-    </tr>
-    <tr>
-      <td>2026-02-27</td>
-      <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
-      <td>Duplicate DOI shared with another record: 10.21966/0xex-r023</td>
-    </tr>
-    <tr>
       <td>2025-01-30</td>
       <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
       <td>Duplicate DOI shared with another record: 10.21966/n0h9-cq15</td>

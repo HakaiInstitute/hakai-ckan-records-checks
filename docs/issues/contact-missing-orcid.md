@@ -470,6 +470,11 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
+    <tr>
+      <td>2024-07-12</td>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>Contact missing ORCID: Salomon, Anne K</td>
+    </tr>
   </tbody>
 </table>
 

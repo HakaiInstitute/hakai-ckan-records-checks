@@ -31,14 +31,19 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-05-08</td>
+      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
+    </tr>
+    <tr>
       <td>2026-04-24</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
     </tr>
     <tr>
       <td>2026-04-13</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the SuperCO2 System in the Pacific Ecosystem Autonomous Research Laboratory, Bamfield Marine Sciences Centre, BC, Canada (Provisional)</td>
-      <td>Invalid Resource URL: https://hakai-ctd-map.server.hakai.app/ returned status_code=timeout</td>
+      <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -61,14 +66,14 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
     </tr>
     <tr>
-      <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Invalid Resource URL: https://data.hakai.org/home/sensor-network/ returned status_code=timeout</td>
-    </tr>
-    <tr>
       <td>2024-07-23</td>
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>Invalid Resource URL: https://www.hakai.org/blog/life-at-hakai/great-walls-quadra returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-06-12</td>
+      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
   </tbody>
 </table>

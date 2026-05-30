@@ -9,36 +9,36 @@ This page present a summary of the different metadata records distributed at <ht
 
 ## Overview
 
-*Last updated: 2026-05-29*
+*Last updated: 2026-05-30*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">261</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">263</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+1 since 2026-05-28</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+2 since 2026-05-29</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">191</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">193</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+1 since 2026-05-28</div>
+  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+2 since 2026-05-29</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">85.4%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">85.6%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-05-28</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.2% since 2026-05-29</div>
   
   
 </div>
@@ -51,7 +51,7 @@ This page present a summary of the different metadata records distributed at <ht
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 6.0, 6.0, 11.0, 12.0, 12.0, 38.0, 43.0, 49.0, 106.0, 117.0], "textposition": "outside", "x": [1, 1, 1, 6, 6, 11, 12, 12, 38, 43, 49, 106, 117], "xaxis": "x", "y": ["Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.", "Organization missing ROR", "Record DOI HTTPS link is failling", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [4.0, 6.0, 12.0, 12.0, 12.0, 38.0, 43.0, 50.0, 105.0, 118.0], "textposition": "outside", "x": [4, 6, 12, 12, 12, 38, 43, 50, 105, 118], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "DOI is not redirecting to Hakai's catalogue", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -79,15 +79,15 @@ This page present a summary of the different metadata records distributed at <ht
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e49967a-b5ab-443d-860b-e3c0eb0f709c' target='_blank'>Horne Lake Bathymetry Mapping</a></td>
-      <td><a title='ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' href='records/ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' target='_blank'>2</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c34ed6e-5a17-41f2-b83a-cd59d1ce07bd' target='_blank'>Knight Inlet Multibeam Bathymetry Survey</a></td>
+      <td><a title='6c4803cc-d1c6-4327-806a-7f6796606175' href='records/6c4803cc-d1c6-4327-806a-7f6796606175' target='_blank'>1</a></td>
       <td>Geospatial</td>
-      <td>2026-05-27</td>
+      <td>2026-05-28</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e897c9d0-3fca-4c89-b37f-e571413ffd12' target='_blank'>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</a></td>
-      <td><a title='18f56a52-11af-446a-aea9-07feca8d197e' href='records/18f56a52-11af-446a-aea9-07feca8d197e' target='_blank'>4</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e49967a-b5ab-443d-860b-e3c0eb0f709c' target='_blank'>Horne Lake Bathymetry Mapping</a></td>
+      <td><a title='ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' href='records/ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' target='_blank'>3</a></td>
+      <td>Geospatial</td>
       <td>2026-05-27</td>
     </tr>
     <tr>
@@ -115,6 +115,12 @@ This page present a summary of the different metadata records distributed at <ht
       <td>2026-05-26</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</a></td>
+      <td><a title='613ba2f9-b21d-445f-8eaa-f42950c9350b' href='records/613ba2f9-b21d-445f-8eaa-f42950c9350b' target='_blank'>1</a></td>
+      <td>Oceanography, Nearshore, Watersheds, Juvenile Salmon Program</td>
+      <td>2026-04-13</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</a></td>
       <td><a title='c657dfa1-5970-4794-9c46-7c352df393d7' href='records/c657dfa1-5970-4794-9c46-7c352df393d7' target='_blank'>1</a></td>
       <td>Oceanography</td>
@@ -122,7 +128,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1efbadd2-e735-48cc-9498-e3a5a88e48a6' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the SuperCO2 System in the Pacific Ecosystem Autonomous Research Laboratory, Bamfield Marine Sciences Centre, BC, Canada (Provisional)</a></td>
-      <td><a title='c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' href='records/c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' target='_blank'>2</a></td>
+      <td><a title='c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' href='records/c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' target='_blank'>1</a></td>
       <td>Oceanography</td>
       <td>2026-04-13</td>
     </tr>
@@ -152,7 +158,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5b4cbe9f-8f2e-414c-80ff-741372891fe9' target='_blank'>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</a></td>
-      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>4</a></td>
+      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>3</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
       <td>2026-02-27</td>
     </tr>
@@ -379,6 +385,12 @@ This page present a summary of the different metadata records distributed at <ht
       <td>2026-05-08</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
+      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>1</a></td>
+      <td>Oceanography</td>
+      <td>2026-05-08</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_59b33373-ae4a-4719-a3df-0e36a08187d8' target='_blank'>Seagrass Site-Level Production on BC Central Coast</a></td>
       <td><a title='9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' href='records/9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' target='_blank'>1</a></td>
       <td>Nearshore</td>
@@ -416,7 +428,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
-      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295' target='_blank'>2</a></td>
+      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295' target='_blank'>3</a></td>
       <td>Juvenile Salmon Program</td>
       <td>2024-06-12</td>
     </tr>
@@ -506,7 +518,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8d36f54-4955-463c-94e5-f0030c3230f3' target='_blank'>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</a></td>
-      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>1</a></td>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>2</a></td>
       <td>Geospatial</td>
       <td>2024-07-12</td>
     </tr>
@@ -686,7 +698,7 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
-      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>9</a></td>
+      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>8</a></td>
       <td>Watersheds</td>
       <td>2025-04-23</td>
     </tr>
@@ -1178,9 +1190,9 @@ This page present a summary of the different metadata records distributed at <ht
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac' target='_blank'>Kelp forest communities along an otter gradient</a></td>
-      <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>5</a></td>
+      <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>3</a></td>
       <td>Geospatial, Nearshore</td>
-      <td>2024-07-23</td>
+      <td>2026-05-29</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408' target='_blank'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>

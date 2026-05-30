@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No DO
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-29</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2026-05-27</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>No DOI defined</td>
@@ -178,11 +183,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2024-07-23</td>
       <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
       <td>No DOI defined</td>
     </tr>
     <tr>

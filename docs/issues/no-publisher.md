@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No pu
   </thead>
   <tbody>
     <tr>
+      <td>2026-05-29</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
       <td>2026-02-20</td>
       <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
       <td>No publisher</td>
@@ -58,11 +63,6 @@ This page present the list of all the records associated with the issue: **No pu
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
       <td>No publisher</td>
     </tr>
     <tr>

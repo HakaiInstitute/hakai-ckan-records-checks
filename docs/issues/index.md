@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 6.0, 6.0, 11.0, 12.0, 12.0, 38.0, 43.0, 49.0, 106.0, 117.0], "textposition": "outside", "x": [1, 1, 1, 6, 6, 11, 12, 12, 38, 43, 49, 106, 117], "xaxis": "x", "y": ["Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.", "Organization missing ROR", "Record DOI HTTPS link is failling", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [4.0, 6.0, 12.0, 12.0, 12.0, 38.0, 43.0, 50.0, 105.0, 118.0], "textposition": "outside", "x": [4, 6, 12, 12, 12, 38, 43, 50, 105, 118], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "DOI is not redirecting to Hakai's catalogue", "Invalid Resource URL", "No projects associated", "No publisher", "No DOI defined", "No funder", "Contact missing ORCID", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -41,18 +41,32 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
   </thead>
   <tbody>
     <tr>
+      <th>260</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c34ed6e-5a17-41f2-b83a-cd59d1ce07bd' target='_blank'>Knight Inlet Multibeam Bathymetry Survey</a></td>
+      <td>2026-05-28</td>
+      <td>2026-05-28</td>
+      <td><a title='6c4803cc-d1c6-4327-806a-7f6796606175' href='../records/6c4803cc-d1c6-4327-806a-7f6796606175' target='_blank'>1</a></td>
+    </tr>
+    <tr>
+      <th>261</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8755f475-2133-4205-baff-5e2937824f45' target='_blank'>Poole Creek Aerial Surveys - Airborne Coastal Observatory</a></td>
+      <td>2026-05-28</td>
+      <td>2026-05-28</td>
+      <td></td>
+    </tr>
+    <tr>
       <th>258</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e49967a-b5ab-443d-860b-e3c0eb0f709c' target='_blank'>Horne Lake Bathymetry Mapping</a></td>
       <td>2026-05-27</td>
       <td>2026-05-27</td>
-      <td><a title='ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' href='../records/ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' target='_blank'>2</a></td>
+      <td><a title='ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' href='../records/ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0' target='_blank'>3</a></td>
     </tr>
     <tr>
       <th>259</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e897c9d0-3fca-4c89-b37f-e571413ffd12' target='_blank'>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</a></td>
       <td>2026-05-27</td>
-      <td>2026-05-27</td>
-      <td><a title='18f56a52-11af-446a-aea9-07feca8d197e' href='../records/18f56a52-11af-446a-aea9-07feca8d197e' target='_blank'>4</a></td>
+      <td>2026-05-28</td>
+      <td></td>
     </tr>
     <tr>
       <th>257</th>
@@ -101,7 +115,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431' target='_blank'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</a></td>
       <td>2026-04-13</td>
       <td>2026-04-13</td>
-      <td></td>
+      <td><a title='613ba2f9-b21d-445f-8eaa-f42950c9350b' href='../records/613ba2f9-b21d-445f-8eaa-f42950c9350b' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>251</th>
@@ -118,14 +132,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>248</th>
+      <th>247</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1efbadd2-e735-48cc-9498-e3a5a88e48a6' target='_blank'>Seawater Carbon Dioxide (CO2) Content from the SuperCO2 System in the Pacific Ecosystem Autonomous Research Laboratory, Bamfield Marine Sciences Centre, BC, Canada (Provisional)</a></td>
       <td>2026-03-27</td>
       <td>2026-04-13</td>
-      <td><a title='c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' href='../records/c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' target='_blank'>2</a></td>
+      <td><a title='c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' href='../records/c5dafa6e-f2df-4f02-a94e-8f82b29dfb66' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>247</th>
+      <th>248</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b2b18171-35b6-4345-b81b-497a90c2e7c5' target='_blank'>Seagrass fish and macroinvertebrate swaths BC Central Coast</a></td>
       <td>2026-03-27</td>
       <td>2026-03-27</td>
@@ -213,7 +227,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5b4cbe9f-8f2e-414c-80ff-741372891fe9' target='_blank'>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</a></td>
       <td>2025-11-12</td>
       <td>2026-02-27</td>
-      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>4</a></td>
+      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='../records/b9671efe-5980-452b-90f8-f30e4f1bc194' target='_blank'>3</a></td>
     </tr>
     <tr>
       <th>235</th>
@@ -570,7 +584,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893' target='_blank'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
       <td>2024-07-12</td>
       <td>2026-05-08</td>
-      <td></td>
+      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38' target='_blank'>1</a></td>
     </tr>
     <tr>
       <th>183</th>
@@ -640,7 +654,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7' target='_blank'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
       <td>2023-08-29</td>
       <td>2024-06-12</td>
-      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='../records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295' target='_blank'>2</a></td>
+      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='../records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295' target='_blank'>3</a></td>
     </tr>
     <tr>
       <th>173</th>
@@ -752,7 +766,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8d36f54-4955-463c-94e5-f0030c3230f3' target='_blank'>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</a></td>
       <td>2023-01-17</td>
       <td>2024-07-12</td>
-      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='../records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>1</a></td>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='../records/50037e63-bfac-4b7a-8547-56337fe40026' target='_blank'>2</a></td>
     </tr>
     <tr>
       <th>157</th>
@@ -895,14 +909,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='38fabad7-d7d2-405f-aa4c-592ef064895f' href='../records/38fabad7-d7d2-405f-aa4c-592ef064895f' target='_blank'>10</a></td>
     </tr>
     <tr>
-      <th>125</th>
+      <th>124</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95' target='_blank'>Watersheds of the northern Pacific coastal temperate rainforest margin</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
       <td><a title='30560220-bc44-4020-b424-0abf617d1c00' href='../records/30560220-bc44-4020-b424-0abf617d1c00' target='_blank'>9</a></td>
     </tr>
     <tr>
-      <th>124</th>
+      <th>125</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8' target='_blank'>Ecosystem Comparison Plots - Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
@@ -937,14 +951,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='3c4cc294-1e9a-410e-81b0-0d9461e4b1c9' href='../records/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9' target='_blank'>3</a></td>
     </tr>
     <tr>
-      <th>130</th>
+      <th>131</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef' target='_blank'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-05-27</td>
       <td><a title='41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' href='../records/41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' target='_blank'>9</a></td>
     </tr>
     <tr>
-      <th>131</th>
+      <th>130</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324' target='_blank'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td>2022-03-29</td>
       <td>2026-05-26</td>
@@ -986,35 +1000,35 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='6f261f49-dd1b-4250-ac59-e88c3d1b2470' href='../records/6f261f49-dd1b-4250-ac59-e88c3d1b2470' target='_blank'>5</a></td>
     </tr>
     <tr>
-      <th>137</th>
+      <th>138</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997' target='_blank'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
       <td><a title='f0cae885-2124-41c1-8523-2c6725c40dd6' href='../records/f0cae885-2124-41c1-8523-2c6725c40dd6' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>141</th>
+      <th>137</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345' target='_blank'>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-29</td>
       <td>2025-04-23</td>
-      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='../records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>9</a></td>
+      <td><a title='17680b42-fb77-4ab5-8645-23bb2f28c3e0' href='../records/17680b42-fb77-4ab5-8645-23bb2f28c3e0' target='_blank'>8</a></td>
     </tr>
     <tr>
-      <th>138</th>
+      <th>139</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4' target='_blank'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
       <td><a title='39f8b771-eb65-420f-b64e-742d94bbebf0' href='../records/39f8b771-eb65-420f-b64e-742d94bbebf0' target='_blank'>9</a></td>
     </tr>
     <tr>
-      <th>139</th>
+      <th>140</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9' target='_blank'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
       <td><a title='b36a7c12-cb56-46b7-8241-9b52ac30c766' href='../records/b36a7c12-cb56-46b7-8241-9b52ac30c766' target='_blank'>3</a></td>
     </tr>
     <tr>
-      <th>140</th>
+      <th>141</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d' target='_blank'>LiDAR Derived Watersheds with Metrics - Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2024-07-24</td>
@@ -1112,14 +1126,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>102</th>
+      <th>103</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880' target='_blank'>Discovery Islands LiDAR Dataset&nbsp;&nbsp;- 2014 - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-05-19</td>
       <td><a title='57770468-42a9-4654-bf7d-7672939ed002' href='../records/57770468-42a9-4654-bf7d-7672939ed002' target='_blank'>1</a></td>
     </tr>
     <tr>
-      <th>103</th>
+      <th>102</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_51171738-7556-48f1-8757-658d99fa25dd' target='_blank'>Eelgrass Extent 2014 - Central Coast</a></td>
       <td>2022-03-11</td>
       <td>2024-07-24</td>
@@ -1808,8 +1822,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>12</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac' target='_blank'>Kelp forest communities along an otter gradient</a></td>
       <td>2021-09-23</td>
-      <td>2024-07-23</td>
-      <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='../records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>5</a></td>
+      <td>2026-05-29</td>
+      <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='../records/f5d51d99-ce24-4713-a317-7927dd283f1a' target='_blank'>3</a></td>
     </tr>
     <tr>
       <th>14</th>
@@ -1861,7 +1875,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='../records/79433a1f-ec07-4cd5-a31a-8c2c53069085' target='_blank'>6</a></td>
     </tr>
     <tr>
-      <th>260</th>
+      <th>262</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b' target='_blank'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td></td>
       <td>2025-04-02</td>
@@ -1881,6 +1895,26 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2026-05-29</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2026-05-29</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-05-29</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>No publisher</td>
+    </tr>
+    <tr>
+      <td>2026-05-28</td>
+      <td>Knight Inlet Multibeam Bathymetry Survey</td>
+      <td>Metadata mismatch: related work '10.21966/529y-sh57' in CKAN not found in DataCite</td>
+    </tr>
     <tr>
       <td>2026-05-27</td>
       <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
@@ -1928,28 +1962,18 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Duplicate DOI shared with another record: 10.21966/0xex-r023</td>
+      <td>Horne Lake Bathymetry Mapping</td>
+      <td>Metadata mismatch: license CKAN='CC-BY-NC-4.0' | DataCite='cc-by-4.0'</td>
     </tr>
     <tr>
       <td>2026-05-27</td>
       <td>Horne Lake Bathymetry Mapping</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/vwee-e004</td>
+      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1tCkBSbg8viQE8RDHg-0B3K9qfWbKU_Em/view' (HasMetadata) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1JzY5ELRe1sIbZdq7wBmAOT1t7Y1dNJ2v/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1wnjcvyyaphx-oq6ur8btaejzbv8t_nih/view?usp=sharing' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: title CKAN='Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory' | DataCite='Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory'</td>
+      <td>Horne Lake Bathymetry Mapping</td>
+      <td>Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-27</td>
@@ -1970,11 +1994,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-05-27</td>
       <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
       <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Horne Lake Bathymetry Mapping</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/vwee-e004 status_code=404</td>
     </tr>
     <tr>
       <td>2026-05-26</td>
@@ -2263,6 +2282,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2026-05-08</td>
+      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
+    </tr>
+    <tr>
+      <td>2026-05-08</td>
       <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</td>
       <td>Metadata mismatch: related identifier 'http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf' (IsDocumentedBy) in DataCite not found in CKAN</td>
     </tr>
@@ -2343,8 +2367,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2026-04-13</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the SuperCO2 System in the Pacific Ecosystem Autonomous Research Laboratory, Bamfield Marine Sciences Centre, BC, Canada (Provisional)</td>
-      <td>Invalid Resource URL: https://hakai-ctd-map.server.hakai.app/ returned status_code=timeout</td>
+      <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
       <td>2026-04-13</td>
@@ -2395,11 +2419,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-03-17</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-02-27</td>
-      <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
-      <td>Duplicate DOI shared with another record: 10.21966/0xex-r023</td>
     </tr>
     <tr>
       <td>2026-02-27</td>
@@ -2973,11 +2992,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Invalid Resource URL: https://data.hakai.org/home/sensor-network/ returned status_code=timeout</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
       <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>Metadata mismatch: author 'Carolyn Prentice' in CKAN record not found in DataCite</td>
     </tr>
@@ -3023,12 +3037,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -3043,12 +3057,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -3378,12 +3392,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4118,12 +4132,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4193,12 +4207,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
+      <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
+      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4213,12 +4227,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4478,11 +4492,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>No DOI defined</td>
     </tr>
@@ -4518,12 +4527,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -4539,11 +4548,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -4618,11 +4622,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No publisher</td>
     </tr>
@@ -4678,12 +4677,12 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4699,11 +4698,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     <tr>
       <td>2024-07-23</td>
       <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -4762,14 +4756,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>No version</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>Organization missing ROR: Simon Fraser University</td>
-    </tr>
-    <tr>
       <td>2024-07-17</td>
       <td>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.48321/D18S8D' (Documents) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2024-07-12</td>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>Contact missing ORCID: Salomon, Anne K</td>
     </tr>
     <tr>
       <td>2024-07-12</td>
@@ -4780,6 +4774,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2024-06-27</td>
       <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
       <td>Metadata mismatch: related work '10.21966/1.566666' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-06-12</td>
+      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
       <td>2024-06-12</td>

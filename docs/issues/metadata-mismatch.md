@@ -16,19 +16,24 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1JzY5ELRe1sIbZdq7wBmAOT1t7Y1dNJ2v/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN</td>
+      <td>2026-05-28</td>
+      <td>Knight Inlet Multibeam Bathymetry Survey</td>
+      <td>Metadata mismatch: related work '10.21966/529y-sh57' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1wnjcvyyaphx-oq6ur8btaejzbv8t_nih/view?usp=sharing' in CKAN not found in DataCite</td>
+      <td>Horne Lake Bathymetry Mapping</td>
+      <td>Metadata mismatch: license CKAN='CC-BY-NC-4.0' | DataCite='cc-by-4.0'</td>
     </tr>
     <tr>
       <td>2026-05-27</td>
-      <td>Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: title CKAN='Joffre Provincial Park Aerial Surveys - 2025 - Airborne Coastal Observatory' | DataCite='Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory'</td>
+      <td>Horne Lake Bathymetry Mapping</td>
+      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1tCkBSbg8viQE8RDHg-0B3K9qfWbKU_Em/view' (HasMetadata) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-05-27</td>
+      <td>Horne Lake Bathymetry Mapping</td>
+      <td>Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-26</td>
