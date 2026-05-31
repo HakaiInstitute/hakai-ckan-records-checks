@@ -4,51 +4,51 @@
 2,fa913b04-1c29-4449-a78a-466f6b4fb110,No version
 3,fa913b04-1c29-4449-a78a-466f6b4fb110,No DOI defined
 4,fa913b04-1c29-4449-a78a-466f6b4fb110,No funder
-5,b6621a3c-1700-4015-a359-56b6c7155835,No version
-6,b6621a3c-1700-4015-a359-56b6c7155835,No funder
-7,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-8,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: creator 'GeoBC TRIM Program' in DataCite not found in CKAN record
-9,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-10,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: author 'TRIM BC Base Annotations data' in CKAN record not found in DataCite
-11,ee09830d-dd5e-41eb-8aee-0fe9cef5fe79,No version
-12,ee09830d-dd5e-41eb-8aee-0fe9cef5fe79,Metadata mismatch: author 'Jenn Burt' in CKAN record not found in DataCite
-13,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,No version
-14,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'Emily R. Haughton' in CKAN record not found in DataCite
-15,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
-16,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
-17,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'Shawn Hateley' in CKAN record not found in DataCite
-18,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No version
-19,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No DOI defined
-20,8a71bb9f-e419-42aa-9ed7-f891631314a5,No projects associated
-21,8a71bb9f-e419-42aa-9ed7-f891631314a5,No version
-22,8a71bb9f-e419-42aa-9ed7-f891631314a5,No DOI defined
-23,8a71bb9f-e419-42aa-9ed7-f891631314a5,No funder
+5,ee09830d-dd5e-41eb-8aee-0fe9cef5fe79,No version
+6,ee09830d-dd5e-41eb-8aee-0fe9cef5fe79,Metadata mismatch: author 'Jenn Burt' in CKAN record not found in DataCite
+7,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No version
+8,92e1c9df-0419-4d91-93c2-b9c85f4ce74e,No DOI defined
+9,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,No version
+10,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'Emily R. Haughton' in CKAN record not found in DataCite
+11,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
+12,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
+13,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,Metadata mismatch: author 'Shawn Hateley' in CKAN record not found in DataCite
+14,8a71bb9f-e419-42aa-9ed7-f891631314a5,No projects associated
+15,8a71bb9f-e419-42aa-9ed7-f891631314a5,No version
+16,8a71bb9f-e419-42aa-9ed7-f891631314a5,No DOI defined
+17,8a71bb9f-e419-42aa-9ed7-f891631314a5,No funder
+18,b6621a3c-1700-4015-a359-56b6c7155835,No version
+19,b6621a3c-1700-4015-a359-56b6c7155835,No funder
+20,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+21,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: creator 'GeoBC TRIM Program' in DataCite not found in CKAN record
+22,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+23,b6621a3c-1700-4015-a359-56b6c7155835,Metadata mismatch: author 'TRIM BC Base Annotations data' in CKAN record not found in DataCite
 24,a31d44d5-2ce5-4d03-8d0b-4549023840ff,No DOI defined
 25,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
 26,646dd927-3248-4fc9-970c-abea15f7d304,No funder
 27,0272fd06-6ac8-48cd-80c9-b6e05f15be0f,Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN
-28,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-29,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record
-30,69268e35-08ac-4e6d-b489-4bb72ac117b1,No version
-31,69268e35-08ac-4e6d-b489-4bb72ac117b1,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-32,69268e35-08ac-4e6d-b489-4bb72ac117b1,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+28,69268e35-08ac-4e6d-b489-4bb72ac117b1,No version
+29,69268e35-08ac-4e6d-b489-4bb72ac117b1,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+30,69268e35-08ac-4e6d-b489-4bb72ac117b1,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+31,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+32,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record
 33,550e7acb-0e3f-461f-bd47-8b6ced16bf43,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 34,550e7acb-0e3f-461f-bd47-8b6ced16bf43,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-35,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No version
-36,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No funder
-37,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No publisher
-38,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-39,79ace68f-f5a9-4224-8615-20fa255cb6d4,No version
-40,79ace68f-f5a9-4224-8615-20fa255cb6d4,Metadata mismatch: related identifier '10.1098/rspb.2020.0108' (HasPart) in DataCite not found in CKAN
-41,bf7c05e8-510d-4449-9e81-4c358ff3f440,Metadata mismatch: related identifier 'http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf' (IsDocumentedBy) in DataCite not found in CKAN
-42,b1c4c93b-6324-4b84-b341-76be046cbf28,No funder
+35,bf7c05e8-510d-4449-9e81-4c358ff3f440,Metadata mismatch: related identifier 'http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf' (IsDocumentedBy) in DataCite not found in CKAN
+36,79ace68f-f5a9-4224-8615-20fa255cb6d4,No version
+37,79ace68f-f5a9-4224-8615-20fa255cb6d4,Metadata mismatch: related identifier '10.1098/rspb.2020.0108' (HasPart) in DataCite not found in CKAN
+38,b1c4c93b-6324-4b84-b341-76be046cbf28,No funder
+39,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No version
+40,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No funder
+41,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,No publisher
+42,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 43,f6ad9487-d689-41a3-b610-352224d7759b,No version
 44,f6ad9487-d689-41a3-b610-352224d7759b,Metadata mismatch: related identifier '10.21966/1.566666' (IsVersionOf) in DataCite not found in CKAN
 45,f6ad9487-d689-41a3-b610-352224d7759b,Metadata mismatch: related identifier 'https://npafc.org/wp-content/uploads/Public-Documents/2018/1790Canada.pdf' (IsSourceOf) in DataCite not found in CKAN
-46,773ef9a6-64dd-4734-ba16-566470b0edad,No version
-47,773ef9a6-64dd-4734-ba16-566470b0edad,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-48,773ef9a6-64dd-4734-ba16-566470b0edad,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-49,1be9154a-1497-42eb-8821-b0d63000814c,No version
+46,1be9154a-1497-42eb-8821-b0d63000814c,No version
+47,773ef9a6-64dd-4734-ba16-566470b0edad,No version
+48,773ef9a6-64dd-4734-ba16-566470b0edad,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+49,773ef9a6-64dd-4734-ba16-566470b0edad,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
 50,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,No projects associated
 51,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,No version
 52,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,Metadata mismatch: creator 'Gillian Sadlier-Brown' in DataCite not found in CKAN record
@@ -56,27 +56,27 @@
 54,7ed2118f-ecaa-41e4-aa81-911ffa47bf34,No version
 55,7ed2118f-ecaa-41e4-aa81-911ffa47bf34,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
 56,f8f299be-a37e-43bf-9416-5ff59e664f65,No version
-57,38fabad7-d7d2-405f-aa4c-592ef064895f,No version
-58,38fabad7-d7d2-405f-aa4c-592ef064895f,No funder
-59,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-60,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite
-61,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
-62,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
-63,8275a332-8870-4300-8ca8-48b854e7dccf,No version
-64,8275a332-8870-4300-8ca8-48b854e7dccf,No DOI defined
-65,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
-66,3a8b11a2-5deb-469e-824b-32ab0eb5c2ca,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-67,3a8b11a2-5deb-469e-824b-32ab0eb5c2ca,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-68,30560220-bc44-4020-b424-0abf617d1c00,No version
-69,30560220-bc44-4020-b424-0abf617d1c00,No funder
-70,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-71,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite
-72,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'Ian J. W. Giesbrecht' in CKAN record not found in DataCite
-73,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'F. E. Biles' in CKAN record not found in DataCite
-74,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'D. V. D'Amore' in CKAN record not found in DataCite
-75,d8754c99-a540-4085-8c66-d9447da5f6e9,No version
-76,d8754c99-a540-4085-8c66-d9447da5f6e9,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-77,c5dafa6e-f2df-4f02-a94e-8f82b29dfb66,No version
+57,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
+58,c5dafa6e-f2df-4f02-a94e-8f82b29dfb66,No version
+59,38fabad7-d7d2-405f-aa4c-592ef064895f,No version
+60,38fabad7-d7d2-405f-aa4c-592ef064895f,No funder
+61,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+62,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite
+63,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
+64,38fabad7-d7d2-405f-aa4c-592ef064895f,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
+65,3a8b11a2-5deb-469e-824b-32ab0eb5c2ca,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+66,3a8b11a2-5deb-469e-824b-32ab0eb5c2ca,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+67,d8754c99-a540-4085-8c66-d9447da5f6e9,No version
+68,d8754c99-a540-4085-8c66-d9447da5f6e9,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+69,8275a332-8870-4300-8ca8-48b854e7dccf,No version
+70,8275a332-8870-4300-8ca8-48b854e7dccf,No DOI defined
+71,30560220-bc44-4020-b424-0abf617d1c00,No version
+72,30560220-bc44-4020-b424-0abf617d1c00,No funder
+73,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+74,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite
+75,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'Ian J. W. Giesbrecht' in CKAN record not found in DataCite
+76,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'F. E. Biles' in CKAN record not found in DataCite
+77,30560220-bc44-4020-b424-0abf617d1c00,Metadata mismatch: author 'D. V. D'Amore' in CKAN record not found in DataCite
 78,2709d7b1-22e1-4268-bcda-dc0c79f2878e,No version
 79,2709d7b1-22e1-4268-bcda-dc0c79f2878e,DOI is not redirecting to Hakai's catalogue: https://zenodo.org/records/4005400
 80,2709d7b1-22e1-4268-bcda-dc0c79f2878e,No publisher
@@ -97,28 +97,28 @@
 95,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite
 96,328b062b-3af6-4149-b90f-a85b99dc40eb,Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN
 97,c4d3a53a-faa2-4c3e-bcd3-cfdb0aef0078,Metadata mismatch: related identifier 'https://doi.org/10.21966/1.521066' (References) in DataCite not found in CKAN
-98,5fc21b4d-2dfa-4908-8aaf-90a82509324a,Metadata mismatch: related work '10.48321/d16d6f987c' in CKAN not found in DataCite
-99,4a949e26-fe94-4f63-a3c6-a62e19301102,Metadata mismatch: related work 'https://obis.org/dataset/80afee46-3e18-4669-ad1b-00f71b0544f5' in CKAN not found in DataCite
+98,4a949e26-fe94-4f63-a3c6-a62e19301102,Metadata mismatch: related work 'https://obis.org/dataset/80afee46-3e18-4669-ad1b-00f71b0544f5' in CKAN not found in DataCite
+99,5fc21b4d-2dfa-4908-8aaf-90a82509324a,Metadata mismatch: related work '10.48321/d16d6f987c' in CKAN not found in DataCite
 100,e14d0456-297e-4636-8e7c-c615791b165e,Metadata mismatch: related work 'https://10.21966/5n09-aq76' in CKAN not found in DataCite
 101,e14d0456-297e-4636-8e7c-c615791b165e,Metadata mismatch: related identifier '10.21966/5n09-aq76' (IsPartOf) in DataCite not found in CKAN
 102,f15f9c5e-08a6-4e9f-8ff5-a6126447e138,No DOI defined
 103,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
 104,139df6dd-772b-424f-b830-30a5ba6abfc6,Metadata mismatch: creator 'Drew Jordison' in DataCite not found in CKAN record
-105,139df6dd-772b-424f-b830-30a5ba6abfc6,Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite
-106,139df6dd-772b-424f-b830-30a5ba6abfc6,Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite
+105,139df6dd-772b-424f-b830-30a5ba6abfc6,Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite
+106,139df6dd-772b-424f-b830-30a5ba6abfc6,Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite
 107,2b33a5f0-1172-41e4-8330-b4c77d1665c7,No version
-108,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
-109,f409100d-95e4-4933-a927-fdf8d3b83204,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-110,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,No version
-111,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-112,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,Metadata mismatch: author 'Alex Hare' in CKAN record not found in DataCite
-113,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://drive.google.com/file/d/1mt2v_uv78afjp5z_lhi1gu52bqwko4ms/view?usp=drive_link' in CKAN not found in DataCite
-114,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite
+108,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,No version
+109,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+110,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,Metadata mismatch: author 'Alex Hare' in CKAN record not found in DataCite
+111,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+112,f409100d-95e4-4933-a927-fdf8d3b83204,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+113,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite
+114,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://drive.google.com/file/d/1mt2v_uv78afjp5z_lhi1gu52bqwko4ms/view?usp=drive_link' in CKAN not found in DataCite
 115,0c864dea-998e-4a5e-94d3-c5fbda339eee,No version
 116,0c864dea-998e-4a5e-94d3-c5fbda339eee,No DOI defined
-117,4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d,"Metadata mismatch: title CKAN='Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)' | DataCite='Hakai Mooring Water Properties Timeseries Research'"
-118,074ffcad-2e2f-496c-9378-dec5289d4336,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-119,074ffcad-2e2f-496c-9378-dec5289d4336,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+117,074ffcad-2e2f-496c-9378-dec5289d4336,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+118,074ffcad-2e2f-496c-9378-dec5289d4336,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+119,4a9b4584-a5ef-4baf-9d4a-bacf8e6a5d1d,"Metadata mismatch: title CKAN='Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)' | DataCite='Hakai Mooring Water Properties Timeseries Research'"
 120,78efda1b-9688-4bcf-b16e-7167c17c0bcb,Metadata mismatch: related work 'https://drive.google.com/file/d/1darjhrdmvvzesny0d_8arbos95rkufjr/view?usp=drive_link' in CKAN not found in DataCite
 121,cb9c0488-666b-4869-9ca4-04d7125fdf8a,No version
 122,cb9c0488-666b-4869-9ca4-04d7125fdf8a,No funder
@@ -132,66 +132,66 @@
 130,75b60436-da51-4ccf-b14a-27f45f782b2b,Metadata mismatch: author 'Brian Hunt' in CKAN record not found in DataCite
 131,75b60436-da51-4ccf-b14a-27f45f782b2b,Metadata mismatch: author 'Stephanie Waterman' in CKAN record not found in DataCite
 132,75b60436-da51-4ccf-b14a-27f45f782b2b,Metadata mismatch: related identifier '10.1029/2020JC017033' (IsSourceOf) in DataCite not found in CKAN
-133,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No version
-134,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No DOI defined
-135,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No funder
-136,d70bcd3d-dc07-479f-856f-ad70d11c51f1,Metadata mismatch: related work 'https://10.1029/2025gl115235' in CKAN not found in DataCite
-137,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No projects associated
-138,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No version
-139,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No DOI defined
-140,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No funder
-141,57770468-42a9-4654-bf7d-7672939ed002,No DOI defined
-142,96b5a7f2-5f23-413a-b060-d268bcff83ba,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0246099
-143,96b5a7f2-5f23-413a-b060-d268bcff83ba,"Metadata mismatch: title CKAN='High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA' | DataCite='High-resolution record of surface seawater CO2 content from 2016-08 to 2019-05 from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA (NCEI Accession 0246099)'"
-144,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record
-145,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
-146,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: related work 'https://catalogue.hakai.org/erddap/tabledap/hakaiketchikanbolresearch.html' in CKAN not found in DataCite
-147,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: related work '10.21966/pk18-z035' in CKAN not found in DataCite
+133,96b5a7f2-5f23-413a-b060-d268bcff83ba,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0246099
+134,96b5a7f2-5f23-413a-b060-d268bcff83ba,"Metadata mismatch: title CKAN='High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA' | DataCite='High-resolution record of surface seawater CO2 content from 2016-08 to 2019-05 from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA (NCEI Accession 0246099)'"
+135,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record
+136,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
+137,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: related work 'https://catalogue.hakai.org/erddap/tabledap/hakaiketchikanbolresearch.html' in CKAN not found in DataCite
+138,96b5a7f2-5f23-413a-b060-d268bcff83ba,Metadata mismatch: related work '10.21966/pk18-z035' in CKAN not found in DataCite
+139,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No projects associated
+140,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No version
+141,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No DOI defined
+142,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,No funder
+143,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No version
+144,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No DOI defined
+145,a7a3cb32-66ff-4dcb-b05a-2c71511bd115,No funder
+146,57770468-42a9-4654-bf7d-7672939ed002,No DOI defined
+147,d70bcd3d-dc07-479f-856f-ad70d11c51f1,Metadata mismatch: related work 'https://10.1029/2025gl115235' in CKAN not found in DataCite
 148,0049e274-f23e-448c-b307-14aa3b4e0b4a,Metadata mismatch: related work '10.21966/36hp-7f40' in CKAN not found in DataCite
 149,0049e274-f23e-448c-b307-14aa3b4e0b4a,Metadata mismatch: related identifier 'https://www.onsetcomp.com/products/data-loggers/mx2203/' (IsDocumentedBy) in DataCite not found in CKAN
-150,cc016896-78d9-46e8-887d-6c1dd106c0e8,Metadata mismatch: related work '10.21966/e4b8-vp48' in CKAN not found in DataCite
-151,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No version
-152,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No funder
-153,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: creator 'M Korver' in DataCite not found in CKAN record
-154,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite
-155,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite
-156,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
-157,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
-158,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-159,83f387d2-f77e-4921-af15-e064d87ad01a,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-160,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,No version
-161,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-162,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-163,9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f,Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_seagrassdensitysurveys' in CKAN not found in DataCite
-164,8a7cd5ea-e167-419e-a5c3-919acafe8455,No version
-165,8a7cd5ea-e167-419e-a5c3-919acafe8455,No DOI defined
-166,b9671efe-5980-452b-90f8-f30e4f1bc194,Metadata mismatch: related work '10.21966/2aap-hn61' in CKAN not found in DataCite
-167,b9671efe-5980-452b-90f8-f30e4f1bc194,Metadata mismatch: related work 'https://drive.google.com/file/d/1yg1ec4-lvj0ut6csylv0p1udmcq-a5xu/view?usp=sharing' in CKAN not found in DataCite
+150,83f387d2-f77e-4921-af15-e064d87ad01a,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+151,cc016896-78d9-46e8-887d-6c1dd106c0e8,Metadata mismatch: related work '10.21966/e4b8-vp48' in CKAN not found in DataCite
+152,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,No version
+153,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+154,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+155,0c08a4f0-b28c-40fe-aaa8-a03113a7c735,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+156,8a7cd5ea-e167-419e-a5c3-919acafe8455,No version
+157,8a7cd5ea-e167-419e-a5c3-919acafe8455,No DOI defined
+158,9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f,Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_seagrassdensitysurveys' in CKAN not found in DataCite
+159,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No version
+160,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,No funder
+161,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: creator 'M Korver' in DataCite not found in CKAN record
+162,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite
+163,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite
+164,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
+165,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
+166,b9671efe-5980-452b-90f8-f30e4f1bc194,Metadata mismatch: related work 'https://drive.google.com/file/d/1yg1ec4-lvj0ut6csylv0p1udmcq-a5xu/view?usp=sharing' in CKAN not found in DataCite
+167,b9671efe-5980-452b-90f8-f30e4f1bc194,Metadata mismatch: related work '10.21966/2aap-hn61' in CKAN not found in DataCite
 168,b9671efe-5980-452b-90f8-f30e4f1bc194,Metadata mismatch: related identifier 'https://drive.google.com/file/d/1JzY5ELRe1sIbZdq7wBmAOT1t7Y1dNJ2v/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN
 169,e3205958-52b4-4c42-a02d-34d713a20a53,No version
 170,e3205958-52b4-4c42-a02d-34d713a20a53,No DOI defined
-171,13dc3c6c-9dd4-47a4-92ad-681c653d3565,No version
-172,13dc3c6c-9dd4-47a4-92ad-681c653d3565,Metadata mismatch: related identifier 'https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf' (IsDocumentedBy) in DataCite not found in CKAN
-173,3031aa60-689f-4b94-9dc6-9912cc742431,No version
-174,3031aa60-689f-4b94-9dc6-9912cc742431,No DOI defined
-175,3031aa60-689f-4b94-9dc6-9912cc742431,No funder
-176,3031aa60-689f-4b94-9dc6-9912cc742431,No publisher
-177,c8f6fd7c-7c63-440b-b69a-bd0df3abfd26,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-178,c8f6fd7c-7c63-440b-b69a-bd0df3abfd26,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-179,d64fd03b-46d4-4662-a123-c11bc42199b6,No version
-180,d64fd03b-46d4-4662-a123-c11bc42199b6,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-181,d64fd03b-46d4-4662-a123-c11bc42199b6,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+171,3031aa60-689f-4b94-9dc6-9912cc742431,No version
+172,3031aa60-689f-4b94-9dc6-9912cc742431,No DOI defined
+173,3031aa60-689f-4b94-9dc6-9912cc742431,No funder
+174,3031aa60-689f-4b94-9dc6-9912cc742431,No publisher
+175,13dc3c6c-9dd4-47a4-92ad-681c653d3565,No version
+176,13dc3c6c-9dd4-47a4-92ad-681c653d3565,Metadata mismatch: related identifier 'https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf' (IsDocumentedBy) in DataCite not found in CKAN
+177,d64fd03b-46d4-4662-a123-c11bc42199b6,No version
+178,d64fd03b-46d4-4662-a123-c11bc42199b6,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+179,d64fd03b-46d4-4662-a123-c11bc42199b6,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+180,c8f6fd7c-7c63-440b-b69a-bd0df3abfd26,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+181,c8f6fd7c-7c63-440b-b69a-bd0df3abfd26,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
 182,b47e53cd-74dd-4580-80d0-260860064f4b,Metadata mismatch: author 'Debora Obrist' in CKAN record not found in DataCite
 183,7607322d-6dea-4758-a257-de8353c899c1,No version
 184,7607322d-6dea-4758-a257-de8353c899c1,"Metadata mismatch: title CKAN='Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)' | DataCite='Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research'"
 185,5c2aac2c-0dd8-49d8-87b2-5c52b3d42946,No version
 186,1dfdbadf-6314-4411-8d18-752f6dd920e9,Metadata mismatch: related work '10.48321/d1ae4278b4' in CKAN not found in DataCite
-187,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,"Metadata mismatch: title CKAN='Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.' | DataCite='Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018'"
-188,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,Metadata mismatch: author 'Allison A. Oliver' in CKAN record not found in DataCite
+187,5042c858-d375-42f5-82e0-ee1e4da962b6,Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN
+188,5042c858-d375-42f5-82e0-ee1e4da962b6,Metadata mismatch: related identifier 'https://books.google.ca/books/about/Marine_Phytoplankton.html?id=_lgVAQAAIAAJ&redir_esc=y' (IsDocumentedBy) in DataCite not found in CKAN
 189,5042c858-d375-42f5-82e0-ee1e4da962b6,Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN
-190,5042c858-d375-42f5-82e0-ee1e4da962b6,Metadata mismatch: related identifier 'https://books.google.ca/books/about/Marine_Phytoplankton.html?id=_lgVAQAAIAAJ&redir_esc=y' (IsDocumentedBy) in DataCite not found in CKAN
-191,5042c858-d375-42f5-82e0-ee1e4da962b6,Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN
-192,5042c858-d375-42f5-82e0-ee1e4da962b6,Metadata mismatch: related identifier 'https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=30361177' (IsDocumentedBy) in DataCite not found in CKAN
+190,5042c858-d375-42f5-82e0-ee1e4da962b6,Metadata mismatch: related identifier 'https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=30361177' (IsDocumentedBy) in DataCite not found in CKAN
+191,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,"Metadata mismatch: title CKAN='Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.' | DataCite='Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018'"
+192,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,Metadata mismatch: author 'Allison A. Oliver' in CKAN record not found in DataCite
 193,6c4803cc-d1c6-4327-806a-7f6796606175,Metadata mismatch: related work '10.21966/529y-sh57' in CKAN not found in DataCite
 194,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_jsp' in CKAN not found in DataCite
 195,c68b9ec8-9f26-4fb0-9333-79730f4ea1ca,No version
@@ -213,49 +213,49 @@
 211,b307d1bd-61be-4059-b4af-db36555dbd77,No projects associated
 212,b307d1bd-61be-4059-b4af-db36555dbd77,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 213,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
-214,f31f38bf-16bc-4136-8982-a2df5fefb3a0,No version
-215,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No version
-216,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No DOI defined
-217,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No funder
+214,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No version
+215,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No DOI defined
+216,b3e5b67d-2425-4a4f-80b0-d1076df5492a,No funder
+217,f31f38bf-16bc-4136-8982-a2df5fefb3a0,No version
 218,a48161da-c603-43d6-9dc6-44b861984b49,Metadata mismatch: related identifier 'https://doi.org/10.1016/j.rse.2018.06.039' (IsDocumentedBy) in DataCite not found in CKAN
 219,a48161da-c603-43d6-9dc6-44b861984b49,Metadata mismatch: related identifier 'https://doi.org/10.1371/journal.pone.0271477' (IsDerivedFrom) in DataCite not found in CKAN
-220,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,No version
-221,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-222,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-223,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: license CKAN='CC-BY-NC-4.0' | DataCite='cc-by-4.0'
-224,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite
-225,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: related identifier 'https://drive.google.com/file/d/1tCkBSbg8viQE8RDHg-0B3K9qfWbKU_Em/view' (HasMetadata) in DataCite not found in CKAN
-226,dc84cb4c-ba14-4632-a595-eed526bf9db1,No version
-227,dc84cb4c-ba14-4632-a595-eed526bf9db1,No DOI defined
-228,cb0f4710-d78a-4073-959c-95f874f88711,"Metadata mismatch: title CKAN='Phytoplankton Pigment Timeseries from High-Performance Liquid Chromatography for the Northern Salish Sea and Central Coast, BC, Canada (Research)' | DataCite='High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia'"
-229,cb0f4710-d78a-4073-959c-95f874f88711,Metadata mismatch: related identifier 'https://ntrs.nasa.gov/citations/20110008482' (IsDocumentedBy) in DataCite not found in CKAN
+220,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: license CKAN='CC-BY-NC-4.0' | DataCite='cc-by-4.0'
+221,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite
+222,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: related identifier 'https://drive.google.com/file/d/1tCkBSbg8viQE8RDHg-0B3K9qfWbKU_Em/view' (HasMetadata) in DataCite not found in CKAN
+223,cb0f4710-d78a-4073-959c-95f874f88711,"Metadata mismatch: title CKAN='Phytoplankton Pigment Timeseries from High-Performance Liquid Chromatography for the Northern Salish Sea and Central Coast, BC, Canada (Research)' | DataCite='High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia'"
+224,cb0f4710-d78a-4073-959c-95f874f88711,Metadata mismatch: related identifier 'https://ntrs.nasa.gov/citations/20110008482' (IsDocumentedBy) in DataCite not found in CKAN
+225,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,No version
+226,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+227,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+228,dc84cb4c-ba14-4632-a595-eed526bf9db1,No version
+229,dc84cb4c-ba14-4632-a595-eed526bf9db1,No DOI defined
 230,9c581481-f2ee-4353-b1ab-c5bf242945fe,No version
 231,9c581481-f2ee-4353-b1ab-c5bf242945fe,No DOI defined
-232,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
-233,0e92249d-74e1-4253-a8a5-876d08a8ff65,Metadata mismatch: version CKAN='1.0.4' | DataCite='1.0.0'
-234,0e92249d-74e1-4253-a8a5-876d08a8ff65,Metadata mismatch: related work 'https://10.21966/cqrt-sk09' in CKAN not found in DataCite
-235,384dbb32-4bc8-4bd1-a741-6abbd332a50a,No version
-236,384dbb32-4bc8-4bd1-a741-6abbd332a50a,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-237,384dbb32-4bc8-4bd1-a741-6abbd332a50a,Metadata mismatch: author 'Airborne Coastal Observatory' in CKAN record not found in DataCite
+232,384dbb32-4bc8-4bd1-a741-6abbd332a50a,No version
+233,384dbb32-4bc8-4bd1-a741-6abbd332a50a,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+234,384dbb32-4bc8-4bd1-a741-6abbd332a50a,Metadata mismatch: author 'Airborne Coastal Observatory' in CKAN record not found in DataCite
+235,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
+236,0e92249d-74e1-4253-a8a5-876d08a8ff65,Metadata mismatch: version CKAN='1.0.4' | DataCite='1.0.0'
+237,0e92249d-74e1-4253-a8a5-876d08a8ff65,Metadata mismatch: related work 'https://10.21966/cqrt-sk09' in CKAN not found in DataCite
 238,2916abf5-419e-4cd7-8e25-f45f07a21313,Metadata mismatch: related work 'https://drive.google.com/file/d/1crbcqqcmvk3ibyxufqxgj7yv7s5a2-1y/view?usp=sharing' in CKAN not found in DataCite
 239,2916abf5-419e-4cd7-8e25-f45f07a21313,Metadata mismatch: related identifier 'https://drive.google.com/file/d/1ZgcHBPDNHUNRvoaYmpj-IcbDrtPWoviN/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN
-240,2a104224-c3eb-4778-adc3-865b36471b1b,No version
-241,2a104224-c3eb-4778-adc3-865b36471b1b,Metadata mismatch: related identifier '10.21966/1.566666' (Continues) in DataCite not found in CKAN
-242,2a104224-c3eb-4778-adc3-865b36471b1b,Metadata mismatch: related identifier '10.14288/1.0396439' (IsSourceOf) in DataCite not found in CKAN
-243,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,No version
-244,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208810
-245,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,"Metadata mismatch: title CKAN='Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)' | DataCite='Surface seawater and marine boundary layer partial pressure of carbon dioxide (pCO2), temperature and salinity observations made from the Kwakshua Channel (KC) Buoy off the central coast of British Columbia (NCEI Accession 0208810)'"
-246,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record
-247,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
+240,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,No version
+241,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208810
+242,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,"Metadata mismatch: title CKAN='Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)' | DataCite='Surface seawater and marine boundary layer partial pressure of carbon dioxide (pCO2), temperature and salinity observations made from the Kwakshua Channel (KC) Buoy off the central coast of British Columbia (NCEI Accession 0208810)'"
+243,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record
+244,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
+245,2a104224-c3eb-4778-adc3-865b36471b1b,No version
+246,2a104224-c3eb-4778-adc3-865b36471b1b,Metadata mismatch: related identifier '10.21966/1.566666' (Continues) in DataCite not found in CKAN
+247,2a104224-c3eb-4778-adc3-865b36471b1b,Metadata mismatch: related identifier '10.14288/1.0396439' (IsSourceOf) in DataCite not found in CKAN
 248,f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff,No version
 249,f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 250,f1f4ee29-1d0d-49f9-9a5b-64768f24a6ff,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-251,36e9e6ae-a407-456e-8fe2-a3a78b246bf7,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-252,36e9e6ae-a407-456e-8fe2-a3a78b246bf7,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-253,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite
-254,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite
-255,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite
-256,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite
+251,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite
+252,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite
+253,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite
+254,185462b6-5d10-43d8-91b2-b92010e80ff4,Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite
+255,36e9e6ae-a407-456e-8fe2-a3a78b246bf7,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+256,36e9e6ae-a407-456e-8fe2-a3a78b246bf7,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
 257,55e7c337-02e8-4200-8ea9-88241d978f96,No version
 258,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/q31x-qg72' (References) in DataCite not found in CKAN
 259,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/v57r-g944' (References) in DataCite not found in CKAN
@@ -267,27 +267,27 @@
 265,b5ee0615-c04d-462e-8199-f611bc6370ce,No version
 266,b5ee0615-c04d-462e-8199-f611bc6370ce,No DOI defined
 267,b5ee0615-c04d-462e-8199-f611bc6370ce,No funder
-268,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No version
-269,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No funder
-270,ee30aa86-e786-4a3f-b90f-df09a134621d,No version
-271,ee30aa86-e786-4a3f-b90f-df09a134621d,No funder
-272,ee30aa86-e786-4a3f-b90f-df09a134621d,No publisher
-273,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-274,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite
-275,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: author 'Katie Pocock' in CKAN record not found in DataCite
-276,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: author 'Carrie Weekes' in CKAN record not found in DataCite
+268,ee30aa86-e786-4a3f-b90f-df09a134621d,No version
+269,ee30aa86-e786-4a3f-b90f-df09a134621d,No funder
+270,ee30aa86-e786-4a3f-b90f-df09a134621d,No publisher
+271,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+272,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite
+273,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: author 'Katie Pocock' in CKAN record not found in DataCite
+274,ee30aa86-e786-4a3f-b90f-df09a134621d,Metadata mismatch: author 'Carrie Weekes' in CKAN record not found in DataCite
+275,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No version
+276,dcde7ad3-f54e-4210-ae4e-33db5aac63fe,No funder
 277,f51d96b5-1827-4aab-b1ce-575faff1fd03,Metadata mismatch: version CKAN='3.1.0' | DataCite='3.0'
 278,52048599-9a0c-4d33-861f-26eaedc86bd5,No version
 279,52048599-9a0c-4d33-861f-26eaedc86bd5,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-280,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No version
-281,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No DOI defined
-282,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No funder
-283,6c99bd67-3be1-4818-bf01-dfa56e910db3,Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite
-284,49ec67e4-f7be-4658-b2b6-e4b57d9901df,No version
-285,49967494-a7b6-4128-b336-671971d1e2c6,No projects associated
-286,49967494-a7b6-4128-b336-671971d1e2c6,No version
-287,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
-288,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+280,6c99bd67-3be1-4818-bf01-dfa56e910db3,Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite
+281,49967494-a7b6-4128-b336-671971d1e2c6,No projects associated
+282,49967494-a7b6-4128-b336-671971d1e2c6,No version
+283,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
+284,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+285,49ec67e4-f7be-4658-b2b6-e4b57d9901df,No version
+286,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No version
+287,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No DOI defined
+288,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,No funder
 289,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No version
 290,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No DOI defined
 291,6f261f49-dd1b-4250-ac59-e88c3d1b2470,No funder
@@ -295,10 +295,10 @@
 293,727b8863-91cc-4765-b0c0-80cb74b11182,No version
 294,727b8863-91cc-4765-b0c0-80cb74b11182,No DOI defined
 295,727b8863-91cc-4765-b0c0-80cb74b11182,No funder
-296,18911dee-9ca0-408b-8999-28da3e3dde7a,No version
-297,18911dee-9ca0-408b-8999-28da3e3dde7a,No funder
-298,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No version
-299,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No DOI defined
+296,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No version
+297,5dea887f-9b1d-4b20-a59a-3d4a2877a52c,No DOI defined
+298,18911dee-9ca0-408b-8999-28da3e3dde7a,No version
+299,18911dee-9ca0-408b-8999-28da3e3dde7a,No funder
 300,dd30b32a-2099-4909-838d-6ade9804381a,No version
 301,dd30b32a-2099-4909-838d-6ade9804381a,No funder
 302,dd30b32a-2099-4909-838d-6ade9804381a,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
@@ -306,16 +306,16 @@
 304,dd30b32a-2099-4909-838d-6ade9804381a,Metadata mismatch: author 'Margot Hessing-Lewis' in CKAN record not found in DataCite
 305,dd30b32a-2099-4909-838d-6ade9804381a,Metadata mismatch: author 'D Haggarty' in CKAN record not found in DataCite
 306,dd30b32a-2099-4909-838d-6ade9804381a,Metadata mismatch: author 'Francis Juanes' in CKAN record not found in DataCite
-307,6be4c552-469a-4558-b63d-7a2c52566fe2,No version
-308,45983472-7627-4227-b312-079c2aeda7ef,No version
-309,2510cc69-bd46-4534-a62f-dae1903b388d,No version
-310,f5d51d99-ce24-4713-a317-7927dd283f1a,No DOI defined
-311,f5d51d99-ce24-4713-a317-7927dd283f1a,No funder
-312,f5d51d99-ce24-4713-a317-7927dd283f1a,No publisher
-313,7f23d45b-b777-491c-b602-def5402d3d83,No version
-314,7f23d45b-b777-491c-b602-def5402d3d83,No funder
-315,7f23d45b-b777-491c-b602-def5402d3d83,No publisher
-316,7f23d45b-b777-491c-b602-def5402d3d83,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+307,2510cc69-bd46-4534-a62f-dae1903b388d,No version
+308,6be4c552-469a-4558-b63d-7a2c52566fe2,No version
+309,45983472-7627-4227-b312-079c2aeda7ef,No version
+310,7f23d45b-b777-491c-b602-def5402d3d83,No version
+311,7f23d45b-b777-491c-b602-def5402d3d83,No funder
+312,7f23d45b-b777-491c-b602-def5402d3d83,No publisher
+313,7f23d45b-b777-491c-b602-def5402d3d83,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+314,f5d51d99-ce24-4713-a317-7927dd283f1a,No DOI defined
+315,f5d51d99-ce24-4713-a317-7927dd283f1a,No funder
+316,f5d51d99-ce24-4713-a317-7927dd283f1a,No publisher
 317,5143957b-ee18-44d3-8000-a9c8f9a34a0d,No DOI defined
 318,9001166d-e7eb-410f-92d6-17df0593cb2e,No version
 319,9001166d-e7eb-410f-92d6-17df0593cb2e,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
@@ -331,67 +331,67 @@
 329,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,Metadata mismatch: author 'Carolyn Prentice' in CKAN record not found in DataCite
 330,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,Metadata mismatch: author 'Katrina Poppe' in CKAN record not found in DataCite
 331,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,Metadata mismatch: related work '10.1029/2019gb006345' in CKAN not found in DataCite
-332,0074861a-39f2-42c1-ae71-abef4f78fd78,Metadata mismatch: related work '10.21966/0xex-r023' in CKAN not found in DataCite
-333,e40c42ef-cabf-4969-aeb3-263407a91a68,No funder
-334,abb0b617-3a3e-43ec-b62e-e2918bfc10aa,Metadata mismatch: related identifier 'https://doi.org/10.48321/D18S8D' (Documents) in DataCite not found in CKAN
-335,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No projects associated
-336,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No version
-337,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No DOI defined
-338,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No funder
+332,f0cae885-2124-41c1-8523-2c6725c40dd6,No version
+333,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No projects associated
+334,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No version
+335,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No DOI defined
+336,5b78f1a7-6adb-4610-9ebe-019c3da65ae8,No funder
+337,0074861a-39f2-42c1-ae71-abef4f78fd78,Metadata mismatch: related work '10.21966/0xex-r023' in CKAN not found in DataCite
+338,e40c42ef-cabf-4969-aeb3-263407a91a68,No funder
 339,a9527050-a108-46f7-ac9f-7150b4abede5,No version
 340,a9527050-a108-46f7-ac9f-7150b4abede5,No DOI defined
 341,a9527050-a108-46f7-ac9f-7150b4abede5,No funder
 342,a9527050-a108-46f7-ac9f-7150b4abede5,No publisher
-343,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
-344,f9ff815c-c57a-4750-8f80-25f5e145c8c0,No version
-345,f9ff815c-c57a-4750-8f80-25f5e145c8c0,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-346,f9ff815c-c57a-4750-8f80-25f5e145c8c0,Metadata mismatch: author 'Geospatial Technology Team' in CKAN record not found in DataCite
-347,f0cae885-2124-41c1-8523-2c6725c40dd6,No version
-348,eb02906a-9645-4486-ba14-46d71c581352,No version
-349,eb02906a-9645-4486-ba14-46d71c581352,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+343,abb0b617-3a3e-43ec-b62e-e2918bfc10aa,Metadata mismatch: related identifier 'https://doi.org/10.48321/D18S8D' (Documents) in DataCite not found in CKAN
+344,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
+345,eb02906a-9645-4486-ba14-46d71c581352,No version
+346,eb02906a-9645-4486-ba14-46d71c581352,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+347,f9ff815c-c57a-4750-8f80-25f5e145c8c0,No version
+348,f9ff815c-c57a-4750-8f80-25f5e145c8c0,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+349,f9ff815c-c57a-4750-8f80-25f5e145c8c0,Metadata mismatch: author 'Geospatial Technology Team' in CKAN record not found in DataCite
 350,d3c4dde5-38b2-480d-a4e7-228bde9eb537,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 351,d3c4dde5-38b2-480d-a4e7-228bde9eb537,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
 352,281d7444-efa6-4b18-ac0a-55c8f8b484be,No version
 353,281d7444-efa6-4b18-ac0a-55c8f8b484be,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 354,281d7444-efa6-4b18-ac0a-55c8f8b484be,Metadata mismatch: author 'Airborne Coastal Observatory' in CKAN record not found in DataCite
 355,b0e815da-1b17-404d-8bf6-0bdb4a22d170,Metadata mismatch: author 'Hakai Institute Geospatial' in CKAN record not found in DataCite
-356,45a45b5d-e45c-453c-9d36-036f69d533ae,Metadata mismatch: related work 'https://10.21966/xp9x-m243' in CKAN not found in DataCite
-357,45a45b5d-e45c-453c-9d36-036f69d533ae,Metadata mismatch: related work '10.21966/zjc2-b004' in CKAN not found in DataCite
+356,45a45b5d-e45c-453c-9d36-036f69d533ae,Metadata mismatch: related work '10.21966/zjc2-b004' in CKAN not found in DataCite
+357,45a45b5d-e45c-453c-9d36-036f69d533ae,Metadata mismatch: related work 'https://10.21966/xp9x-m243' in CKAN not found in DataCite
 358,a8d40002-d393-40da-882c-73c0ad8ca7e6,No version
 359,a8d40002-d393-40da-882c-73c0ad8ca7e6,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 360,a8d40002-d393-40da-882c-73c0ad8ca7e6,Metadata mismatch: author 'Geospatial Team' in CKAN record not found in DataCite
 361,5b4d3afa-e0bd-417f-ba08-437cc7e7f864,No version
-362,39f8b771-eb65-420f-b64e-742d94bbebf0,No version
-363,39f8b771-eb65-420f-b64e-742d94bbebf0,No funder
-364,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-365,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite
-366,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: author 'Isabelle Desmarais' in CKAN record not found in DataCite
-367,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite
-368,6ce6e697-d539-41b1-9771-b5e859a6ff50,Metadata mismatch: version CKAN='2.1.0' | DataCite='2.0'
-369,78b2edef-dab3-47a9-93bb-af63dfcd178d,No version
-370,78b2edef-dab3-47a9-93bb-af63dfcd178d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0247208
-371,78b2edef-dab3-47a9-93bb-af63dfcd178d,"Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA from 2017-06-01 to 2021-04-27 (NCEI Accession 0247208)'"
-372,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No projects associated
-373,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No version
-374,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No DOI defined
-375,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No funder
-376,46377bf0-06d5-4612-970d-29cd972e4870,No funder
-377,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-378,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-379,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Tyrel Froese' in CKAN record not found in DataCite
-380,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Gillian Sadlier-Brown' in CKAN record not found in DataCite
-381,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Margot Hessing-Lewis' in CKAN record not found in DataCite
-382,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Alyssa Gehman' in CKAN record not found in DataCite
-383,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No version
-384,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No DOI defined
-385,b36a7c12-cb56-46b7-8241-9b52ac30c766,No version
-386,b36a7c12-cb56-46b7-8241-9b52ac30c766,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-387,b36a7c12-cb56-46b7-8241-9b52ac30c766,Metadata mismatch: author 'Geospatial Technology Team Hakai' in CKAN record not found in DataCite
-388,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,No version
-389,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite
-390,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite
-391,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite
-392,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite
+362,6ce6e697-d539-41b1-9771-b5e859a6ff50,Metadata mismatch: version CKAN='2.1.0' | DataCite='2.0'
+363,39f8b771-eb65-420f-b64e-742d94bbebf0,No version
+364,39f8b771-eb65-420f-b64e-742d94bbebf0,No funder
+365,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+366,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite
+367,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: author 'Isabelle Desmarais' in CKAN record not found in DataCite
+368,39f8b771-eb65-420f-b64e-742d94bbebf0,Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite
+369,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No projects associated
+370,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No version
+371,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No DOI defined
+372,8d3f619f-e3e5-44a7-8b35-7e4ed1e6af31,No funder
+373,78b2edef-dab3-47a9-93bb-af63dfcd178d,No version
+374,78b2edef-dab3-47a9-93bb-af63dfcd178d,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0247208
+375,78b2edef-dab3-47a9-93bb-af63dfcd178d,"Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA from 2017-06-01 to 2021-04-27 (NCEI Accession 0247208)'"
+376,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No version
+377,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,No DOI defined
+378,b36a7c12-cb56-46b7-8241-9b52ac30c766,No version
+379,b36a7c12-cb56-46b7-8241-9b52ac30c766,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+380,b36a7c12-cb56-46b7-8241-9b52ac30c766,Metadata mismatch: author 'Geospatial Technology Team Hakai' in CKAN record not found in DataCite
+381,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,No version
+382,46377bf0-06d5-4612-970d-29cd972e4870,No funder
+383,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+384,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+385,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Tyrel Froese' in CKAN record not found in DataCite
+386,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Gillian Sadlier-Brown' in CKAN record not found in DataCite
+387,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Margot Hessing-Lewis' in CKAN record not found in DataCite
+388,46377bf0-06d5-4612-970d-29cd972e4870,Metadata mismatch: author 'Alyssa Gehman' in CKAN record not found in DataCite
+389,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite
+390,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite
+391,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite
+392,caf810f0-228a-4827-856c-f9b07a2377af,Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite
 393,1f798a06-9c01-4025-93c6-b1a9f8ce6832,No version
 394,357b017c-6add-4bde-95d0-386bdbab92b3,Metadata mismatch: related work '10.21966/4kr2-jc55' in CKAN not found in DataCite
 395,357b017c-6add-4bde-95d0-386bdbab92b3,Metadata mismatch: related identifier 'https://github.com/HakaiInstitute/sentinels-light-trap-public/blob/main/docs/Protocols/2024%20Light%20Trap%20Protocols.pdf' (IsDocumentedBy) in DataCite not found in CKAN
@@ -400,183 +400,182 @@
 398,967f98cb-131a-421e-bcfd-467cff973b30,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 399,967f98cb-131a-421e-bcfd-467cff973b30,Metadata mismatch: author 'Margot Hessing-Lewis' in CKAN record not found in DataCite
 400,967f98cb-131a-421e-bcfd-467cff973b30,Metadata mismatch: author 'Alyssa Gehman' in CKAN record not found in DataCite
-401,8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-402,79e98468-af9a-4b52-aa9c-71129fa9cb03,No version
-403,79e98468-af9a-4b52-aa9c-71129fa9cb03,Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite
-404,22951dd4-a9f7-4f2a-b11d-d50e184dc223,Invalid Resource URL: https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS returned status_code=404
-405,262f25ca-ca11-4b10-bb6c-9aec117319a9,Metadata mismatch: related work 'https://10.21966/t8hm-ge90' in CKAN not found in DataCite
-406,262f25ca-ca11-4b10-bb6c-9aec117319a9,Metadata mismatch: related identifier '10.21966/t8hm-ge90' (Continues) in DataCite not found in CKAN
-407,186d3139-66a1-43f9-9ac7-c5607252146e,Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite
-408,186d3139-66a1-43f9-9ac7-c5607252146e,Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite
-409,826d8228-baab-4191-82de-44701cd93806,No projects associated
-410,826d8228-baab-4191-82de-44701cd93806,No version
-411,826d8228-baab-4191-82de-44701cd93806,No DOI defined
-412,826d8228-baab-4191-82de-44701cd93806,No funder
-413,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No DOI defined
-414,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No funder
-415,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No version
-416,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No DOI defined
-417,324c5ae3-b0ac-4302-b701-598ebbb25870,No version
-418,324c5ae3-b0ac-4302-b701-598ebbb25870,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
-419,324c5ae3-b0ac-4302-b701-598ebbb25870,Metadata mismatch: author 'A. A. Oliver' in CKAN record not found in DataCite
-420,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No version
-421,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No funder
-422,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No publisher
-423,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-424,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite
-425,a4e3915d-207e-493d-97ff-c1e6ad6f0ce7,No version
-426,a4e3915d-207e-493d-97ff-c1e6ad6f0ce7,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+401,22951dd4-a9f7-4f2a-b11d-d50e184dc223,Invalid Resource URL: https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS returned status_code=404
+402,8dc6dfd7-cda8-4fbf-af6a-dcae7d92ed0e,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+403,79e98468-af9a-4b52-aa9c-71129fa9cb03,No version
+404,79e98468-af9a-4b52-aa9c-71129fa9cb03,Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite
+405,826d8228-baab-4191-82de-44701cd93806,No projects associated
+406,826d8228-baab-4191-82de-44701cd93806,No version
+407,826d8228-baab-4191-82de-44701cd93806,No DOI defined
+408,826d8228-baab-4191-82de-44701cd93806,No funder
+409,186d3139-66a1-43f9-9ac7-c5607252146e,Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite
+410,186d3139-66a1-43f9-9ac7-c5607252146e,Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite
+411,8bcf556e-26e2-41d4-af2c-2192c0426523,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209049
+412,8bcf556e-26e2-41d4-af2c-2192c0426523,"Metadata mismatch: title CKAN='Underway Surface Seawater and Marine Boundary Layer Observations from the M/V Columbia (Research)' | DataCite='Surface underway measurements partial pressure of carbon dioxide (pCO2) in the water and atmosphere, sea surface salinity, sea surface temperature, oxygen and other parameters during the Alaska Marine Highway System M/V Columbia 135 service route transits along British Columbia coast, southeast Alaska coast, Gulf of Alaska and North Pacific Ocean from 2017-10-26 to 2019-10-04 (NCEI Accession 0209049)'"
+413,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No version
+414,fd691f42-76e9-4e18-80b1-9fb0d6960d95,No DOI defined
+415,262f25ca-ca11-4b10-bb6c-9aec117319a9,Metadata mismatch: related work 'https://10.21966/t8hm-ge90' in CKAN not found in DataCite
+416,262f25ca-ca11-4b10-bb6c-9aec117319a9,Metadata mismatch: related identifier '10.21966/t8hm-ge90' (Continues) in DataCite not found in CKAN
+417,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No DOI defined
+418,bdc6c492-dbb1-4d6e-90b8-d7bddf2c6356,No funder
+419,324c5ae3-b0ac-4302-b701-598ebbb25870,No version
+420,324c5ae3-b0ac-4302-b701-598ebbb25870,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
+421,324c5ae3-b0ac-4302-b701-598ebbb25870,Metadata mismatch: author 'A. A. Oliver' in CKAN record not found in DataCite
+422,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No version
+423,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No funder
+424,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,No publisher
+425,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+426,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite
 427,e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a,No version
 428,e1baeb3c-b764-434c-b0eb-7cb43fe5ef7a,No DOI defined
-429,8bcf556e-26e2-41d4-af2c-2192c0426523,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0209049
-430,8bcf556e-26e2-41d4-af2c-2192c0426523,"Metadata mismatch: title CKAN='Underway Surface Seawater and Marine Boundary Layer Observations from the M/V Columbia (Research)' | DataCite='Surface underway measurements partial pressure of carbon dioxide (pCO2) in the water and atmosphere, sea surface salinity, sea surface temperature, oxygen and other parameters during the Alaska Marine Highway System M/V Columbia 135 service route transits along British Columbia coast, southeast Alaska coast, Gulf of Alaska and North Pacific Ocean from 2017-10-26 to 2019-10-04 (NCEI Accession 0209049)'"
+429,a4e3915d-207e-493d-97ff-c1e6ad6f0ce7,No version
+430,a4e3915d-207e-493d-97ff-c1e6ad6f0ce7,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 431,e1c64faf-88ac-4d28-8144-fad156971b4e,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-432,693c7ca7-a244-4375-9460-ff7c27187af2,No version
-433,693c7ca7-a244-4375-9460-ff7c27187af2,No funder
-434,693c7ca7-a244-4375-9460-ff7c27187af2,No publisher
-435,693c7ca7-a244-4375-9460-ff7c27187af2,Invalid Resource URL: https://www.hakai.org/blog/life-at-hakai/great-walls-quadra returned status_code=404
-436,693c7ca7-a244-4375-9460-ff7c27187af2,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-437,693c7ca7-a244-4375-9460-ff7c27187af2,Metadata mismatch: creator 'Keith Holmes' in DataCite not found in CKAN record
-438,693c7ca7-a244-4375-9460-ff7c27187af2,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-439,50037e63-bfac-4b7a-8547-56337fe40026,No version
+432,50037e63-bfac-4b7a-8547-56337fe40026,No version
+433,693c7ca7-a244-4375-9460-ff7c27187af2,No version
+434,693c7ca7-a244-4375-9460-ff7c27187af2,No funder
+435,693c7ca7-a244-4375-9460-ff7c27187af2,No publisher
+436,693c7ca7-a244-4375-9460-ff7c27187af2,Invalid Resource URL: https://www.hakai.org/blog/life-at-hakai/great-walls-quadra returned status_code=404
+437,693c7ca7-a244-4375-9460-ff7c27187af2,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+438,693c7ca7-a244-4375-9460-ff7c27187af2,Metadata mismatch: creator 'Keith Holmes' in DataCite not found in CKAN record
+439,693c7ca7-a244-4375-9460-ff7c27187af2,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
 440,35dd16d8-20b1-49d5-8c59-9cdc02475cd0,No version
-441,3fbbd892-55cd-4c96-9669-cecefe726b3f,No version
-442,3fbbd892-55cd-4c96-9669-cecefe726b3f,No funder
-443,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related work 'https://10.21966/zjc2-b004' in CKAN not found in DataCite
-444,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related work 'https://10.21966/ytgc-6g46' in CKAN not found in DataCite
-445,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related identifier '10.21966/zjc2-b004' (IsPartOf) in DataCite not found in CKAN
-446,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related identifier '10.21966/ytgc-6g46' (IsPartOf) in DataCite not found in CKAN
-447,c2b05382-684f-4349-a64b-b20521223574,No version
-448,c2b05382-684f-4349-a64b-b20521223574,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-449,c2b05382-684f-4349-a64b-b20521223574,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-450,d8d3f510-8d7c-4b51-ba80-f7a77244eb4e,Metadata mismatch: author 'Alex Hare' in CKAN record not found in DataCite
-451,d8d3f510-8d7c-4b51-ba80-f7a77244eb4e,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
-452,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-453,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite
-454,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
-455,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
-456,d576481a-4f51-40eb-85e9-fb95933f94cd,No version
-457,d576481a-4f51-40eb-85e9-fb95933f94cd,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-458,d576481a-4f51-40eb-85e9-fb95933f94cd,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+441,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+442,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite
+443,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
+444,67871f51-9f69-44f6-9206-747e4d2a1553,Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite
+445,3fbbd892-55cd-4c96-9669-cecefe726b3f,No version
+446,3fbbd892-55cd-4c96-9669-cecefe726b3f,No funder
+447,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related work 'https://10.21966/ytgc-6g46' in CKAN not found in DataCite
+448,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related work 'https://10.21966/zjc2-b004' in CKAN not found in DataCite
+449,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related identifier '10.21966/zjc2-b004' (IsPartOf) in DataCite not found in CKAN
+450,5c162406-4886-4a66-9d9c-12c3d0316e2e,Metadata mismatch: related identifier '10.21966/ytgc-6g46' (IsPartOf) in DataCite not found in CKAN
+451,c2b05382-684f-4349-a64b-b20521223574,No version
+452,c2b05382-684f-4349-a64b-b20521223574,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+453,c2b05382-684f-4349-a64b-b20521223574,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+454,d576481a-4f51-40eb-85e9-fb95933f94cd,No version
+455,d576481a-4f51-40eb-85e9-fb95933f94cd,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+456,d576481a-4f51-40eb-85e9-fb95933f94cd,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+457,d8d3f510-8d7c-4b51-ba80-f7a77244eb4e,Metadata mismatch: author 'Alex Hare' in CKAN record not found in DataCite
+458,d8d3f510-8d7c-4b51-ba80-f7a77244eb4e,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
 459,e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7,Metadata mismatch: related work 'https://drive.google.com/file/d/1vzyfwx7jwwlxw8wosydkfgt7vxydwlan/view' in CKAN not found in DataCite
 460,e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7,Metadata mismatch: related identifier 'https://docs.google.com/document/d/1j4ENgAW_2XtIHzDYbL8u2E5kOK2JkPEBVYdxcuv8NrE/edit?usp=drive_web&ouid=110988987704080303629' (HasMetadata) in DataCite not found in CKAN
 461,e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7,Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN
 462,b01f58f7-1518-4829-aff6-ac4a8f2c0616,Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN
-463,2168fd41-96d4-4b72-b5ec-0a5c342aad2a,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-464,2168fd41-96d4-4b72-b5ec-0a5c342aad2a,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-465,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No projects associated
-466,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No version
-467,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No funder
-468,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No publisher
-469,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No projects associated
-470,3a6e9472-1a85-48e5-8ac6-792945e03045,No version
-471,3a6e9472-1a85-48e5-8ac6-792945e03045,No funder
-472,3a6e9472-1a85-48e5-8ac6-792945e03045,Metadata mismatch: author 'H.J. van Meerveld' in CKAN record not found in DataCite
-473,3a6e9472-1a85-48e5-8ac6-792945e03045,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
-474,3a6e9472-1a85-48e5-8ac6-792945e03045,Metadata mismatch: author 'M.J. Waterloo' in CKAN record not found in DataCite
-475,c657dfa1-5970-4794-9c46-7c352df393d7,No version
-476,79433a1f-ec07-4cd5-a31a-8c2c53069085,No version
-477,79433a1f-ec07-4cd5-a31a-8c2c53069085,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208638
-478,79433a1f-ec07-4cd5-a31a-8c2c53069085,"Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada from 2014-12-19 to 2025-12-18 (NCEI Accession 0208638)'"
-479,79433a1f-ec07-4cd5-a31a-8c2c53069085,Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record
-480,79433a1f-ec07-4cd5-a31a-8c2c53069085,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
+463,c657dfa1-5970-4794-9c46-7c352df393d7,No version
+464,2168fd41-96d4-4b72-b5ec-0a5c342aad2a,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+465,2168fd41-96d4-4b72-b5ec-0a5c342aad2a,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+466,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No projects associated
+467,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No version
+468,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No funder
+469,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,No publisher
+470,79433a1f-ec07-4cd5-a31a-8c2c53069085,No version
+471,79433a1f-ec07-4cd5-a31a-8c2c53069085,DOI is not redirecting to Hakai's catalogue: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodc:0208638
+472,79433a1f-ec07-4cd5-a31a-8c2c53069085,"Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada from 2014-12-19 to 2025-12-18 (NCEI Accession 0208638)'"
+473,79433a1f-ec07-4cd5-a31a-8c2c53069085,Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record
+474,79433a1f-ec07-4cd5-a31a-8c2c53069085,Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite
+475,fd4f6cd0-c6aa-4061-8caa-0ccade085615,No projects associated
+476,3a6e9472-1a85-48e5-8ac6-792945e03045,No version
+477,3a6e9472-1a85-48e5-8ac6-792945e03045,No funder
+478,3a6e9472-1a85-48e5-8ac6-792945e03045,Metadata mismatch: author 'H.J. van Meerveld' in CKAN record not found in DataCite
+479,3a6e9472-1a85-48e5-8ac6-792945e03045,Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite
+480,3a6e9472-1a85-48e5-8ac6-792945e03045,Metadata mismatch: author 'M.J. Waterloo' in CKAN record not found in DataCite
 481,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,No funder
 482,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
 483,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-484,8882a149-fabd-4ecd-98d3-68a2a88aee38,Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout
-485,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
-486,1a9a5aae-41ee-4272-a52e-6c37abedfbff,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
-487,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
-488,f51d96b5-1827-4aab-b1ce-575faff1fd03,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
-489,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: McInnes, Will"
-490,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: Holmes, Keith"
-491,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Haughton, Emily R."
-492,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Floyd, William C."
-493,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,"Contact missing ORCID: Korver, Maartje"
-494,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,"Contact missing ORCID: Evans, Wiley"
-495,f6ad9487-d689-41a3-b610-352224d7759b,"Contact missing ORCID: Janusson, Carly"
-496,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Korver, Maartje C."
-497,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Floyd, William C."
-498,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Brunsting, Ray"
-499,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Holmes, Keith"
-500,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Gonzalez Arriola, Santiago"
-501,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Giesbrecht, Ian J. W."
-502,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Krkosek, Martin"
-503,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Godwin, Sean"
-504,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,"Contact missing ORCID: Hare, Alex"
-505,f1aee211-bfab-46fd-b650-c5cacb782f40,"Contact missing ORCID: Giesbrecht, Ian"
-506,cb9c0488-666b-4869-9ca4-04d7125fdf8a,"Contact missing ORCID: Evans, Wiley"
-507,d70bcd3d-dc07-479f-856f-ad70d11c51f1,"Contact missing ORCID: Menounos, Brian"
-508,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Reshitnyk, Luba"
-509,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Holmes, Keith"
-510,96b5a7f2-5f23-413a-b060-d268bcff83ba,"Contact missing ORCID: Hales, Burke"
-511,a8f61379-14f9-4ccc-bc9b-4408ba8340d7,"Contact missing ORCID: Opie, Rumer"
-512,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Korver, Maartje C."
-513,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Haughton, Emily"
-514,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Floyd, William C."
-515,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Brunsting, Ray"
-516,3031aa60-689f-4b94-9dc6-9912cc742431,"Contact missing ORCID: Barrette, Jessy"
-517,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Godwin, Sean"
-518,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Krkosek, Martin"
-519,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: St. Pierre, Kyra A."
-520,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Tank, Suzanne E."
-521,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Hunt, Brian P. V."
-522,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Giesbrecht, Ian"
-523,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Kellogg, Colleen T. E."
-524,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Jackson, Jennifer M."
-525,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Lertzman, Ken P."
-526,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Floyd, William C."
-527,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Korver, Maartje C."
-528,b3e5b67d-2425-4a4f-80b0-d1076df5492a,"Contact missing ORCID: McInnes, Will"
-529,9c581481-f2ee-4353-b1ab-c5bf242945fe,"Contact missing ORCID: Barrette, Jessy"
-530,c5e60545-c6f2-4945-af0a-21812ba5f0d9,"Contact missing ORCID: Savage, Rosie"
-531,2a104224-c3eb-4778-adc3-865b36471b1b,"Contact missing ORCID: Hunt, Brian"
-532,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Evans, Wiley"
-533,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Weekes, Carrie"
+484,b5de5a97-7498-4e5a-8f5d-0850f9e5fc87,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
+485,1a9a5aae-41ee-4272-a52e-6c37abedfbff,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
+486,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
+487,f51d96b5-1827-4aab-b1ce-575faff1fd03,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
+488,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: McInnes, Will"
+489,fa913b04-1c29-4449-a78a-466f6b4fb110,"Contact missing ORCID: Holmes, Keith"
+490,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Haughton, Emily R."
+491,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing ORCID: Floyd, William C."
+492,a0ada4b0-faea-4dcd-b9bf-d7ff212315fb,"Contact missing ORCID: Korver, Maartje"
+493,1bba6c8a-b99c-4fbd-8eae-7c8b771a841d,"Contact missing ORCID: Evans, Wiley"
+494,f6ad9487-d689-41a3-b610-352224d7759b,"Contact missing ORCID: Janusson, Carly"
+495,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Korver, Maartje C."
+496,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Floyd, William C."
+497,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Brunsting, Ray"
+498,38fabad7-d7d2-405f-aa4c-592ef064895f,"Contact missing ORCID: Holmes, Keith"
+499,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Gonzalez Arriola, Santiago"
+500,30560220-bc44-4020-b424-0abf617d1c00,"Contact missing ORCID: Giesbrecht, Ian J. W."
+501,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Krkosek, Martin"
+502,2709d7b1-22e1-4268-bcda-dc0c79f2878e,"Contact missing ORCID: Godwin, Sean"
+503,876027b6-cf37-4d49-8c3d-22d40b5f5b0b,"Contact missing ORCID: Hare, Alex"
+504,f1aee211-bfab-46fd-b650-c5cacb782f40,"Contact missing ORCID: Giesbrecht, Ian"
+505,cb9c0488-666b-4869-9ca4-04d7125fdf8a,"Contact missing ORCID: Evans, Wiley"
+506,96b5a7f2-5f23-413a-b060-d268bcff83ba,"Contact missing ORCID: Hales, Burke"
+507,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Reshitnyk, Luba"
+508,017ab2c4-70ea-484a-ae6c-7d441d2ba19d,"Contact missing ORCID: Holmes, Keith"
+509,d70bcd3d-dc07-479f-856f-ad70d11c51f1,"Contact missing ORCID: Menounos, Brian"
+510,a8f61379-14f9-4ccc-bc9b-4408ba8340d7,"Contact missing ORCID: Opie, Rumer"
+511,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Korver, Maartje C."
+512,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Haughton, Emily"
+513,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Floyd, William C."
+514,8c6f32be-1f60-4fcb-bf8b-a63cbac302f7,"Contact missing ORCID: Brunsting, Ray"
+515,3031aa60-689f-4b94-9dc6-9912cc742431,"Contact missing ORCID: Barrette, Jessy"
+516,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Godwin, Sean"
+517,16e0a0d9-b817-4d83-b9e0-e2c8cd016e74,"Contact missing ORCID: Krkosek, Martin"
+518,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: St. Pierre, Kyra A."
+519,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Tank, Suzanne E."
+520,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Hunt, Brian P. V."
+521,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Giesbrecht, Ian"
+522,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Kellogg, Colleen T. E."
+523,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Jackson, Jennifer M."
+524,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Lertzman, Ken P."
+525,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Floyd, William C."
+526,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing ORCID: Korver, Maartje C."
+527,b3e5b67d-2425-4a4f-80b0-d1076df5492a,"Contact missing ORCID: McInnes, Will"
+528,9c581481-f2ee-4353-b1ab-c5bf242945fe,"Contact missing ORCID: Barrette, Jessy"
+529,c5e60545-c6f2-4945-af0a-21812ba5f0d9,"Contact missing ORCID: Savage, Rosie"
+530,2a104224-c3eb-4778-adc3-865b36471b1b,"Contact missing ORCID: Hunt, Brian"
+531,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Evans, Wiley"
+532,ee30aa86-e786-4a3f-b90f-df09a134621d,"Contact missing ORCID: Weekes, Carrie"
+533,49ec67e4-f7be-4658-b2b6-e4b57d9901df,"Contact missing ORCID: Haughton, Emily"
 534,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,"Contact missing ORCID: Holmes, Keith"
 535,21ee0a17-9de0-49d7-9b04-cb9d5f557e9f,"Contact missing ORCID: McInnes, Will"
-536,49ec67e4-f7be-4658-b2b6-e4b57d9901df,"Contact missing ORCID: Haughton, Emily"
-537,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Korver, Maartje"
-538,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Holmes, Keith"
-539,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Olson, Angeleen"
-540,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Hessing-Lewis, Margot"
-541,5143957b-ee18-44d3-8000-a9c8f9a34a0d,"Contact missing ORCID: Hare, Alex"
-542,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Haughton, Emily R."
-543,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Floyd, William C."
-544,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Brunsting, Ray"
-545,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Hateley, Shawn"
-546,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Holmes, Keith"
-547,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,"Contact missing ORCID: Prentice, Carolyn"
-548,a9527050-a108-46f7-ac9f-7150b4abede5,"Contact missing ORCID: McInnes, Will"
-549,5b4d3afa-e0bd-417f-ba08-437cc7e7f864,"Contact missing ORCID: McInnes, Will"
+536,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Korver, Maartje"
+537,6f261f49-dd1b-4250-ac59-e88c3d1b2470,"Contact missing ORCID: Holmes, Keith"
+538,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Olson, Angeleen"
+539,dd30b32a-2099-4909-838d-6ade9804381a,"Contact missing ORCID: Hessing-Lewis, Margot"
+540,5143957b-ee18-44d3-8000-a9c8f9a34a0d,"Contact missing ORCID: Hare, Alex"
+541,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Haughton, Emily R."
+542,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Floyd, William C."
+543,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Brunsting, Ray"
+544,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Hateley, Shawn"
+545,17680b42-fb77-4ab5-8645-23bb2f28c3e0,"Contact missing ORCID: Holmes, Keith"
+546,dd5c8784-c292-4f68-bc3d-a460adb8cdbf,"Contact missing ORCID: Prentice, Carolyn"
+547,a9527050-a108-46f7-ac9f-7150b4abede5,"Contact missing ORCID: McInnes, Will"
+548,5b4d3afa-e0bd-417f-ba08-437cc7e7f864,"Contact missing ORCID: McInnes, Will"
+549,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing ORCID: Monteith, Zach"
 550,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Giesbrecht, Ian"
 551,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Haughton, Emily"
 552,39f8b771-eb65-420f-b64e-742d94bbebf0,"Contact missing ORCID: Desmarais, Isabelle"
-553,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing ORCID: Monteith, Zach"
-554,78b2edef-dab3-47a9-93bb-af63dfcd178d,"Contact missing ORCID: Hales, Burke"
+553,78b2edef-dab3-47a9-93bb-af63dfcd178d,"Contact missing ORCID: Hales, Burke"
+554,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,"Contact missing ORCID: McInnes, Will"
 555,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Froese, Tyrel"
 556,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Hessing-Lewis, Margot"
 557,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Gehman, Alyssa"
 558,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Olsen, Angeleen"
 559,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing ORCID: Monteith, Zach"
-560,2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae,"Contact missing ORCID: McInnes, Will"
-561,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Hessing-Lewis, Margot"
-562,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Gehman, Alyssa"
-563,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Froese, Tyrel"
-564,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Monteith, Zach"
-565,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Holmes, Keith"
-566,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Burt, Jenn"
-567,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Floyd, William C."
-568,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Tank, Suzanne E."
-569,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Holmes, Keith"
-570,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,"Contact missing ORCID: Evans, Wiley"
-571,e1c64faf-88ac-4d28-8144-fad156971b4e,"Contact missing ORCID: Viner, Nick"
+560,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Hessing-Lewis, Margot"
+561,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Gehman, Alyssa"
+562,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Froese, Tyrel"
+563,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing ORCID: Monteith, Zach"
+564,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Holmes, Keith"
+565,fd691f42-76e9-4e18-80b1-9fb0d6960d95,"Contact missing ORCID: Burt, Jenn"
+566,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Floyd, William C."
+567,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Tank, Suzanne E."
+568,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing ORCID: Holmes, Keith"
+569,15f1d4a2-c82a-450c-a8f7-badb34b9c0dc,"Contact missing ORCID: Evans, Wiley"
+570,e1c64faf-88ac-4d28-8144-fad156971b4e,"Contact missing ORCID: Viner, Nick"
+571,50037e63-bfac-4b7a-8547-56337fe40026,"Contact missing ORCID: Salomon, Anne K"
 572,693c7ca7-a244-4375-9460-ff7c27187af2,"Contact missing ORCID: Holmes, Keith"
-573,50037e63-bfac-4b7a-8547-56337fe40026,"Contact missing ORCID: Salomon, Anne K"
+573,67871f51-9f69-44f6-9206-747e4d2a1553,"Contact missing ORCID: Floyd, William C."
 574,d8d3f510-8d7c-4b51-ba80-f7a77244eb4e,"Contact missing ORCID: Hare, Alex"
-575,67871f51-9f69-44f6-9206-747e4d2a1553,"Contact missing ORCID: Floyd, William C."
-576,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,"Contact missing ORCID: Whalen, Matt"
+575,ad032cd1-86cc-47cc-ac01-fce09e4cf8d9,"Contact missing ORCID: Whalen, Matt"
+576,79433a1f-ec07-4cd5-a31a-8c2c53069085,"Contact missing ORCID: Hare, Alex"
 577,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: Korver, Maartje C."
 578,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: van Meerveld, H.J."
 579,3a6e9472-1a85-48e5-8ac6-792945e03045,"Contact missing ORCID: Floyd, William C."
-580,79433a1f-ec07-4cd5-a31a-8c2c53069085,"Contact missing ORCID: Hare, Alex"
