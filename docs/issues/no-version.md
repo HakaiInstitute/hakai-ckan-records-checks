@@ -197,12 +197,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
+      <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -222,17 +222,17 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -247,12 +247,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
+      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
+      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -267,17 +267,17 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Wind Fetch - BC Central Coast - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -292,12 +292,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -347,12 +347,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
+      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
+      <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
