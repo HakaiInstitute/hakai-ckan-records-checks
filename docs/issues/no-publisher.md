@@ -70,11 +70,6 @@ This page present the list of all the records associated with the issue: **No pu
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No publisher</td>
     </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
-      <td>No publisher</td>
-    </tr>
   </tbody>
 </table>
 

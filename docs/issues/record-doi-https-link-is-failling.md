@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-27</td>
-      <td>Horne Lake Bathymetry Mapping</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/vwee-e004 status_code=404</td>
+      <td>2026-05-22</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/31db-5090 status_code=502</td>
     </tr>
   </tbody>
 </table>
