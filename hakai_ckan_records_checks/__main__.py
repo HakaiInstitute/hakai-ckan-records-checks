@@ -55,7 +55,7 @@ def format_summary(summary, base_url=""):
     def link_issue_page(record_row, var):
         if pd.isna(record_row[var]):
             return ""
-        return f"<a title='{record_row['id']}' href='{base_url}records/{record_row['id']}' target='_blank'>{record_row[var]}</a>"
+        return f"<a title='{record_row['id']}' href='{base_url}records/{record_row['id']}'>{record_row[var]}</a>"
 
     for col in ["INFO", "WARNING", "ERROR", "sum"]:
         if col not in summary.columns:
@@ -71,7 +71,7 @@ def format_summary(summary, base_url=""):
         sum=summary.apply(lambda x: link_issue_page(x, "sum"), axis=1),
         Title="<a href='https://catalogue.hakai.org/dataset/"
         + summary["name"]
-        + "' target='_blank'>"
+        + "'>"
         + summary["title"].fillna("")
         + "</a>",
     )
