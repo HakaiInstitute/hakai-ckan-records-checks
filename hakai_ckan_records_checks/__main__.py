@@ -17,8 +17,9 @@ from loguru import logger
 from tqdm import tqdm
 
 from hakai_ckan_records_checks import hakai
+from hakai_ckan_records_checks.hakai import _fuzzy_match
 from hakai_ckan_records_checks.ckan import CKAN
-from hakai_ckan_records_checks.datacite import Datacite, get_datacite_summary
+from hakai_ckan_records_checks.datacite import Datacite, compare_datacite_metadata, get_datacite_summary
 
 REPO_URL = os.getenv(
     "REPO_URL", "https://github.com/HakaiInstitute/hakai-ckan-records-checks"
@@ -28,7 +29,7 @@ environment = Environment(loader=FileSystemLoader(Path(__file__).parent / "templ
 CACHE_FILE = Path("cache.pkl")
 pd.set_option("future.no_silent_downcasting", True)
 IGNORE_RECORD_IDS = "hakai-metadata-form-data"
-level_type = pd.CategoricalDtype(categories=["INFO", "WARNING", "ERROR"], ordered=True)
+
 
 
 def fig_to_json(fig):
@@ -57,17 +58,11 @@ def format_summary(summary, base_url=""):
             return ""
         return f"<a title='{record_row['id']}' href='{base_url}records/{record_row['id']}'>{record_row[var]}</a>"
 
-    for col in ["INFO", "WARNING", "ERROR", "sum"]:
-        if col not in summary.columns:
-            summary[col] = pd.NA
-    summary[["INFO", "WARNING", "ERROR", "sum"]] = summary[
-        ["INFO", "WARNING", "ERROR", "sum"]
-    ].astype("Int64")
+    if "sum" not in summary.columns:
+        summary["sum"] = pd.NA
+    summary[["sum"]] = summary[["sum"]].astype("Int64")
     summary = summary.dropna(subset=["id", "name", "organization", "title"], how="any")
     summary = summary.assign(
-        INFO=summary.apply(lambda x: link_issue_page(x, "INFO"), axis=1),
-        WARNING=summary.apply(lambda x: link_issue_page(x, "WARNING"), axis=1),
-        ERROR=summary.apply(lambda x: link_issue_page(x, "ERROR"), axis=1),
         sum=summary.apply(lambda x: link_issue_page(x, "sum"), axis=1),
         Title="<a href='https://catalogue.hakai.org/dataset/"
         + summary["name"]
@@ -89,19 +84,15 @@ def compute_metrics(catalog_summary):
     total = len(catalog_summary)
     with_doi = int((catalog_summary["doi"].fillna("") != "").sum())
     with_issues = int(catalog_summary["sum"].notna().sum()) if "sum" in catalog_summary.columns else 0
-    total_errors = int(catalog_summary["ERROR"].fillna(0).sum()) if "ERROR" in catalog_summary.columns else 0
-    total_warnings = int(catalog_summary["WARNING"].fillna(0).sum()) if "WARNING" in catalog_summary.columns else 0
     return {
         "date": pd.Timestamp.now().date().isoformat(),
         "total_records": total,
         "records_with_issues": with_issues,
         "pct_with_doi": round(with_doi / total * 100, 1) if total > 0 else 0.0,
-        "total_errors": total_errors,
-        "total_warnings": total_warnings,
     }
 
 
-def _build_metric(label, value_str, raw_delta, lower_is_better=None, pct=False):
+def _build_metric(label, value_str, raw_delta, lower_is_better=None, pct=False, previous_date=None):
     delta_str = None
     color = "gray"
     if raw_delta is not None and raw_delta != 0:
@@ -110,7 +101,7 @@ def _build_metric(label, value_str, raw_delta, lower_is_better=None, pct=False):
         delta_str = f"{sign}{raw_delta}{suffix}"
         if lower_is_better is not None:
             color = "green" if (raw_delta < 0) == lower_is_better else "red"
-    return {"label": label, "value": value_str, "delta": delta_str, "color": color}
+    return {"label": label, "value": value_str, "delta": delta_str, "color": color, "previous_date": previous_date}
 
 
 def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
@@ -125,20 +116,20 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         datacite_metadata, error_msg = Datacite().get_doi(summary.get("doi"))
         summary.update(get_datacite_summary(datacite_metadata))
         if error_msg:
-            test_results.append(["ERROR", error_msg])
-        test_results = pd.DataFrame(test_results, columns=["level", "message"])
+            test_results.append([error_msg])
+        test_results.extend([[msg] for msg in compare_datacite_metadata(record["result"], datacite_metadata)])
+        test_results = pd.DataFrame(test_results, columns=["message"])
         test_results.insert(0, "record_id", record["result"]["id"])
 
         if len(test_results) > 0:
-            issues_count = (
-                test_results.groupby("level").count()["record_id"].astype(int)
-            )
-            summary.update({**issues_count.to_dict(), "sum": issues_count.sum()})
+            summary["sum"] = len(test_results)
 
+        contacts = record["result"].get("cited-responsible-party", []) + record["result"].get("metadata-point-of-contact", [])
         return {
-            "record_id": record_id,
+            "record_id": record["result"]["id"],
             "test_results": test_results,
             "summary": summary,
+            "contacts": contacts,
         }
 
     if not records_ids:
@@ -170,6 +161,65 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         .reset_index(drop=True)
     )
 
+    # Cross-record DOI uniqueness check
+    doi_series = catalog_summary[catalog_summary["doi"].fillna("") != ""].set_index("id")["doi"]
+    duplicate_doi_records = doi_series[doi_series.duplicated(keep=False)]
+    if not duplicate_doi_records.empty:
+        extra_issues = pd.DataFrame([
+            {"record_id": record_id, "message": f"Duplicate DOI shared with another record: {doi}"}
+            for record_id, doi in duplicate_doi_records.items()
+        ])
+        test_result_summary = pd.concat([test_result_summary, extra_issues], ignore_index=True)
+        for record_id in duplicate_doi_records.index:
+            mask = catalog_summary["id"] == record_id
+            catalog_summary.loc[mask, "sum"] = catalog_summary.loc[mask, "sum"].fillna(0) + 1
+
+    # Build lookup tables: known ORCID per individual name, known ROR per organisation name
+    individual_uri_known = {}
+    org_uri_known = {}
+    for result in results:
+        if not result:
+            continue
+        for contact in result.get("contacts", []):
+            name = (contact.get("individual-name") or "").strip()
+            orcid = (contact.get("individual-uri_code") or "").strip()
+            if name and orcid and "orcid.org" in orcid:
+                individual_uri_known[name] = orcid
+            org = (contact.get("organisation-name") or "").strip()
+            ror = (contact.get("organisation-uri_code") or "").strip()
+            if org and ror and "ror.org" in ror:
+                org_uri_known[org] = ror
+
+    # Flag contacts missing ORCID/ROR when found in other records
+    extra_issues = []
+    for result in results:
+        if not result:
+            continue
+        for contact in result.get("contacts", []):
+            record_id = result["record_id"]
+            name = (contact.get("individual-name") or "").strip()
+            orcid = (contact.get("individual-uri_code") or "").strip()
+            if name and not orcid:
+                for known_name, known_orcid in individual_uri_known.items():
+                    if _fuzzy_match(name, known_name):
+                        extra_issues.append({"record_id": record_id, "message": f"Contact missing ORCID: {name}"})
+                        break
+            org = (contact.get("organisation-name") or "").strip()
+            ror = (contact.get("organisation-uri_code") or "").strip()
+            if org and not ror:
+                for known_org, known_ror in org_uri_known.items():
+                    if _fuzzy_match(org, known_org):
+                        extra_issues.append({"record_id": record_id, "message": f"Organization missing ROR: {org}"})
+                        break
+
+    if extra_issues:
+        extra_df = pd.DataFrame(extra_issues).drop_duplicates()
+        test_result_summary = pd.concat([test_result_summary, extra_df], ignore_index=True)
+        for record_id in extra_df["record_id"].unique():
+            count = len(extra_df[extra_df["record_id"] == record_id])
+            mask = catalog_summary["id"] == record_id
+            catalog_summary.loc[mask, "sum"] = catalog_summary.loc[mask, "sum"].fillna(0) + count
+
     return {
         "ckan_url": ckan.base_url,
         "catalog_summary": catalog_summary,
@@ -194,9 +244,9 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
 )
 def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     logger.remove()
-    logger.add(sys.stderr, level=log_level)
+    logger.add(lambda msg: tqdm.write(msg, end=""), level=log_level, colorize=False)
 
-    logger.info("Starting checks for CKAN instance at {ckan_url}")
+    logger.info(f"Starting checks for CKAN instance at {ckan_url}")
     ckan = CKAN(ckan_url, api_key)
     if record_ids:
         record_ids = record_ids.split(",")
@@ -222,7 +272,6 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         results["test_results"]
         .merge(results["catalog_summary"], left_on="record_id", right_on="id")
         .drop(columns=["id"])
-        .astype({"level": level_type})
     )
     standardized_issues = combined_issues.copy()
     standardized_issues["message"] = standardized_issues["message"].apply(
@@ -327,10 +376,11 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     history.append(current_metrics)
     metrics_file.write_text(json.dumps(history[-52:], indent=2))
 
+    prev_date = previous["date"] if previous else None
     metrics_display = [
-        _build_metric("Total Records", str(current_metrics["total_records"]), delta.get("total_records")),
-        _build_metric("Records with Issues", str(current_metrics["records_with_issues"]), delta.get("records_with_issues"), lower_is_better=True),
-        _build_metric("% Records with DOI", f"{current_metrics['pct_with_doi']}%", delta.get("pct_with_doi"), lower_is_better=False, pct=True),
+        _build_metric("Total Records", str(current_metrics["total_records"]), delta.get("total_records"), previous_date=prev_date),
+        _build_metric("Records with Issues", str(current_metrics["records_with_issues"]), delta.get("records_with_issues"), lower_is_better=True, previous_date=prev_date),
+        _build_metric("% Records with DOI", f"{current_metrics['pct_with_doi']}%", delta.get("pct_with_doi"), lower_is_better=False, pct=True, previous_date=prev_date),
     ]
 
     figure_issues_distribution_json = fig_to_json(figure_issues_distribution)
@@ -344,6 +394,7 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
         figure_issues_distribution_json=figure_issues_distribution_json,
         ckan_url=ckan_url,
         metrics=metrics_display,
+        last_updated=current_metrics["date"],
     ).dump(f"{output}/index.md")
 
     # save issue summary page
@@ -371,6 +422,8 @@ def main(ckan_url, record_ids, api_key, output, max_workers, log_level, cache):
     catalog_summary_for_html = format_summary(results["catalog_summary"], base_url="../").set_index("id")
     Path(output, "records").mkdir(parents=True, exist_ok=True)
     for record_id, issues in results["test_results"].groupby("record_id"):
+        if record_id not in catalog_summary_for_html.index:
+            continue
         record = catalog_summary_for_html.loc[record_id]
         environment.get_template("record.md").stream(
             record=record,

@@ -7,7 +7,7 @@ hide:
 This page present the list of all the records associated with the issue: **{{ title }}**.
 
 {{
-  issues_table[['metadata_revision','title','level','message']]
+  issues_table[['metadata_revision','title','message']]
   .sort_values(['metadata_revision','message'],ascending=[0,1])
   .to_html(
     index=False,

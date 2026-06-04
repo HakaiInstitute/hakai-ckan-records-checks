@@ -8,25 +8,36 @@ This page present a summary of issues detected on the [Hakai Catalogue]({{ ckan_
 
 ## Issue Distribution
 
-```plotly
-{{ figure_issues_distribution_json }}
-```
+<div id="issue-distribution-chart" style="width:100%;min-height:400px;"></div>
+<script>
+(function waitForPlotly() {
+  if (typeof Plotly !== 'undefined') {
+    var fig = {{ figure_issues_distribution_json }};
+    var el = document.getElementById('issue-distribution-chart');
+    Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
+      el.on('plotly_click', function(data) {
+        var label = data.points[0].y;
+        var slug = label.replace(/[.'"]/g, '').replace(/[^a-zA-Z0-9]/g, '-').toLowerCase().replace(/-+/g, '-');
+        window.location.href = slug + '/';
+      });
+    });
+  } else {
+    setTimeout(waitForPlotly, 50);
+  }
+})();
+</script>
 
 ## Records Summary
 
 {{
   catalog_summary.reindex(columns=[
-    'Title','metadata_publication','metadata_revision',
-    'INFO','WARNING','ERROR'
+    'Title','metadata_publication','metadata_revision','sum'
   ]).fillna("")
   .sort_values(['metadata_publication','Title'],ascending=[0,1])
   .rename(columns={
     "sum": "Issues",
     "metadata_publication":"publication",
     "metadata_revision":"revision",
-    "INFO":'inf.',
-    "WARNING":"war.",
-    "ERROR":"err.",
   })
   .to_html(
       render_links=True,
@@ -39,8 +50,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]({{ ckan_
 ## Issues
 
 {{
-  issues_table.reindex(columns=['metadata_revision','title','level','message']).fillna("")
-  .sort_values(['metadata_revision','level','message'],ascending=[0,0,1])
+  issues_table.reindex(columns=['metadata_revision','title','message']).fillna("")
+  .sort_values(['metadata_revision','message'],ascending=[0,1])
   .to_html(
     index=False,
     render_links=True,

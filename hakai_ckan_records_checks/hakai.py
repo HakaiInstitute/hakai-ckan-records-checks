@@ -1,3 +1,4 @@
+import difflib
 import json
 import re
 
@@ -11,69 +12,56 @@ ORGANIZATIONS = [
 DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
 
 
+def _normalize_name(name):
+    if "," in name:
+        parts = [p.strip() for p in name.split(",", 1)]
+        name = f"{parts[1]} {parts[0]}"
+    normalized = re.sub(r"\s+[A-Za-z]\.\s*", " ", name).strip()
+    return re.sub(r"\s+", " ", normalized)
+
+
+def _fuzzy_match(a, b, threshold=0.85):
+    if not (a and b):
+        return False
+    return difflib.SequenceMatcher(None, _normalize_name(a.lower()), _normalize_name(b.lower())).ratio() >= threshold
+
+
 @logger.catch(default=pd.DataFrame())
 def test_record_requirements(record) -> pd.DataFrame:
-    def _test(condition, level, message):
+    def _test(condition, message):
         if not condition:
-            logger.log(level, message)
-            results.append([level, message])
+            logger.debug(message)
+            results.append([message])
 
     results = []
     logger.debug("Review Record {}", record["id"])
 
     # Organization
-    _test("organization" in record, "ERROR", "No organization")
+    _test("organization" in record, "No organization")
     _test(
         record["organization"]["title"] in ORGANIZATIONS,
-        "ERROR",
         f"Unknown organization title: {record['organization']['title']}",
     )
-    _test(any(record.get("projects") or []), "ERROR", "No projects associated")
+    _test(any(record.get("projects") or []), "No projects associated")
     _test(
         [
             uri
             for uri in record["organization"]["organization-uri"]
             if uri["authority"] == "ROR"
         ],
-        "WARNING",
         "Organization is missing an ROR URI",
     )
 
-    # Title
-    _test(record.get("title") != "", "ERROR", "No title")
-    _test(
-        not re.findall(r"[A-Z\.]{3,}", record.get("title", "")),
-        "WARNING",
-        "Title contains acronyms potentially",
-    )
-    _test(
-        not re.match(r"v\d+|version", record.get("title", ""), re.IGNORECASE),
-        "WARNING",
-        "Title contains versioning information",
-    )
-    _test(
-        not re.match(r"dataset", record.get("title", ""), re.IGNORECASE),
-        "INFO",
-        "Title contains the word dataset",
-    )
-
     # Licence
-    _test("license_id" in record, "ERROR", "No licence")
-    _test(record.get("license_id") != "", "ERROR", "Empty licence")
-    _test(
-        record.get("license_id") == "CC-BY-4.0",
-        "ERROR",
-        f"Invalid licence: {record.get('license_id')}",
-    )
+    _test(record.get("license_id") != "", "Empty licence")
 
     # Version
     citation = json.loads(record["citation"]["en"].replace('\\"', '"'))
     version = citation[0].get("version")
-    _test(version, "INFO", "No version")
+    _test(version, "No version")
     if record.get("version"):
         _test(
             re.match(r"v?\d+(\.\d+)*", record.get("version")),
-            "ERROR",
             f"Invalid version: {record.get('version')}",
         )
 
@@ -83,41 +71,27 @@ def test_record_requirements(record) -> pd.DataFrame:
         for item in record.get("unique-resource-identifier-full", [])
         if "doi.org" in item.get("code", "")
     ]
-    _test(dois, "WARNING", "No DOI defined")
+    _test(dois, "No DOI defined")
     if dois:
         _test(
             len(dois) < 2,
-            "ERROR",
             f"Multiple doi={dois}?",
         )
         _test(
             all(re.match("https://doi.org", doi.get("code", "")) for doi in dois),
-            "ERROR",
             f"Some dois do not match the expected format {DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
         )
         for doi in dois:
             response = requests.get(doi.get("code"), allow_redirects=True)
             _test(
                 response.status_code in (200, 201, 403, 418, 503),
-                "ERROR",
                 f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={response.status_code}",
             )
             _test(
                 response.url.startswith("https://catalogue.hakai.org")
                 or response.url.startswith("https://doi.org"),
-                "INFO",
                 f"DOI is not redirecting to Hakai's catalogue: {response.url}",
             )
-
-    # Distributor
-    _test("distributor" in record, "ERROR", "No distributor")
-    _test(record.get("distributor") != "", "ERROR", "Empty distributor")
-    organization_name = record.get("distributor", [{}])[0].get("organisation-name")
-    _test(
-        organization_name == "Hakai Institute",
-        "ERROR",
-        f"Invalid distributor organisation-name: {organization_name=} expects 'Hakai Institute'",
-    )
 
     # Contacts
     contacts = record.get("cited-responsible-party", []) + record.get(
@@ -126,74 +100,38 @@ def test_record_requirements(record) -> pd.DataFrame:
 
     # Funder
     funders = [item for item in contacts if "funder" in item["role"]]
-    _test(funders, "WARNING", "No funder")
-    if funders:
+    _test(funders, "No funder")
+    for funder in funders:
         _test(
-            [funder.get("organisation-name") == "Hakai Institute" for funder in funders],
-            "WARNING",
-            "'Hakai Institute' isn't listed as funder in record",
+            funder.get("individual-name") or funder.get("organisation-name"),
+            "Funder contact is missing a name or organisation",
         )
 
     # Publisher
     publishers = [contact for contact in contacts if "publisher" in contact["role"]]
-    _test(publishers, "WARNING", "No publisher")
-
-    # ORCID and ROR
-    for contact in contacts:
-        is_hakai_contact = "@hakai.org" in contact.get(
-            "organisation-info_email", ""
-        ) or "Hakai Institute" in contact.get("organisation-name", "")
+    _test(publishers, "No publisher")
+    for publisher in publishers:
         _test(
-            contact.get("individual-name") in (None, "")
-            or (
-                contact.get("individual-name")
-                and "orcid.org" in contact.get("individual-uri_code", "")
-            ),
-            "WARNING" if is_hakai_contact else "INFO",
-            f"Contact missing ORCID: {contact['individual-name']=} {contact.get('organisation-name')=}",
-        )
-        _test(
-            contact.get("organisation-name") in (None, "")
-            or (
-                contact.get("organisation-name")
-                and "ror.org" in contact.get("organisation-uri_code", "")
-            ),
-            "WARNING" if is_hakai_contact else "INFO",
-            f"Contact missing organization ROR:  {contact['individual-name']=} {contact['organisation-name']=}",
+            publisher.get("individual-name") or publisher.get("organisation-name"),
+            "Publisher contact is missing a name or organisation",
         )
 
     # Resources
     for index, resource in enumerate(record.get("resources", [])):
-        _test(resource["name"] != "", "ERROR", "Empty resource name")
-        _test(resource["url"] != "", "ERROR", "Empty resource url")
-        _test(resource["format"] != "", "ERROR", "Empty resource format")
-        _test(
-            resource["format"] in ["HTML", "ERDDAP", "OBIS", "PDF", "ZIP"],
-            "ERROR",
-            f"Invalid resource format: resources[{index}].format={resource['format']}",
-        )
+        _test(resource["name"] != "", "Empty resource name")
+        _test(resource["url"] != "", "Empty resource url")
+        _test(resource["format"] != "", "Empty resource format")
         try:
             status_code = int(requests.get(resource["url"]).status_code)
         except requests.exceptions.Timeout:
             status_code = "timeout"
         _test(
-            status_code in (200, 201, 403, 418, 503),
-            "ERROR",
-            f"Invalid resources.url.status_code: {status_code} for resources[{index}].url={resource['url']}",
+            status_code in (200, 201, 401, 403, 418, 503),
+            f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
 
-    # Data access via standardized repositories
-    _test(
-        any(
-            re.findall("obis|erddap|arcgis|ncei", resource["url"], re.IGNORECASE)
-            for resource in record.get("resources", [])
-        ),
-        "INFO",
-        "Record isn't accesible via a standard data repository",
-    )
-
     # Spatial
-    _test("spatial" in record, "ERROR", "No spatial information available")
+    _test("spatial" in record, "No spatial information available")
 
     return results
 

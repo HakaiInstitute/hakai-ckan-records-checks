@@ -9,13 +9,19 @@ This page present a summary of the different metadata records distributed at <{{
 
 ## Overview
 
+*Last updated: {{ last_updated }}*
+
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 {% for m in metrics %}
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid {{ m['color'] }};box-shadow:0 1px 4px rgba(0,0,0,.08);">
   <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">{{ m['value'] }}</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">{{ m['label'] }}</div>
+  {% if m['previous_date'] %}
   {% if m['delta'] %}
-  <div style="font-size:0.8rem;font-weight:600;color:{{ m['color'] }};margin-top:0.5rem;">{{ m['delta'] }} vs last run</div>
+  <div style="font-size:0.8rem;font-weight:600;color:{{ m['color'] }};margin-top:0.5rem;">{{ m['delta'] }} since {{ m['previous_date'] }}</div>
+  {% else %}
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since {{ m['previous_date'] }}</div>
+  {% endif %}
   {% endif %}
 </div>
 {% endfor %}
@@ -28,14 +34,21 @@ This page present a summary of the different metadata records distributed at <{{
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
     var fig = {{ figure_issues_distribution_json }};
-    Plotly.newPlot('issue-distribution-chart', fig.data, fig.layout, {responsive: true});
+    var el = document.getElementById('issue-distribution-chart');
+    Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
+      el.on('plotly_click', function(data) {
+        var label = data.points[0].y;
+        var slug = label.replace(/[.'"]/g, '').replace(/[^a-zA-Z0-9]/g, '-').toLowerCase().replace(/-+/g, '-');
+        window.location.href = 'issues/' + slug + '/';
+      });
+    });
   } else {
     setTimeout(waitForPlotly, 50);
   }
 })();
 </script>
 
-## Records Summary Table
+## Issues By Record
 
 {{
   catalog_summary[catalog_summary['sum'] != '']
