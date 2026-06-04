@@ -167,6 +167,11 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-05-22</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-05-22</td>
       <td>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: related work '10.21966/e4b8-vp48' in CKAN not found in DataCite</td>
     </tr>
@@ -312,11 +317,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Carrie Weekes' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>Metadata mismatch: author 'Chris Mackenzie' in CKAN record not found in DataCite</td>
     </tr>
@@ -357,11 +357,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
     </tr>
@@ -387,13 +382,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
+      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: creator 'Katie Campbell' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -702,53 +697,18 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>Metadata mismatch: author 'Maartje C. Korver' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
@@ -762,11 +722,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
@@ -778,7 +733,7 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-12-05</td>
       <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Metadata mismatch: creator 'M Korver' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1002/2014WR016532' (References) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
@@ -793,47 +748,22 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-11-29</td>
       <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: author 'Gillian Sadlier-Brown' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: author 'Margot Hessing-Lewis' in CKAN record not found in DataCite</td>
+      <td>Metadata mismatch: creator 'Alyssa-Lois Gehman' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
       <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Metadata mismatch: author 'Margot Hessing-Lewis' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: author 'Tyrel Froese' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: creator 'Alyssa-Lois Gehman' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
       <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
       <td>Metadata mismatch: version CKAN='2.1.0' | DataCite='2.0'</td>
+    </tr>
+    <tr>
+      <td>2024-11-29</td>
+      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
+      <td>Metadata mismatch: version CKAN='3.0' | DataCite='3.1'</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
@@ -892,16 +822,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
-      <td>Metadata mismatch: author 'Angeleen Olson' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
-      <td>Metadata mismatch: author 'D Haggarty' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
       <td>Metadata mismatch: author 'D. V. D'Amore' in CKAN record not found in DataCite</td>
     </tr>
@@ -919,11 +839,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
       <td>Metadata mismatch: author 'F. E. Biles' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
-      <td>Metadata mismatch: author 'Francis Juanes' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -982,11 +897,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Metadata mismatch: author 'Ian J. W. Giesbrecht' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>Metadata mismatch: author 'Isabelle Desmarais' in CKAN record not found in DataCite</td>
     </tr>
@@ -997,11 +907,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
-      <td>Metadata mismatch: author 'Margot Hessing-Lewis' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite</td>
     </tr>
@@ -1009,11 +914,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -1034,6 +934,16 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>Metadata mismatch: creator 'David D'Amore' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
+      <td>Metadata mismatch: creator 'Frances Biles' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -1067,22 +977,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Underwater Video Transects - Calvert Island - 2016</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
