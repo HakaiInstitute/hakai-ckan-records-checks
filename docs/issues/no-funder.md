@@ -16,6 +16,31 @@ This page present the list of all the records associated with the issue: **No fu
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-03</td>
+      <td>Discharge Time Series (2013-2017) – Calvert Island</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Stream Event Sampling - Calvert Island</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
       <td>2026-05-29</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>No funder</td>
@@ -28,16 +53,6 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2026-05-27</td>
       <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Stream Event Sampling - Calvert Island</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -57,17 +72,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -76,18 +81,13 @@ This page present the list of all the records associated with the issue: **No fu
       <td>No funder</td>
     </tr>
     <tr>
+      <td>2025-04-23</td>
+      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
       <td>2025-01-03</td>
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -101,28 +101,8 @@ This page present the list of all the records associated with the issue: **No fu
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -132,17 +112,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -192,12 +167,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -212,12 +187,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
+      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
       <td>No funder</td>
     </tr>
   </tbody>

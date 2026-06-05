@@ -16,6 +16,136 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-03</td>
+      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
+      <td>Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'H.J. van Meerveld' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Field Station Structures - Calvert Island</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Bathymetric Survey - Northwest Calvert Island</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
+      <td>Metadata mismatch: author 'Isabelle Desmarais' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
+      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'M.J. Waterloo' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
+      <td>Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Owikeno Lake Bathymetric Survey</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
+      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
+      <td>Metadata mismatch: related work '10.1002/eap.1897' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
+      <td>Metadata mismatch: related work '10.1002/lno.11538' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: related work '10.21966/pk18-z035' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
+      <td>Metadata mismatch: related work '10.25921/8q3v-0k22' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>Metadata mismatch: related work '10.25921/9vnv-0g64' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: related work '10.25921/kmam-ct93' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: title CKAN='High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA' | DataCite='High-resolution record of surface seawater CO2 content from 2016-08 to 2019-05 from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA (NCEI Accession 0246099)'</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA from 2017-06-01 to 2021-04-27 (NCEI Accession 0247208)'</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
+      <td>Metadata mismatch: title CKAN='Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)' | DataCite='Surface seawater and marine boundary layer partial pressure of carbon dioxide (pCO2), temperature and salinity observations made from the Kwakshua Channel (KC) Buoy off the central coast of British Columbia (NCEI Accession 0208810)'</td>
+    </tr>
+    <tr>
       <td>2026-06-01</td>
       <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>Metadata mismatch: author 'Alex Hare' in CKAN record not found in DataCite</td>
@@ -63,37 +193,7 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2026-05-26</td>
       <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'David J. Levy-Booth' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'P.J. Keeling' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'S.J. Hallam' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'T.J. Heger' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'W.W. Mohn' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: creator 'David D'Amore' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-05-26</td>
@@ -132,43 +232,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-05-22</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'H.J. van Meerveld' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Field Station Structures - Calvert Island</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Bathymetric Survey - Northwest Calvert Island</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
       <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'M.J. Waterloo' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-05-22</td>
@@ -276,21 +341,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related work '10.48321/d1ae4278b4' in CKAN not found in DataCite</td>
     </tr>
     <tr>
-      <td>2026-03-17</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
-      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-03-17</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
-      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-03-17</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
-      <td>Metadata mismatch: title CKAN='Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)' | DataCite='Surface seawater and marine boundary layer partial pressure of carbon dioxide (pCO2), temperature and salinity observations made from the Kwakshua Channel (KC) Buoy off the central coast of British Columbia (NCEI Accession 0208810)'</td>
-    </tr>
-    <tr>
       <td>2026-02-27</td>
       <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1JzY5ELRe1sIbZdq7wBmAOT1t7Y1dNJ2v/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN</td>
@@ -324,21 +374,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-02-20</td>
       <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>Metadata mismatch: author 'Jennifer Jackson' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
-      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Katie Pocock' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -387,21 +422,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: creator 'Katie Campbell' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
-      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>Metadata mismatch: related identifier '10.1029/2020JC017033' (IsSourceOf) in DataCite not found in CKAN</td>
     </tr>
@@ -417,11 +437,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: related work '10.21966/pk18-z035' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite</td>
     </tr>
@@ -429,31 +444,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-02-20</td>
       <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
       <td>Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: related work 'https://catalogue.hakai.org/erddap/tabledap/hakaiketchikanbolresearch.html' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: title CKAN='High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA' | DataCite='High-resolution record of surface seawater CO2 content from 2016-08 to 2019-05 from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA (NCEI Accession 0246099)'</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
-      <td>Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA from 2017-06-01 to 2021-04-27 (NCEI Accession 0247208)'</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
-      <td>Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content collected from Hakai Institute Quadra Island Field Station in Hyacinthe Bay, British Columbia, Canada from 2014-12-19 to 2025-12-18 (NCEI Accession 0208638)'</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Underway Surface Seawater and Marine Boundary Layer Observations from the M/V Columbia (Research)</td>
-      <td>Metadata mismatch: title CKAN='Underway Surface Seawater and Marine Boundary Layer Observations from the M/V Columbia (Research)' | DataCite='Surface underway measurements partial pressure of carbon dioxide (pCO2) in the water and atmosphere, sea surface salinity, sea surface temperature, oxygen and other parameters during the Alaska Marine Highway System M/V Columbia 135 service route transits along British Columbia coast, southeast Alaska coast, Gulf of Alaska and North Pacific Ocean from 2017-10-26 to 2019-10-04 (NCEI Accession 0209049)'</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -626,46 +616,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite</td>
     </tr>
     <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Brett Johnson' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Brian Hunt' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Luke Rogers' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Martin Krkosek' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Sean Godwin' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier '10.5281/zenodo.4005399' (IsVersionOf) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: related work '10.1139/cjfas-2020-0160' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Metadata mismatch: title CKAN='Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada' | DataCite='colebrookson/Juv-Pacific-Salmon-Sealice: v1.0'</td>
-    </tr>
-    <tr>
       <td>2025-01-18</td>
       <td>Hakai Institute Juvenile Salmon Program Time Series</td>
       <td>Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_jsp' in CKAN not found in DataCite</td>
@@ -731,39 +681,9 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.1002/2014WR016532' (References) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: author 'Alyssa Gehman' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Metadata mismatch: author 'Alyssa Gehman' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: creator 'Alyssa-Lois Gehman' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Metadata mismatch: creator 'Alyssa-Lois Gehman' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
       <td>2024-11-29</td>
       <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
       <td>Metadata mismatch: version CKAN='2.1.0' | DataCite='2.0'</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Metadata mismatch: version CKAN='3.0' | DataCite='3.1'</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
@@ -822,26 +742,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Metadata mismatch: author 'D. V. D'Amore' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
-      <td>Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Metadata mismatch: author 'Emily R. Haughton' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Metadata mismatch: author 'F. E. Biles' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Geospatial Technology Team Hakai' in CKAN record not found in DataCite</td>
     </tr>
@@ -897,23 +797,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
-      <td>Metadata mismatch: author 'Isabelle Desmarais' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Jenn Burt' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Metadata mismatch: author 'Ray Brunsting' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
-      <td>Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -922,28 +807,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Metadata mismatch: author 'Shawn Hateley' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>Metadata mismatch: author 'TRIM BC Base Annotations data' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Metadata mismatch: creator 'David D'Amore' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Metadata mismatch: creator 'Frances Biles' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -988,11 +853,6 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-24</td>
       <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
