@@ -3,11 +3,8 @@ hide:
   - navigation
   - toc
 ---
-<<<<<<< HEAD
 
 <style>.md-content__inner > h1 { display: none; }</style>
-=======
->>>>>>> 7db1d939dc8cde1df863dc6bdad122ff043684c6
 
 *Last updated: 2026-06-05*
 
