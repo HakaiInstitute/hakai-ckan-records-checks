@@ -1,13 +1,10 @@
 ---
 hide:
   - navigation
-  - title
+  - toc
 ---
-# Summary
 
-This page present a summary of the different metadata records distributed at <https://catalogue.hakai.org>. Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. 
-
-## Overview
+<style>.md-content__inner > h1 { display: none; }</style>
 
 *Last updated: 2026-06-05*
 

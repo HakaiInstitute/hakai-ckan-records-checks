@@ -1,8 +1,10 @@
 ---
 hide:
   - navigation
-  - title
+  - toc
 ---
+
+<style>.md-content__inner > h1 { display: none; }</style>
 
 *Last updated: {{ last_updated }}*
 
