@@ -382,12 +382,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
+      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
       <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
+      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
