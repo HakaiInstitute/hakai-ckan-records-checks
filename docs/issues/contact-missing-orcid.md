@@ -16,79 +16,49 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-03</td>
+      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
+      <td>Contact missing ORCID: Desmarais, Isabelle</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Floyd, William C.</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
+      <td>Contact missing ORCID: Hare, Alex</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Contact missing ORCID: Korver, Maartje C.</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Stream Event Sampling - Calvert Island</td>
+      <td>Contact missing ORCID: Oliver, Allison</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Bathymetric Survey - Northwest Calvert Island</td>
+      <td>Contact missing ORCID: Viner, Nick</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>Contact missing ORCID: van Meerveld, H.J.</td>
+    </tr>
+    <tr>
       <td>2026-06-01</td>
       <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada</td>
       <td>Contact missing ORCID: Hare, Alex</td>
     </tr>
     <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Giesbrecht, Ian</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Hunt, Brian P. V.</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Jackson, Jennifer M.</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Kellogg, Colleen T. E.</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Lertzman, Ken P.</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: St. Pierre, Kyra A.</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Tank, Suzanne E.</td>
-    </tr>
-    <tr>
       <td>2026-05-26</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>Contact missing ORCID: Savage, Rosie</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Bathymetric Survey - Northwest Calvert Island</td>
-      <td>Contact missing ORCID: Viner, Nick</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: van Meerveld, H.J.</td>
     </tr>
     <tr>
       <td>2026-05-12</td>
@@ -112,23 +82,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>Contact missing ORCID: Evans, Wiley</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>Contact missing ORCID: Evans, Wiley</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Contact missing ORCID: Hales, Burke</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
-      <td>Contact missing ORCID: Hales, Burke</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -139,16 +94,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2026-02-20</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>Contact missing ORCID: Hare, Alex</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
-      <td>Contact missing ORCID: Hare, Alex</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from August 2016 to August 2017 collected in at the OceansAlaska shellfish hatchery in Ketchikan, Alaska, USA</td>
-      <td>Contact missing ORCID: Weekes, Carrie</td>
     </tr>
     <tr>
       <td>2025-05-21</td>
@@ -191,16 +136,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Prentice, Carolyn</td>
     </tr>
     <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Contact missing ORCID: Godwin, Sean</td>
-    </tr>
-    <tr>
-      <td>2025-04-21</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Contact missing ORCID: Krkosek, Martin</td>
-    </tr>
-    <tr>
       <td>2025-01-18</td>
       <td>Hakai Institute Juvenile Salmon Program Time Series</td>
       <td>Contact missing ORCID: Godwin, Sean</td>
@@ -211,24 +146,9 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Krkosek, Martin</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Contact missing ORCID: Brunsting, Ray</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Contact missing ORCID: Brunsting, Ray</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
+      <td>2025-01-18</td>
+      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
+      <td>Contact missing ORCID: Rogers, Luke A.</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
@@ -239,16 +159,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-12-05</td>
       <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Contact missing ORCID: Haughton, Emily</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
@@ -267,68 +177,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island - Archived Version 3.0</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019 Version 5</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>Contact missing ORCID: Tank, Suzanne E.</td>
     </tr>
     <tr>
       <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Contact missing ORCID: Froese, Tyrel</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Contact missing ORCID: Froese, Tyrel</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Contact missing ORCID: Gehman, Alyssa</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Contact missing ORCID: Gehman, Alyssa</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Contact missing ORCID: Hessing-Lewis, Margot</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Contact missing ORCID: Hessing-Lewis, Margot</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
       <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
       <td>Contact missing ORCID: Monteith, Zach</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Contact missing ORCID: Monteith, Zach</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Contact missing ORCID: Monteith, Zach</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Contact missing ORCID: Olsen, Angeleen</td>
     </tr>
     <tr>
       <td>2024-08-30</td>
@@ -342,28 +197,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
-      <td>Contact missing ORCID: Desmarais, Isabelle</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
-      <td>Contact missing ORCID: Giesbrecht, Ian</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Contact missing ORCID: Giesbrecht, Ian J. W.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Contact missing ORCID: Gonzalez Arriola, Santiago</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -372,18 +207,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019) - Version 1.0</td>
-      <td>Contact missing ORCID: Haughton, Emily</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
       <td>Contact missing ORCID: Haughton, Emily R.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
-      <td>Contact missing ORCID: Hessing-Lewis, Margot</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -422,8 +247,18 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
-      <td>Contact missing ORCID: Olson, Angeleen</td>
+      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
+      <td>Contact missing ORCID: Oliver, Allison A.</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Biogeochemical Sampling of Streams in the Kwakshua Watersheds of Calvert and Hecate Islands, BC: 2013-2019. Version 1.0</td>
+      <td>Contact missing ORCID: Oliver, Allison A.</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
+      <td>Contact missing ORCID: Oliver, Allison A.</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
