@@ -3,11 +3,6 @@ hide:
   - navigation
   - title
 ---
-# Summary
-
-This page present a summary of the different metadata records distributed at <{{ ckan_url }}>. Please refer to the [issue](issues/index.md) page for a summary of the different issues encountered. To view issues specific to a record, click the corresponding number in the Records Summary Table. 
-
-## Overview
 
 *Last updated: {{ last_updated }}*
 
