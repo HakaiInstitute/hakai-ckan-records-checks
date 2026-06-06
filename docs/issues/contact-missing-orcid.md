@@ -197,18 +197,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>Contact missing ORCID: Haughton, Emily</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Haughton, Emily R.</td>
     </tr>
     <tr>
       <td>2024-07-24</td>

@@ -6,36 +6,36 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-06-05*
+*Last updated: 2026-06-06*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">265</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">264</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-05</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-1 since 2026-06-05</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">188</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">186</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-05</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-2 since 2026-06-05</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">85.7%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">85.6%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-05</div>
+  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">-0.1% since 2026-06-05</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [3.0, 4.0, 9.0, 10.0, 12.0, 36.0, 38.0, 42.0, 97.0, 109.0], "textposition": "outside", "x": [3, 4, 9, 10, 12, 36, 38, 42, 97, 109], "xaxis": "x", "y": ["DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "No publisher", "Invalid Resource URL", "No projects associated", "No funder", "No DOI defined", "Contact missing ORCID", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 3.0, 4.0, 9.0, 10.0, 12.0, 35.0, 38.0, 41.0, 94.0, 105.0], "textposition": "outside", "x": [1, 3, 4, 9, 10, 12, 35, 38, 41, 94, 105], "xaxis": "x", "y": ["Organization missing ROR", "DOI is not redirecting to Hakai's catalogue", "Duplicate DOI shared with another record", "No publisher", "Invalid Resource URL", "No projects associated", "No funder", "No DOI defined", "Contact missing ORCID", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -443,7 +443,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
-      <td><a title='75b60436-da51-4ccf-b14a-27f45f782b2b' href='records/75b60436-da51-4ccf-b14a-27f45f782b2b'>7</a></td>
+      <td><a title='75b60436-da51-4ccf-b14a-27f45f782b2b' href='records/75b60436-da51-4ccf-b14a-27f45f782b2b'>2</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
     </tr>
@@ -580,10 +580,10 @@ hide:
       <td>2024-12-05</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373'>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</a></td>
-      <td><a title='bfad4541-a06a-489e-bd95-a5e7c65e0dc1' href='records/bfad4541-a06a-489e-bd95-a5e7c65e0dc1'>3</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373'>Stream temperature time-series – Calvert Island – 2013 - 2019</a></td>
+      <td><a title='bfad4541-a06a-489e-bd95-a5e7c65e0dc1' href='records/bfad4541-a06a-489e-bd95-a5e7c65e0dc1'>1</a></td>
       <td>Watersheds</td>
-      <td>2024-07-24</td>
+      <td>2026-06-04</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
@@ -638,12 +638,6 @@ hide:
       <td><a title='41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' href='records/41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d'>1</a></td>
       <td>Watersheds, Oceanography</td>
       <td>2026-06-03</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
-      <td><a title='9a930f50-82e2-4d7c-9686-6b551b9a458e' href='records/9a930f50-82e2-4d7c-9686-6b551b9a458e'>3</a></td>
-      <td>Genomics, Watersheds</td>
-      <td>2026-05-26</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e'>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
@@ -707,7 +701,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897'>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</a></td>
-      <td><a title='3a6e9472-1a85-48e5-8ac6-792945e03045' href='records/3a6e9472-1a85-48e5-8ac6-792945e03045'>8</a></td>
+      <td><a title='3a6e9472-1a85-48e5-8ac6-792945e03045' href='records/3a6e9472-1a85-48e5-8ac6-792945e03045'>5</a></td>
       <td>Watersheds</td>
       <td>2026-06-03</td>
     </tr>
@@ -983,7 +977,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4cac70e-a6fa-4d77-8fdb-1d3612006bc4'>Pacific Northwest Eelgrass Sediment Carbon Data</a></td>
-      <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf'>8</a></td>
+      <td><a title='dd5c8784-c292-4f68-bc3d-a460adb8cdbf' href='records/dd5c8784-c292-4f68-bc3d-a460adb8cdbf'>4</a></td>
       <td>Nearshore</td>
       <td>2025-04-23</td>
     </tr>
@@ -1052,12 +1046,6 @@ hide:
       <td><a title='d1d07d48-c909-41b4-8c0f-13238720749c' href='records/d1d07d48-c909-41b4-8c0f-13238720749c'>1</a></td>
       <td>Geospatial</td>
       <td>2026-05-14</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='records/b6621a3c-1700-4015-a359-56b6c7155835'>6</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>2024-07-24</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6'>Mean Tidal Current - Coastal British Columbia - Canada</a></td>
