@@ -47,11 +47,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
     </tr>
@@ -77,11 +72,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
     </tr>
@@ -97,11 +87,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: related work '10.21966/pk18-z035' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>Metadata mismatch: related work '10.25921/8q3v-0k22' in CKAN not found in DataCite</td>
     </tr>
@@ -109,16 +94,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-03</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>Metadata mismatch: related work '10.25921/9vnv-0g64' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: related work '10.25921/kmam-ct93' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: title CKAN='High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA' | DataCite='High-resolution record of surface seawater CO2 content from 2016-08 to 2019-05 from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA (NCEI Accession 0246099)'</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
@@ -372,11 +347,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.1029/2020JC017033' (IsPublishedIn) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
     </tr>
@@ -399,11 +369,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-02-20</td>
       <td>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</td>
       <td>Metadata mismatch: title CKAN='Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)' | DataCite='Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research'</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: version CKAN='1' | DataCite='1.0'</td>
     </tr>
     <tr>
       <td>2026-02-05</td>
@@ -682,6 +647,11 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
     </tr>
@@ -732,8 +702,23 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Metadata mismatch: author 'TRIM BC Base Annotations data' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Metadata mismatch: creator 'GeoBC TRIM Program' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
       <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>Metadata mismatch: creator 'Gillian Sadlier-Brown' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
