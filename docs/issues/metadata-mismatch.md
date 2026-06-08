@@ -47,6 +47,11 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
     </tr>
@@ -72,6 +77,11 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
     </tr>
@@ -87,6 +97,11 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: related work '10.21966/pk18-z035' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>Metadata mismatch: related work '10.25921/8q3v-0k22' in CKAN not found in DataCite</td>
     </tr>
@@ -94,6 +109,16 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-03</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>Metadata mismatch: related work '10.25921/9vnv-0g64' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: related work '10.25921/kmam-ct93' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Metadata mismatch: title CKAN='High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA' | DataCite='High-resolution record of surface seawater CO2 content from 2016-08 to 2019-05 from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA (NCEI Accession 0246099)'</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
