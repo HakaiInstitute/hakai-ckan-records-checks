@@ -22,11 +22,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'H.J. van Meerveld' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Field Station Structures - Calvert Island</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
     </tr>
@@ -62,18 +57,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'M.J. Waterloo' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
       <td>Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'William C. Floyd' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
@@ -184,16 +169,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-05-27</td>
       <td>Horne Lake Bathymetry Mapping</td>
       <td>Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: author 'D.V. D’Amore' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</td>
-      <td>Metadata mismatch: creator 'David D'Amore' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-05-26</td>
@@ -362,31 +337,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: author 'Brian Hunt' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: author 'Chris Mackenzie' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: author 'Jennifer Jackson' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: author 'Stephanie Waterman' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
       <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
     </tr>
@@ -422,11 +372,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: related identifier '10.1029/2020JC017033' (IsSourceOf) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
     </tr>
@@ -449,11 +394,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-02-20</td>
       <td>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</td>
       <td>Metadata mismatch: title CKAN='Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)' | DataCite='Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research'</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Metadata mismatch: version CKAN='1' | DataCite='1.0'</td>
     </tr>
     <tr>
       <td>2026-02-05</td>
@@ -577,33 +517,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Metadata mismatch: author 'Carolyn Prentice' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Metadata mismatch: author 'Katrina Poppe' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
       <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
       <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
       <td>Metadata mismatch: related identifier '10.1098/rspb.2020.0108' (HasPart) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Metadata mismatch: related work '10.1029/2019gb006345' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2025-04-23</td>

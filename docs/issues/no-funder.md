@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No fu
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-05</td>
+      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
       <td>2026-06-03</td>
       <td>Discharge Time Series (2013-2017) – Calvert Island</td>
       <td>No funder</td>
@@ -33,11 +38,6 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2026-06-03</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -76,16 +76,6 @@ This page present the list of all the records associated with the issue: **No fu
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
       <td>2025-01-03</td>
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No funder</td>
@@ -107,12 +97,12 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -157,17 +147,17 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -177,7 +167,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>

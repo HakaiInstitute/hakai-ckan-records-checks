@@ -41,11 +41,6 @@ This page present the list of all the records associated with the issue: **No pu
       <td>No publisher</td>
     </tr>
     <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>No publisher</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>Data on invasion of Calvert Island by Orthione griffenis</td>
       <td>No publisher</td>

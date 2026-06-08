@@ -11,6 +11,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
 
 | Issue                                                                                                                                                                  |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiRiversInletMooringResearch.html returned status_code=502                                        |
 | Metadata mismatch: title CKAN='Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)' | DataCite='Hakai Mooring Water Properties Timeseries Research' |
 
 

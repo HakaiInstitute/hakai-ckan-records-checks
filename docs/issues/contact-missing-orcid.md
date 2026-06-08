@@ -22,18 +22,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
       <td>Contact missing ORCID: Hare, Alex</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Korver, Maartje C.</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
@@ -44,11 +34,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2026-06-03</td>
       <td>Bathymetric Survey - Northwest Calvert Island</td>
       <td>Contact missing ORCID: Viner, Nick</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</td>
-      <td>Contact missing ORCID: van Meerveld, H.J.</td>
     </tr>
     <tr>
       <td>2026-06-01</td>
@@ -102,38 +87,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Brunsting, Ray</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
       <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>Contact missing ORCID: Giesbrecht, Ian</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Hateley, Shawn</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Haughton, Emily R.</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2025-04-23</td>
-      <td>Pacific Northwest Eelgrass Sediment Carbon Data</td>
-      <td>Contact missing ORCID: Prentice, Carolyn</td>
     </tr>
     <tr>
       <td>2025-01-18</td>
@@ -197,18 +152,8 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Floyd, William C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
       <td>Contact missing ORCID: Haughton, Emily</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Stream temperature time-series – Calvert Island – 2013 - 2019 Version 1.0</td>
-      <td>Contact missing ORCID: Haughton, Emily R.</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
