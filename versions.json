@@ -23,5 +23,10 @@
     "version": "main",
     "title": "main",
     "aliases": []
+  },
+  {
+    "version": "DOI-redirecting",
+    "title": "DOI-redirecting",
+    "aliases": []
   }
 ]
