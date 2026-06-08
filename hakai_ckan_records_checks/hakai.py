@@ -81,17 +81,22 @@ def test_record_requirements(record) -> pd.DataFrame:
             all(re.match("https://doi.org", doi.get("code", "")) for doi in dois),
             f"Some dois do not match the expected format {DOI_CODE_FORMAT}: doi={[doi.get('code') for doi in dois]}",
         )
+        related_work_dois = {
+            a.get("aggregate-dataset-identifier_code", "")
+            for a in record.get("aggregation-info", [])
+        }
         for doi in dois:
             response = requests.get(doi.get("code"), allow_redirects=True)
             _test(
                 response.status_code in (200, 201, 403, 418, 503),
                 f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={response.status_code}",
             )
-            _test(
-                response.url.startswith("https://catalogue.hakai.org")
-                or response.url.startswith("https://doi.org"),
-                f"DOI is not redirecting to Hakai's catalogue: {response.url}",
-            )
+            if doi.get("code") not in related_work_dois:
+                _test(
+                    response.url.startswith("https://catalogue.hakai.org")
+                    or response.url.startswith("https://doi.org"),
+                    f"DOI is not redirecting to Hakai's catalogue: {response.url}",
+                )
 
     # Contacts
     contacts = record.get("cited-responsible-party", []) + record.get(
