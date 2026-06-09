@@ -101,18 +101,13 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Krkosek, Martin</td>
     </tr>
     <tr>
-      <td>2025-01-18</td>
-      <td>Hakai Institute Juvenile Salmon Program Time Series</td>
-      <td>Contact missing ORCID: Rogers, Luke A.</td>
-    </tr>
-    <tr>
       <td>2024-12-05</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</td>
+      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>Contact missing ORCID: Floyd, William C.</td>
     </tr>
     <tr>
@@ -134,11 +129,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-12-05</td>
       <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
       <td>Contact missing ORCID: Tank, Suzanne E.</td>
-    </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
-      <td>Contact missing ORCID: Monteith, Zach</td>
     </tr>
     <tr>
       <td>2024-08-30</td>
@@ -169,11 +159,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-07-24</td>
       <td>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</td>
       <td>Contact missing ORCID: Hunt, Brian</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
-      <td>Contact missing ORCID: Janusson, Carly</td>
     </tr>
     <tr>
       <td>2024-07-24</td>

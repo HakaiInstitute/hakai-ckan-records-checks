@@ -76,11 +76,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiBIOOSBuoy1hour.html returned status_code=502</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Invalid Resource URL: https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS returned status_code=404</td>
-    </tr>
-    <tr>
       <td>2026-05-25</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>
@@ -94,11 +89,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2026-05-08</td>
       <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
       <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/griddap/sentinel_3A_POLYMER_8Day.html returned status_code=502</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</td>
-      <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiChlorophyllSampleProvisional.html returned status_code=502</td>
     </tr>
     <tr>
       <td>2026-05-08</td>
@@ -139,11 +129,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2026-04-14</td>
       <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
       <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.html returned status_code=502</td>
-    </tr>
-    <tr>
-      <td>2026-04-13</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the SuperCO2 System in the Pacific Ecosystem Autonomous Research Laboratory, Bamfield Marine Sciences Centre, BC, Canada (Provisional)</td>
-      <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiPearlBoL5min.html returned status_code=502</td>
     </tr>
     <tr>
       <td>2026-04-13</td>
