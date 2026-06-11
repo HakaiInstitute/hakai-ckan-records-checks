@@ -27,11 +27,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Stream Event Sampling - Calvert Island</td>
-      <td>Contact missing ORCID: Oliver, Allison</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Bathymetric Survey - Northwest Calvert Island</td>
       <td>Contact missing ORCID: Viner, Nick</td>
     </tr>
@@ -157,11 +152,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
       <td>Contact missing ORCID: Holmes, Keith</td>
     </tr>
@@ -199,21 +189,6 @@ This page present the list of all the records associated with the issue: **Conta
       <td>2024-07-24</td>
       <td>Biogeochemical Sampling of Streams in the Kwakshua Watersheds of Calvert and Hecate Islands, BC: 2013-2019. Version 1.0</td>
       <td>Contact missing ORCID: Oliver, Allison A.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada. Version 1.0.</td>
-      <td>Contact missing ORCID: Oliver, Allison A.</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Eelgrass Extent 2014 - Central Coast</td>
-      <td>Contact missing ORCID: Reshitnyk, Luba</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Data on invasion of Calvert Island by Orthione griffenis</td>
-      <td>Contact missing ORCID: Whalen, Matt</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
