@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **No DO
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-10</td>
+      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2026-06-10</td>
+      <td>Herring Survey Data - 2016 - BC Central Coast</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2026-06-09</td>
       <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>No DOI defined</td>
@@ -68,11 +78,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2026-05-14</td>
       <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-05-12</td>
-      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
@@ -138,11 +143,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2024-07-24</td>
       <td>Keen’s Mouse Food Web Study – 100 Islands Project – Central Coast, BC (2015-2017)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>No DOI defined</td>
     </tr>
     <tr>

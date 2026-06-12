@@ -9,11 +9,9 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd</a>
 
-| Issue                                |
-|:-------------------------------------|
-| No version                           |
-| No DOI defined                       |
-| Contact missing ORCID: McInnes, Will |
+| Issue          |
+|:---------------|
+| No DOI defined |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MXhzYmdPTzl2elpwWFM" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

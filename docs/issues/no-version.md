@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No ve
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-10</td>
+      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
+      <td>No version</td>
+    </tr>
+    <tr>
       <td>2026-06-08</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>No version</td>
@@ -32,17 +37,17 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -58,11 +63,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2026-05-15</td>
       <td>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-05-12</td>
-      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -172,22 +172,17 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
+      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -297,11 +292,6 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
       <td>No version</td>
     </tr>
@@ -357,22 +347,17 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Elliot Creek Landslide – 2022 – Hakai Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
+      <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -393,16 +378,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
     <tr>

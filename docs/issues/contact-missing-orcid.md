@@ -31,19 +31,9 @@ This page present the list of all the records associated with the issue: **Conta
       <td>Contact missing ORCID: Viner, Nick</td>
     </tr>
     <tr>
-      <td>2026-06-01</td>
-      <td>High-resolution record of surface seawater CO2 content from December 2014 to April 2016 collected in Hyacinthe Bay, British Columbia, Canada</td>
-      <td>Contact missing ORCID: Hare, Alex</td>
-    </tr>
-    <tr>
       <td>2026-05-26</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>Contact missing ORCID: Savage, Rosie</td>
-    </tr>
-    <tr>
-      <td>2026-05-12</td>
-      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
-      <td>Contact missing ORCID: Barrette, Jessy</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -173,11 +163,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-24</td>
       <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
     <tr>

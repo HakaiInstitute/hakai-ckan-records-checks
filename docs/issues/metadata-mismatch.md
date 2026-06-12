@@ -586,11 +586,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: version CKAN='2.1.0' | DataCite='2.0'</td>
     </tr>
     <tr>
-      <td>2024-11-29</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>Metadata mismatch: version CKAN='3.1.0' | DataCite='3.0'</td>
-    </tr>
-    <tr>
       <td>2024-11-20</td>
       <td>Fraser River Landslide Project - Sites of Concern 2024</td>
       <td>Metadata mismatch: related identifier '10.21966/ytgc-6g46' (IsPartOf) in DataCite not found in CKAN</td>
@@ -657,11 +652,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
     </tr>
@@ -714,11 +704,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
       <td>Metadata mismatch: creator 'Gillian Sadlier-Brown' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Orthophoto High Compression 0.25m resolution Mosaic - 2012 - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -797,21 +782,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
-      <td>Metadata mismatch: author 'Airborne Coastal Observatory' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Airborne Coastal Observatory' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Geospatial Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Science' in CKAN record not found in DataCite</td>
     </tr>
@@ -844,21 +814,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-23</td>
       <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Big Bar Slide - 2020 - Airborne Coastal Observatory Data</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
