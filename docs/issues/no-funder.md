@@ -102,11 +102,6 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>No funder</td>
     </tr>
@@ -117,22 +112,17 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
+      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
+      <td>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</td>
       <td>No funder</td>
     </tr>
     <tr>

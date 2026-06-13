@@ -25,16 +25,6 @@ This page present the list of all the records associated with the issue: **Dupli
       <td>Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018</td>
       <td>Duplicate DOI shared with another record: 10.21966/n0h9-cq15</td>
     </tr>
-    <tr>
-      <td>2024-11-29</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast</td>
-      <td>Duplicate DOI shared with another record: 10.21966/rf3y-8j78</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
-      <td>Duplicate DOI shared with another record: 10.21966/rf3y-8j78</td>
-    </tr>
   </tbody>
 </table>
 

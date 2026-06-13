@@ -52,11 +52,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Katie Campbell' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
       <td>Metadata mismatch: author 'Robert White' in CKAN record not found in DataCite</td>
     </tr>
@@ -77,11 +72,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: creator 'Katie Pocock' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
       <td>Metadata mismatch: related work '10.1002/eap.1897' in CKAN not found in DataCite</td>
     </tr>
@@ -92,23 +82,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: related work '10.21966/pk18-z035' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>Metadata mismatch: related work '10.25921/9vnv-0g64' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: related work '10.25921/kmam-ct93' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
-      <td>Metadata mismatch: title CKAN='High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA' | DataCite='High-resolution record of surface seawater CO2 content from 2016-08 to 2019-05 from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA (NCEI Accession 0246099)'</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
@@ -307,37 +282,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
-      <td>Metadata mismatch: author 'Wiley Evans' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Metadata mismatch: creator 'Drew Jordison' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -702,11 +652,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
-      <td>Metadata mismatch: creator 'Gillian Sadlier-Brown' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
@@ -754,11 +699,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</td>
       <td>Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
-      <td>Metadata mismatch: creator 'Margot Hessing-Lewis' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -817,6 +757,16 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Metadata mismatch: creator 'Alex Hare' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Metadata mismatch: creator 'Carrie Weekes' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
@@ -842,11 +792,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
@@ -864,6 +809,16 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-23</td>
       <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Metadata mismatch: creator 'Katie Campbell' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</td>
+      <td>Metadata mismatch: creator 'Wiley Evans' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>

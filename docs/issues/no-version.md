@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No ve
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-11</td>
+      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>No version</td>
+    </tr>
+    <tr>
       <td>2026-06-10</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>No version</td>
@@ -37,17 +42,17 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2026-06-03</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
       <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -172,12 +177,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -187,17 +192,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</td>
+      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -322,11 +322,6 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
@@ -352,17 +347,12 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
+      <td>Marine CO2 system variability along the Inside Passage of the Pacific Northwest coast of North America determined from an Alaskan ferry</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -393,11 +383,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-12</td>
-      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
       <td>No version</td>
     </tr>
   </tbody>

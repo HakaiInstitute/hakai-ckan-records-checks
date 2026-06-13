@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No DO
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-11</td>
+      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2026-06-10</td>
       <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
       <td>No DOI defined</td>
@@ -157,11 +162,6 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
       <td>No DOI defined</td>
     </tr>
@@ -173,11 +173,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
       <td>No DOI defined</td>
     </tr>
     <tr>

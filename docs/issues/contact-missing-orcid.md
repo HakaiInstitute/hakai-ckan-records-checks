@@ -177,38 +177,13 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-12</td>
-      <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
-      <td>Contact missing ORCID: Salomon, Anne K</td>
     </tr>
   </tbody>
 </table>

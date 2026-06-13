@@ -6,7 +6,7 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-13*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
@@ -15,27 +15,27 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-2 since 2026-06-11</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-12</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">171</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">168</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-6 since 2026-06-11</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-3 since 2026-06-12</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">87.1%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">87.5%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">-0.1% since 2026-06-11</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.4% since 2026-06-12</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 4.0, 7.0, 9.0, 25.0, 31.0, 34.0, 77.0, 97.0], "textposition": "outside", "x": [1, 4, 7, 9, 25, 31, 34, 77, 97], "xaxis": "x", "y": ["No projects associated", "Duplicate DOI shared with another record", "No publisher", "Invalid Resource URL", "No funder", "Contact missing ORCID", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 7.0, 10.0, 23.0, 28.0, 33.0, 74.0, 92.0], "textposition": "outside", "x": [2, 7, 10, 23, 28, 33, 74, 92], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "No publisher", "Invalid Resource URL", "No funder", "Contact missing ORCID", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -424,6 +424,12 @@ hide:
       <td>2024-07-23</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
+      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295'>1</a></td>
+      <td>Juvenile Salmon Program</td>
+      <td>2026-06-01</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_16ae186b-9d99-42cf-b18d-09f9bb0501d7'>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</a></td>
       <td><a title='b1c4c93b-6324-4b84-b341-76be046cbf28' href='records/b1c4c93b-6324-4b84-b341-76be046cbf28'>1</a></td>
       <td>Juvenile Salmon Program</td>
@@ -452,12 +458,6 @@ hide:
       <td><a title='3a8b11a2-5deb-469e-824b-32ab0eb5c2ca' href='records/3a8b11a2-5deb-469e-824b-32ab0eb5c2ca'>2</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></td>
-      <td><a title='96b5a7f2-5f23-413a-b060-d268bcff83ba' href='records/96b5a7f2-5f23-413a-b060-d268bcff83ba'>5</a></td>
-      <td>Oceanography</td>
-      <td>2026-06-03</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be'>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
@@ -497,9 +497,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8d36f54-4955-463c-94e5-f0030c3230f3'>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</a></td>
-      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='records/50037e63-bfac-4b7a-8547-56337fe40026'>2</a></td>
+      <td><a title='50037e63-bfac-4b7a-8547-56337fe40026' href='records/50037e63-bfac-4b7a-8547-56337fe40026'>1</a></td>
       <td>Geospatial</td>
-      <td>2024-07-12</td>
+      <td>2026-06-11</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</a></td>
@@ -524,12 +524,6 @@ hide:
       <td><a title='2168fd41-96d4-4b72-b5ec-0a5c342aad2a' href='records/2168fd41-96d4-4b72-b5ec-0a5c342aad2a'>2</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>2024-07-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_93a9bb9a-b54e-4623-9e0e-93d8b7d0020b'>Surfgrass Community Structure - Length & Density - BC Central Coast</a></td>
-      <td><a title='f51d96b5-1827-4aab-b1ce-575faff1fd03' href='records/f51d96b5-1827-4aab-b1ce-575faff1fd03'>1</a></td>
-      <td>Nearshore</td>
-      <td>2024-11-29</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c89e35df-8a16-4efc-ae29-15f4e3da8a55'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</a></td>
@@ -682,16 +676,10 @@ hide:
       <td>2026-06-05</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_06ddfa63-2611-46a5-8d63-c1b576e85bcb'>Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
-      <td><a title='fa913b04-1c29-4449-a78a-466f6b4fb110' href='records/fa913b04-1c29-4449-a78a-466f6b4fb110'>5</a></td>
-      <td>Geospatial</td>
-      <td>2024-07-23</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9efdd14d-9fb9-4f0e-9414-d890b4e18055'>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</a></td>
-      <td><a title='21ee0a17-9de0-49d7-9b04-cb9d5f557e9f' href='records/21ee0a17-9de0-49d7-9b04-cb9d5f557e9f'>5</a></td>
+      <td><a title='21ee0a17-9de0-49d7-9b04-cb9d5f557e9f' href='records/21ee0a17-9de0-49d7-9b04-cb9d5f557e9f'>1</a></td>
       <td>Geospatial</td>
-      <td>2024-07-23</td>
+      <td>2026-06-11</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c688f31b-f82c-48f1-a707-5025c37a9b5c'>UAV Imagery - 2016 - Coastal British Columbia - Canada</a></td>
@@ -827,7 +815,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0263680-f0d5-46d5-85ea-483fa58c74b6'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
-      <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='records/7f23d45b-b777-491c-b602-def5402d3d83'>4</a></td>
+      <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='records/7f23d45b-b777-491c-b602-def5402d3d83'>7</a></td>
       <td>Oceanography</td>
       <td>2024-07-23</td>
     </tr>
@@ -869,13 +857,13 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e09522d7-24f7-4c0e-afac-6cafd22a54f6'>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</a></td>
-      <td><a title='15f1d4a2-c82a-450c-a8f7-badb34b9c0dc' href='records/15f1d4a2-c82a-450c-a8f7-badb34b9c0dc'>6</a></td>
+      <td><a title='15f1d4a2-c82a-450c-a8f7-badb34b9c0dc' href='records/15f1d4a2-c82a-450c-a8f7-badb34b9c0dc'>4</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
-      <td><a title='1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' href='records/1bba6c8a-b99c-4fbd-8eae-7c8b771a841d'>5</a></td>
+      <td><a title='1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' href='records/1bba6c8a-b99c-4fbd-8eae-7c8b771a841d'>4</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
     </tr>
@@ -899,7 +887,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4624baf9-ec39-4538-83fe-1563511b722c'>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</a></td>
-      <td><a title='cb9c0488-666b-4869-9ca4-04d7125fdf8a' href='records/cb9c0488-666b-4869-9ca4-04d7125fdf8a'>6</a></td>
+      <td><a title='cb9c0488-666b-4869-9ca4-04d7125fdf8a' href='records/cb9c0488-666b-4869-9ca4-04d7125fdf8a'>4</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
     </tr>
@@ -1021,12 +1009,6 @@ hide:
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a></td>
       <td><a title='f6ad9487-d689-41a3-b610-352224d7759b' href='records/f6ad9487-d689-41a3-b610-352224d7759b'>4</a></td>
       <td>Juvenile Salmon Program</td>
-      <td>2024-07-24</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1aeeb145-8112-4268-afc7-05f14c8eae63'>Surfgrass Community Structure - Length & Density - BC Central Coast - 2017-2019</a></td>
-      <td><a title='b5de5a97-7498-4e5a-8f5d-0850f9e5fc87' href='records/b5de5a97-7498-4e5a-8f5d-0850f9e5fc87'>5</a></td>
-      <td></td>
       <td>2024-07-24</td>
     </tr>
     <tr>
