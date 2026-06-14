@@ -19,14 +19,6 @@
     "date": "2026-05-08",
     "total_records": 260,
     "records_with_issues": 254,
-    "pct_with_doi": 78.8,
-    "total_errors": 67,
-    "total_warnings": 659
-  },
-  {
-    "date": "2026-05-08",
-    "total_records": 260,
-    "records_with_issues": 254,
     "pct_with_doi": 78.8
   },
   {
@@ -316,5 +308,11 @@
     "total_records": 264,
     "records_with_issues": 168,
     "pct_with_doi": 87.5
+  },
+  {
+    "date": "2026-06-14",
+    "total_records": 265,
+    "records_with_issues": 164,
+    "pct_with_doi": 87.9
   }
 ]
