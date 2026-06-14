@@ -6,36 +6,36 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-06-13*
+*Last updated: 2026-06-14*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">264</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">265</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-12</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+1 since 2026-06-13</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">168</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">164</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-3 since 2026-06-12</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-4 since 2026-06-13</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">87.5%</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">87.9%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.4% since 2026-06-12</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.4% since 2026-06-13</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 7.0, 10.0, 23.0, 28.0, 33.0, 74.0, 92.0], "textposition": "outside", "x": [2, 7, 10, 23, 28, 33, 74, 92], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "No publisher", "Invalid Resource URL", "No funder", "Contact missing ORCID", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 10.0, 17.0, 23.0, 32.0, 69.0, 92.0], "textposition": "outside", "x": [2, 10, 17, 23, 32, 69, 92], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "Invalid Resource URL", "No funder", "Contact missing ORCID", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -460,6 +460,12 @@ hide:
       <td>2024-07-23</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></td>
+      <td><a title='96b5a7f2-5f23-413a-b060-d268bcff83ba' href='records/96b5a7f2-5f23-413a-b060-d268bcff83ba'>5</a></td>
+      <td>Oceanography</td>
+      <td>2026-06-03</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be'>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
       <td><a title='550e7acb-0e3f-461f-bd47-8b6ced16bf43' href='records/550e7acb-0e3f-461f-bd47-8b6ced16bf43'>2</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
@@ -814,12 +820,6 @@ hide:
       <td>2026-06-09</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a0263680-f0d5-46d5-85ea-483fa58c74b6'>High-resolution record of sea surface nitrate at Sentry Shoal in the Northern Strait of Georgia, British Columbia, Canada from 2015 to 2017.</a></td>
-      <td><a title='7f23d45b-b777-491c-b602-def5402d3d83' href='records/7f23d45b-b777-491c-b602-def5402d3d83'>7</a></td>
-      <td>Oceanography</td>
-      <td>2024-07-23</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7c47472a-b16c-446c-89d5-eefa23e07922'>High-resolution record of surface seawater CO2 content from November 2017 to June 2018 collected in Hyacinthe Bay, British Columbia, Canada</a></td>
       <td><a title='f31f38bf-16bc-4136-8982-a2df5fefb3a0' href='records/f31f38bf-16bc-4136-8982-a2df5fefb3a0'>1</a></td>
       <td>Oceanography</td>
@@ -856,18 +856,6 @@ hide:
       <td>2026-06-10</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e09522d7-24f7-4c0e-afac-6cafd22a54f6'>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</a></td>
-      <td><a title='15f1d4a2-c82a-450c-a8f7-badb34b9c0dc' href='records/15f1d4a2-c82a-450c-a8f7-badb34b9c0dc'>4</a></td>
-      <td>Oceanography</td>
-      <td>2026-02-20</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
-      <td><a title='1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' href='records/1bba6c8a-b99c-4fbd-8eae-7c8b771a841d'>4</a></td>
-      <td>Oceanography</td>
-      <td>2026-02-20</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0'>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</a></td>
       <td><a title='f8f299be-a37e-43bf-9416-5ff59e664f65' href='records/f8f299be-a37e-43bf-9416-5ff59e664f65'>1</a></td>
       <td>Nearshore</td>
@@ -882,12 +870,6 @@ hide:
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
       <td><a title='876027b6-cf37-4d49-8c3d-22d40b5f5b0b' href='records/876027b6-cf37-4d49-8c3d-22d40b5f5b0b'>4</a></td>
-      <td>Oceanography</td>
-      <td>2026-02-20</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4624baf9-ec39-4538-83fe-1563511b722c'>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</a></td>
-      <td><a title='cb9c0488-666b-4869-9ca4-04d7125fdf8a' href='records/cb9c0488-666b-4869-9ca4-04d7125fdf8a'>4</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
     </tr>
@@ -914,12 +896,6 @@ hide:
       <td><a title='8a7cd5ea-e167-419e-a5c3-919acafe8455' href='records/8a7cd5ea-e167-419e-a5c3-919acafe8455'>2</a></td>
       <td>Geospatial</td>
       <td>2024-07-24</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_be16603d-e383-4af4-9e93-7a36a086688e'>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
-      <td><a title='a9527050-a108-46f7-ac9f-7150b4abede5' href='records/a9527050-a108-46f7-ac9f-7150b4abede5'>5</a></td>
-      <td>Geospatial</td>
-      <td>2024-07-23</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd'>Herring Survey Data - 2016 - BC Central Coast</a></td>
@@ -995,9 +971,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66ad87d2-bb96-4515-a907-6367ca6c0a2b'>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</a></td>
-      <td><a title='3031aa60-689f-4b94-9dc6-9912cc742431' href='records/3031aa60-689f-4b94-9dc6-9912cc742431'>5</a></td>
+      <td><a title='3031aa60-689f-4b94-9dc6-9912cc742431' href='records/3031aa60-689f-4b94-9dc6-9912cc742431'>2</a></td>
       <td>Oceanography</td>
-      <td>2026-02-20</td>
+      <td>2026-06-12</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a></td>
@@ -1043,9 +1019,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac'>Kelp forest communities along an otter gradient</a></td>
-      <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a'>3</a></td>
+      <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a'>2</a></td>
       <td>Geospatial, Nearshore</td>
-      <td>2026-05-29</td>
+      <td>2026-06-12</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>

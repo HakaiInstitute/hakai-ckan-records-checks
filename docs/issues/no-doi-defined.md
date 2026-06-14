@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **No DO
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-12</td>
+      <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2026-06-12</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2026-06-11</td>
       <td>Hunter Island UAV Survey - June 2016 - British Columbia - Canada</td>
       <td>No DOI defined</td>
@@ -56,11 +66,6 @@ This page present the list of all the records associated with the issue: **No DO
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>2026-05-29</td>
-      <td>Kelp forest communities along an otter gradient</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
       <td>2026-05-27</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>No DOI defined</td>
@@ -93,11 +98,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2026-03-17</td>
       <td>Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada (Provisional)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
@@ -173,11 +173,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>No DOI defined</td>
     </tr>
   </tbody>

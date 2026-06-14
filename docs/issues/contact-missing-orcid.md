@@ -37,26 +37,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
-      <td>Contact missing ORCID: Barrette, Jessy</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
-      <td>Contact missing ORCID: Evans, Wiley</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution record of surface seawater CO2 content from June 2017 to April 2019 collected in Sitka Harbor, Alaska, USA</td>
-      <td>Contact missing ORCID: Evans, Wiley</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>High-resolution record of CO2 content from October 2013 to December 2018 measured in seawater entering the Alutiiq Pride Shellfish Hatchery in Seward, Alaska, USA</td>
-      <td>Contact missing ORCID: Evans, Wiley</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
       <td>Contact missing ORCID: Hare, Alex</td>
     </tr>
@@ -178,11 +158,6 @@ This page present the list of all the records associated with the issue: **Conta
     <tr>
       <td>2024-07-23</td>
       <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
-      <td>Contact missing ORCID: McInnes, Will</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Imagery and elevation models monitoring algae research sites - 2017 - Calvert Island - British Columbia - Canada</td>
       <td>Contact missing ORCID: McInnes, Will</td>
     </tr>
   </tbody>
