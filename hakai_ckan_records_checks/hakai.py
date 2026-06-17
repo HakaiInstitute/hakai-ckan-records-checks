@@ -98,6 +98,14 @@ def test_record_requirements(record) -> pd.DataFrame:
                     f"DOI is not redirecting to Hakai's catalogue: {response.url}",
                 )
 
+    # Related Works — flag malformed DOI URLs (https://10.x instead of https://doi.org/10.x)
+    for agg in record.get("aggregation-info", []):
+        code = agg.get("aggregate-dataset-identifier_code", "")
+        _test(
+            not re.match(r"https?://10\.", code, re.IGNORECASE),
+            f"Malformed related work identifier (missing doi.org): {code}",
+        )
+
     # Contacts
     contacts = record.get("cited-responsible-party", []) + record.get(
         "metadata-point-of-contact", []
