@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No fu
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-15</td>
+      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
       <td>2026-06-12</td>
       <td>Kelp forest communities along an otter gradient</td>
       <td>No funder</td>
@@ -41,11 +46,6 @@ This page present the list of all the records associated with the issue: **No fu
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2026-06-03</td>
-      <td>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
       <td>2026-05-27</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>No funder</td>
@@ -57,17 +57,7 @@ This page present the list of all the records associated with the issue: **No fu
     </tr>
     <tr>
       <td>2024-12-05</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
       <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>
@@ -81,8 +71,8 @@ This page present the list of all the records associated with the issue: **No fu
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
+      <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>No funder</td>
     </tr>
     <tr>

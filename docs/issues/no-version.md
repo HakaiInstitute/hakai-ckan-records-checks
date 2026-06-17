@@ -16,6 +16,21 @@ This page present the list of all the records associated with the issue: **No ve
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-15</td>
+      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2026-06-15</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2026-06-15</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
+      <td>No version</td>
+    </tr>
+    <tr>
       <td>2026-06-12</td>
       <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
       <td>No version</td>
@@ -53,11 +68,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2026-06-03</td>
       <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -102,11 +112,6 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</td>
       <td>No version</td>
     </tr>
@@ -146,43 +151,13 @@ This page present the list of all the records associated with the issue: **No ve
       <td>No version</td>
     </tr>
     <tr>
-      <td>2024-12-05</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -242,16 +217,6 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
       <td>No version</td>
     </tr>
@@ -263,11 +228,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-24</td>
       <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -287,11 +247,6 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Trails - Calvert Island - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
@@ -306,23 +261,13 @@ This page present the list of all the records associated with the issue: **No ve
       <td>No version</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
+      <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>No version</td>
     </tr>
     <tr>

@@ -1,19 +1,17 @@
 ---
-title: Stage-Discharge Time Series - Calvert Island - Archived Version 2.0
+title: Stage-Discharge Time Series - Calvert Island - Archived
 hide:
   - navigation
   - toc
 ---
 
-# Stage-Discharge Time Series - Calvert Island - Archived Version 2.0
+# Stage-Discharge Time Series - Calvert Island - Archived
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a</a>
 
-| Issue                                                                              |
-|:-----------------------------------------------------------------------------------|
-| Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record |
-| Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record   |
-| Contact missing ORCID: Korver, Maartje                                             |
+| Issue                                                                            |
+|:---------------------------------------------------------------------------------|
+| Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MUVFTFdKeHlaQ29nNTQ" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
@@ -29,7 +27,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Stage-Discharge Time Series - Calvert Island - Archived Version 2.0"
+            "name" : "Stage-Discharge Time Series - Calvert Island - Archived"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.1383514404297, 51.60223926037915], [-127.96669006347653, 51.60223926037915], [-127.96669006347653, 51.68660524501087], [-128.1383514404297, 51.68660524501087], [-128.1383514404297, 51.60223926037915]]]}
     }

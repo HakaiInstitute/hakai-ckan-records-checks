@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **No DO
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-15</td>
+      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2026-06-15</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2026-06-12</td>
       <td>Pruth Bay Oceanographic Mooring on Calvert Island Provisional</td>
       <td>No DOI defined</td>
@@ -36,11 +46,6 @@ This page present the list of all the records associated with the issue: **No DO
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>2026-06-10</td>
-      <td>Herring Survey Data - 2016 - BC Central Coast</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
       <td>2026-06-09</td>
       <td>Eelgrass Extent 2014 - Central Coast</td>
       <td>No DOI defined</td>
@@ -58,11 +63,6 @@ This page present the list of all the records associated with the issue: **No DO
     <tr>
       <td>2026-06-09</td>
       <td>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-06-09</td>
-      <td>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
@@ -111,23 +111,8 @@ This page present the list of all the records associated with the issue: **No DO
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>2026-02-20</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-12-05</td>
-      <td>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
       <td>2024-12-05</td>
       <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</td>
       <td>No DOI defined</td>
     </tr>
     <tr>
@@ -152,27 +137,7 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2014 - NW Calvert Island</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Trails - Calvert Island - British Columbia - Canada</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</td>
       <td>No DOI defined</td>
     </tr>
   </tbody>

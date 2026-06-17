@@ -21,11 +21,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-06-01</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</td>
-      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
-    </tr>
-    <tr>
       <td>2026-05-26</td>
       <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS returned status_code=404</td>
@@ -41,14 +36,14 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-04-13</td>
-      <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</td>
-      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
-    </tr>
-    <tr>
       <td>2026-02-20</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2025-10-23</td>
+      <td>MusselSeg: Semantic Segmentation for Rocky Intertidal Mussel Habitat</td>
+      <td>Invalid Resource URL: https://huggingface.co/datasets/HakaiInstitute/mussel-seg-1024-1024 returned status_code=429</td>
     </tr>
     <tr>
       <td>2025-05-16</td>
@@ -64,6 +59,11 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2025-05-08</td>
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Invalid Resource URL: http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation returned status_code=timeout</td>
     </tr>
   </tbody>
 </table>

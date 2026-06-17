@@ -6,36 +6,36 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-06-16*
+*Last updated: 2026-06-17*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">264</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">266</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-1 since 2026-06-15</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+2 since 2026-06-16</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">163</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">144</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-1 since 2026-06-15</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-19 since 2026-06-16</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">87.9%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">90.6%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-15</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+2.7% since 2026-06-16</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 10.0, 17.0, 23.0, 32.0, 69.0, 85.0], "textposition": "outside", "x": [2, 10, 17, 23, 32, 69, 85], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "Invalid Resource URL", "No funder", "Contact missing ORCID", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 10.0, 15.0, 25.0, 58.0, 84.0], "textposition": "outside", "x": [2, 10, 15, 25, 58, 84], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "Invalid Resource URL", "No funder", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -75,6 +75,12 @@ hide:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5e4f925a-9cf2-4e33-ae22-75c5b326ce6c'>Time series of eelgrass (Zostera marina) meadow extent derived from drone surveys, Central Coast, British Columbia</a></td>
+      <td><a title='6eb46e26-dac5-4964-8b29-8e8541381aac' href='records/6eb46e26-dac5-4964-8b29-8e8541381aac'>1</a></td>
+      <td>Nearshore, Geospatial</td>
+      <td>2026-06-16</td>
+    </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b45dbc9d-bf7a-4734-86cd-3397e7c9ac62'>Sea surface temperature data in False Creek, British Columbia</a></td>
       <td><a title='05dac0a6-a26c-4cb5-895d-132b5e2134cd' href='records/05dac0a6-a26c-4cb5-895d-132b5e2134cd'>1</a></td>
@@ -116,12 +122,6 @@ hide:
       <td><a title='caf810f0-228a-4827-856c-f9b07a2377af' href='records/caf810f0-228a-4827-856c-f9b07a2377af'>4</a></td>
       <td>Oceanography</td>
       <td>2026-05-26</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ba41d935-f293-447f-be3d-7098e569b431'>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Research)</a></td>
-      <td><a title='613ba2f9-b21d-445f-8eaa-f42950c9350b' href='records/613ba2f9-b21d-445f-8eaa-f42950c9350b'>1</a></td>
-      <td>Oceanography, Nearshore, Watersheds, Juvenile Salmon Program</td>
-      <td>2026-04-13</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fb5c9e1e-a911-46b7-8c1d-e34215a105ed'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</a></td>
@@ -190,12 +190,6 @@ hide:
       <td>2026-05-15</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e9c97a3-4bf1-4852-81b6-d74cedf2c94c'>Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
-      <td><a title='c5e60545-c6f2-4945-af0a-21812ba5f0d9' href='records/c5e60545-c6f2-4945-af0a-21812ba5f0d9'>1</a></td>
-      <td>Genomics</td>
-      <td>2026-05-26</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_291b98a4-d868-462c-852a-d6cf79ecf6ce'>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
       <td><a title='39cc31fc-aa41-43f5-bfe7-48ea173b1f1e' href='records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e'>2</a></td>
       <td>Nearshore, Geospatial</td>
@@ -245,9 +239,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
-      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='records/d70bcd3d-dc07-479f-856f-ad70d11c51f1'>3</a></td>
+      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='records/d70bcd3d-dc07-479f-856f-ad70d11c51f1'>2</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>2025-05-21</td>
+      <td>2026-06-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e'>Calliarthron 2023 Experiment - Environmental Data</a></td>
@@ -316,6 +310,12 @@ hide:
       <td>2025-05-12</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48acba27-5e01-4b41-9a0e-f3fc8d809a13'>MusselSeg: Semantic Segmentation for Rocky Intertidal Mussel Habitat</a></td>
+      <td><a title='e8414189-54c9-4311-874e-b97f9b7916ae' href='records/e8414189-54c9-4311-874e-b97f9b7916ae'>1</a></td>
+      <td>Geospatial, Nearshore</td>
+      <td>2025-10-23</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
       <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='records/45a45b5d-e45c-453c-9d36-036f69d533ae'>2</a></td>
       <td>Geospatial</td>
@@ -341,9 +341,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a'>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a title='f1aee211-bfab-46fd-b650-c5cacb782f40' href='records/f1aee211-bfab-46fd-b650-c5cacb782f40'>3</a></td>
+      <td><a title='f1aee211-bfab-46fd-b650-c5cacb782f40' href='records/f1aee211-bfab-46fd-b650-c5cacb782f40'>2</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2025-04-23</td>
+      <td>2026-06-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43422dc8-2573-4f60-bf87-df447d57ab7a'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
@@ -356,12 +356,6 @@ hide:
       <td><a title='c4d3a53a-faa2-4c3e-bcd3-cfdb0aef0078' href='records/c4d3a53a-faa2-4c3e-bcd3-cfdb0aef0078'>1</a></td>
       <td>Oceanography</td>
       <td>2024-10-09</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52797e17-c0ed-46a4-9dcd-e34f801c6205'>Fucus Dynamics - Point Intercept Surveys - BC Central Coast</a></td>
-      <td><a title='a8f61379-14f9-4ccc-bc9b-4408ba8340d7' href='records/a8f61379-14f9-4ccc-bc9b-4408ba8340d7'>1</a></td>
-      <td>Nearshore</td>
-      <td>2024-08-30</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e'>Motile Invertebrate Surveys - BC Central Coast</a></td>
@@ -406,22 +400,16 @@ hide:
       <td>2024-07-24</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c449900-c726-4e9a-b241-707711e253a7'>Hakai Institute Juvenile Salmon Program Time Series</a></td>
-      <td><a title='16e0a0d9-b817-4d83-b9e0-e2c8cd016e74' href='records/16e0a0d9-b817-4d83-b9e0-e2c8cd016e74'>3</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6f6560e7-7497-4685-9df2-51c66080b7c9'>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</a></td>
+      <td><a title='582c6ff0-029e-44ba-8ba1-d3f2f39f2005' href='records/582c6ff0-029e-44ba-8ba1-d3f2f39f2005'>1</a></td>
       <td>Juvenile Salmon Program</td>
-      <td>2025-01-18</td>
+      <td>2024-06-27</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b63374a9-2288-4512-9820-5d1b44d2b502'>Spatial extent of eelgrass (Zostera marina) meadows from monitoring sites within Gwaii Haanas (2016, 2017, 2018) mapped using remote piloted aerial systems</a></td>
       <td><a title='e40c42ef-cabf-4969-aeb3-263407a91a68' href='records/e40c42ef-cabf-4969-aeb3-263407a91a68'>1</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2024-07-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program, Provisional</a></td>
-      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295'>1</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>2026-06-01</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_16ae186b-9d99-42cf-b18d-09f9bb0501d7'>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</a></td>
@@ -526,12 +514,6 @@ hide:
       <td>2024-07-23</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c89e35df-8a16-4efc-ae29-15f4e3da8a55'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</a></td>
-      <td><a title='6ce6e697-d539-41b1-9771-b5e859a6ff50' href='records/6ce6e697-d539-41b1-9771-b5e859a6ff50'>1</a></td>
-      <td>Nearshore</td>
-      <td>2024-11-29</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c1b9801b-742b-41b6-a69b-5e7ae6f09bce'>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</a></td>
       <td><a title='d3c4dde5-38b2-480d-a4e7-228bde9eb537' href='records/d3c4dde5-38b2-480d-a4e7-228bde9eb537'>2</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
@@ -556,22 +538,10 @@ hide:
       <td>2026-06-09</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_de9b2a6d-9ba0-4384-9adf-22abc0eb061f'>Stream Event Sampling - Calvert Island - 2015-2018</a></td>
-      <td><a title='324c5ae3-b0ac-4302-b701-598ebbb25870' href='records/324c5ae3-b0ac-4302-b701-598ebbb25870'>6</a></td>
-      <td>Watersheds</td>
-      <td>2024-12-05</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
-      <td><a title='e1b86825-d43b-47e1-bf45-ab791f44772d' href='records/e1b86825-d43b-47e1-bf45-ab791f44772d'>2</a></td>
+      <td><a title='e1b86825-d43b-47e1-bf45-ab791f44772d' href='records/e1b86825-d43b-47e1-bf45-ab791f44772d'>1</a></td>
       <td>Airborne Coastal Observatory</td>
-      <td>2024-07-24</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_184b2f81-d87f-4615-a026-15b87930d15c'>Aquatic carbon flux data package for Oliver et al. 2017</a></td>
-      <td><a title='1be9154a-1497-42eb-8821-b0d63000814c' href='records/1be9154a-1497-42eb-8821-b0d63000814c'>3</a></td>
-      <td>Watersheds</td>
-      <td>2024-07-24</td>
+      <td>2026-06-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_23bc8c35-2e4e-4382-9296-a52d5ea49889'>Discharge Time Series (2013-2017) – Calvert Island</a></td>
@@ -598,12 +568,6 @@ hide:
       <td>2024-07-24</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5b0b2db4-21d7-48b8-9616-255ba2267868'>Biogeochemical Sampling of Streams in the Kwakshua Watersheds of Calvert and Hecate Islands, BC: 2013-2019. Version 1.0</a></td>
-      <td><a title='c06cb551-351c-456f-8d0c-c8aab9aec162' href='records/c06cb551-351c-456f-8d0c-c8aab9aec162'>1</a></td>
-      <td>Watersheds</td>
-      <td>2024-07-24</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6844547c-708e-437b-aef7-157b4d9d9bcb'>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada</a></td>
       <td><a title='3c4cc294-1e9a-410e-81b0-0d9461e4b1c9' href='records/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9'>1</a></td>
       <td>Watersheds, Oceanography</td>
@@ -622,22 +586,10 @@ hide:
       <td>2024-07-23</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e'>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019 v2.0</a></td>
-      <td><a title='49ec67e4-f7be-4658-b2b6-e4b57d9901df' href='records/49ec67e4-f7be-4658-b2b6-e4b57d9901df'>2</a></td>
-      <td>Watersheds</td>
-      <td>2024-07-24</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='records/18911dee-9ca0-408b-8999-28da3e3dde7a'>2</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>2024-07-24</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018'>Stage-Discharge Time Series - Calvert Island - Archived Version 1.0</a></td>
-      <td><a title='6f261f49-dd1b-4250-ac59-e88c3d1b2470' href='records/6f261f49-dd1b-4250-ac59-e88c3d1b2470'>5</a></td>
-      <td>Watersheds</td>
-      <td>2024-12-05</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
@@ -647,9 +599,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4'>Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</a></td>
-      <td><a title='39f8b771-eb65-420f-b64e-742d94bbebf0' href='records/39f8b771-eb65-420f-b64e-742d94bbebf0'>2</a></td>
+      <td><a title='39f8b771-eb65-420f-b64e-742d94bbebf0' href='records/39f8b771-eb65-420f-b64e-742d94bbebf0'>1</a></td>
       <td>Watersheds</td>
-      <td>2026-06-03</td>
+      <td>2026-06-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
@@ -664,12 +616,6 @@ hide:
       <td>2024-07-24</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019 Version 4.1</a></td>
-      <td><a title='67871f51-9f69-44f6-9206-747e4d2a1553' href='records/67871f51-9f69-44f6-9206-747e4d2a1553'>1</a></td>
-      <td>Watersheds</td>
-      <td>2024-12-05</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897'>Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</a></td>
       <td><a title='3a6e9472-1a85-48e5-8ac6-792945e03045' href='records/3a6e9472-1a85-48e5-8ac6-792945e03045'>1</a></td>
       <td>Watersheds</td>
@@ -680,12 +626,6 @@ hide:
       <td><a title='21ee0a17-9de0-49d7-9b04-cb9d5f557e9f' href='records/21ee0a17-9de0-49d7-9b04-cb9d5f557e9f'>1</a></td>
       <td>Geospatial</td>
       <td>2026-06-11</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c688f31b-f82c-48f1-a707-5025c37a9b5c'>UAV Imagery - 2016 - Coastal British Columbia - Canada</a></td>
-      <td><a title='5b4d3afa-e0bd-417f-ba08-437cc7e7f864' href='records/5b4d3afa-e0bd-417f-ba08-437cc7e7f864'>2</a></td>
-      <td>Geospatial</td>
-      <td>2024-07-24</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e'>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</a></td>
@@ -718,12 +658,6 @@ hide:
       <td>2024-07-24</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
-      <td><a title='b3e5b67d-2425-4a4f-80b0-d1076df5492a' href='records/b3e5b67d-2425-4a4f-80b0-d1076df5492a'>4</a></td>
-      <td>Geospatial</td>
-      <td>2024-07-23</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
       <td><a title='9001166d-e7eb-410f-92d6-17df0593cb2e' href='records/9001166d-e7eb-410f-92d6-17df0593cb2e'>4</a></td>
       <td>Geospatial</td>
@@ -732,12 +666,6 @@ hide:
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c'>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</a></td>
       <td><a title='f9ff815c-c57a-4750-8f80-25f5e145c8c0' href='records/f9ff815c-c57a-4750-8f80-25f5e145c8c0'>3</a></td>
-      <td>Geospatial</td>
-      <td>2024-07-24</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e66d7bf7-6ba1-44ed-8ee5-2561fca92164'>Kelp Canopy Extent - 2014 - NW Calvert Island</a></td>
-      <td><a title='fd691f42-76e9-4e18-80b1-9fb0d6960d95' href='records/fd691f42-76e9-4e18-80b1-9fb0d6960d95'>4</a></td>
       <td>Geospatial</td>
       <td>2024-07-24</td>
     </tr>
@@ -760,12 +688,6 @@ hide:
       <td>2026-05-26</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2d3d616-9ee2-451f-8584-14801b4c6fd0'>Bathymetric Survey - Northwest Calvert Island</a></td>
-      <td><a title='e1c64faf-88ac-4d28-8144-fad156971b4e' href='records/e1c64faf-88ac-4d28-8144-fad156971b4e'>3</a></td>
-      <td>Geospatial</td>
-      <td>2026-06-03</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9'>Owikeno Lake Bathymetric Survey</a></td>
       <td><a title='2fe3bd2a-973e-48db-a599-6d44ca1ef0ad' href='records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad'>1</a></td>
       <td>Geospatial</td>
@@ -784,16 +706,10 @@ hide:
       <td>2026-06-03</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
-      <td><a title='92e1c9df-0419-4d91-93c2-b9c85f4ce74e' href='records/92e1c9df-0419-4d91-93c2-b9c85f4ce74e'>2</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>2024-07-23</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62de21ed-90fb-422a-9c55-29c513a00f95'>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
-      <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='records/e3205958-52b4-4c42-a02d-34d713a20a53'>2</a></td>
+      <td><a title='e3205958-52b4-4c42-a02d-34d713a20a53' href='records/e3205958-52b4-4c42-a02d-34d713a20a53'>1</a></td>
       <td>Airborne Coastal Observatory</td>
-      <td>2024-07-23</td>
+      <td>2026-06-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_95bee6a0-ae38-4427-b5b2-5cc5835df70d'>North Vancouver Island Survey - 2019 - Airborne Coastal Observatory</a></td>
@@ -804,12 +720,6 @@ hide:
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a60a0468-3f56-4f22-abd4-5268fcfb9744'>Owikeno Basin LiDAR Survey - 2019 - Airborne Coastal Observatory</a></td>
       <td><a title='727b8863-91cc-4765-b0c0-80cb74b11182' href='records/727b8863-91cc-4765-b0c0-80cb74b11182'>1</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>2026-06-09</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6'>Fountain Valley LiDAR Data - 2019 & 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
-      <td><a title='5b78f1a7-6adb-4610-9ebe-019c3da65ae8' href='records/5b78f1a7-6adb-4610-9ebe-019c3da65ae8'>1</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>2026-06-09</td>
     </tr>
@@ -862,12 +772,6 @@ hide:
       <td>2024-07-24</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
-      <td><a title='876027b6-cf37-4d49-8c3d-22d40b5f5b0b' href='records/876027b6-cf37-4d49-8c3d-22d40b5f5b0b'>2</a></td>
-      <td>Oceanography</td>
-      <td>2026-02-20</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d200376b-7dd8-4778-b3f5-379243bf93b8'>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</a></td>
       <td><a title='1f798a06-9c01-4025-93c6-b1a9f8ce6832' href='records/1f798a06-9c01-4025-93c6-b1a9f8ce6832'>1</a></td>
       <td>Oceanography</td>
@@ -892,12 +796,6 @@ hide:
       <td>2024-07-24</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d342e016-1e9a-448a-bc1a-af53fe8d5dfd'>Herring Survey Data - 2016 - BC Central Coast</a></td>
-      <td><a title='2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae' href='records/2dd906f9-e0fe-4b8c-afe6-c5f2bf7400ae'>1</a></td>
-      <td>Geospatial</td>
-      <td>2026-06-10</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f462be7f-ab53-409e-8f8c-9b9fecc5e16e'>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</a></td>
       <td><a title='c2b05382-684f-4349-a64b-b20521223574' href='records/c2b05382-684f-4349-a64b-b20521223574'>3</a></td>
       <td>Geospatial</td>
@@ -911,7 +809,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='records/b6621a3c-1700-4015-a359-56b6c7155835'>6</a></td>
+      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='records/b6621a3c-1700-4015-a359-56b6c7155835'>7</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
       <td>2024-07-24</td>
     </tr>
@@ -940,10 +838,10 @@ hide:
       <td>2024-07-24</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a'>Stage-Discharge Time Series - Calvert Island - Archived Version 2.0</a></td>
-      <td><a title='a0ada4b0-faea-4dcd-b9bf-d7ff212315fb' href='records/a0ada4b0-faea-4dcd-b9bf-d7ff212315fb'>3</a></td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1347af6c-aedf-4ec6-bd37-ed508df6c40a'>Stage-Discharge Time Series - Calvert Island - Archived</a></td>
+      <td><a title='a0ada4b0-faea-4dcd-b9bf-d7ff212315fb' href='records/a0ada4b0-faea-4dcd-b9bf-d7ff212315fb'>1</a></td>
       <td>Watersheds</td>
-      <td>2024-07-24</td>
+      <td>2026-06-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_62336906-31e6-4c32-968c-2312e703e08f'>Underwater Video Transects - Calvert Island - 2016</a></td>
@@ -976,22 +874,10 @@ hide:
       <td>2024-07-23</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1769a04e-b77b-409b-8e48-bc2098bbad3e'>Juvenile Salmon Migration Dynamics in the Discovery Islands and Johnstone Strait; 2015–2017</a></td>
-      <td><a title='f6ad9487-d689-41a3-b610-352224d7759b' href='records/f6ad9487-d689-41a3-b610-352224d7759b'>2</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>2024-07-24</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7ddae37a-e706-45d2-8060-8306300a98c8'>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</a></td>
       <td><a title='7c2b8668-75a3-4fc8-bff3-bdae5d95f52d' href='records/7c2b8668-75a3-4fc8-bff3-bdae5d95f52d'>2</a></td>
       <td>Oceanography</td>
       <td>2026-02-20</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_89b3c6d8-983b-48f4-a0b5-04eea65602f6'>Juvenile pink and chum salmon diet study – Discovery Islands and Johnstone Strait – May to July 2015 and 2016</a></td>
-      <td><a title='2a104224-c3eb-4778-adc3-865b36471b1b' href='records/2a104224-c3eb-4778-adc3-865b36471b1b'>2</a></td>
-      <td>Juvenile Salmon Program</td>
-      <td>2024-07-24</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3732444b-7a97-4d9c-9f2e-2fc6f9618bae'>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</a></td>
@@ -1045,13 +931,13 @@ hide:
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</a></td>
       <td><a title='5143957b-ee18-44d3-8000-a9c8f9a34a0d' href='records/5143957b-ee18-44d3-8000-a9c8f9a34a0d'>2</a></td>
       <td>Oceanography</td>
-      <td>2026-02-20</td>
+      <td>2026-06-15</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='records/79433a1f-ec07-4cd5-a31a-8c2c53069085'>2</a></td>
+      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='records/79433a1f-ec07-4cd5-a31a-8c2c53069085'>1</a></td>
       <td>Oceanography</td>
-      <td>2026-06-03</td>
+      <td>2026-06-15</td>
     </tr>
   </tbody>
 </table>
