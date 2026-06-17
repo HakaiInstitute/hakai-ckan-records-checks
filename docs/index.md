@@ -11,31 +11,31 @@ hide:
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">266</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">265</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+2 since 2026-06-16</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-1 since 2026-06-17</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">144</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">139</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-19 since 2026-06-16</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-5 since 2026-06-17</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">90.6%</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">90.9%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+2.7% since 2026-06-16</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.3% since 2026-06-17</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 10.0, 15.0, 25.0, 58.0, 84.0], "textposition": "outside", "x": [2, 10, 15, 25, 58, 84], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "Invalid Resource URL", "No funder", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 8.0, 14.0, 24.0, 56.0, 81.0], "textposition": "outside", "x": [1, 2, 8, 14, 24, 56, 81], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "Duplicate DOI shared with another record", "Invalid Resource URL", "No funder", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -235,7 +235,7 @@ hide:
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_31ac855d-bf15-42d8-b20d-754638202c66'>Sea Stars 2024 Experiment - Environmental Data</a></td>
       <td><a title='da040f55-984d-490d-b917-a67856de4bac' href='records/da040f55-984d-490d-b917-a67856de4bac'>1</a></td>
       <td>Wet Lab</td>
-      <td>2025-05-16</td>
+      <td>2026-06-16</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
@@ -308,12 +308,6 @@ hide:
       <td><a title='357b017c-6add-4bde-95d0-386bdbab92b3' href='records/357b017c-6add-4bde-95d0-386bdbab92b3'>2</a></td>
       <td>Sentinels of Change</td>
       <td>2025-05-12</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_48acba27-5e01-4b41-9a0e-f3fc8d809a13'>MusselSeg: Semantic Segmentation for Rocky Intertidal Mussel Habitat</a></td>
-      <td><a title='e8414189-54c9-4311-874e-b97f9b7916ae' href='records/e8414189-54c9-4311-874e-b97f9b7916ae'>1</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>2025-10-23</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
@@ -440,12 +434,6 @@ hide:
       <td><a title='3a8b11a2-5deb-469e-824b-32ab0eb5c2ca' href='records/3a8b11a2-5deb-469e-824b-32ab0eb5c2ca'>2</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4a09d56b-b120-46c8-9263-ae3c42a02e9b'>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</a></td>
-      <td><a title='96b5a7f2-5f23-413a-b060-d268bcff83ba' href='records/96b5a7f2-5f23-413a-b060-d268bcff83ba'>5</a></td>
-      <td>Oceanography</td>
-      <td>2026-06-03</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be'>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
@@ -602,12 +590,6 @@ hide:
       <td><a title='39f8b771-eb65-420f-b64e-742d94bbebf0' href='records/39f8b771-eb65-420f-b64e-742d94bbebf0'>1</a></td>
       <td>Watersheds</td>
       <td>2026-06-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9'>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
-      <td><a title='b36a7c12-cb56-46b7-8241-9b52ac30c766' href='records/b36a7c12-cb56-46b7-8241-9b52ac30c766'>3</a></td>
-      <td>Airborne Coastal Observatory</td>
-      <td>2024-07-24</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d'>LiDAR Derived Watersheds with Metrics - Calvert Island</a></td>
@@ -808,21 +790,9 @@ hide:
       <td>2026-05-14</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
-      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='records/b6621a3c-1700-4015-a359-56b6c7155835'>7</a></td>
-      <td>Geospatial, Airborne Coastal Observatory</td>
-      <td>2024-07-24</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6'>Mean Tidal Current - Coastal British Columbia - Canada</a></td>
       <td><a title='646dd927-3248-4fc9-970c-abea15f7d304' href='records/646dd927-3248-4fc9-970c-abea15f7d304'>2</a></td>
       <td>Geospatial, Oceanography</td>
-      <td>2026-05-27</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3dc0d46c-7afe-4379-901d-37a787c1c204'>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</a></td>
-      <td><a title='f15f9c5e-08a6-4e9f-8ff5-a6126447e138' href='records/f15f9c5e-08a6-4e9f-8ff5-a6126447e138'>1</a></td>
-      <td>Geospatial</td>
       <td>2026-05-27</td>
     </tr>
     <tr>
@@ -833,7 +803,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f68be641-0017-4311-b4de-5d0aed9e2b57'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
-      <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='records/d576481a-4f51-40eb-85e9-fb95933f94cd'>3</a></td>
+      <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='records/d576481a-4f51-40eb-85e9-fb95933f94cd'>4</a></td>
       <td>Geospatial, 100 Islands</td>
       <td>2024-07-24</td>
     </tr>

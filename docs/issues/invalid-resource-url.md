@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-16</td>
+      <td>Sea Stars 2024 Experiment - Environmental Data</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
+    </tr>
+    <tr>
       <td>2026-06-09</td>
       <td>Stream Event Sampling - Calvert Island</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
@@ -41,29 +46,14 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
     </tr>
     <tr>
-      <td>2025-10-23</td>
-      <td>MusselSeg: Semantic Segmentation for Rocky Intertidal Mussel Habitat</td>
-      <td>Invalid Resource URL: https://huggingface.co/datasets/HakaiInstitute/mussel-seg-1024-1024 returned status_code=429</td>
-    </tr>
-    <tr>
       <td>2025-05-16</td>
       <td>iTrack Oysters September 2023 Experiment - Environmental and Oyster Health Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404</td>
     </tr>
     <tr>
-      <td>2025-05-16</td>
-      <td>Sea Stars 2024 Experiment - Environmental Data</td>
-      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
-    </tr>
-    <tr>
       <td>2025-05-08</td>
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Invalid Resource URL: http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation returned status_code=timeout</td>
     </tr>
   </tbody>
 </table>

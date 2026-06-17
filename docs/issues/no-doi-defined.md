@@ -71,11 +71,6 @@ This page present the list of all the records associated with the issue: **No DO
       <td>No DOI defined</td>
     </tr>
     <tr>
-      <td>2026-05-27</td>
-      <td>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
       <td>2026-05-26</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
       <td>No DOI defined</td>
