@@ -9,7 +9,7 @@ from hakai_ckan_records_checks.hakai import _fuzzy_match
 DATACITE_API_URL = "https://api.datacite.org/dois"
 
 # relationType values auto-populated by DataCite (not manually curated)
-_SKIP_RELATION_TYPES = {"Cites", "IsCitedBy", "IsSupplementTo", "IsSupplementedBy"}
+_SKIP_RELATION_TYPES = {"Cites", "IsCitedBy"}
 
 
 def _normalize_identifier(identifier, id_type=""):
