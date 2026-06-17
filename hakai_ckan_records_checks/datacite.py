@@ -21,6 +21,9 @@ def _normalize_identifier(identifier, id_type=""):
         identifier = re.sub(
             r"https?://(dx\.)?doi\.org/", "", identifier, flags=re.IGNORECASE
         )
+    elif re.match(r"https?://10\.", identifier, re.IGNORECASE):
+        # Malformed DOI URL missing doi.org (e.g. https://10.21966/abc instead of https://doi.org/10.21966/abc)
+        identifier = re.sub(r"https?://", "", identifier, flags=re.IGNORECASE)
     return identifier.lower()
 
 

@@ -113,7 +113,20 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         summary = hakai.get_record_summary(record["result"])
 
         logger.debug("Getting citation count for DOI")
-        datacite_metadata, error_msg = Datacite().get_doi(summary.get("doi"))
+        # Prefer a Hakai DOI (10.21966/) for DataCite lookups; the primary DOI may be
+        # an external archive DOI (e.g. NOAA 10.25921/) whose DataCite record lacks
+        # the related-identifier metadata that the Hakai record carries.
+        hakai_doi = summary.get("doi") or ""
+        if not hakai_doi.startswith("10.21966/"):
+            hakai_doi = next(
+                (
+                    a.get("aggregate-dataset-identifier_code", "").replace("https://doi.org/", "")
+                    for a in record["result"].get("aggregation-info", [])
+                    if "10.21966/" in a.get("aggregate-dataset-identifier_code", "")
+                ),
+                hakai_doi,
+            )
+        datacite_metadata, error_msg = Datacite().get_doi(hakai_doi)
         summary.update(get_datacite_summary(datacite_metadata))
         if error_msg:
             test_results.append([error_msg])
