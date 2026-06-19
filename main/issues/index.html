@@ -400,7 +400,7 @@
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 8.0, 14.0, 24.0, 56.0, 81.0], "textposition": "outside", "x": [1, 2, 8, 14, 24, 56, 81], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "Duplicate DOI shared with another record", "Invalid Resource URL", "No funder", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 6.0, 8.0, 14.0, 24.0, 55.0, 77.0], "textposition": "outside", "x": [2, 6, 8, 14, 24, 55, 77], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "Malformed related work identifier (missing doi.org)", "Invalid Resource URL", "No funder", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -501,7 +501,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_33c8ce77-0674-4933-a305-01a25d253f70">Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</a></td>
 <td>2026-04-24</td>
 <td>2026-04-28</td>
-<td><a href="../records/e14d0456-297e-4636-8e7c-c615791b165e" title="e14d0456-297e-4636-8e7c-c615791b165e">2</a></td>
+<td><a href="../records/e14d0456-297e-4636-8e7c-c615791b165e" title="e14d0456-297e-4636-8e7c-c615791b165e">1</a></td>
 </tr>
 <tr>
 <th>252</th>
@@ -571,7 +571,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_84820f31-b6db-479c-a47e-f22f2899b4d2">Biogeochemical Sampling of 28 Streams on Vancouver Island</a></td>
 <td>2026-03-20</td>
 <td>2026-04-24</td>
-<td><a href="../records/0e92249d-74e1-4253-a8a5-876d08a8ff65" title="0e92249d-74e1-4253-a8a5-876d08a8ff65">3</a></td>
+<td><a href="../records/0e92249d-74e1-4253-a8a5-876d08a8ff65" title="0e92249d-74e1-4253-a8a5-876d08a8ff65">4</a></td>
 </tr>
 <tr>
 <th>242</th>
@@ -585,7 +585,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_a924b31b-9882-4abe-8d8e-e875dbbbec82">Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</a></td>
 <td>2026-02-27</td>
 <td>2026-05-26</td>
-<td><a href="../records/5dea887f-9b1d-4b20-a59a-3d4a2877a52c" title="5dea887f-9b1d-4b20-a59a-3d4a2877a52c">2</a></td>
+<td><a href="../records/5dea887f-9b1d-4b20-a59a-3d4a2877a52c" title="5dea887f-9b1d-4b20-a59a-3d4a2877a52c">4</a></td>
 </tr>
 <tr>
 <th>241</th>
@@ -717,22 +717,22 @@
 <th>221</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_39a83551-ab8e-45be-a564-cece4b229371">Zooplankton taxonomic abundance and biomass along the BC Coast</a></td>
 <td>2025-08-12</td>
-<td>2026-02-20</td>
-<td><a href="../records/139df6dd-772b-424f-b830-30a5ba6abfc6" title="139df6dd-772b-424f-b830-30a5ba6abfc6">4</a></td>
+<td>2026-06-17</td>
+<td><a href="../records/139df6dd-772b-424f-b830-30a5ba6abfc6" title="139df6dd-772b-424f-b830-30a5ba6abfc6">3</a></td>
 </tr>
 <tr>
 <th>222</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_dbb33efe-c207-4d9c-abef-2350595bf47a">Size-fractionated zooplankton biomass and isotopes along the BC coast</a></td>
 <td>2025-08-12</td>
 <td>2026-02-20</td>
-<td><a href="../records/186d3139-66a1-43f9-9ac7-c5607252146e" title="186d3139-66a1-43f9-9ac7-c5607252146e">2</a></td>
+<td><a href="../records/186d3139-66a1-43f9-9ac7-c5607252146e" title="186d3139-66a1-43f9-9ac7-c5607252146e">3</a></td>
 </tr>
 <tr>
 <th>220</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_d959f8f3-6d20-42fe-94da-be49bcd3aeca">Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</a></td>
 <td>2025-08-08</td>
 <td>2025-08-08</td>
-<td><a href="../records/262f25ca-ca11-4b10-bb6c-9aec117319a9" title="262f25ca-ca11-4b10-bb6c-9aec117319a9">2</a></td>
+<td><a href="../records/262f25ca-ca11-4b10-bb6c-9aec117319a9" title="262f25ca-ca11-4b10-bb6c-9aec117319a9">1</a></td>
 </tr>
 <tr>
 <th>218</th>
@@ -753,7 +753,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a">Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
 <td>2025-05-09</td>
 <td>2026-06-15</td>
-<td><a href="../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1" title="d70bcd3d-dc07-479f-856f-ad70d11c51f1">2</a></td>
+<td><a href="../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1" title="d70bcd3d-dc07-479f-856f-ad70d11c51f1">1</a></td>
 </tr>
 <tr>
 <th>214</th>
@@ -892,8 +892,8 @@
 <th>197</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_f25b00ba-ad63-42b3-8021-3fb6aa99baff">Fraser River Landslide Project - Sites of Concern 2024</a></td>
 <td>2024-11-18</td>
-<td>2024-11-20</td>
-<td><a href="../records/5c162406-4886-4a66-9d9c-12c3d0316e2e" title="5c162406-4886-4a66-9d9c-12c3d0316e2e">4</a></td>
+<td>2026-06-17</td>
+<td></td>
 </tr>
 <tr>
 <th>196</th>
@@ -906,7 +906,7 @@
 <th>195</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6756b221-28a0-4848-9761-905cbd558cd7">Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</a></td>
 <td>2024-10-10</td>
-<td>2024-10-10</td>
+<td>2026-06-17</td>
 <td><a href="../records/5042c858-d375-42f5-82e0-ee1e4da962b6" title="5042c858-d375-42f5-82e0-ee1e4da962b6">4</a></td>
 </tr>
 <tr>
@@ -1295,144 +1295,151 @@
 <td></td>
 </tr>
 <tr>
-<th>120</th>
+<th>119</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373">Stream temperature time-series – Calvert Island – 2013 - 2019</a></td>
 <td>2022-03-29</td>
 <td>2026-06-08</td>
 <td></td>
 </tr>
 <tr>
-<th>119</th>
+<th>118</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df">LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-06-15</td>
 <td><a href="../records/e1b86825-d43b-47e1-bf45-ab791f44772d" title="e1b86825-d43b-47e1-bf45-ab791f44772d">1</a></td>
 </tr>
 <tr>
-<th>121</th>
+<th>120</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_184b2f81-d87f-4615-a026-15b87930d15c">Aquatic carbon flux data package for Oliver et al. 2017</a></td>
 <td>2022-03-29</td>
 <td>2026-06-15</td>
 <td></td>
 </tr>
 <tr>
-<th>122</th>
+<th>121</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_23bc8c35-2e4e-4382-9296-a52d5ea49889">Discharge Time Series (2013-2017) – Calvert Island</a></td>
 <td>2022-03-29</td>
 <td>2026-06-03</td>
 <td><a href="../records/38fabad7-d7d2-405f-aa4c-592ef064895f" title="38fabad7-d7d2-405f-aa4c-592ef064895f">1</a></td>
 </tr>
 <tr>
-<th>124</th>
+<th>123</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95">Watersheds of the northern Pacific coastal temperate rainforest margin</a></td>
 <td>2022-03-29</td>
 <td>2026-06-03</td>
 <td></td>
 </tr>
 <tr>
-<th>123</th>
+<th>122</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8">Ecosystem Comparison Plots - Calvert Island</a></td>
 <td>2022-03-29</td>
 <td>2024-07-24</td>
 <td><a href="../records/d8754c99-a540-4085-8c66-d9447da5f6e9" title="d8754c99-a540-4085-8c66-d9447da5f6e9">2</a></td>
 </tr>
 <tr>
-<th>125</th>
+<th>124</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_395aa495-de81-4947-b1c5-2c98172a6def">High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</a></td>
 <td>2022-03-29</td>
 <td>2024-07-24</td>
 <td><a href="../records/2b33a5f0-1172-41e4-8330-b4c77d1665c7" title="2b33a5f0-1172-41e4-8330-b4c77d1665c7">1</a></td>
 </tr>
 <tr>
-<th>126</th>
+<th>125</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_4c80a391-e74a-48cf-87ae-67632e485725">Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-29</td>
 <td>2024-07-24</td>
 <td><a href="../records/a7a3cb32-66ff-4dcb-b05a-2c71511bd115" title="a7a3cb32-66ff-4dcb-b05a-2c71511bd115">3</a></td>
 </tr>
 <tr>
-<th>127</th>
+<th>126</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_5b0b2db4-21d7-48b8-9616-255ba2267868">Biogeochemical Sampling of Streams in the Kwakshua Watersheds of Calvert and Hecate Islands, BC: 2013-2019</a></td>
 <td>2022-03-29</td>
 <td>2026-06-15</td>
 <td></td>
 </tr>
 <tr>
-<th>128</th>
+<th>127</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6844547c-708e-437b-aef7-157b4d9d9bcb">Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-06-09</td>
 <td><a href="../records/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9" title="3c4cc294-1e9a-410e-81b0-0d9461e4b1c9">1</a></td>
 </tr>
 <tr>
-<th>130</th>
+<th>129</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef">Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-06-03</td>
 <td><a href="../records/41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d" title="41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d">1</a></td>
 </tr>
 <tr>
-<th>129</th>
+<th>128</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324">Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
 <td>2022-03-29</td>
 <td>2026-06-04</td>
 <td></td>
 </tr>
 <tr>
-<th>131</th>
+<th>130</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_7de2d85e-202e-4e4a-953e-539f9d18e8c7">Uncertainty analysis of stage-discharge rating curves for seven rivers at Calvert Island (2013-2015)</a></td>
 <td>2022-03-29</td>
 <td>2026-06-03</td>
 <td></td>
 </tr>
 <tr>
-<th>132</th>
+<th>131</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e">Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
 <td>2022-03-29</td>
 <td>2024-07-23</td>
 <td><a href="../records/55e7c337-02e8-4200-8ea9-88241d978f96" title="55e7c337-02e8-4200-8ea9-88241d978f96">3</a></td>
 </tr>
 <tr>
-<th>133</th>
+<th>132</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e">Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019</a></td>
 <td>2022-03-29</td>
 <td>2026-06-15</td>
 <td></td>
 </tr>
 <tr>
-<th>134</th>
+<th>133</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef">LiDAR-based Ecosystem Classification for Calvert Island</a></td>
 <td>2022-03-29</td>
 <td>2024-07-24</td>
 <td><a href="../records/18911dee-9ca0-408b-8999-28da3e3dde7a" title="18911dee-9ca0-408b-8999-28da3e3dde7a">2</a></td>
 </tr>
 <tr>
-<th>135</th>
+<th>134</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018">Stage-Discharge Time Series - Calvert Island - Archived</a></td>
 <td>2022-03-29</td>
 <td>2026-06-15</td>
 <td></td>
 </tr>
 <tr>
-<th>136</th>
+<th>135</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997">Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
 <td>2022-03-29</td>
 <td>2024-07-24</td>
 <td><a href="../records/f0cae885-2124-41c1-8523-2c6725c40dd6" title="f0cae885-2124-41c1-8523-2c6725c40dd6">1</a></td>
 </tr>
 <tr>
-<th>137</th>
+<th>136</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_b694a5c5-6a7e-4206-96aa-5b7754323345">Air temperature and relative humidity time-series – Central Coast and Quadra Island – 2013 - 2019</a></td>
 <td>2022-03-29</td>
 <td>2026-06-05</td>
 <td></td>
 </tr>
 <tr>
-<th>138</th>
+<th>137</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4">Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</a></td>
 <td>2022-03-29</td>
 <td>2026-06-15</td>
 <td><a href="../records/39f8b771-eb65-420f-b64e-742d94bbebf0" title="39f8b771-eb65-420f-b64e-742d94bbebf0">1</a></td>
+</tr>
+<tr>
+<th>138</th>
+<td><a href="https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9">LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
+<td>2022-03-29</td>
+<td>2024-07-24</td>
+<td><a href="../records/b36a7c12-cb56-46b7-8241-9b52ac30c766" title="b36a7c12-cb56-46b7-8241-9b52ac30c766">3</a></td>
 </tr>
 <tr>
 <th>139</th>
@@ -1442,70 +1449,70 @@
 <td><a href="../records/79e98468-af9a-4b52-aa9c-71129fa9cb03" title="79e98468-af9a-4b52-aa9c-71129fa9cb03">2</a></td>
 </tr>
 <tr>
-<th>115</th>
+<th>114</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_5033d8e4-7b58-45b5-86e6-e98e14d1d6b9">Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 - Sept 2019</a></td>
 <td>2022-03-25</td>
 <td>2026-06-03</td>
 <td></td>
 </tr>
 <tr>
-<th>117</th>
+<th>116</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde">Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
 <td>2022-03-25</td>
 <td>2026-06-15</td>
 <td></td>
 </tr>
 <tr>
-<th>116</th>
+<th>115</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34">Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
 <td>2022-03-25</td>
 <td>2024-07-24</td>
 <td></td>
 </tr>
 <tr>
-<th>118</th>
+<th>117</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_ff68a559-3de8-4ad0-9367-79697d7cc897">Dissolved organic carbon fluxes of seven watersheds in a bog forest ecosystem at Calvert Island, British Columbia, Canada</a></td>
 <td>2022-03-25</td>
 <td>2026-06-05</td>
 <td><a href="../records/3a6e9472-1a85-48e5-8ac6-792945e03045" title="3a6e9472-1a85-48e5-8ac6-792945e03045">1</a></td>
 </tr>
 <tr>
-<th>109</th>
+<th>108</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_06ddfa63-2611-46a5-8d63-c1b576e85bcb">Imagery and Elevation Models for Monitoring Invertebrates at Intertidal Sites - 2017 - Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-15</td>
 <td>2026-06-11</td>
 <td></td>
 </tr>
 <tr>
-<th>110</th>
+<th>109</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_40d86401-0e95-4ff3-b1c7-25e4e9138157">Bamfield Region UAV Imagery and Surface Model Data</a></td>
 <td>2022-03-15</td>
 <td>2026-05-22</td>
 <td></td>
 </tr>
 <tr>
-<th>111</th>
+<th>110</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_582909b1-c87d-4c5a-8594-5f44726f43a4">Hakai RPAS (Drone) Operations and Methods</a></td>
 <td>2022-03-15</td>
 <td>2026-05-25</td>
 <td></td>
 </tr>
 <tr>
-<th>112</th>
+<th>111</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_8010e86f-5dd9-421d-8e22-668664191205">UAV Imagery - Coastal British Columbia - 2015</a></td>
 <td>2022-03-15</td>
 <td>2026-05-22</td>
 <td></td>
 </tr>
 <tr>
-<th>113</th>
+<th>112</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_9efdd14d-9fb9-4f0e-9414-d890b4e18055">Hunter Island UAV Survey - June 2016 - British Columbia - Canada</a></td>
 <td>2022-03-15</td>
 <td>2026-06-11</td>
 <td><a href="../records/21ee0a17-9de0-49d7-9b04-cb9d5f557e9f" title="21ee0a17-9de0-49d7-9b04-cb9d5f557e9f">1</a></td>
 </tr>
 <tr>
-<th>114</th>
+<th>113</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_c688f31b-f82c-48f1-a707-5025c37a9b5c">UAV Imagery - 2016 - Coastal British Columbia - Canada</a></td>
 <td>2022-03-15</td>
 <td>2026-06-15</td>
@@ -1555,27 +1562,20 @@
 </tr>
 <tr>
 <th>104</th>
-<td><a href="https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028">Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
+<td><a href="https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163">Geomorphology - Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-11</td>
-<td>2026-06-15</td>
+<td>2026-06-17</td>
 <td></td>
 </tr>
 <tr>
 <th>105</th>
-<td><a href="https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163">Geomorphology - Calvert Island - British Columbia - Canada</a></td>
-<td>2022-03-11</td>
-<td>2025-01-03</td>
-<td><a href="../records/9001166d-e7eb-410f-92d6-17df0593cb2e" title="9001166d-e7eb-410f-92d6-17df0593cb2e">4</a></td>
-</tr>
-<tr>
-<th>106</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c">Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-11</td>
 <td>2024-07-24</td>
 <td><a href="../records/f9ff815c-c57a-4750-8f80-25f5e145c8c0" title="f9ff815c-c57a-4750-8f80-25f5e145c8c0">3</a></td>
 </tr>
 <tr>
-<th>108</th>
+<th>106</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_e66d7bf7-6ba1-44ed-8ee5-2561fca92164">Kelp Canopy Extent - 2014 - NW Calvert Island</a></td>
 <td>2022-03-11</td>
 <td>2026-06-15</td>
@@ -1652,14 +1652,14 @@
 <td></td>
 </tr>
 <tr>
-<th>84</th>
+<th>85</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_27ba6c11-2421-4e85-bc11-1c1083514ed9">Owikeno Lake Bathymetric Survey</a></td>
 <td>2022-03-02</td>
 <td>2026-06-03</td>
 <td><a href="../records/2fe3bd2a-973e-48db-a599-6d44ca1ef0ad" title="2fe3bd2a-973e-48db-a599-6d44ca1ef0ad">1</a></td>
 </tr>
 <tr>
-<th>85</th>
+<th>84</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_2a92ca16-f5c6-4362-acea-6bb5117b8d65">Google Earth Engine Kelp Tool - Central Coast Output</a></td>
 <td>2022-03-02</td>
 <td>2026-05-22</td>
@@ -1722,21 +1722,21 @@
 <td><a href="../records/727b8863-91cc-4765-b0c0-80cb74b11182" title="727b8863-91cc-4765-b0c0-80cb74b11182">1</a></td>
 </tr>
 <tr>
-<th>79</th>
+<th>81</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_bb59cb9e-887a-40a3-b41a-f4a5b2263ce6">Fountain Valley LiDAR Data - 2019 &amp; 2020 - Hakai Airborne Coastal Observatory - British Columbia - Canada</a></td>
 <td>2022-03-01</td>
 <td>2026-06-16</td>
 <td></td>
 </tr>
 <tr>
-<th>80</th>
+<th>79</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c">Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
 <td>2022-03-01</td>
 <td>2026-06-10</td>
 <td></td>
 </tr>
 <tr>
-<th>81</th>
+<th>80</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_c3eff62f-bcee-4faa-a7e1-7b9380d94e74">Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</a></td>
 <td>2022-03-01</td>
 <td>2026-06-10</td>
@@ -2061,8 +2061,8 @@
 <th>34</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_f68be641-0017-4311-b4de-5d0aed9e2b57">100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
 <td>2022-01-19</td>
-<td>2024-07-24</td>
-<td><a href="../records/d576481a-4f51-40eb-85e9-fb95933f94cd" title="d576481a-4f51-40eb-85e9-fb95933f94cd">4</a></td>
+<td>2026-06-17</td>
+<td></td>
 </tr>
 <tr>
 <th>27</th>
@@ -2212,14 +2212,14 @@
 <td><a href="../records/dc84cb4c-ba14-4632-a595-eed526bf9db1" title="dc84cb4c-ba14-4632-a595-eed526bf9db1">2</a></td>
 </tr>
 <tr>
-<th>13</th>
+<th>12</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_ab901b46-43f6-4044-b0c3-b5fd825622f4">World View 2 Imagery - Coverage of three regions of the BC Central Coast - Summer 2014, 2015, &amp; 2016</a></td>
 <td>2021-09-23</td>
 <td>2026-06-03</td>
 <td></td>
 </tr>
 <tr>
-<th>12</th>
+<th>13</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac">Kelp forest communities along an otter gradient</a></td>
 <td>2021-09-23</td>
 <td>2026-06-12</td>
@@ -2294,6 +2294,41 @@
 </thead>
 <tbody>
 <tr>
+<td>2026-06-17</td>
+<td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
+<td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
+</tr>
+<tr>
+<td>2026-06-17</td>
+<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+<td>Metadata mismatch: related identifier 'https://books.google.ca/books/about/Marine_Phytoplankton.html?id=_lgVAQAAIAAJ&amp;redir_esc=y' (IsDocumentedBy) in DataCite not found in CKAN</td>
+</tr>
+<tr>
+<td>2026-06-17</td>
+<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+<td>Metadata mismatch: related identifier 'https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=30361177' (IsDocumentedBy) in DataCite not found in CKAN</td>
+</tr>
+<tr>
+<td>2026-06-17</td>
+<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+<td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
+</tr>
+<tr>
+<td>2026-06-17</td>
+<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+<td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
+</tr>
+<tr>
+<td>2026-06-17</td>
+<td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
+<td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
+</tr>
+<tr>
+<td>2026-06-17</td>
+<td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
+<td>Metadata mismatch: related work '10.21966/kace-2d24' in CKAN not found in DataCite</td>
+</tr>
+<tr>
 <td>2026-06-16</td>
 <td>Sea Stars 2024 Experiment - Environmental Data</td>
 <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
@@ -2305,18 +2340,13 @@
 </tr>
 <tr>
 <td>2026-06-15</td>
+<td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
+<td>Malformed related work identifier (missing doi.org): https://10.1029/2025GL115235</td>
+</tr>
+<tr>
+<td>2026-06-15</td>
 <td>Stage-Discharge Time Series - Calvert Island - Archived</td>
 <td>Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record</td>
-</tr>
-<tr>
-<td>2026-06-15</td>
-<td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
-<td>Metadata mismatch: related identifier '10.1029/2025GL115235' (IsPublishedIn) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2026-06-15</td>
-<td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
-<td>Metadata mismatch: related work 'https://10.1029/2025gl115235' in CKAN not found in DataCite</td>
 </tr>
 <tr>
 <td>2026-06-15</td>
@@ -2575,6 +2605,11 @@
 </tr>
 <tr>
 <td>2026-05-26</td>
+<td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
+<td>Metadata mismatch: related identifier 'https://doi.org/10.21966/adbg-d170' (IsVersionOf) in DataCite not found in CKAN</td>
+</tr>
+<tr>
+<td>2026-05-26</td>
 <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
 <td>Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite</td>
 </tr>
@@ -2587,6 +2622,11 @@
 <td>2026-05-26</td>
 <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
 <td>Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite</td>
+</tr>
+<tr>
+<td>2026-05-26</td>
+<td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
+<td>Metadata mismatch: related work '10.21966/4jvz-bv44' in CKAN not found in DataCite</td>
 </tr>
 <tr>
 <td>2026-05-26</td>
@@ -2620,6 +2660,11 @@
 </tr>
 <tr>
 <td>2026-05-22</td>
+<td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
+<td>Malformed related work identifier (missing doi.org): https://10.21966/xp9x-m243</td>
+</tr>
+<tr>
+<td>2026-05-22</td>
 <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
 <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
 </tr>
@@ -2632,11 +2677,6 @@
 <td>2026-05-22</td>
 <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
 <td>Metadata mismatch: related work '10.21966/zjc2-b004' in CKAN not found in DataCite</td>
-</tr>
-<tr>
-<td>2026-05-22</td>
-<td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-<td>Metadata mismatch: related work 'https://10.21966/xp9x-m243' in CKAN not found in DataCite</td>
 </tr>
 <tr>
 <td>2026-05-22</td>
@@ -2721,12 +2761,7 @@
 <tr>
 <td>2026-04-28</td>
 <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
-<td>Metadata mismatch: related identifier '10.21966/5n09-aq76' (IsPartOf) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2026-04-28</td>
-<td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
-<td>Metadata mismatch: related work 'https://10.21966/5n09-aq76' in CKAN not found in DataCite</td>
+<td>Malformed related work identifier (missing doi.org): https://10.21966/5n09-aq76</td>
 </tr>
 <tr>
 <td>2026-04-27</td>
@@ -2741,7 +2776,12 @@
 <tr>
 <td>2026-04-24</td>
 <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
-<td>Metadata mismatch: related work 'https://10.21966/cqrt-sk09' in CKAN not found in DataCite</td>
+<td>Malformed related work identifier (missing doi.org): https://10.21966/cqrt-sk09</td>
+</tr>
+<tr>
+<td>2026-04-24</td>
+<td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
+<td>Metadata mismatch: related work '10.21966/cqrt-sk09' in CKAN not found in DataCite</td>
 </tr>
 <tr>
 <td>2026-04-24</td>
@@ -2805,18 +2845,8 @@
 </tr>
 <tr>
 <td>2026-02-20</td>
-<td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-<td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
-</tr>
-<tr>
-<td>2026-02-20</td>
-<td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-<td>Metadata mismatch: creator 'Drew Jordison' in DataCite not found in CKAN record</td>
-</tr>
-<tr>
-<td>2026-02-20</td>
-<td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-<td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
+<td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
+<td>Malformed related work identifier (missing doi.org): https://10.21966/kace-2d24</td>
 </tr>
 <tr>
 <td>2026-02-20</td>
@@ -2825,13 +2855,8 @@
 </tr>
 <tr>
 <td>2026-02-20</td>
-<td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-<td>Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite</td>
-</tr>
-<tr>
-<td>2026-02-20</td>
 <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
-<td>Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite</td>
+<td>Metadata mismatch: related work '10.21966/kace-2d24' in CKAN not found in DataCite</td>
 </tr>
 <tr>
 <td>2026-02-20</td>
@@ -2961,12 +2986,7 @@
 <tr>
 <td>2025-08-08</td>
 <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</td>
-<td>Metadata mismatch: related identifier '10.21966/t8hm-ge90' (Continues) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2025-08-08</td>
-<td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</td>
-<td>Metadata mismatch: related work 'https://10.21966/t8hm-ge90' in CKAN not found in DataCite</td>
+<td>Malformed related work identifier (missing doi.org): https://10.21966/t8hm-ge90</td>
 </tr>
 <tr>
 <td>2025-05-16</td>
@@ -3029,26 +3049,6 @@
 <td>Metadata mismatch: title CKAN='Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018' | DataCite='Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada'</td>
 </tr>
 <tr>
-<td>2025-01-03</td>
-<td>Geomorphology - Calvert Island - British Columbia - Canada</td>
-<td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-</tr>
-<tr>
-<td>2025-01-03</td>
-<td>Geomorphology - Calvert Island - British Columbia - Canada</td>
-<td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-</tr>
-<tr>
-<td>2025-01-03</td>
-<td>Geomorphology - Calvert Island - British Columbia - Canada</td>
-<td>Metadata mismatch: related work '10.21966/m5rv-4f16' in CKAN not found in DataCite</td>
-</tr>
-<tr>
-<td>2025-01-03</td>
-<td>Geomorphology - Calvert Island - British Columbia - Canada</td>
-<td>No version</td>
-</tr>
-<tr>
 <td>2024-12-30</td>
 <td>Seagrass Site-Level Production on BC Central Coast</td>
 <td>Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_seagrassdensitysurveys' in CKAN not found in DataCite</td>
@@ -3079,49 +3079,14 @@
 <td>No version</td>
 </tr>
 <tr>
-<td>2024-11-20</td>
-<td>Fraser River Landslide Project - Sites of Concern 2024</td>
-<td>Metadata mismatch: related identifier '10.21966/ytgc-6g46' (IsPartOf) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2024-11-20</td>
-<td>Fraser River Landslide Project - Sites of Concern 2024</td>
-<td>Metadata mismatch: related identifier '10.21966/zjc2-b004' (IsPartOf) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2024-11-20</td>
-<td>Fraser River Landslide Project - Sites of Concern 2024</td>
-<td>Metadata mismatch: related work 'https://10.21966/ytgc-6g46' in CKAN not found in DataCite</td>
-</tr>
-<tr>
-<td>2024-11-20</td>
-<td>Fraser River Landslide Project - Sites of Concern 2024</td>
-<td>Metadata mismatch: related work 'https://10.21966/zjc2-b004' in CKAN not found in DataCite</td>
-</tr>
-<tr>
-<td>2024-10-10</td>
-<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-<td>Metadata mismatch: related identifier 'https://books.google.ca/books/about/Marine_Phytoplankton.html?id=_lgVAQAAIAAJ&amp;redir_esc=y' (IsDocumentedBy) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2024-10-10</td>
-<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-<td>Metadata mismatch: related identifier 'https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=30361177' (IsDocumentedBy) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2024-10-10</td>
-<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-<td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2024-10-10</td>
-<td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-<td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
-</tr>
-<tr>
 <td>2024-10-09</td>
 <td>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</td>
 <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/1.521066' (References) in DataCite not found in CKAN</td>
+</tr>
+<tr>
+<td>2024-07-24</td>
+<td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+<td>Metadata mismatch: author 'Geospatial Technology Team Hakai' in CKAN record not found in DataCite</td>
 </tr>
 <tr>
 <td>2024-07-24</td>
@@ -3141,11 +3106,6 @@
 <tr>
 <td>2024-07-24</td>
 <td>Underwater Video Transects - Calvert Island - 2016</td>
-<td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-</tr>
-<tr>
-<td>2024-07-24</td>
-<td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
 <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
 </tr>
 <tr>
@@ -3195,7 +3155,7 @@
 </tr>
 <tr>
 <td>2024-07-24</td>
-<td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+<td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
 <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
 </tr>
 <tr>
@@ -3320,6 +3280,11 @@
 </tr>
 <tr>
 <td>2024-07-24</td>
+<td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+<td>No version</td>
+</tr>
+<tr>
+<td>2024-07-24</td>
 <td>High-resolution record of surface water pH at Sentry Shoal in the Northern Strait of Georgia</td>
 <td>No version</td>
 </tr>
@@ -3335,18 +3300,8 @@
 </tr>
 <tr>
 <td>2024-07-24</td>
-<td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
-<td>No version</td>
-</tr>
-<tr>
-<td>2024-07-24</td>
 <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
 <td>No version</td>
-</tr>
-<tr>
-<td>2024-07-24</td>
-<td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
-<td>Record DOI HTTPS link is failling: https://doi.org/10.21966/gsbw-bz85 status_code=502</td>
 </tr>
 <tr>
 <td>2024-07-23</td>
@@ -3547,7 +3502,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 17, 2026 18:23:50 UTC">June 17, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 19, 2026 04:31:07 UTC">June 19, 2026</span>
   </span>
 
     
@@ -3557,7 +3512,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 26, 2024 16:16:10 UTC">June 26, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 17, 2026 19:57:16 UTC">June 17, 2026</span>
   </span>
 
     
