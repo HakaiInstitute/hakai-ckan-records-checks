@@ -16,6 +16,36 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-17</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+      <td>Metadata mismatch: related identifier 'https://books.google.ca/books/about/Marine_Phytoplankton.html?id=_lgVAQAAIAAJ&redir_esc=y' (IsDocumentedBy) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+      <td>Metadata mismatch: related identifier 'https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=30361177' (IsDocumentedBy) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+      <td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+      <td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
+      <td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
+      <td>Metadata mismatch: related work '10.21966/kace-2d24' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
       <td>2026-06-16</td>
       <td>Time series of eelgrass (Zostera marina) meadow extent derived from drone surveys, Central Coast, British Columbia</td>
       <td>Metadata mismatch: related work '10.21966/9cbv-ra30' in CKAN not found in DataCite</td>
@@ -24,16 +54,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-15</td>
       <td>Stage-Discharge Time Series - Calvert Island - Archived</td>
       <td>Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-06-15</td>
-      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
-      <td>Metadata mismatch: related identifier '10.1029/2025GL115235' (IsPublishedIn) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-06-15</td>
-      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
-      <td>Metadata mismatch: related work 'https://10.1029/2025gl115235' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-06-15</td>
@@ -127,6 +147,11 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-05-26</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/adbg-d170' (IsVersionOf) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
       <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
       <td>Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite</td>
     </tr>
@@ -139,6 +164,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-05-26</td>
       <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
       <td>Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: related work '10.21966/4jvz-bv44' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-26</td>
@@ -169,11 +199,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-05-22</td>
       <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
       <td>Metadata mismatch: related work '10.21966/zjc2-b004' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-      <td>Metadata mismatch: related work 'https://10.21966/xp9x-m243' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-22</td>
@@ -231,19 +256,9 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related work '10.48321/d16d6f987c' in CKAN not found in DataCite</td>
     </tr>
     <tr>
-      <td>2026-04-28</td>
-      <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
-      <td>Metadata mismatch: related identifier '10.21966/5n09-aq76' (IsPartOf) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-04-28</td>
-      <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
-      <td>Metadata mismatch: related work 'https://10.21966/5n09-aq76' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2026-04-24</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
-      <td>Metadata mismatch: related work 'https://10.21966/cqrt-sk09' in CKAN not found in DataCite</td>
+      <td>Metadata mismatch: related work '10.21966/cqrt-sk09' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-04-24</td>
@@ -282,28 +297,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-      <td>Metadata mismatch: creator 'Drew Jordison' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-      <td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
       <td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
-      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-      <td>Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
       <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
-      <td>Metadata mismatch: related work 'https://10.21966/kace-2d24' in CKAN not found in DataCite</td>
+      <td>Metadata mismatch: related work '10.21966/kace-2d24' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -401,16 +401,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related identifier 'https://hakai-segmentation.readthedocs.io/en/latest/' (IsDocumentedBy) in DataCite not found in CKAN</td>
     </tr>
     <tr>
-      <td>2025-08-08</td>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</td>
-      <td>Metadata mismatch: related identifier '10.21966/t8hm-ge90' (Continues) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-08-08</td>
-      <td>Eelgrass (Z. marina) extent at Gulf Islands National Park Reserve eelgrass monitoring sites (2024)</td>
-      <td>Metadata mismatch: related work 'https://10.21966/t8hm-ge90' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2025-05-12</td>
       <td>Larval Dungeness crab abundance and size time series along the coast of British Columbia</td>
       <td>Metadata mismatch: related identifier 'https://github.com/HakaiInstitute/sentinels-light-trap-public/blob/main/docs/Protocols/2024%20Light%20Trap%20Protocols.pdf' (IsDocumentedBy) in DataCite not found in CKAN</td>
@@ -446,21 +436,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: title CKAN='Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018' | DataCite='Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada'</td>
     </tr>
     <tr>
-      <td>2025-01-03</td>
-      <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-01-03</td>
-      <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2025-01-03</td>
-      <td>Geomorphology - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: related work '10.21966/m5rv-4f16' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2024-12-30</td>
       <td>Seagrass Site-Level Production on BC Central Coast</td>
       <td>Metadata mismatch: related work 'http://ipt.iobis.org/obiscanada/resource?r=hakai_seagrassdensitysurveys' in CKAN not found in DataCite</td>
@@ -476,49 +451,14 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2024-11-20</td>
-      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
-      <td>Metadata mismatch: related identifier '10.21966/ytgc-6g46' (IsPartOf) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-11-20</td>
-      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
-      <td>Metadata mismatch: related identifier '10.21966/zjc2-b004' (IsPartOf) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-11-20</td>
-      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
-      <td>Metadata mismatch: related work 'https://10.21966/ytgc-6g46' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-11-20</td>
-      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
-      <td>Metadata mismatch: related work 'https://10.21966/zjc2-b004' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-10-10</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://books.google.ca/books/about/Marine_Phytoplankton.html?id=_lgVAQAAIAAJ&redir_esc=y' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-10-10</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=30361177' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-10-10</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-10-10</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
       <td>2024-10-09</td>
       <td>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/1.521066' (References) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
+      <td>Metadata mismatch: author 'Geospatial Technology Team Hakai' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -538,11 +478,6 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-24</td>
       <td>Underwater Video Transects - Calvert Island - 2016</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
@@ -592,7 +527,7 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>

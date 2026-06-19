@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-17</td>
+      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
+    </tr>
+    <tr>
       <td>2026-06-16</td>
       <td>Sea Stars 2024 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
@@ -39,11 +44,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2026-04-24</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
     </tr>
     <tr>
       <td>2025-05-16</td>
