@@ -58,12 +58,16 @@ def test_record_requirements(record) -> pd.DataFrame:
     # Version
     citation = json.loads(record["citation"]["en"].replace('\\"', '"'))
     version = citation[0].get("version")
-    _test(version, "No version")
-    if record.get("version"):
-        _test(
-            re.match(r"v?\d+(\.\d+)*", record.get("version")),
-            f"Invalid version: {record.get('version')}",
-        )
+    is_tentative = record.get("progress") == "Tentative"
+    if is_tentative:
+        _test(not version, "Tentative dataset should not have a version")
+    else:
+        _test(version, "No version")
+        if record.get("version"):
+            _test(
+                re.match(r"v?\d+(\.\d+)*", record.get("version")),
+                f"Invalid version: {record.get('version')}",
+            )
 
     # DOI
     dois = [
