@@ -331,16 +331,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: title CKAN='Phytoplankton Pigment Timeseries from High-Performance Liquid Chromatography for the Northern Salish Sea and Central Coast, BC, Canada (Research)' | DataCite='High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia'</td>
     </tr>
     <tr>
-      <td>2026-01-30</td>
-      <td>Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.1016/j.rse.2018.06.039' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-01-30</td>
-      <td>Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.1371/journal.pone.0271477' (IsDerivedFrom) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
       <td>2026-01-27</td>
       <td>Gitga'at Territory Coastal Mapping Project</td>
       <td>Metadata mismatch: related work '10.21966/0xex-r023' in CKAN not found in DataCite</td>
