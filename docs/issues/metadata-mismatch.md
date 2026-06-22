@@ -16,41 +16,6 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-17</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://books.google.ca/books/about/Marine_Phytoplankton.html?id=_lgVAQAAIAAJ&redir_esc=y' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/item.aspx?idNumber=30361177' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://www.sciencedirect.com/book/9780126930153/identifying-marine-diatoms-and-dinoflagellates' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-      <td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
-      <td>Metadata mismatch: related work '10.21966/kace-2d24' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-16</td>
-      <td>Time series of eelgrass (Zostera marina) meadow extent derived from drone surveys, Central Coast, British Columbia</td>
-      <td>Metadata mismatch: related work '10.21966/9cbv-ra30' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2026-06-15</td>
       <td>Stage-Discharge Time Series - Calvert Island - Archived</td>
       <td>Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record</td>
@@ -102,11 +67,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</td>
-      <td>Metadata mismatch: related work '10.1002/lno.11538' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
       <td>Metadata mismatch: related work '10.25921/9vnv-0g64' in CKAN not found in DataCite</td>
     </tr>
@@ -124,11 +84,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-01</td>
       <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
       <td>Metadata mismatch: related work 'https://hakai.org/stories/great-walls-quadra' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-28</td>
-      <td>Knight Inlet Multibeam Bathymetry Survey</td>
-      <td>Metadata mismatch: related work '10.21966/529y-sh57' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-27</td>
@@ -152,28 +107,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-05-26</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
       <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
       <td>Metadata mismatch: related work '10.21966/4jvz-bv44' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-25</td>
@@ -189,16 +124,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-05-22</td>
       <td>Seton and Anderson Lake Multibeam Survey - 2024 - British Columbia</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Bute Inlet Geo-Hazards & Ramsay West - 2024 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work '10.21966/e4b8-vp48' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-22</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-      <td>Metadata mismatch: related work '10.21966/zjc2-b004' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-22</td>
@@ -227,38 +152,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-05-08</td>
-      <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
-      <td>Metadata mismatch: related work '10.1016/j.rse.2021.112317' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
-      <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
-      <td>Metadata mismatch: related work '10.1109/igarss.2012.6351194' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
-      <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
-      <td>Metadata mismatch: related work '10.1109/pacrim47961.2019.8985053' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
-      <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
-      <td>Metadata mismatch: related work '10.3389/fmars.2022.968470' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
       <td>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</td>
       <td>Metadata mismatch: title CKAN='Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)' | DataCite='Hakai Mooring Water Properties Timeseries Research'</td>
-    </tr>
-    <tr>
-      <td>2026-05-04</td>
-      <td>Bowhead Whale Drone Data Collection - Cumberland Sound - Nunavut</td>
-      <td>Metadata mismatch: related work '10.48321/d16d6f987c' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-04-24</td>
-      <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
-      <td>Metadata mismatch: related work '10.21966/cqrt-sk09' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-04-24</td>
@@ -266,19 +161,9 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: version CKAN='1.0.4' | DataCite='1.0.0'</td>
     </tr>
     <tr>
-      <td>2026-04-14</td>
-      <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
-      <td>Metadata mismatch: related identifier 'https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
       <td>2026-03-26</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1darjhrdmvvzesny0d_8arbos95rkufjr/view?usp=drive_link' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-03-25</td>
-      <td>Motile Invertebrate Surveys - BC Central Coast</td>
-      <td>Metadata mismatch: related work '10.48321/d1ae4278b4' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-02-27</td>
@@ -288,22 +173,7 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2026-02-27</td>
       <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work '10.21966/2aap-hn61' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-27</td>
-      <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1yg1ec4-lvj0ut6csylv0p1udmcq-a5xu/view?usp=sharing' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
-      <td>Metadata mismatch: related work '10.21966/g7zf-1v08' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
-      <td>Metadata mismatch: related work '10.21966/kace-2d24' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -322,18 +192,18 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-02-05</td>
-      <td>Sentinels of Change Sea Surface Temperature Time Series Data Along the British Columbia Coast</td>
-      <td>Metadata mismatch: related work '10.21966/36hp-7f40' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-05</td>
       <td>Phytoplankton Pigment Timeseries from High-Performance Liquid Chromatography for the Northern Salish Sea and Central Coast, BC, Canada (Research)</td>
       <td>Metadata mismatch: title CKAN='Phytoplankton Pigment Timeseries from High-Performance Liquid Chromatography for the Northern Salish Sea and Central Coast, BC, Canada (Research)' | DataCite='High performance liquid chromatography phytoplankton pigment timeseries for the northern Salish Sea and central coast, British Columbia'</td>
     </tr>
     <tr>
-      <td>2026-01-27</td>
-      <td>Gitga'at Territory Coastal Mapping Project</td>
-      <td>Metadata mismatch: related work '10.21966/0xex-r023' in CKAN not found in DataCite</td>
+      <td>2026-01-30</td>
+      <td>Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1016/j.rse.2018.06.039' (IsDocumentedBy) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-01-30</td>
+      <td>Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1371/journal.pone.0271477' (IsDerivedFrom) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2026-01-27</td>
@@ -344,11 +214,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2025-11-18</td>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</td>
       <td>Metadata mismatch: related identifier 'https://docs.google.com/document/d/1j4ENgAW_2XtIHzDYbL8u2E5kOK2JkPEBVYdxcuv8NrE/edit?usp=drive_web&ouid=110988987704080303629' (HasMetadata) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-11-18</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2025-11-18</td>
@@ -366,26 +231,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1crbcqqcmvk3ibyxufqxgj7yv7s5a2-1y/view?usp=sharing' in CKAN not found in DataCite</td>
     </tr>
     <tr>
-      <td>2025-10-31</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-10-31</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-10-31</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-10-14</td>
-      <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.8323070' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
       <td>2025-10-14</td>
       <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
       <td>Metadata mismatch: related identifier 'https://hakai-segmentation.readthedocs.io/en/latest/' (IsDocumentedBy) in DataCite not found in CKAN</td>
@@ -394,16 +239,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2025-05-12</td>
       <td>Larval Dungeness crab abundance and size time series along the coast of British Columbia</td>
       <td>Metadata mismatch: related identifier 'https://github.com/HakaiInstitute/sentinels-light-trap-public/blob/main/docs/Protocols/2024%20Light%20Trap%20Protocols.pdf' (IsDocumentedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-05-12</td>
-      <td>Larval Dungeness crab abundance and size time series along the coast of British Columbia</td>
-      <td>Metadata mismatch: related work '10.21966/4kr2-jc55' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2025-05-08</td>
-      <td>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2025-04-23</td>
@@ -439,11 +274,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-12-05</td>
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-10-09</td>
-      <td>Water column CO2 system measurements from January 2016 to December 2023 from Hakai Institute oceanographic station QU39 in northern Strait of Georgia, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/1.521066' (References) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -619,11 +449,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-17</td>
       <td>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.48321/D18S8D' (Documents) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2024-06-27</td>
-      <td>Genetic Stock Identification of Juvenile Sockeye Salmon Captured in the Discovery Islands and Johnstone Strait BC, Canada</td>
-      <td>Metadata mismatch: related work '10.21966/1.566666' in CKAN not found in DataCite</td>
     </tr>
   </tbody>
 </table>
