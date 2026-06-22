@@ -30,6 +30,11 @@
     "aliases": []
   },
   {
+    "version": "fix-lineage-checks",
+    "title": "fix-lineage-checks",
+    "aliases": []
+  },
+  {
     "version": "DOI-redirecting",
     "title": "DOI-redirecting",
     "aliases": []
