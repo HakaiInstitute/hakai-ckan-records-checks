@@ -9,7 +9,7 @@ from hakai_ckan_records_checks.hakai import _fuzzy_match
 DATACITE_API_URL = "https://api.datacite.org/dois"
 
 # relationType values auto-populated by DataCite (not manually curated)
-_SKIP_RELATION_TYPES = {"Cites", "IsCitedBy", "IsSupplementTo", "IsSupplementedBy"}
+_SKIP_RELATION_TYPES = {"Cites", "IsCitedBy"}
 
 
 def _normalize_identifier(identifier, id_type=""):
@@ -157,6 +157,20 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
         if r.get("aggregate-dataset-identifier_code")
     }
 
+    # Also collect identifiers from lineage processing steps (mapped to IsDocumentedBy in DataCite)
+    ckan_lineage_ids = set()
+    for entry in ckan_record.get("lineage", []):
+        for step_str in entry.get("processing-step", []):
+            try:
+                step = json.loads(step_str)
+                code = step.get("reference", {}).get("identifier", {}).get("code", "")
+                if code:
+                    ckan_lineage_ids.add(_normalize_identifier(code))
+            except Exception:
+                pass
+
+    ckan_all_ids = ckan_related_ids | ckan_lineage_ids
+
     for ckan_id in ckan_related_ids:
         if ckan_id and ckan_id not in dc_related_ids:
             issues.append(
@@ -171,7 +185,7 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
         if (
             rel_type not in _SKIP_RELATION_TYPES
             and rel_id
-            and rel_id not in ckan_related_ids
+            and rel_id not in ckan_all_ids
         ):
             issues.append(
                 f"Metadata mismatch: related identifier '{rel.get('relatedIdentifier')}' ({rel_type}) in DataCite not found in CKAN"
