@@ -22,37 +22,7 @@ This page present the list of all the records associated with the issue: **No DO
     </tr>
     <tr>
       <td>2026-06-22</td>
-      <td>Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada (Provisional)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Pruth Bay Oceanographic Mooring on Calvert Island (Provisional)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Kwakshua Channel (KC) Buoy, Central Coast, BC, Canada (Provisional)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
       <td>Kelp forest communities along an otter gradient</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>No DOI defined</td>
     </tr>
     <tr>

@@ -17,57 +17,12 @@ This page present the list of all the records associated with the issue: **No ve
   <tbody>
     <tr>
       <td>2026-06-22</td>
-      <td>Seafloor Observatory in Hyacinthe Bay, Quadra Island, British Columbia, Canada (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Pruth Bay Oceanographic Mooring on Calvert Island (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Kwakshua Channel (KC) Buoy, Central Coast, BC, Canada (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
       <td>Keen’s Mouse Food Web Study – 100 Islands Project – Central Coast, BC (2015-2017)</td>
       <td>No version</td>
     </tr>
     <tr>
       <td>2026-06-22</td>
-      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
       <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Water Property Measurements from the Bute Inlet Ocean Observing Station (BIOOS) Wirewalker, Bute Inlet, BC, Canada (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 Analyzer located at Bamfield Marine Sciences Centre, Bamfield, BC, Canada (Provisional)</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -83,6 +38,11 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2026-06-11</td>
       <td>Ancestral sea gardens supported human settlements for at least 3800 years on the Northwest Coast of North America</td>
+      <td>No version</td>
+    </tr>
+    <tr>
+      <td>2026-06-08</td>
+      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
       <td>No version</td>
     </tr>
     <tr>

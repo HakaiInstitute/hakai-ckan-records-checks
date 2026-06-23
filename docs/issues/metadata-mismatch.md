@@ -16,16 +16,6 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-22</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/adbg-d170' (IsVersionOf) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Provisional)</td>
-      <td>Metadata mismatch: related work '10.21966/4jvz-bv44' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2026-06-15</td>
       <td>Stage-Discharge Time Series - Calvert Island - Archived</td>
       <td>Metadata mismatch: creator 'Maartje Korver' in DataCite not found in CKAN record</td>
@@ -69,16 +59,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-03</td>
       <td>Seascape connectivity data from a sub-tidal Zostera marina meadow, Choked Passage, Calvert Island, 2015</td>
       <td>Metadata mismatch: related work '10.1002/eap.1897' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
-      <td>Metadata mismatch: related work '10.25921/9vnv-0g64' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
-      <td>Metadata mismatch: title CKAN='Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)' | DataCite='High-resolution record of surface seawater carbon dioxide (CO2) content, water temperature, sea surface salinity and other parameters collected in Sitka Harbor, Alaska, USA from 2017-06-01 to 2021-04-27 (NCEI Accession 0247208)'</td>
     </tr>
     <tr>
       <td>2026-06-01</td>
@@ -352,17 +332,17 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
       <td>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Cryosphere - Glaciers and Icefields - 2020 - Airborne Coastal Observatory - British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -408,7 +388,7 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-17</td>
       <td>Spatial extent of surface canopy kelp (Nereocystis luetkeana) derived from fixed-wing surveys (2023), Denman Island to south Quadra Island, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.48321/D18S8D' (Documents) in DataCite not found in CKAN</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.48321/D18S8D' (IsDescribedBy) in DataCite not found in CKAN</td>
     </tr>
   </tbody>
 </table>
