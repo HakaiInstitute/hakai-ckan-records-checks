@@ -4,7 +4,6 @@ import json
 import os
 import pickle
 import re
-import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
@@ -113,24 +112,18 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         summary = hakai.get_record_summary(record["result"])
 
         logger.debug("Getting citation count for DOI")
-        # Prefer a Hakai DOI (10.21966/) for DataCite lookups; the primary DOI may be
-        # an external archive DOI (e.g. NOAA 10.25921/) whose DataCite record lacks
-        # the related-identifier metadata that the Hakai record carries.
-        hakai_doi = summary.get("doi") or ""
-        if not hakai_doi.startswith("10.21966/"):
-            hakai_doi = next(
-                (
-                    a.get("aggregate-dataset-identifier_code", "").replace("https://doi.org/", "")
-                    for a in record["result"].get("aggregation-info", [])
-                    if "10.21966/" in a.get("aggregate-dataset-identifier_code", "")
-                ),
-                hakai_doi,
-            )
-        datacite_metadata, error_msg = Datacite().get_doi(hakai_doi)
-        summary.update(get_datacite_summary(datacite_metadata))
-        if error_msg:
-            test_results.append([error_msg])
-        test_results.extend([[msg] for msg in compare_datacite_metadata(record["result"], datacite_metadata)])
+        # Only compare against DataCite if the CKAN record has a Hakai DOI (10.21966/).
+        # Provisional records may not have a DOI yet; records with a non-Hakai primary
+        # DOI cannot be meaningfully compared against DataCite metadata.
+        primary_doi = summary.get("doi") or ""
+        if primary_doi and not primary_doi.startswith("10.21966/"):
+            test_results.append([f"Primary DOI does not have a Hakai prefix (10.21966/): {primary_doi}"])
+        elif primary_doi:
+            datacite_metadata, error_msg = Datacite().get_doi(primary_doi)
+            summary.update(get_datacite_summary(datacite_metadata))
+            if error_msg:
+                test_results.append([error_msg])
+            test_results.extend([[msg] for msg in compare_datacite_metadata(record["result"], datacite_metadata)])
         test_results = pd.DataFrame(test_results, columns=["message"])
         test_results.insert(0, "record_id", record["result"]["id"])
 
