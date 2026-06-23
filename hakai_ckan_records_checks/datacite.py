@@ -157,13 +157,22 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
         if r.get("aggregate-dataset-identifier_code")
     }
 
-    # Also collect identifiers from lineage processing steps (mapped to IsDocumentedBy in DataCite)
+    # Also collect identifiers from lineage processing steps and additional-documentation
+    # (both map to IsDocumentedBy in DataCite)
     ckan_lineage_ids = set()
     for entry in ckan_record.get("lineage", []):
         for step_str in entry.get("processing-step", []):
             try:
                 step = json.loads(step_str)
                 code = step.get("reference", {}).get("identifier", {}).get("code", "")
+                if code:
+                    ckan_lineage_ids.add(_normalize_identifier(code))
+            except Exception:
+                pass
+        for doc_str in entry.get("additional-documentation", []):
+            try:
+                doc = json.loads(doc_str)
+                code = doc.get("identifier", {}).get("code", "")
                 if code:
                     ckan_lineage_ids.add(_normalize_identifier(code))
             except Exception:
