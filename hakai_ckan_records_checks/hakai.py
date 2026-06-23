@@ -58,7 +58,7 @@ def test_record_requirements(record) -> pd.DataFrame:
     # Version
     citation = json.loads(record["citation"]["en"].replace('\\"', '"'))
     version = citation[0].get("version")
-    is_tentative = record.get("progress") == "Tentative"
+    is_tentative = (record.get("progress") or "").lower() == "tentative"
     if is_tentative:
         _test(not version, "Tentative dataset should not have a version")
     else:
@@ -75,7 +75,8 @@ def test_record_requirements(record) -> pd.DataFrame:
         for item in record.get("unique-resource-identifier-full", [])
         if "doi.org" in item.get("code", "")
     ]
-    _test(dois, "No DOI defined")
+    if not is_tentative:
+        _test(dois, "No DOI defined")
     if dois:
         _test(
             len(dois) < 2,
