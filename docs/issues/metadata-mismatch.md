@@ -156,11 +156,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: title CKAN='Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)' | DataCite='Hakai Mooring Water Properties Timeseries Research'</td>
     </tr>
     <tr>
-      <td>2026-04-24</td>
-      <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
-      <td>Metadata mismatch: version CKAN='1.0.4' | DataCite='1.0.0'</td>
-    </tr>
-    <tr>
       <td>2026-03-26</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1darjhrdmvvzesny0d_8arbos95rkufjr/view?usp=drive_link' in CKAN not found in DataCite</td>
@@ -274,6 +269,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-12-05</td>
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-11-29</td>
+      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/7RX8-DK31' (Continues) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2024-07-24</td>

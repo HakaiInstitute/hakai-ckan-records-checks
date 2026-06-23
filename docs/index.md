@@ -6,36 +6,36 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-06-22*
+*Last updated: 2026-06-23*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">266</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">264</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+1 since 2026-06-22</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-2 since 2026-06-22</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">121</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">122</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-15 since 2026-06-22</div>
+  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+1 since 2026-06-22</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">91.0%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">90.9%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.1% since 2026-06-22</div>
+  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">-0.1% since 2026-06-22</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 6.0, 8.0, 14.0, 24.0, 55.0, 57.0], "textposition": "outside", "x": [2, 6, 8, 14, 24, 55, 57], "xaxis": "x", "y": ["Duplicate DOI shared with another record", "Malformed related work identifier (missing doi.org)", "Invalid Resource URL", "No funder", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 6.0, 8.0, 14.0, 24.0, 55.0, 57.0], "textposition": "outside", "x": [1, 2, 6, 8, 14, 24, 55, 57], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "Duplicate DOI shared with another record", "Malformed related work identifier (missing doi.org)", "Invalid Resource URL", "No funder", "No DOI defined", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -113,7 +113,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_84820f31-b6db-479c-a47e-f22f2899b4d2'>Biogeochemical Sampling of 28 Streams on Vancouver Island</a></td>
-      <td><a title='0e92249d-74e1-4253-a8a5-876d08a8ff65' href='records/0e92249d-74e1-4253-a8a5-876d08a8ff65'>3</a></td>
+      <td><a title='0e92249d-74e1-4253-a8a5-876d08a8ff65' href='records/0e92249d-74e1-4253-a8a5-876d08a8ff65'>2</a></td>
       <td>Watersheds</td>
       <td>2026-04-24</td>
     </tr>
@@ -245,7 +245,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
-      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='records/45a45b5d-e45c-453c-9d36-036f69d533ae'>1</a></td>
+      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='records/45a45b5d-e45c-453c-9d36-036f69d533ae'>2</a></td>
       <td>Geospatial</td>
       <td>2026-05-22</td>
     </tr>
@@ -716,6 +716,12 @@ hide:
       <td><a title='cd3ca52d-dc83-4501-9e53-7b00c8ab9090' href='records/cd3ca52d-dc83-4501-9e53-7b00c8ab9090'>1</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2026-05-22</td>
+    </tr>
+    <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3bc02dd8-7654-44f0-8c7c-02739937bdf4'>Seastar & Macroinvertebrate Dynamics - BC Central Coast</a></td>
+      <td><a title='98bc62c7-d6a4-42bd-9110-c8021380d8a5' href='records/98bc62c7-d6a4-42bd-9110-c8021380d8a5'>1</a></td>
+      <td>Nearshore</td>
+      <td>2024-11-29</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ea6c0e20-9b99-48f7-adfb-6c1b70f6bd2a'>Barnacle Dynamics: Point Intercept Surveys - BC Central Coast - 2016-2018</a></td>
