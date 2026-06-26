@@ -17,11 +17,6 @@ This page present the list of all the records associated with the issue: **Faile
   <tbody>
     <tr>
       <td>2026-06-26</td>
-      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
-      <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/47m7-ev69</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
       <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
       <td>Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.: 10.21966/c6xs-y324</td>
     </tr>

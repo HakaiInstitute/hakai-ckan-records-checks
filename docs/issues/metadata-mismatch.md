@@ -22,8 +22,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-26</td>
-      <td>Oceanographic Mooring Time Series, Rivers Inlet, BC, Canada (Research)</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Kelp Field Data for Remote Sensing - BC Central Coast</td>
+      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
+      <td>Metadata mismatch: author 'W.C. Floyd' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-06-26</td>
@@ -32,18 +37,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-26</td>
-      <td>Cloud-Based LiDAR Application - ELVIZ - Place Glacier, Mt. Robson, and Elliot Creek, BC</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
-      <td>Vegetated Islands Polygons - 100 Islands Research</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
-      <td>Time series of quarterly kelp canopy extent from Landsat 5, 7, 8, and 9 since 1985</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.1371/journal.pone.0271477' (IsDerivedFrom) in DataCite not found in CKAN</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
+      <td>Metadata mismatch: creator 'William Floyd' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-06-23</td>
@@ -54,6 +49,16 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-23</td>
       <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-15</td>
+      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
+      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-15</td>
+      <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
+      <td>Metadata mismatch: author 'Tula Foundation' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-06-15</td>
@@ -82,8 +87,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Owikeno Lake Bathymetric Survey</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
+      <td>Northwest Calvert Substrate Mapping</td>
+      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
@@ -116,11 +126,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite</td>
     </tr>
     <tr>
-      <td>2026-05-25</td>
-      <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
       <td>2026-05-22</td>
       <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite</td>
@@ -144,6 +149,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-02-27</td>
       <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1yg1ec4-lvj0ut6csylv0p1udmcq-a5xu/view?usp=sharing' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-02-20</td>
+      <td>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-02-20</td>
@@ -184,6 +194,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-12-05</td>
       <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-12-04</td>
+      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
+      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -229,6 +244,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
       <td>Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
+      <td>Metadata mismatch: author 'Tula Foundation' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
@@ -287,6 +307,21 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
+      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Water column CO2 system measurements from Hakai Oceanographic station QU39 from January 2016 to December 2017 in northern Salish Sea, British Columbia, Canada</td>
+      <td>Metadata mismatch: author 'Tula Foundation' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
+      <td>Metadata mismatch: author 'Tula Foundation' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
       <td>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
@@ -302,17 +337,7 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>

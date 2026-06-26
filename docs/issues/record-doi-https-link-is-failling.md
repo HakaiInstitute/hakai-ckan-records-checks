@@ -17,11 +17,6 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2026-06-26</td>
-      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/47m7-ev69 status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
       <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
       <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/c6xs-y324 status_code=404</td>
     </tr>
