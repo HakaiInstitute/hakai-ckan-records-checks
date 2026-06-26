@@ -177,6 +177,14 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
                     ckan_lineage_ids.add(_normalize_identifier(code))
             except Exception:
                 pass
+        for src_str in entry.get("source", []):
+            try:
+                src = json.loads(src_str)
+                code = src.get("citation", {}).get("identifier", {}).get("code", "")
+                if code:
+                    ckan_lineage_ids.add(_normalize_identifier(code))
+            except Exception:
+                pass
 
     ckan_all_ids = ckan_related_ids | ckan_lineage_ids
 
