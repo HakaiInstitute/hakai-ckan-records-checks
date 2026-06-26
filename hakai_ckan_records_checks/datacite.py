@@ -122,11 +122,12 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
         if name:
             dc_creator_names.append(name)
 
-    ckan_author_names = [
-        f"{a.get('given', '')} {a.get('family', '')}".strip()
-        for a in ckan_citation.get("author", [])
-        if a.get("given") or a.get("family")
-    ]
+    ckan_author_names = []
+    for a in ckan_citation.get("author", []):
+        if a.get("given") or a.get("family"):
+            ckan_author_names.append(f"{a.get('given', '')} {a.get('family', '')}".strip())
+        elif a.get("literal"):
+            ckan_author_names.append(a["literal"])
 
     for dc_name in dc_creator_names:
         if not any(_fuzzy_match(dc_name, n) for n in ckan_author_names):
@@ -173,6 +174,14 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
             try:
                 doc = json.loads(doc_str)
                 code = doc.get("identifier", {}).get("code", "")
+                if code:
+                    ckan_lineage_ids.add(_normalize_identifier(code))
+            except Exception:
+                pass
+        for src_str in entry.get("source", []):
+            try:
+                src = json.loads(src_str)
+                code = src.get("citation", {}).get("identifier", {}).get("code", "")
                 if code:
                     ckan_lineage_ids.add(_normalize_identifier(code))
             except Exception:
