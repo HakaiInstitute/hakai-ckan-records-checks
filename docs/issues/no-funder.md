@@ -25,11 +25,6 @@ This page present the list of all the records associated with the issue: **No fu
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No funder</td>
     </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Dataset for article: 'Migration timing affects the foraging ecology of Fraser River sockeye salmon stocks in coastal waters of British Columbia, Canada'</td>
-      <td>No funder</td>
-    </tr>
   </tbody>
 </table>
 

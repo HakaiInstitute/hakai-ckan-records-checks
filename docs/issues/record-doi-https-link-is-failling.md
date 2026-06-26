@@ -16,9 +16,14 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-03</td>
-      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ns9h-1126 status_code=502</td>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/47m7-ev69 status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/c6xs-y324 status_code=404</td>
     </tr>
   </tbody>
 </table>

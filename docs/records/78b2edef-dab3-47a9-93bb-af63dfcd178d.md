@@ -9,10 +9,9 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6</a>
 
-| Issue                                                                    |
-|:-------------------------------------------------------------------------|
-| No version                                                               |
-| Primary DOI does not have a Hakai prefix (10.21966/): 10.25921/9vnv-0g64 |
+| Issue      |
+|:-----------|
+| No version |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-NHZwyY9Qlk5leV5vMEV" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
