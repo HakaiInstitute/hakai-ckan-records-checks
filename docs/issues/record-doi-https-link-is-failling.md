@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-22</td>
-      <td>UAV Imagery - Coastal British Columbia - 2015</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/74y7-v484 status_code=502</td>
+      <td>2026-06-03</td>
+      <td>Mussel Dynamics - Point Intercepts - BC Central Coast</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/ns9h-1126 status_code=502</td>
     </tr>
   </tbody>
 </table>
