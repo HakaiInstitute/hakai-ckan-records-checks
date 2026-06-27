@@ -6,36 +6,36 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-06-26*
+*Last updated: 2026-06-27*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">266</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">264</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-26</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-2 since 2026-06-26</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">62</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">60</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+4 since 2026-06-26</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-2 since 2026-06-26</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">96.6%</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">97.0%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-06-26</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">+0.4% since 2026-06-26</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 1.0, 2.0, 3.0, 9.0, 26.0, 40.0], "textposition": "outside", "x": [1, 1, 1, 1, 1, 2, 3, 9, 26, 40], "xaxis": "x", "y": ["Contact missing ORCID", "Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.", "No publisher", "Organization missing ROR", "Record DOI HTTPS link is failling", "No funder", "No DOI defined", "Invalid Resource URL", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 8.0, 26.0, 39.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 2, 3, 8, 26, 39], "xaxis": "x", "y": ["Contact missing ORCID", "Failed to retrieve DOI from dataCite [404] The resource you are looking for doesn't exist.", "No publisher", "Organization missing ROR", "No funder", "No DOI defined", "Record DOI HTTPS link is failling", "Invalid Resource URL", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -148,6 +148,12 @@ hide:
       <td>2026-06-09</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d4942b86-d362-40a3-9399-c124c4c263bd'>Larval Dungeness crab abundance and size time series along the coast of British Columbia</a></td>
+      <td><a title='357b017c-6add-4bde-95d0-386bdbab92b3' href='records/357b017c-6add-4bde-95d0-386bdbab92b3'>1</a></td>
+      <td>Sentinels of Change</td>
+      <td>2025-05-12</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0'>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</a></td>
       <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='records/6a28454e-107a-4059-9b7d-e43bf8ee693b'>3</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
@@ -172,12 +178,6 @@ hide:
       <td>2026-02-20</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
-      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='records/8882a149-fabd-4ecd-98d3-68a2a88aee38'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-05-08</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3e90a567-cdd7-41f3-8157-0e7be76eefb8'>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</a></td>
       <td><a title='432b05ce-8904-4094-94bf-b97fb6636e41' href='records/432b05ce-8904-4094-94bf-b97fb6636e41'>1</a></td>
       <td>Geospatial</td>
@@ -194,12 +194,6 @@ hide:
       <td><a title='3a8b11a2-5deb-469e-824b-32ab0eb5c2ca' href='records/3a8b11a2-5deb-469e-824b-32ab0eb5c2ca'>2</a></td>
       <td>Geospatial</td>
       <td>2024-07-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be'>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a title='550e7acb-0e3f-461f-bd47-8b6ced16bf43' href='records/550e7acb-0e3f-461f-bd47-8b6ced16bf43'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-06-23</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e2baa28d-c063-4354-ae1f-2abdb8397d8f'>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</a></td>
@@ -293,7 +287,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b52d5602-f81d-4565-9574-e448e99bc997'>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</a></td>
-      <td><a title='f0cae885-2124-41c1-8523-2c6725c40dd6' href='records/f0cae885-2124-41c1-8523-2c6725c40dd6'>1</a></td>
+      <td><a title='f0cae885-2124-41c1-8523-2c6725c40dd6' href='records/f0cae885-2124-41c1-8523-2c6725c40dd6'>2</a></td>
       <td>Watersheds, Geospatial</td>
       <td>2024-07-24</td>
     </tr>
@@ -422,12 +416,6 @@ hide:
       <td><a title='6a1254e5-3815-4289-ba1c-984fb84dc1fe' href='records/6a1254e5-3815-4289-ba1c-984fb84dc1fe'>1</a></td>
       <td>Geospatial</td>
       <td>2026-06-03</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af65bf72-27af-4747-8911-ab05591762ac'>Kelp forest communities along an otter gradient</a></td>
-      <td><a title='f5d51d99-ce24-4713-a317-7927dd283f1a' href='records/f5d51d99-ce24-4713-a317-7927dd283f1a'>1</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>2026-06-22</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>

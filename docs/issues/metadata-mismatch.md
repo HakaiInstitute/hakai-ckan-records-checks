@@ -41,16 +41,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: creator 'William Floyd' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2026-06-23</td>
-      <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-23</td>
-      <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
       <td>2026-06-15</td>
       <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
       <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
@@ -252,12 +242,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Underwater Video Transects - Calvert Island - 2016</td>
+      <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
