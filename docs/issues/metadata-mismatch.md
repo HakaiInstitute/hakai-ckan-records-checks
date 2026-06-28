@@ -27,18 +27,18 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-26</td>
-      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
-      <td>Metadata mismatch: author 'W.C. Floyd' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
       <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2026-06-26</td>
-      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
-      <td>Metadata mismatch: creator 'William Floyd' in DataCite not found in CKAN record</td>
+      <td>2026-06-23</td>
+      <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-23</td>
+      <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-06-15</td>
@@ -212,11 +212,6 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Underwater Video Transects - Calvert Island - 2016</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite</td>
     </tr>
@@ -234,16 +229,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
       <td>Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Underwater Video Transects - Calvert Island - 2016</td>
-      <td>Metadata mismatch: author 'Tula Foundation' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Underwater Video Transects - Calvert Island - 2016</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>

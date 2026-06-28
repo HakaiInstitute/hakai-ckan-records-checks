@@ -21,6 +21,11 @@ This page present the list of all the records associated with the issue: **No DO
       <td>No DOI defined</td>
     </tr>
     <tr>
+      <td>2026-06-22</td>
+      <td>Kelp forest communities along an otter gradient</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2026-06-09</td>
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No DOI defined</td>
