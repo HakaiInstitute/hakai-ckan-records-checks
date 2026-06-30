@@ -31,6 +31,56 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/1.243102' (IsSourceOf) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/47m7-ev69' (IsSourceOf) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/J99C-9C14' (IsSourceOf) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.21966/sbyc-d030' (IsSourceOf) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
+      <td>Metadata mismatch: related identifier 'https://drive.google.com/drive/u/0/folders/0Byed_WX-ZNMaYWdqSTVzU3YyVEE?resourcekey=0-Jt0OPJbzrAVOTIWtc-7lcw' (IsSourceOf) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: related work '10.21966/1.243102' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: related work '10.21966/j99c-9c14' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: related work '10.21966/sbyc-d030' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
+      <td>Metadata mismatch: related work 'https://drive.google.com/drive/u/0/folders/0byed_wx-znmaywdqstvzu3yyvee?resourcekey=0-jt0opjbzravotiwtc-7lcw' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
       <td>2026-06-23</td>
       <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
@@ -257,33 +307,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Elliot Creek Landslide – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
       <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
       <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
+      <td>Metadata mismatch: author 'K. Krumhansl' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
@@ -297,28 +327,13 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
-      <td>Elliot Creek Landslide – 2022 – Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Elliot Creek – Homathko Estuary Mapping - 2021 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Snow Mapping Coastal British Columbia - 2021 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Macrocystis kelp canopy productivity data from BC Central Coast, v1.3.0</td>
+      <td>Metadata mismatch: creator 'Kira Krumhansl' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
