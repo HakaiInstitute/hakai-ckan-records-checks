@@ -16,31 +16,6 @@ This page present the list of all the records associated with the issue: **No ve
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-26</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-15</td>
-      <td>Kilbella River Estuary LiDAR Survey - 2019 - Airborne Coastal Observatory</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-15</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2026-06-08</td>
-      <td>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</td>
-      <td>No version</td>
-    </tr>
-    <tr>
       <td>2026-06-03</td>
       <td>Field Station Structures - Calvert Island</td>
       <td>No version</td>
@@ -87,17 +62,7 @@ This page present the list of all the records associated with the issue: **No ve
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>High-resolution hydrometeorological data from seven small coastal watersheds, British Columbia, Canada, 2013-2019</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
       <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Bathymetry for Six Lakes on Calvert and Hecate Islands - 2016 - British Columbia - Canada</td>
       <td>No version</td>
     </tr>
     <tr>
@@ -123,16 +88,6 @@ This page present the list of all the records associated with the issue: **No ve
     <tr>
       <td>2024-07-23</td>
       <td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>No version</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>No version</td>
     </tr>
   </tbody>

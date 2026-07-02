@@ -36,11 +36,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-05-26</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Invalid Resource URL: https://drive.google.com/open?id=1jukkkqR46AAO14Q80XMWzwojRotSkuYS returned status_code=404</td>
-    </tr>
-    <tr>
       <td>2026-05-25</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>

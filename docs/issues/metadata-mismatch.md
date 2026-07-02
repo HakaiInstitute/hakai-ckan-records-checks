@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-06-30</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-06-30</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
       <td>2026-06-29</td>
       <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
       <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
@@ -39,16 +49,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-23</td>
       <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-06-15</td>
-      <td>Aquatic carbon flux data package for Oliver et al. 2017</td>
-      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-15</td>
-      <td>UAV Imagery - 2016 - Coastal British Columbia - Canada</td>
-      <td>Metadata mismatch: author 'Tula Foundation' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-06-15</td>
@@ -109,16 +109,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-05-27</td>
       <td>Horne Lake Bathymetry Mapping</td>
       <td>Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-05-22</td>
@@ -191,11 +181,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2024-12-04</td>
-      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
-      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2024-07-24</td>
       <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Geospatial Technology Team Hakai' in CKAN record not found in DataCite</td>
@@ -259,26 +244,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2024-07-24</td>
       <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Broken Group Imagery and LiDAR - 2018 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Gordon River Archaeology - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
