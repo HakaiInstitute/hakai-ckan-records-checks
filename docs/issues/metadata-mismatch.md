@@ -16,39 +16,9 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-30</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-30</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
       <td>2026-06-29</td>
       <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Provisional)</td>
       <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
-      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
-      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-06-23</td>
-      <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-23</td>
-      <td>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-06-15</td>
@@ -72,28 +42,18 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
       <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Field Station Structures - Calvert Island</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2026-06-01</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/16gyd2kqiddmvnb9u9hmy12qlp8muxsbb/view?usp=sharing' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-06-01</td>
-      <td>Clam Garden Geospatial Data - Quadra Island - 2016</td>
-      <td>Metadata mismatch: related work 'https://hakai.org/stories/great-walls-quadra' in CKAN not found in DataCite</td>
+      <td>2026-06-03</td>
+      <td>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2026-05-27</td>
@@ -126,16 +86,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: version CKAN='2.0' | DataCite='1.0'</td>
     </tr>
     <tr>
-      <td>2026-02-27</td>
-      <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1JzY5ELRe1sIbZdq7wBmAOT1t7Y1dNJ2v/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-02-27</td>
-      <td>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1yg1ec4-lvj0ut6csylv0p1udmcq-a5xu/view?usp=sharing' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2026-02-20</td>
       <td>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</td>
       <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
@@ -146,19 +96,9 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: title CKAN='Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)' | DataCite='Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research'</td>
     </tr>
     <tr>
-      <td>2025-11-18</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://docs.google.com/document/d/1j4ENgAW_2XtIHzDYbL8u2E5kOK2JkPEBVYdxcuv8NrE/edit?usp=drive_web&ouid=110988987704080303629' (HasMetadata) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2025-11-18</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/file/d/1vzyfwx7jwwlxw8wosydkfgt7vxydwlan/view' in CKAN not found in DataCite</td>
-    </tr>
-    <tr>
       <td>2025-11-05</td>
       <td>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1ZgcHBPDNHUNRvoaYmpj-IcbDrtPWoviN/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN</td>
+      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1ZgcHBPDNHUNRvoaYmpj-IcbDrtPWoviN/view' (HasMetadata) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2025-11-05</td>
@@ -168,7 +108,7 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2025-04-23</td>
       <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
-      <td>Metadata mismatch: related identifier '10.1098/rspb.2020.0108' (HasPart) in DataCite not found in CKAN</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1098/rspb.2020.0108' (IsPublishedIn) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
@@ -212,13 +152,8 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: author 'Jenn Burt' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
-      <td>Metadata mismatch: author 'Santiago Gonzalez Arriola' in CKAN record not found in DataCite</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>

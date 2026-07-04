@@ -6,7 +6,7 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-07-03*
+*Last updated: 2026-07-04*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
@@ -15,17 +15,17 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+3 since 2026-07-02</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-07-03</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">36</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">30</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-07-02</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-6 since 2026-07-03</div>
   
   
 </div>
@@ -35,7 +35,7 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-07-02</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-07-03</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 2.0, 7.0, 15.0, 27.0], "textposition": "outside", "x": [2, 2, 7, 15, 27], "xaxis": "x", "y": ["No funder", "No DOI defined", "Invalid Resource URL", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 7.0, 15.0, 18.0], "textposition": "outside", "x": [1, 2, 2, 7, 15, 18], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "No funder", "No DOI defined", "Invalid Resource URL", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -92,18 +92,6 @@ hide:
       <td><a title='0e92249d-74e1-4253-a8a5-876d08a8ff65' href='records/0e92249d-74e1-4253-a8a5-876d08a8ff65'>1</a></td>
       <td>Watersheds</td>
       <td>2026-06-22</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5b4cbe9f-8f2e-414c-80ff-741372891fe9'>Gitga'at Territory Coastal Monitoring and Mapping - Airborne Coastal Observatory</a></td>
-      <td><a title='b9671efe-5980-452b-90f8-f30e4f1bc194' href='records/b9671efe-5980-452b-90f8-f30e4f1bc194'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-02-27</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f7a867ce-0f18-43f6-8148-775235d800b6'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2023), Central Coast, British Columbia, Canada</a></td>
-      <td><a title='e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7' href='records/e67a81ba-0ac5-49bd-a1fe-02b98f79d8a7'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial, Nearshore</td>
-      <td>2025-11-18</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_39a83551-ab8e-45be-a564-cece4b229371'>Zooplankton taxonomic abundance and biomass along the BC Coast</a></td>
@@ -154,12 +142,6 @@ hide:
       <td>2026-06-15</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_43422dc8-2573-4f60-bf87-df447d57ab7a'>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a title='78efda1b-9688-4bcf-b16e-7167c17c0bcb' href='records/78efda1b-9688-4bcf-b16e-7167c17c0bcb'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-06-26</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6652a7a9-d27f-4cbe-ac04-435c238e991d'>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</a></td>
       <td><a title='7607322d-6dea-4758-a257-de8353c899c1' href='records/7607322d-6dea-4758-a257-de8353c899c1'>3</a></td>
       <td>Oceanography</td>
@@ -170,12 +152,6 @@ hide:
       <td><a title='79ace68f-f5a9-4224-8615-20fa255cb6d4' href='records/79ace68f-f5a9-4224-8615-20fa255cb6d4'>2</a></td>
       <td>Geospatial, 100 Islands</td>
       <td>2025-04-23</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_160803d3-8019-4a73-9191-5f75f0ec21be'>Mount Robson BC Parks Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a title='550e7acb-0e3f-461f-bd47-8b6ced16bf43' href='records/550e7acb-0e3f-461f-bd47-8b6ced16bf43'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-06-23</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1'>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
@@ -191,7 +167,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8'>Ecosystem Comparison Plots - Calvert Island</a></td>
-      <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='records/d8754c99-a540-4085-8c66-d9447da5f6e9'>2</a></td>
+      <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='records/d8754c99-a540-4085-8c66-d9447da5f6e9'>3</a></td>
       <td>Geospatial, Watersheds</td>
       <td>2024-07-24</td>
     </tr>
@@ -209,13 +185,13 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d94882f8-c069-454d-a0ea-96c2b17d789d'>LiDAR Derived Watersheds with Metrics - Calvert Island</a></td>
-      <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='records/79e98468-af9a-4b52-aa9c-71129fa9cb03'>2</a></td>
+      <td><a title='79e98468-af9a-4b52-aa9c-71129fa9cb03' href='records/79e98468-af9a-4b52-aa9c-71129fa9cb03'>1</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>2024-07-24</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0c8692f0-a103-4681-9247-9bb69c6e222e'>Kelp Canopy Extent - 2015 - NW Calvert Island - British Columbia - Canada</a></td>
-      <td><a title='ee09830d-dd5e-41eb-8aee-0fe9cef5fe79' href='records/ee09830d-dd5e-41eb-8aee-0fe9cef5fe79'>2</a></td>
+      <td><a title='ee09830d-dd5e-41eb-8aee-0fe9cef5fe79' href='records/ee09830d-dd5e-41eb-8aee-0fe9cef5fe79'>1</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2024-07-24</td>
     </tr>
@@ -239,25 +215,19 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1b517e6f-4f0a-4577-b7c2-c37f95d5b413'>Field Station Structures - Calvert Island</a></td>
-      <td><a title='7ed2118f-ecaa-41e4-aa81-911ffa47bf34' href='records/7ed2118f-ecaa-41e4-aa81-911ffa47bf34'>2</a></td>
+      <td><a title='7ed2118f-ecaa-41e4-aa81-911ffa47bf34' href='records/7ed2118f-ecaa-41e4-aa81-911ffa47bf34'>3</a></td>
       <td>Geospatial</td>
       <td>2026-06-03</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d61f51c3-7614-465f-bf27-c78986ca07c3'>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</a></td>
-      <td><a title='22951dd4-a9f7-4f2a-b11d-d50e184dc223' href='records/22951dd4-a9f7-4f2a-b11d-d50e184dc223'>2</a></td>
-      <td>Geospatial</td>
-      <td>2026-06-30</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5c13b300-e172-4010-a6d8-7586b68a3a96'>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</a></td>
-      <td><a title='c8f6fd7c-7c63-440b-b69a-bd0df3abfd26' href='records/c8f6fd7c-7c63-440b-b69a-bd0df3abfd26'>2</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>2026-06-03</td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4be1cc5e-8846-4fba-bd94-16ca933faab8'>Hyperspectral Imagery - Calvert Island - 2012</a></td>
+      <td><a title='44754736-c8be-49b1-8806-a0ca4a78255a' href='records/44754736-c8be-49b1-8806-a0ca4a78255a'>1</a></td>
+      <td>Airborne Coastal Observatory</td>
+      <td>2026-05-25</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
-      <td><a title='52048599-9a0c-4d33-861f-26eaedc86bd5' href='records/52048599-9a0c-4d33-861f-26eaedc86bd5'>2</a></td>
+      <td><a title='52048599-9a0c-4d33-861f-26eaedc86bd5' href='records/52048599-9a0c-4d33-861f-26eaedc86bd5'>3</a></td>
       <td>Nearshore, Geospatial</td>
       <td>2026-06-03</td>
     </tr>
@@ -272,12 +242,6 @@ hide:
       <td><a title='646dd927-3248-4fc9-970c-abea15f7d304' href='records/646dd927-3248-4fc9-970c-abea15f7d304'>2</a></td>
       <td>Geospatial, Oceanography</td>
       <td>2026-06-22</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a'>Clam Garden Geospatial Data - Quadra Island - 2016</a></td>
-      <td><a title='693c7ca7-a244-4375-9460-ff7c27187af2' href='records/693c7ca7-a244-4375-9460-ff7c27187af2'>2</a></td>
-      <td>Geospatial</td>
-      <td>2026-06-01</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3732444b-7a97-4d9c-9f2e-2fc6f9618bae'>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</a></td>
