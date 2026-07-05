@@ -1,28 +1,18 @@
 ,record_id,message
-0,ee09830d-dd5e-41eb-8aee-0fe9cef5fe79,No version
 0,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
 1,646dd927-3248-4fc9-970c-abea15f7d304,No funder
 0,69268e35-08ac-4e6d-b489-4bb72ac117b1,No version
 1,69268e35-08ac-4e6d-b489-4bb72ac117b1,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 2,69268e35-08ac-4e6d-b489-4bb72ac117b1,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
-0,79ace68f-f5a9-4224-8615-20fa255cb6d4,No version
-1,79ace68f-f5a9-4224-8615-20fa255cb6d4,Metadata mismatch: related identifier 'https://doi.org/10.1098/rspb.2020.0108' (IsPublishedIn) in DataCite not found in CKAN
-0,7ed2118f-ecaa-41e4-aa81-911ffa47bf34,No version
-1,7ed2118f-ecaa-41e4-aa81-911ffa47bf34,Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record
-2,7ed2118f-ecaa-41e4-aa81-911ffa47bf34,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
 0,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
-0,d8754c99-a540-4085-8c66-d9447da5f6e9,No version
-1,d8754c99-a540-4085-8c66-d9447da5f6e9,Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record
-2,d8754c99-a540-4085-8c66-d9447da5f6e9,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
 0,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
 0,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: version CKAN='2.0' | DataCite='1.0'
-1,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1sqnqvcxxcuqjfqasluneu6r311tfiogw/view?usp=sharing' in CKAN not found in DataCite
-2,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite
-0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+1,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite
+2,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1sqnqvcxxcuqjfqasluneu6r311tfiogw/view?usp=sharing' in CKAN not found in DataCite
 0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
-0,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://drive.google.com/file/d/1mt2v_uv78afjp5z_lhi1gu52bqwko4ms/view?usp=drive_link' in CKAN not found in DataCite
-1,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite
-0,44754736-c8be-49b1-8806-a0ca4a78255a,Record DOI HTTPS link is failling: https://doi.org/10.21966/64tt-jh34 status_code=502
+0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+0,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://hakai.maps.arcgis.com/home/webmap/viewer.html?webmap=75ee2603aa5a45068c7e3579796c3aab' in CKAN not found in DataCite
+1,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: related work 'https://drive.google.com/file/d/1mt2v_uv78afjp5z_lhi1gu52bqwko4ms/view?usp=drive_link' in CKAN not found in DataCite
 0,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,No version
 1,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 2,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
@@ -33,20 +23,14 @@
 0,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,No version
 1,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 2,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-0,67b81524-e385-439e-9bc1-03bd4652eba6,Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite
 0,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: license CKAN='CC-BY-NC-4.0' | DataCite='cc-by-4.0'
 1,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite
 2,ed22dc0f-f2cc-41e5-ac1c-893e1b65c6d0,Metadata mismatch: related identifier 'https://drive.google.com/file/d/1tCkBSbg8viQE8RDHg-0B3K9qfWbKU_Em/view' (HasMetadata) in DataCite not found in CKAN
 0,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
-0,2916abf5-419e-4cd7-8e25-f45f07a21313,Metadata mismatch: related work 'https://drive.google.com/file/d/1crbcqqcmvk3ibyxufqxgj7yv7s5a2-1y/view?usp=sharing' in CKAN not found in DataCite
-1,2916abf5-419e-4cd7-8e25-f45f07a21313,Metadata mismatch: related identifier 'https://drive.google.com/file/d/1ZgcHBPDNHUNRvoaYmpj-IcbDrtPWoviN/view' (HasMetadata) in DataCite not found in CKAN
-0,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
 0,55e7c337-02e8-4200-8ea9-88241d978f96,No version
 1,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/q31x-qg72' (References) in DataCite not found in CKAN
 2,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/v57r-g944' (References) in DataCite not found in CKAN
-0,52048599-9a0c-4d33-861f-26eaedc86bd5,No version
-1,52048599-9a0c-4d33-861f-26eaedc86bd5,Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record
-2,52048599-9a0c-4d33-861f-26eaedc86bd5,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+0,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
 0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
 1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
 0,f9ff815c-c57a-4750-8f80-25f5e145c8c0,No version
@@ -57,7 +41,6 @@
 0,b36a7c12-cb56-46b7-8241-9b52ac30c766,No version
 1,b36a7c12-cb56-46b7-8241-9b52ac30c766,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 2,b36a7c12-cb56-46b7-8241-9b52ac30c766,Metadata mismatch: author 'Geospatial Technology Team Hakai' in CKAN record not found in DataCite
-0,79e98468-af9a-4b52-aa9c-71129fa9cb03,No version
 0,c2b05382-684f-4349-a64b-b20521223574,No version
 1,c2b05382-684f-4349-a64b-b20521223574,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 2,c2b05382-684f-4349-a64b-b20521223574,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
