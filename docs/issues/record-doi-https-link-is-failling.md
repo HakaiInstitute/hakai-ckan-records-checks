@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-25</td>
-      <td>Hyperspectral Imagery - Calvert Island - 2012</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/64tt-jh34 status_code=502</td>
+      <td>2026-06-22</td>
+      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/zv0b-za54 status_code=502</td>
     </tr>
   </tbody>
 </table>
