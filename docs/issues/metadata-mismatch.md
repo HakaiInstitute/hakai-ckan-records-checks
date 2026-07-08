@@ -16,12 +16,12 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-15</td>
+      <td>2026-07-06</td>
       <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
-      <td>2026-06-15</td>
+      <td>2026-07-06</td>
       <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
@@ -29,21 +29,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-06-03</td>
       <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
       <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Horne Lake Bathymetry Mapping</td>
-      <td>Metadata mismatch: license CKAN='CC-BY-NC-4.0' | DataCite='cc-by-4.0'</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Horne Lake Bathymetry Mapping</td>
-      <td>Metadata mismatch: related identifier 'https://drive.google.com/file/d/1tCkBSbg8viQE8RDHg-0B3K9qfWbKU_Em/view' (HasMetadata) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-05-27</td>
-      <td>Horne Lake Bathymetry Mapping</td>
-      <td>Metadata mismatch: related work 'https://hecate.hakai.org/auth/access-request.php?ref=10.21966/tqj2-wh77' in CKAN not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-05-22</td>
@@ -59,16 +44,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-05-22</td>
       <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: version CKAN='2.0' | DataCite='1.0'</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</td>
-      <td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-02-20</td>
-      <td>Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)</td>
-      <td>Metadata mismatch: title CKAN='Water Level Time Series, Choke Pass, Central Coast, BC, Canada (Provisional)' | DataCite='Water Level measured from a Pressure Tide Gauge Instrument Deployed in Choke Pass on Calvert Island Research'</td>
     </tr>
     <tr>
       <td>2024-12-05</td>
@@ -108,26 +83,26 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2024-07-24</td>
       <td>Hunter Island Hauyat Village Site Elevation Point Data - British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
       <td>2024-07-24</td>
       <td>Hakai Marine Sampling Survey - 2014 - BC Central Coast - Canada</td>
+      <td>Metadata mismatch: creator 'Hakai Geospatial' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
