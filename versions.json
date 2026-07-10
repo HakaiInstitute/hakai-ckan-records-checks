@@ -48,5 +48,10 @@
     "version": "DOI-redirecting",
     "title": "DOI-redirecting",
     "aliases": []
+  },
+  {
+    "version": "check-ROR",
+    "title": "check-ROR",
+    "aliases": []
   }
 ]

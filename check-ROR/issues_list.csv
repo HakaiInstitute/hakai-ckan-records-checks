@@ -1,0 +1,31 @@
+,record_id,message
+0,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
+1,646dd927-3248-4fc9-970c-abea15f7d304,No funder
+0,bf7c05e8-510d-4449-9e81-4c358ff3f440,Tentative dataset should not have a version
+0,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
+0,11051c56-8d67-43fc-a13c-b706e851a5a4,Tentative dataset should not have a version
+0,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
+0,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: version CKAN='2.0' | DataCite='1.0'
+1,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1sqnqvcxxcuqjfqasluneu6r311tfiogw/view?usp=sharing' in CKAN not found in DataCite
+2,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite
+0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
+0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+0,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+1,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+0,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,No version
+1,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+2,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+0,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
+0,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,No version
+1,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+2,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+0,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
+0,55e7c337-02e8-4200-8ea9-88241d978f96,No version
+1,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/q31x-qg72' (References) in DataCite not found in CKAN
+2,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/v57r-g944' (References) in DataCite not found in CKAN
+0,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
+0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
+1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+0,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,No version
+1,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite
+0,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Tentative dataset should not have a version
