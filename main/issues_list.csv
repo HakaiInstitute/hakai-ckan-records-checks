@@ -28,6 +28,4 @@
 1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
 0,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,No version
 1,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite
-0,79433a1f-ec07-4cd5-a31a-8c2c53069085,Metadata mismatch: related identifier 'https://catalogue.hakai.org/dataset/ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a' (IsDerivedFrom) in DataCite not found in CKAN
 0,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Tentative dataset should not have a version
-0,8882a149-fabd-4ecd-98d3-68a2a88aee38,Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout
