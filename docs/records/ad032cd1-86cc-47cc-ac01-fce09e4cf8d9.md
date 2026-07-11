@@ -9,13 +9,9 @@ hide:
 
 View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33</a>
 
-| Issue                               |
-|:------------------------------------|
-| No projects associated              |
-| No version                          |
-| No funder                           |
-| No publisher                        |
-| Contact missing ORCID: Whalen, Matt |
+| Issue                                                                                                                         |
+|:------------------------------------------------------------------------------------------------------------------------------|
+| Metadata mismatch: related identifier 'https://doi.org/10.3391/bir.2020.9.3.09' (IsPublishedIn) in DataCite not found in CKAN |
 
 
 <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/qbqh6DF00XZq8MOpQ3kKkI9GUv43/-MWpwT0Z6RlAySHp6cU0" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>

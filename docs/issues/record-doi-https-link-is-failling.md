@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-22</td>
-      <td>Lidar Derived Canopy Height Model - Calvert Island - British Columbia - Canada</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/zv0b-za54 status_code=502</td>
+      <td>2026-06-26</td>
+      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/n0h9-cq15 status_code=502</td>
     </tr>
   </tbody>
 </table>
