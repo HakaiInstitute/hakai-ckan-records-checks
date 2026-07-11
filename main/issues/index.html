@@ -400,7 +400,7 @@
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 2.0, 3.0, 4.0, 6.0, 7.0], "textposition": "outside", "x": [2, 2, 3, 4, 6, 7], "xaxis": "x", "y": ["No funder", "No DOI defined", "Tentative dataset should not have a version", "No version", "Metadata mismatch", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 2.0, 3.0, 4.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 2, 3, 4, 8], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "Metadata mismatch", "No funder", "No DOI defined", "Tentative dataset should not have a version", "No version", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -942,14 +942,14 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0">Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</a></td>
 <td>2024-10-09</td>
 <td>2026-05-22</td>
-<td><a href="../records/6a28454e-107a-4059-9b7d-e43bf8ee693b" title="6a28454e-107a-4059-9b7d-e43bf8ee693b">3</a></td>
+<td><a href="../records/6a28454e-107a-4059-9b7d-e43bf8ee693b" title="6a28454e-107a-4059-9b7d-e43bf8ee693b">1</a></td>
 </tr>
 <tr>
 <th>193</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a">Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
 <td>2024-10-09</td>
 <td>2026-07-06</td>
-<td><a href="../records/f1aee211-bfab-46fd-b650-c5cacb782f40" title="f1aee211-bfab-46fd-b650-c5cacb782f40">2</a></td>
+<td></td>
 </tr>
 <tr>
 <th>194</th>
@@ -1012,7 +1012,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893">Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
 <td>2024-07-12</td>
 <td>2026-05-08</td>
-<td></td>
+<td><a href="../records/8882a149-fabd-4ecd-98d3-68a2a88aee38" title="8882a149-fabd-4ecd-98d3-68a2a88aee38">1</a></td>
 </tr>
 <tr>
 <th>181</th>
@@ -1166,7 +1166,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_532c06ad-0b55-4e86-9088-cec970a0a8e1">Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</a></td>
 <td>2023-01-18</td>
 <td>2024-12-05</td>
-<td><a href="../records/ee2eec87-7a78-4a7f-87b7-54347a6c3b2f" title="ee2eec87-7a78-4a7f-87b7-54347a6c3b2f">3</a></td>
+<td><a href="../records/ee2eec87-7a78-4a7f-87b7-54347a6c3b2f" title="ee2eec87-7a78-4a7f-87b7-54347a6c3b2f">1</a></td>
 </tr>
 <tr>
 <th>161</th>
@@ -1376,17 +1376,17 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6844547c-708e-437b-aef7-157b4d9d9bcb">Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-06-26</td>
-<td></td>
+<td><a href="../records/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9" title="3c4cc294-1e9a-410e-81b0-0d9461e4b1c9">1</a></td>
 </tr>
 <tr>
-<th>129</th>
+<th>128</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef">Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-06-03</td>
 <td></td>
 </tr>
 <tr>
-<th>128</th>
+<th>129</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324">Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
 <td>2022-03-29</td>
 <td>2026-06-04</td>
@@ -1404,7 +1404,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_9201118a-b0c4-470f-a76f-396bacc5e93e">Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</a></td>
 <td>2022-03-29</td>
 <td>2024-07-23</td>
-<td><a href="../records/55e7c337-02e8-4200-8ea9-88241d978f96" title="55e7c337-02e8-4200-8ea9-88241d978f96">3</a></td>
+<td><a href="../records/55e7c337-02e8-4200-8ea9-88241d978f96" title="55e7c337-02e8-4200-8ea9-88241d978f96">1</a></td>
 </tr>
 <tr>
 <th>132</th>
@@ -1470,14 +1470,14 @@
 <td></td>
 </tr>
 <tr>
-<th>115</th>
+<th>116</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde">Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
 <td>2022-03-25</td>
 <td>2026-06-15</td>
 <td></td>
 </tr>
 <tr>
-<th>116</th>
+<th>115</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34">Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
 <td>2022-03-25</td>
 <td>2024-07-24</td>
@@ -1554,14 +1554,14 @@
 <td></td>
 </tr>
 <tr>
-<th>101</th>
+<th>100</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880">Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></td>
 <td>2022-03-11</td>
 <td>2026-06-22</td>
 <td></td>
 </tr>
 <tr>
-<th>100</th>
+<th>101</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_51171738-7556-48f1-8757-658d99fa25dd">Eelgrass Extent 2014 - Central Coast</a></td>
 <td>2022-03-11</td>
 <td>2026-06-22</td>
@@ -1572,7 +1572,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc">Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</a></td>
 <td>2022-03-11</td>
 <td>2024-07-24</td>
-<td><a href="../records/70f29525-f17b-4bc7-ae7f-d1e7205ba16c" title="70f29525-f17b-4bc7-ae7f-d1e7205ba16c">3</a></td>
+<td><a href="../records/70f29525-f17b-4bc7-ae7f-d1e7205ba16c" title="70f29525-f17b-4bc7-ae7f-d1e7205ba16c">1</a></td>
 </tr>
 <tr>
 <th>103</th>
@@ -1750,14 +1750,14 @@
 <td></td>
 </tr>
 <tr>
-<th>80</th>
+<th>79</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c">Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
 <td>2022-03-01</td>
 <td>2026-06-10</td>
 <td></td>
 </tr>
 <tr>
-<th>79</th>
+<th>80</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_c3eff62f-bcee-4faa-a7e1-7b9380d94e74">Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</a></td>
 <td>2022-03-01</td>
 <td>2026-06-10</td>
@@ -1964,7 +1964,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33">Data on invasion of Calvert Island by Orthione griffenis</a></td>
 <td>2022-01-24</td>
 <td>2026-06-09</td>
-<td></td>
+<td><a href="../records/ad032cd1-86cc-47cc-ac01-fce09e4cf8d9" title="ad032cd1-86cc-47cc-ac01-fce09e4cf8d9">1</a></td>
 </tr>
 <tr>
 <th>45</th>
@@ -2244,7 +2244,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408">Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
 <td>2021-09-23</td>
 <td>2026-06-03</td>
-<td><a href="../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da" title="c83b5cbf-cc8c-4676-823c-77e28c0ec9da">2</a></td>
+<td><a href="../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da" title="c83b5cbf-cc8c-4676-823c-77e28c0ec9da">1</a></td>
 </tr>
 <tr>
 <th>5</th>
@@ -2323,14 +2323,9 @@
 <td>Tentative dataset should not have a version</td>
 </tr>
 <tr>
-<td>2026-07-06</td>
-<td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-<td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-</tr>
-<tr>
-<td>2026-07-06</td>
-<td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-<td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+<td>2026-06-26</td>
+<td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada</td>
+<td>Record DOI HTTPS link is failling: https://doi.org/10.21966/n0h9-cq15 status_code=502</td>
 </tr>
 <tr>
 <td>2026-06-22</td>
@@ -2364,6 +2359,11 @@
 </tr>
 <tr>
 <td>2026-06-09</td>
+<td>Data on invasion of Calvert Island by Orthione griffenis</td>
+<td>Metadata mismatch: related identifier 'https://doi.org/10.3391/bir.2020.9.3.09' (IsPublishedIn) in DataCite not found in CKAN</td>
+</tr>
+<tr>
+<td>2026-06-09</td>
 <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
 <td>No DOI defined</td>
 </tr>
@@ -2371,11 +2371,6 @@
 <td>2026-06-09</td>
 <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
 <td>No funder</td>
-</tr>
-<tr>
-<td>2026-06-03</td>
-<td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
-<td>Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite</td>
 </tr>
 <tr>
 <td>2026-06-03</td>
@@ -2390,17 +2385,12 @@
 <tr>
 <td>2026-05-22</td>
 <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
-<td>Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite</td>
-</tr>
-<tr>
-<td>2026-05-22</td>
-<td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
-<td>Metadata mismatch: related work 'https://drive.google.com/file/d/1sqnqvcxxcuqjfqasluneu6r311tfiogw/view?usp=sharing' in CKAN not found in DataCite</td>
-</tr>
-<tr>
-<td>2026-05-22</td>
-<td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
 <td>Metadata mismatch: version CKAN='2.0' | DataCite='1.0'</td>
+</tr>
+<tr>
+<td>2026-05-08</td>
+<td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
+<td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
 </tr>
 <tr>
 <td>2025-05-16</td>
@@ -2415,42 +2405,12 @@
 <tr>
 <td>2024-12-05</td>
 <td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-<td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-</tr>
-<tr>
-<td>2024-12-05</td>
-<td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
-<td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-</tr>
-<tr>
-<td>2024-12-05</td>
-<td>Snow Mapping LiDAR Survey - 2022 - Hakai Airborne Coastal Observatory</td>
 <td>No version</td>
 </tr>
 <tr>
 <td>2024-07-24</td>
 <td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-<td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-</tr>
-<tr>
-<td>2024-07-24</td>
-<td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
-<td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-</tr>
-<tr>
-<td>2024-07-24</td>
-<td>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</td>
 <td>No version</td>
-</tr>
-<tr>
-<td>2024-07-23</td>
-<td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
-<td>Metadata mismatch: related identifier '10.21966/q31x-qg72' (References) in DataCite not found in CKAN</td>
-</tr>
-<tr>
-<td>2024-07-23</td>
-<td>Particulate organic matter composition for freshwater and marine stations from 2015 through 2018 on the Central Coast, British Columbia, Canada.</td>
-<td>Metadata mismatch: related identifier '10.21966/v57r-g944' (References) in DataCite not found in CKAN</td>
 </tr>
 <tr>
 <td>2024-07-23</td>
@@ -2501,7 +2461,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 10, 2026 04:21:54 UTC">July 10, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 11, 2026 04:04:26 UTC">July 11, 2026</span>
   </span>
 
     
@@ -2511,7 +2471,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 9, 2026 04:26:06 UTC">July 9, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 10, 2026 04:21:54 UTC">July 10, 2026</span>
   </span>
 
     
