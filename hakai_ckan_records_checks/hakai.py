@@ -163,9 +163,9 @@ def test_record_requirements(record) -> pd.DataFrame:
         except requests.exceptions.Timeout:
             status_code = "timeout"
         accepted = {200, 201, 401, 403, 418, 503}
-        if not published_over_6_months:
+        is_github_repo_url = bool(re.match(r"^https?://github\.com/[^/]+/[^/]+/?$", resource["url"]))
+        if (not published_over_6_months) and is_github_repo_url:
             accepted.add(404)
-        _test(
             status_code in accepted,
             f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
