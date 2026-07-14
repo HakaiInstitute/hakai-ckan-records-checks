@@ -35,11 +35,6 @@
     "aliases": []
   },
   {
-    "version": "fix-private-repos",
-    "title": "fix-private-repos",
-    "aliases": []
-  },
-  {
     "version": "fix-metadata-mismatch",
     "title": "fix-metadata-mismatch",
     "aliases": []
