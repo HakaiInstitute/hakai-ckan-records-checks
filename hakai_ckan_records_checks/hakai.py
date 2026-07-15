@@ -12,6 +12,23 @@ ORGANIZATIONS = [
 ]
 DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
 
+_SKIP_URL_PREFIXES = (
+    "https://cioos.ca/translation_method",
+    "http://standards.iso.org",
+    "https://standards.iso.org",
+    "https://www.iana.org",
+    "http://www.w3.org",
+    "https://www.w3.org",
+    "https://creativecommons.org",
+    "https://en.wikipedia.org",
+    "https://epsg.org",
+    "http://wiki.esipfed.org",
+    "https://wiki.esipfed.org",
+    "http://www.opengis.net",
+    "https://www.opengis.net",
+    "https://schemas.isotc211.org",
+)
+
 
 def _normalize_name(name):
     if "," in name:
@@ -166,6 +183,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         is_github_repo_url = bool(re.match(r"^https?://github\.com/[^/]+/[^/]+/?$", resource["url"]))
         if (not published_over_6_months) and is_github_repo_url:
             accepted.add(404)
+        _test(
             status_code in accepted,
             f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
@@ -173,6 +191,87 @@ def test_record_requirements(record) -> pd.DataFrame:
     # Spatial
     _test("spatial" in record, "No spatial information available")
 
+    return results
+
+
+def _should_skip_url(url: str) -> bool:
+    return any(url.startswith(prefix) for prefix in _SKIP_URL_PREFIXES)
+
+
+_URL_RE = re.compile(r"https?://[^\s<>\"')\]]+")
+
+
+def _extract_record_links(record) -> set:
+    """Collect all URLs from aggregation-info, lineage, and abstract fields."""
+    urls = set()
+
+    def _scan_text(text):
+        for match in _URL_RE.findall(text or ""):
+            urls.add(match.rstrip(".,;:!?)"))
+
+    _scan_text(record.get("notes") or "")
+    for text in (record.get("notes_translated") or {}).values():
+        _scan_text(text)
+
+    for agg in record.get("aggregation-info", []):
+        code = agg.get("aggregate-dataset-identifier_code", "")
+        if code and code.startswith("http"):
+            urls.add(code)
+    for entry in record.get("lineage", []):
+        for step_str in entry.get("processing-step", []):
+            try:
+                step = json.loads(step_str) if isinstance(step_str, str) else step_str
+                url = step.get("reference", {}).get("onlineResource", {}).get("url", "")
+                if url:
+                    urls.add(url)
+            except Exception:
+                pass
+        for doc_str in entry.get("additional-documentation", []):
+            try:
+                doc = json.loads(doc_str) if isinstance(doc_str, str) else doc_str
+                url = doc.get("onlineResource", {}).get("url", "")
+                if url:
+                    urls.add(url)
+            except Exception:
+                pass
+        for src_str in entry.get("source", []):
+            try:
+                src = json.loads(src_str) if isinstance(src_str, str) else src_str
+                url = src.get("citation", {}).get("onlineResource", {}).get("url", "")
+                if url:
+                    urls.add(url)
+            except Exception:
+                pass
+    return urls
+
+
+@logger.catch(default=[])
+def check_record_links(record) -> list:
+    """Check URLs in aggregation-info, lineage, and abstract fields for broken links.
+
+    Flags HTTP error responses (4xx/5xx) but ignores timeouts, redirects, and
+    auth-gated responses. Skips standards/vocabulary URLs (same exclusions as
+    the lychee link checker).
+    """
+    results = []
+    # 401/403 mean auth-required (resource exists), 418/503 are transient/intentional
+    ok_statuses = {200, 201, 301, 302, 307, 308, 401, 403, 418, 503}
+    for url in _extract_record_links(record):
+        if _should_skip_url(url):
+            continue
+        try:
+            response = requests.get(
+                url,
+                allow_redirects=True,
+                timeout=15,
+                headers={"User-Agent": "hakai-ckan-records-checks/link-checker"},
+            )
+            if response.status_code not in ok_statuses:
+                results.append([f"Broken link ({response.status_code}): {url}"])
+        except requests.exceptions.Timeout:
+            pass
+        except requests.exceptions.RequestException:
+            results.append([f"Broken link (connection error): {url}"])
     return results
 
 
