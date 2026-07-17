@@ -1,6 +1,7 @@
 import difflib
 import json
 import re
+from datetime import date
 
 import pandas as pd
 import requests
@@ -134,6 +135,24 @@ def test_record_requirements(record) -> pd.DataFrame:
             "Publisher contact is missing a name or organisation",
         )
 
+    # Determine whether the record has been published for 6+ months
+    pub_date_str = next(
+        (d["value"] for d in record.get("metadata-reference-date", []) if d.get("type") == "publication"),
+        None,
+    )
+    published_over_6_months = True
+    if pub_date_str:
+        try:
+            pub = date.fromisoformat(pub_date_str)
+            today = date.today()
+            six_months_ago = today.replace(
+                year=today.year if today.month > 6 else today.year - 1,
+                month=today.month - 6 if today.month > 6 else today.month + 6,
+            )
+            published_over_6_months = pub <= six_months_ago
+        except ValueError:
+            pass
+
     # Resources
     for index, resource in enumerate(record.get("resources", [])):
         _test(resource["name"] != "", "Empty resource name")
@@ -143,8 +162,11 @@ def test_record_requirements(record) -> pd.DataFrame:
             status_code = int(requests.get(resource["url"]).status_code)
         except requests.exceptions.Timeout:
             status_code = "timeout"
-        _test(
-            status_code in (200, 201, 401, 403, 418, 503),
+        accepted = {200, 201, 401, 403, 418, 503}
+        is_github_repo_url = bool(re.match(r"^https?://github\.com/[^/]+/[^/]+/?$", resource["url"]))
+        if (not published_over_6_months) and is_github_repo_url:
+            accepted.add(404)
+            status_code in accepted,
             f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
 

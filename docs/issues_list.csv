@@ -1,31 +1,72 @@
 ,record_id,message
 0,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
 1,646dd927-3248-4fc9-970c-abea15f7d304,No funder
-0,bf7c05e8-510d-4449-9e81-4c358ff3f440,Tentative dataset should not have a version
-0,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
-0,11051c56-8d67-43fc-a13c-b706e851a5a4,Tentative dataset should not have a version
-0,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
-0,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: version CKAN='2.0' | DataCite='1.0'
-1,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1sqnqvcxxcuqjfqasluneu6r311tfiogw/view?usp=sharing' in CKAN not found in DataCite
-2,6a28454e-107a-4059-9b7d-e43bf8ee693b,Metadata mismatch: related work 'https://drive.google.com/file/d/1blzfowqmictyuet4mnip2d2nnmd2pxjg/view?usp=sharing' in CKAN not found in DataCite
-0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
-0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
-0,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-1,f1aee211-bfab-46fd-b650-c5cacb782f40,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-0,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,No version
-1,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-2,ee2eec87-7a78-4a7f-87b7-54347a6c3b2f,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-0,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
-0,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,No version
-1,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-2,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-0,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
-0,55e7c337-02e8-4200-8ea9-88241d978f96,No version
-1,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/q31x-qg72' (References) in DataCite not found in CKAN
-2,55e7c337-02e8-4200-8ea9-88241d978f96,Metadata mismatch: related identifier '10.21966/v57r-g944' (References) in DataCite not found in CKAN
-0,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
-0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
-1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-0,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,No version
-1,c83b5cbf-cc8c-4676-823c-77e28c0ec9da,Metadata mismatch: author 'Hakai Institute' in CKAN record not found in DataCite
-0,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Tentative dataset should not have a version
+2,bf7c05e8-510d-4449-9e81-4c358ff3f440,Tentative dataset should not have a version
+3,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
+4,11051c56-8d67-43fc-a13c-b706e851a5a4,Tentative dataset should not have a version
+5,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
+6,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
+7,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+8,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
+9,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/1269473 returned status_code=500
+10,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
+11,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
+12,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
+13,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+14,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Tentative dataset should not have a version
+15,8882a149-fabd-4ecd-98d3-68a2a88aee38,Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout
+16,bfad4541-a06a-489e-bd95-a5e7c65e0dc1,"Contact missing affiliation: Floyd, William"
+17,e1b86825-d43b-47e1-bf45-ab791f44772d,"Contact missing affiliation: Floyd, William"
+18,a31d44d5-2ce5-4d03-8d0b-4549023840ff,"Contact missing affiliation: VanMaanen, Derek"
+19,a31d44d5-2ce5-4d03-8d0b-4549023840ff,"Contact missing affiliation: Liggan, Lauran"
+20,a31d44d5-2ce5-4d03-8d0b-4549023840ff,"Contact missing affiliation: Millard-Martin, Ben"
+21,44bdc298-1329-400a-bc02-4d35d251865d,"Contact missing affiliation: Whalen, Matthew"
+22,1be9154a-1497-42eb-8821-b0d63000814c,"Contact missing affiliation: Korver, Maartje C."
+23,1be9154a-1497-42eb-8821-b0d63000814c,"Contact missing affiliation: Floyd, William"
+24,1be9154a-1497-42eb-8821-b0d63000814c,"Contact missing affiliation: Lertzman, Ken"
+25,d8754c99-a540-4085-8c66-d9447da5f6e9,"Contact missing affiliation: Saunders, Sari"
+26,5576c279-6d3a-4323-8104-0e1040d9906c,"Contact missing affiliation: Burt, Jenn"
+27,98bc62c7-d6a4-42bd-9110-c8021380d8a5,"Contact missing affiliation: Closs, Alana"
+28,98bc62c7-d6a4-42bd-9110-c8021380d8a5,"Contact missing affiliation: Manning, Faye"
+29,98bc62c7-d6a4-42bd-9110-c8021380d8a5,"Contact missing affiliation: Whalen, Matthew"
+30,98bc62c7-d6a4-42bd-9110-c8021380d8a5,"Contact missing affiliation: Millard-Martin, Ben"
+31,98bc62c7-d6a4-42bd-9110-c8021380d8a5,"Contact missing affiliation: Rechsteiner, Erin"
+32,a8f61379-14f9-4ccc-bc9b-4408ba8340d7,"Contact missing affiliation: Liggan, Lauran"
+33,c06cb551-351c-456f-8d0c-c8aab9aec162,"Contact missing affiliation: Oliver, Allison"
+34,1dfdbadf-6314-4411-8d18-752f6dd920e9,"Contact missing affiliation: Hall, Kyle"
+35,1dfdbadf-6314-4411-8d18-752f6dd920e9,"Contact missing affiliation: Millard-Martin, Ben"
+36,1dfdbadf-6314-4411-8d18-752f6dd920e9,"Contact missing affiliation: VanMaanen, Derek"
+37,1dfdbadf-6314-4411-8d18-752f6dd920e9,"Contact missing affiliation: Whalen, Matthew"
+38,1dfdbadf-6314-4411-8d18-752f6dd920e9,"Contact missing affiliation: Liggan, Lauran"
+39,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,"Contact missing affiliation: Floyd, William"
+40,4f1e8eac-8390-44d8-93d6-9263fc1dfcf9,"Contact missing affiliation: Floyd, William"
+41,55e7c337-02e8-4200-8ea9-88241d978f96,"Contact missing affiliation: Tank, Suzanne"
+42,55e7c337-02e8-4200-8ea9-88241d978f96,"Contact missing affiliation: Lertzman, Ken"
+43,def2a409-2319-4e8c-a584-9a467f044ada,"Contact missing affiliation: Korver, Maartje C."
+44,def2a409-2319-4e8c-a584-9a467f044ada,"Contact missing affiliation: Floyd, William"
+45,def2a409-2319-4e8c-a584-9a467f044ada,"Contact missing affiliation: Oliver, Allison"
+46,def2a409-2319-4e8c-a584-9a467f044ada,"Contact missing affiliation: Tank, Suzanne"
+47,f51d96b5-1827-4aab-b1ce-575faff1fd03,"Contact missing affiliation: Millard-Martin, Ben"
+48,49ec67e4-f7be-4658-b2b6-e4b57d9901df,"Contact missing affiliation: Korver, Maartje C."
+49,49ec67e4-f7be-4658-b2b6-e4b57d9901df,"Contact missing affiliation: Tank, Suzanne"
+50,2510cc69-bd46-4534-a62f-dae1903b388d,"Contact missing affiliation: Evans, Wiley"
+51,2510cc69-bd46-4534-a62f-dae1903b388d,"Contact missing affiliation: Albers, Sam"
+52,613ba2f9-b21d-445f-8eaa-f42950c9350b,"Contact missing affiliation: Hare, Alex"
+53,613ba2f9-b21d-445f-8eaa-f42950c9350b,"Contact missing affiliation: Barrette, Jessy"
+54,613ba2f9-b21d-445f-8eaa-f42950c9350b,"Contact missing affiliation: Jackson, Jennifer"
+55,9e4a38d6-eb29-44a8-b495-c56ce74a227c,"Contact missing affiliation: Hales, Burke"
+56,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing affiliation: Whalen, Matthew"
+57,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing affiliation: VanMaanen, Derek"
+58,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing affiliation: Liggan, Lauran"
+59,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing affiliation: Hall, Kyle"
+60,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing affiliation: VanMaanen, Derek"
+61,46377bf0-06d5-4612-970d-29cd972e4870,"Contact missing affiliation: Liggan, Lauran"
+62,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing affiliation: Millard-Martin, Ben"
+63,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing affiliation: Liggan, Lauran"
+64,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing affiliation: VanMaanen, Derek"
+65,6a6908af-8856-431e-8277-458fee82e534,"Contact missing affiliation: Hall, Kyle"
+66,6a6908af-8856-431e-8277-458fee82e534,"Contact missing affiliation: VanMaanen, Derek"
+67,6a6908af-8856-431e-8277-458fee82e534,"Contact missing affiliation: Whalen, Matthew"
+68,6a6908af-8856-431e-8277-458fee82e534,"Contact missing affiliation: Millard-Martin, Ben"
+69,324c5ae3-b0ac-4302-b701-598ebbb25870,"Contact missing affiliation: Oliver, Allison"
+70,b7b923ed-b3fa-48b3-878d-40a3797046bc,"Contact missing affiliation: Frazer, Gordon W."

@@ -180,8 +180,10 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
             mask = catalog_summary["id"] == record_id
             catalog_summary.loc[mask, "sum"] = catalog_summary.loc[mask, "sum"].fillna(0) + 1
 
-    # Build lookup tables: known ORCID per individual name, known ROR per organisation name
+    # Build lookup tables: known ORCID per individual name, known ROR per organisation name,
+    # known affiliation per individual name
     individual_uri_known = {}
+    individual_affiliation_known = {}
     org_uri_known = {}
     for result in results:
         if not result:
@@ -191,12 +193,15 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
             orcid = (contact.get("individual-uri_code") or "").strip()
             if name and orcid and "orcid.org" in orcid:
                 individual_uri_known[name] = orcid
+            affiliation = (contact.get("organisation-name") or "").strip()
+            if name and affiliation:
+                individual_affiliation_known[name] = affiliation
             org = (contact.get("organisation-name") or "").strip()
             ror = (contact.get("organisation-uri_code") or "").strip()
             if org and ror and "ror.org" in ror:
                 org_uri_known[org] = ror
 
-    # Flag contacts missing ORCID/ROR when found in other records
+    # Flag contacts missing ORCID/ROR/affiliation when found in other records
     extra_issues = []
     for result in results:
         if not result:
@@ -209,6 +214,12 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
                 for known_name, known_orcid in individual_uri_known.items():
                     if _fuzzy_match(name, known_name):
                         extra_issues.append({"record_id": record_id, "message": f"Contact missing ORCID: {name}"})
+                        break
+            affiliation = (contact.get("organisation-name") or "").strip()
+            if name and not affiliation:
+                for known_name, known_affiliation in individual_affiliation_known.items():
+                    if _fuzzy_match(name, known_name):
+                        extra_issues.append({"record_id": record_id, "message": f"Contact missing affiliation: {name}"})
                         break
             org = (contact.get("organisation-name") or "").strip()
             ror = (contact.get("organisation-uri_code") or "").strip()
