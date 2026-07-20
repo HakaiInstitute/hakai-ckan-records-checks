@@ -45,6 +45,11 @@
     "aliases": []
   },
   {
+    "version": "fix-build",
+    "title": "fix-build",
+    "aliases": []
+  },
+  {
     "version": "fix-aesthetics",
     "title": "fix-aesthetics",
     "aliases": []
