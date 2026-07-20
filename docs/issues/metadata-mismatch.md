@@ -16,14 +16,14 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-09</td>
-      <td>Data on invasion of Calvert Island by Orthione griffenis</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.3391/bir.2020.9.3.09' (IsPublishedIn) in DataCite not found in CKAN</td>
+      <td>2026-07-17</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
-      <td>2026-05-22</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: version CKAN='2.0' | DataCite='1.0'</td>
+      <td>2026-07-17</td>
+      <td>Ecosystem Comparison Plots - Calvert Island</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
   </tbody>
 </table>
