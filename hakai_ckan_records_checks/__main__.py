@@ -109,6 +109,7 @@ def review_records(ckan: str, max_workers, records_ids: list = None) -> dict:
         record = ckan.get_record(record_id)
         assert record["success"]
         test_results = hakai.test_record_requirements(record["result"])
+        test_results.extend(hakai.check_record_links(record["result"]))
         summary = hakai.get_record_summary(record["result"])
 
         logger.debug("Getting citation count for DOI")
