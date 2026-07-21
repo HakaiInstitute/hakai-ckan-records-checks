@@ -7,13 +7,14 @@
 5,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
 6,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
 7,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
-8,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
-9,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
-10,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
-11,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-12,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
-13,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
-14,a31d44d5-2ce5-4d03-8d0b-4549023840ff,"Contact missing affiliation: Acharya-patel, Neha"
-15,1dfdbadf-6314-4411-8d18-752f6dd920e9,"Contact missing affiliation: Acharya-patel, Neha"
-16,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing affiliation: Acharya-patel, Neha"
-17,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing affiliation: Acharya-patel, Neha"
+8,f1aee211-bfab-46fd-b650-c5cacb782f40,Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=502
+9,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
+10,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
+11,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
+12,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+13,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
+14,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
+15,a31d44d5-2ce5-4d03-8d0b-4549023840ff,"Contact missing affiliation: Acharya-patel, Neha"
+16,1dfdbadf-6314-4411-8d18-752f6dd920e9,"Contact missing affiliation: Acharya-patel, Neha"
+17,6ce6e697-d539-41b1-9771-b5e859a6ff50,"Contact missing affiliation: Acharya-patel, Neha"
+18,967f98cb-131a-421e-bcfd-467cff973b30,"Contact missing affiliation: Acharya-patel, Neha"
