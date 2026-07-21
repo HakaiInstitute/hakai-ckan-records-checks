@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-26</td>
-      <td>Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/n0h9-cq15 status_code=502</td>
+      <td>2026-07-06</td>
+      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=502</td>
     </tr>
   </tbody>
 </table>

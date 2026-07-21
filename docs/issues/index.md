@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 4.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 4, 8], "xaxis": "x", "y": ["Metadata mismatch", "No DOI defined", "No funder", "Contact missing affiliation", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 4.0, 8.0], "textposition": "outside", "x": [1, 1, 2, 2, 4, 8], "xaxis": "x", "y": ["Metadata mismatch", "Record DOI HTTPS link is failling", "No funder", "No DOI defined", "Contact missing affiliation", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -563,7 +563,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a'>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
       <td>2024-10-09</td>
       <td>2026-07-06</td>
-      <td></td>
+      <td><a title='f1aee211-bfab-46fd-b650-c5cacb782f40' href='../records/f1aee211-bfab-46fd-b650-c5cacb782f40'>1</a></td>
     </tr>
     <tr>
       <th>194</th>
@@ -1182,14 +1182,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>103</th>
+      <th>102</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc'>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-07-10</td>
       <td></td>
     </tr>
     <tr>
-      <th>102</th>
+      <th>103</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td>2022-03-11</td>
       <td>2026-06-15</td>
@@ -1322,14 +1322,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>73</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
       <td></td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>74</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-15</td>
@@ -1967,6 +1967,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-07-17</td>
       <td>Ecosystem Comparison Plots - Calvert Island</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-07-06</td>
+      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=502</td>
     </tr>
     <tr>
       <td>2026-06-22</td>
