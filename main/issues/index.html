@@ -400,7 +400,7 @@
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 4.0, 8.0], "textposition": "outside", "x": [1, 1, 2, 2, 4, 8], "xaxis": "x", "y": ["Metadata mismatch", "Record DOI HTTPS link is failling", "No funder", "No DOI defined", "Contact missing affiliation", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 2.0, 3.0, 8.0, 8.0], "textposition": "outside", "x": [1, 1, 2, 2, 2, 3, 8, 8], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "Metadata mismatch", "Contact missing affiliation", "No DOI defined", "No funder", "Broken link (202)", "Invalid Resource URL", "Broken link (404)"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -529,14 +529,14 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_91107fce-93a4-4bc9-bce4-e7d9e1cf02a0">Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</a></td>
 <td>2026-04-15</td>
 <td>2026-05-08</td>
-<td></td>
+<td><a href="../records/185462b6-5d10-43d8-91b2-b92010e80ff4" title="185462b6-5d10-43d8-91b2-b92010e80ff4">2</a></td>
 </tr>
 <tr>
 <th>251</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_d1bef0b7-4d15-4bc1-bf34-faca6352891f">Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
 <td>2026-04-15</td>
 <td>2026-05-26</td>
-<td></td>
+<td><a href="../records/caf810f0-228a-4827-856c-f9b07a2377af" title="caf810f0-228a-4827-856c-f9b07a2377af">2</a></td>
 </tr>
 <tr>
 <th>248</th>
@@ -606,7 +606,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_bfefcdf9-c922-4e4f-a958-aa6da739d3cd">Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Research)</a></td>
 <td>2026-02-27</td>
 <td>2026-07-08</td>
-<td></td>
+<td><a href="../records/0894f661-f9cb-48cb-a0b4-8a001eb69420" title="0894f661-f9cb-48cb-a0b4-8a001eb69420">1</a></td>
 </tr>
 <tr>
 <th>239</th>
@@ -676,7 +676,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_f815a700-c943-4d6f-afeb-a4854ad10cfc">Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</a></td>
 <td>2025-10-31</td>
 <td>2025-10-31</td>
-<td></td>
+<td><a href="../records/b01f58f7-1518-4829-aff6-ac4a8f2c0616" title="b01f58f7-1518-4829-aff6-ac4a8f2c0616">1</a></td>
 </tr>
 <tr>
 <th>229</th>
@@ -690,7 +690,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_7e9c97a3-4bf1-4852-81b6-d74cedf2c94c">Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
 <td>2025-10-28</td>
 <td>2026-06-15</td>
-<td></td>
+<td><a href="../records/c5e60545-c6f2-4945-af0a-21812ba5f0d9" title="c5e60545-c6f2-4945-af0a-21812ba5f0d9">1</a></td>
 </tr>
 <tr>
 <th>227</th>
@@ -704,7 +704,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_291b98a4-d868-462c-852a-d6cf79ecf6ce">Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</a></td>
 <td>2025-10-14</td>
 <td>2025-10-14</td>
-<td></td>
+<td><a href="../records/39cc31fc-aa41-43f5-bfe7-48ea173b1f1e" title="39cc31fc-aa41-43f5-bfe7-48ea173b1f1e">1</a></td>
 </tr>
 <tr>
 <th>223</th>
@@ -949,7 +949,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a">Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
 <td>2024-10-09</td>
 <td>2026-07-06</td>
-<td><a href="../records/f1aee211-bfab-46fd-b650-c5cacb782f40" title="f1aee211-bfab-46fd-b650-c5cacb782f40">1</a></td>
+<td></td>
 </tr>
 <tr>
 <th>194</th>
@@ -976,8 +976,8 @@
 <th>187</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_67e89414-a93f-496d-9766-9311f0d3954e">Motile Invertebrate Surveys - BC Central Coast</a></td>
 <td>2024-08-30</td>
-<td>2026-07-17</td>
-<td><a href="../records/1dfdbadf-6314-4411-8d18-752f6dd920e9" title="1dfdbadf-6314-4411-8d18-752f6dd920e9">1</a></td>
+<td>2026-07-20</td>
+<td></td>
 </tr>
 <tr>
 <th>186</th>
@@ -998,7 +998,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63">Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</a></td>
 <td>2024-07-17</td>
 <td>2026-06-26</td>
-<td></td>
+<td><a href="../records/13dc3c6c-9dd4-47a4-92ad-681c653d3565" title="13dc3c6c-9dd4-47a4-92ad-681c653d3565">1</a></td>
 </tr>
 <tr>
 <th>182</th>
@@ -1242,8 +1242,8 @@
 <th>148</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_c89e35df-8a16-4efc-ae29-15f4e3da8a55">Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</a></td>
 <td>2022-10-08</td>
-<td>2026-07-17</td>
-<td><a href="../records/6ce6e697-d539-41b1-9771-b5e859a6ff50" title="6ce6e697-d539-41b1-9771-b5e859a6ff50">1</a></td>
+<td>2026-07-20</td>
+<td></td>
 </tr>
 <tr>
 <th>149</th>
@@ -1309,14 +1309,14 @@
 <td></td>
 </tr>
 <tr>
-<th>118</th>
+<th>119</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373">Stream temperature time-series – Calvert Island – 2013 - 2019</a></td>
 <td>2022-03-29</td>
 <td>2026-07-17</td>
 <td></td>
 </tr>
 <tr>
-<th>119</th>
+<th>118</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df">LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-07-17</td>
@@ -1418,7 +1418,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef">LiDAR-based Ecosystem Classification for Calvert Island</a></td>
 <td>2022-03-29</td>
 <td>2026-06-30</td>
-<td></td>
+<td><a href="../records/18911dee-9ca0-408b-8999-28da3e3dde7a" title="18911dee-9ca0-408b-8999-28da3e3dde7a">1</a></td>
 </tr>
 <tr>
 <th>134</th>
@@ -1551,17 +1551,17 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0">Kelp Canopy Extent 2006 - NW Calvert Island</a></td>
 <td>2022-03-11</td>
 <td>2026-05-25</td>
-<td></td>
+<td><a href="../records/0f19ac6e-dc86-445b-b2da-7b61a389222e" title="0f19ac6e-dc86-445b-b2da-7b61a389222e">1</a></td>
 </tr>
 <tr>
-<th>100</th>
+<th>101</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880">Discovery Islands LiDAR Dataset  - 2014 - British Columbia - Canada</a></td>
 <td>2022-03-11</td>
 <td>2026-06-22</td>
 <td></td>
 </tr>
 <tr>
-<th>101</th>
+<th>100</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_51171738-7556-48f1-8757-658d99fa25dd">Eelgrass Extent 2014 - Central Coast</a></td>
 <td>2022-03-11</td>
 <td>2026-06-22</td>
@@ -1694,28 +1694,28 @@
 <td></td>
 </tr>
 <tr>
-<th>86</th>
+<th>87</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2">Geology - Calvert Island</a></td>
 <td>2022-03-02</td>
 <td>2026-06-03</td>
 <td></td>
 </tr>
 <tr>
-<th>87</th>
+<th>86</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14">Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
 <td>2022-03-02</td>
 <td>2026-07-03</td>
 <td></td>
 </tr>
 <tr>
-<th>73</th>
+<th>74</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a">Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
 <td>2022-03-01</td>
 <td>2026-06-09</td>
 <td></td>
 </tr>
 <tr>
-<th>74</th>
+<th>73</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679">Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
 <td>2022-03-01</td>
 <td>2026-06-15</td>
@@ -1855,14 +1855,14 @@
 <td></td>
 </tr>
 <tr>
-<th>46</th>
+<th>47</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0">Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
 <td>2022-01-24</td>
 <td>2026-06-12</td>
 <td></td>
 </tr>
 <tr>
-<th>47</th>
+<th>46</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0">Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</a></td>
 <td>2022-01-24</td>
 <td>2026-06-26</td>
@@ -1897,14 +1897,14 @@
 <td></td>
 </tr>
 <tr>
-<th>52</th>
+<th>53</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9">Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
 <td>2022-01-24</td>
 <td>2026-02-20</td>
 <td></td>
 </tr>
 <tr>
-<th>53</th>
+<th>52</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342">Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
 <td>2022-01-24</td>
 <td>2026-05-14</td>
@@ -2048,7 +2048,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466">Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
 <td>2022-01-19</td>
 <td>2026-06-17</td>
-<td></td>
+<td><a href="../records/b6621a3c-1700-4015-a359-56b6c7155835" title="b6621a3c-1700-4015-a359-56b6c7155835">1</a></td>
 </tr>
 <tr>
 <th>31</th>
@@ -2118,7 +2118,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_d87de5ca-a18a-406d-a4c1-74e6f8f28e5b">Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</a></td>
 <td>2022-01-13</td>
 <td>2026-07-17</td>
-<td></td>
+<td><a href="../records/6a6908af-8856-431e-8277-458fee82e534" title="6a6908af-8856-431e-8277-458fee82e534">1</a></td>
 </tr>
 <tr>
 <th>26</th>
@@ -2167,7 +2167,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_7ddae37a-e706-45d2-8060-8306300a98c8">Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</a></td>
 <td>2021-10-20</td>
 <td>2026-06-22</td>
-<td></td>
+<td><a href="../records/7c2b8668-75a3-4fc8-bff3-bdae5d95f52d" title="7c2b8668-75a3-4fc8-bff3-bdae5d95f52d">1</a></td>
 </tr>
 <tr>
 <th>16</th>
@@ -2314,16 +2314,6 @@
 </tr>
 <tr>
 <td>2026-07-17</td>
-<td>Motile Invertebrate Surveys - BC Central Coast</td>
-<td>Contact missing affiliation: Acharya-patel, Neha</td>
-</tr>
-<tr>
-<td>2026-07-17</td>
-<td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
-<td>Contact missing affiliation: Acharya-patel, Neha</td>
-</tr>
-<tr>
-<td>2026-07-17</td>
 <td>Mussel Dynamics - Length &amp; Bed Depth - BC Central Coast</td>
 <td>Contact missing affiliation: Acharya-patel, Neha</td>
 </tr>
@@ -2353,9 +2343,29 @@
 <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
 </tr>
 <tr>
-<td>2026-07-06</td>
-<td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-<td>Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=502</td>
+<td>2026-07-17</td>
+<td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
+<td>Record DOI HTTPS link is failling: https://doi.org/10.21966/nrmz-a516 status_code=502</td>
+</tr>
+<tr>
+<td>2026-07-08</td>
+<td>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Bute Inlet Ocean Observing Station (BIOOS) Buoy, Bute Inlet, BC, Canada (Research)</td>
+<td>Broken link (404): https://doi.org/10.21966/adbg-d170</td>
+</tr>
+<tr>
+<td>2026-06-30</td>
+<td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+<td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/fwa/index.html</td>
+</tr>
+<tr>
+<td>2026-06-26</td>
+<td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
+<td>Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf</td>
+</tr>
+<tr>
+<td>2026-06-22</td>
+<td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
+<td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
 </tr>
 <tr>
 <td>2026-06-22</td>
@@ -2369,6 +2379,11 @@
 </tr>
 <tr>
 <td>2026-06-17</td>
+<td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+<td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/</td>
+</tr>
+<tr>
+<td>2026-06-17</td>
 <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
 <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
 </tr>
@@ -2376,6 +2391,11 @@
 <td>2026-06-16</td>
 <td>Sea Stars 2024 Experiment - Environmental Data</td>
 <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
+</tr>
+<tr>
+<td>2026-06-15</td>
+<td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
+<td>Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/</td>
 </tr>
 <tr>
 <td>2026-06-09</td>
@@ -2388,9 +2408,44 @@
 <td>No funder</td>
 </tr>
 <tr>
+<td>2026-05-26</td>
+<td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+<td>Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194</td>
+</tr>
+<tr>
+<td>2026-05-26</td>
+<td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+<td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
+</tr>
+<tr>
+<td>2026-05-25</td>
+<td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
+<td>Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf</td>
+</tr>
+<tr>
 <td>2026-05-25</td>
 <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
 <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>
+</tr>
+<tr>
+<td>2026-05-08</td>
+<td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
+<td>Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194</td>
+</tr>
+<tr>
+<td>2026-05-08</td>
+<td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
+<td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
+</tr>
+<tr>
+<td>2025-10-31</td>
+<td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
+<td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
+</tr>
+<tr>
+<td>2025-10-14</td>
+<td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
+<td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
 </tr>
 <tr>
 <td>2025-05-16</td>
@@ -2446,7 +2501,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 21, 2026 04:03:29 UTC">July 21, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 22, 2026 04:04:39 UTC">July 22, 2026</span>
   </span>
 
     
@@ -2456,7 +2511,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 26, 2024 16:16:10 UTC">June 26, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 21, 2026 15:38:26 UTC">July 21, 2026</span>
   </span>
 
     
