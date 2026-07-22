@@ -22,16 +22,6 @@ This page present the list of all the records associated with the issue: **Conta
     </tr>
     <tr>
       <td>2026-07-17</td>
-      <td>Motile Invertebrate Surveys - BC Central Coast</td>
-      <td>Contact missing affiliation: Acharya-patel, Neha</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
-      <td>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</td>
-      <td>Contact missing affiliation: Acharya-patel, Neha</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
       <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
       <td>Contact missing affiliation: Acharya-patel, Neha</td>
     </tr>
