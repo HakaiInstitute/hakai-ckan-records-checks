@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 2.0, 3.0, 8.0, 8.0], "textposition": "outside", "x": [1, 1, 2, 2, 2, 3, 8, 8], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "Metadata mismatch", "Contact missing affiliation", "No DOI defined", "No funder", "Broken link (202)", "Invalid Resource URL", "Broken link (404)"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 3.0, 8.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 3, 8, 8], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "No DOI defined", "No funder", "Broken link (202)", "Invalid Resource URL", "Broken link (404)"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -870,8 +870,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>150</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d683512f-5e47-4b1d-baac-c653fb761806'>Mussel Dynamics - Length & Bed Depth - BC Central Coast</a></td>
       <td>2022-10-08</td>
-      <td>2026-07-17</td>
-      <td><a title='967f98cb-131a-421e-bcfd-467cff973b30' href='../records/967f98cb-131a-421e-bcfd-467cff973b30'>1</a></td>
+      <td>2026-07-22</td>
+      <td></td>
     </tr>
     <tr>
       <th>146</th>
@@ -961,8 +961,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>122</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8'>Ecosystem Comparison Plots - Calvert Island</a></td>
       <td>2022-03-29</td>
-      <td>2026-07-17</td>
-      <td><a title='d8754c99-a540-4085-8c66-d9447da5f6e9' href='../records/d8754c99-a540-4085-8c66-d9447da5f6e9'>2</a></td>
+      <td>2026-07-22</td>
+      <td></td>
     </tr>
     <tr>
       <th>124</th>
@@ -1084,14 +1084,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>115</th>
+      <th>116</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
       <td>2022-03-25</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>116</th>
+      <th>115</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
@@ -1196,14 +1196,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>104</th>
+      <th>105</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-06-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>105</th>
+      <th>104</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c'>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-07-07</td>
@@ -1322,14 +1322,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>73</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
       <td></td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>74</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-15</td>
@@ -1494,7 +1494,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
       <td>2022-01-24</td>
       <td>2026-06-15</td>
-      <td></td>
+      <td><a title='876027b6-cf37-4d49-8c3d-22d40b5f5b0b' href='../records/876027b6-cf37-4d49-8c3d-22d40b5f5b0b'>1</a></td>
     </tr>
     <tr>
       <th>50</th>
@@ -1584,8 +1584,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>45</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_154e88e6-2300-4ca0-b3f8-ee822d32a9a4'>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</a></td>
       <td>2022-01-22</td>
-      <td>2026-07-17</td>
-      <td><a title='a31d44d5-2ce5-4d03-8d0b-4549023840ff' href='../records/a31d44d5-2ce5-4d03-8d0b-4549023840ff'>1</a></td>
+      <td>2026-07-22</td>
+      <td></td>
     </tr>
     <tr>
       <th>36</th>
@@ -1731,8 +1731,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>25</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d87de5ca-a18a-406d-a4c1-74e6f8f28e5b'>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</a></td>
       <td>2022-01-13</td>
-      <td>2026-07-17</td>
-      <td><a title='6a6908af-8856-431e-8277-458fee82e534' href='../records/6a6908af-8856-431e-8277-458fee82e534'>1</a></td>
+      <td>2026-07-22</td>
+      <td></td>
     </tr>
     <tr>
       <th>26</th>
@@ -1925,16 +1925,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
   <tbody>
     <tr>
       <td>2026-07-17</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>Contact missing affiliation: Acharya-patel, Neha</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Contact missing affiliation: Acharya-patel, Neha</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
       <td>Stream Event Sampling - Calvert Island</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
     </tr>
@@ -1947,21 +1937,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-07-17</td>
       <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
-      <td>Ecosystem Comparison Plots - Calvert Island</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/nrmz-a516 status_code=502</td>
     </tr>
     <tr>
       <td>2026-07-08</td>
@@ -2012,6 +1987,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-15</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/</td>
+    </tr>
+    <tr>
+      <td>2026-06-15</td>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/1.715740 status_code=502</td>
     </tr>
     <tr>
       <td>2026-06-09</td>

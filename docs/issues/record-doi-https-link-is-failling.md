@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-17</td>
-      <td>Surfgrass Community Structure - Monitoring - BC Central Coast - 2016-2017</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/nrmz-a516 status_code=502</td>
+      <td>2026-06-15</td>
+      <td>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/1.715740 status_code=502</td>
     </tr>
   </tbody>
 </table>
