@@ -32,6 +32,11 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2026-06-17</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Invalid Resource URL: http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation returned status_code=timeout</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
     </tr>

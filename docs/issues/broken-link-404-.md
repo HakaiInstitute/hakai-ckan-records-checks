@@ -21,11 +21,6 @@ This page present the list of all the records associated with the issue: **Broke
       <td>Broken link (404): https://doi.org/10.21966/adbg-d170</td>
     </tr>
     <tr>
-      <td>2026-06-30</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/fwa/index.html</td>
-    </tr>
-    <tr>
       <td>2026-06-26</td>
       <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf</td>
@@ -34,16 +29,6 @@ This page present the list of all the records associated with the issue: **Broke
       <td>2026-06-22</td>
       <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/</td>
-    </tr>
-    <tr>
-      <td>2026-05-25</td>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf</td>
     </tr>
     <tr>
       <td>2025-10-31</td>
