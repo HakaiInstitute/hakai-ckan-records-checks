@@ -31,9 +31,24 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-06-17</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Invalid Resource URL: http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation returned status_code=timeout</td>
+      <td>2026-06-26</td>
+      <td>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/1232168/ returned status_code=500</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1195080 returned status_code=500</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA865652/ returned status_code=500</td>
+    </tr>
+    <tr>
+      <td>2026-06-22</td>
+      <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1456220 returned status_code=500</td>
     </tr>
     <tr>
       <td>2026-06-17</td>
@@ -46,9 +61,19 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-06-15</td>
+      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/1269473 returned status_code=500</td>
+    </tr>
+    <tr>
       <td>2026-05-25</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-05-08</td>
+      <td>DNA metabarcoding data from Autonomous Reef Monitoring Structures (ARMS) deployed around Calvert Island British Columbia</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1269471 returned status_code=500</td>
     </tr>
     <tr>
       <td>2025-05-16</td>
