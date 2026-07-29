@@ -16,9 +16,19 @@ This page present the list of all the records associated with the issue: **Organ
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-26</td>
-      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
-      <td>Organization missing ROR: McGill University</td>
+      <td>2026-07-27</td>
+      <td>Observations from the 2018 Hakai Terrestrial Bioblitz</td>
+      <td>Organization missing ROR: Hakai Institute</td>
+    </tr>
+    <tr>
+      <td>2026-07-27</td>
+      <td>Observations from the 2018 Hakai Terrestrial Bioblitz</td>
+      <td>Organization missing ROR: Simon Fraser Univeristy</td>
+    </tr>
+    <tr>
+      <td>2026-07-27</td>
+      <td>Observations from the 2018 Hakai Terrestrial Bioblitz</td>
+      <td>Organization missing ROR: University of Victoria</td>
     </tr>
   </tbody>
 </table>

@@ -16,14 +16,9 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-26</td>
-      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
-      <td>Contact missing ORCID: Haughton, Emily</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
-      <td>Watersheds Stream Stations Timeseries, Calvert and Hecate Islands, BC, Canada (Research)</td>
-      <td>Contact missing ORCID: Korver, Maartje</td>
+      <td>2026-07-27</td>
+      <td>Observations from the 2018 Hakai Terrestrial Bioblitz</td>
+      <td>Contact missing ORCID: Reynolds, John</td>
     </tr>
   </tbody>
 </table>
