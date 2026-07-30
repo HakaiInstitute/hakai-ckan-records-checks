@@ -15,27 +15,27 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+13 since 2026-07-29</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-07-30</div>
   
   
 </div>
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">31</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">32</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+16 since 2026-07-29</div>
+  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+1 since 2026-07-30</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
   <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">96.5%</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">-0.5% since 2026-07-29</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-07-30</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 4.0, 6.0, 6.0, 6.0, 7.0, 7.0, 8.0], "textposition": "outside", "x": [1, 1, 1, 2, 2, 3, 4, 6, 6, 6, 7, 7, 8], "xaxis": "x", "y": ["Contact missing affiliation", "Empty resource name", "No publisher", "Contact missing ORCID", "No projects associated", "Broken link (202)", "No DOI defined", "Broken link (404)", "Duplicate DOI shared with another record", "No funder", "No version", "Invalid Resource URL", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 4.0, 6.0, 6.0, 6.0, 7.0, 7.0, 8.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 2, 3, 4, 6, 6, 6, 7, 7, 8], "xaxis": "x", "y": ["Contact missing affiliation", "Empty resource name", "Record DOI HTTPS link is failling", "No publisher", "Contact missing ORCID", "No projects associated", "Broken link (202)", "No DOI defined", "No funder", "Broken link (404)", "Duplicate DOI shared with another record", "Invalid Resource URL", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -188,6 +188,12 @@ hide:
       <td><a title='ed19c0b0-2a18-4380-a281-953fd769de92' href='records/ed19c0b0-2a18-4380-a281-953fd769de92'>7</a></td>
       <td></td>
       <td>2024-07-23</td>
+    </tr>
+    <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='records/55826c6b-772a-45b4-a869-b97a4774e232'>1</a></td>
+      <td>Watersheds</td>
+      <td>2024-07-24</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_244b5915-0ccf-4fab-9720-d2ac9394a27b'>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</a></td>

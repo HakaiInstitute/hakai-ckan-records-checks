@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 4.0, 6.0, 6.0, 6.0, 7.0, 7.0, 8.0], "textposition": "outside", "x": [1, 1, 1, 2, 2, 3, 4, 6, 6, 6, 7, 7, 8], "xaxis": "x", "y": ["Contact missing affiliation", "Empty resource name", "No publisher", "Contact missing ORCID", "No projects associated", "Broken link (202)", "No DOI defined", "Broken link (404)", "Duplicate DOI shared with another record", "No funder", "No version", "Invalid Resource URL", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 4.0, 6.0, 6.0, 6.0, 7.0, 7.0, 8.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 2, 3, 4, 6, 6, 6, 7, 7, 8], "xaxis": "x", "y": ["Contact missing affiliation", "Empty resource name", "Record DOI HTTPS link is failling", "No publisher", "Contact missing ORCID", "No projects associated", "Broken link (202)", "No DOI defined", "No funder", "Broken link (404)", "Duplicate DOI shared with another record", "Invalid Resource URL", "No version", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -1042,14 +1042,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='3c4cc294-1e9a-410e-81b0-0d9461e4b1c9' href='../records/3c4cc294-1e9a-410e-81b0-0d9461e4b1c9'>1</a></td>
     </tr>
     <tr>
-      <th>139</th>
+      <th>138</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td><a title='41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d' href='../records/41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d'>1</a></td>
     </tr>
     <tr>
-      <th>138</th>
+      <th>139</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td>2022-03-29</td>
       <td>2026-06-04</td>
@@ -1070,21 +1070,21 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>143</th>
+      <th>142</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_97684a5c-9b70-4d8c-854b-9de895d3d71e'>Baseline Limnology of Lakes in the Kwakshua Watersheds of Calvert and Hecate Islands, BC. 2016-2019</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>144</th>
+      <th>143</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-28</td>
       <td></td>
     </tr>
     <tr>
-      <th>142</th>
+      <th>144</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018'>Stage-Discharge Time Series - Calvert Island - Archived</a></td>
       <td>2022-03-29</td>
       <td>2026-06-15</td>
@@ -1165,7 +1165,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
-      <td></td>
+      <td><a title='55826c6b-772a-45b4-a869-b97a4774e232' href='../records/55826c6b-772a-45b4-a869-b97a4774e232'>1</a></td>
     </tr>
     <tr>
       <th>127</th>
@@ -1273,28 +1273,28 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a title='3c07678b-082b-4c23-878f-6720715dabed' href='../records/3c07678b-082b-4c23-878f-6720715dabed'>2</a></td>
     </tr>
     <tr>
-      <th>109</th>
+      <th>110</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc'>Rocky Intertidal RPAS Mapping - 2018 - 2020 - BC Central Coast - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-07-10</td>
       <td></td>
     </tr>
     <tr>
-      <th>110</th>
+      <th>109</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td>2022-03-11</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>111</th>
+      <th>112</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-06-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>112</th>
+      <th>111</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c'>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-07-07</td>
@@ -1609,14 +1609,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>55</th>
+      <th>56</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
       <td>2022-01-24</td>
       <td>2026-02-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>56</th>
+      <th>55</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td>2022-01-24</td>
       <td>2026-05-14</td>
@@ -2266,6 +2266,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2024-07-24</td>
       <td>Kelp Canopy Extent 2012 - NW Calvert Island</td>
       <td>No version</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/XNH1-TP28 status_code=502</td>
     </tr>
     <tr>
       <td>2024-07-23</td>
