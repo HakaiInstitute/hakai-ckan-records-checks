@@ -22,11 +22,6 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2026-06-17</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Invalid Resource URL: http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation returned status_code=timeout</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
     </tr>
@@ -49,6 +44,11 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2025-05-08</td>
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
+      <td>Invalid Resource URL: https://drive.google.com/open?id=1tPLRwEzDRdKZ-vmFmbJNE57iJha_cFsf returned status_code=404</td>
     </tr>
   </tbody>
 </table>

@@ -25,6 +25,26 @@ This page present the list of all the records associated with the issue: **No fu
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No funder</td>
     </tr>
+    <tr>
+      <td>2024-12-05</td>
+      <td>Kelp and Seagrass Mapping – 2022 – Hakai Airborne Coastal Observatory</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-24</td>
+      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Koeye River stream temperature, stage, and conductivity time-series version 2</td>
+      <td>No funder</td>
+    </tr>
   </tbody>
 </table>
 

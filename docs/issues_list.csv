@@ -1,23 +1,75 @@
 ,record_id,message
-0,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
-1,646dd927-3248-4fc9-970c-abea15f7d304,No funder
-2,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
-3,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
-4,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
-5,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
-6,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
-7,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
-8,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/
-9,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
-10,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
-11,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
-12,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
-13,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-14,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
-15,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
-16,b01f58f7-1518-4829-aff6-ac4a8f2c0616,Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/
-17,b6621a3c-1700-4015-a359-56b6c7155835,Invalid Resource URL: http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation returned status_code=timeout
-18,91d2ddf0-ea25-4ef9-b990-26d2957cb3bd,Organization missing ROR: Hakai Institute
-19,91d2ddf0-ea25-4ef9-b990-26d2957cb3bd,Organization missing ROR: University of Victoria
-20,91d2ddf0-ea25-4ef9-b990-26d2957cb3bd,"Contact missing ORCID: Reynolds, John"
-21,91d2ddf0-ea25-4ef9-b990-26d2957cb3bd,Organization missing ROR: Simon Fraser Univeristy
+0,b646021f-ec59-490b-b43f-8118e20d2ef6,No version
+1,b646021f-ec59-490b-b43f-8118e20d2ef6,No DOI defined
+2,b646021f-ec59-490b-b43f-8118e20d2ef6,No funder
+3,b646021f-ec59-490b-b43f-8118e20d2ef6,No publisher
+4,b646021f-ec59-490b-b43f-8118e20d2ef6,Invalid Resource URL: https://drive.google.com/open?id=1tPLRwEzDRdKZ-vmFmbJNE57iJha_cFsf returned status_code=404
+5,b646021f-ec59-490b-b43f-8118e20d2ef6,Empty resource name
+6,b646021f-ec59-490b-b43f-8118e20d2ef6,Empty resource name
+7,b6621a3c-1700-4015-a359-56b6c7155835,Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/
+8,0026051c-f514-45d2-bb17-bfe1dc53e96c,No version
+9,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
+10,646dd927-3248-4fc9-970c-abea15f7d304,No funder
+11,ab883f0c-0f7c-4ef1-a8a4-c67e82020e0b,Metadata mismatch: version CKAN='3.0' | DataCite='3.1.0'
+12,ab883f0c-0f7c-4ef1-a8a4-c67e82020e0b,Metadata mismatch: creator 'Gillian Sadlier-Brown' in DataCite not found in CKAN record
+13,ab883f0c-0f7c-4ef1-a8a4-c67e82020e0b,Metadata mismatch: creator 'Margot Hessing-Lewis' in DataCite not found in CKAN record
+14,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
+15,36624f4e-7444-4489-be2b-f18df5b96343,No version
+16,36624f4e-7444-4489-be2b-f18df5b96343,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+17,36624f4e-7444-4489-be2b-f18df5b96343,Metadata mismatch: author 'Hakai Geospatial Technology Team' in CKAN record not found in DataCite
+18,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
+19,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+20,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
+21,0f19ac6e-dc86-445b-b2da-7b61a389222e,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
+22,806312b3-91f8-4651-8980-044a0ad52698,"Metadata mismatch: title CKAN='Freshwater and marine water quality (nutrients and carbon) - Calvert Island - 2014 to 2018' | DataCite='Nutrient and dissolved organic carbon in fresh and marine waters of Kwakshua Channel, British Columbia, Canada'"
+23,806312b3-91f8-4651-8980-044a0ad52698,Metadata mismatch: creator 'Allison Oliver' in DataCite not found in CKAN record
+24,4c558062-0e9b-4f49-8680-15e3ccb11ea5,No funder
+25,5ec866ea-5a7a-43d4-9ed1-d4d863304f98,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+26,5ec866ea-5a7a-43d4-9ed1-d4d863304f98,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+27,5c358eb3-80e8-40ab-b930-524ab8a59abe,Metadata mismatch: related identifier '10.21966/nk1v-ca06' (IsPreviousVersionOf) in DataCite not found in CKAN
+28,9001b91c-b03a-45e0-a4ba-ac6e301b515b,No projects associated
+29,9001b91c-b03a-45e0-a4ba-ac6e301b515b,No version
+30,9001b91c-b03a-45e0-a4ba-ac6e301b515b,No DOI defined
+31,9001b91c-b03a-45e0-a4ba-ac6e301b515b,No funder
+32,9001b91c-b03a-45e0-a4ba-ac6e301b515b,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
+33,3c07678b-082b-4c23-878f-6720715dabed,No version
+34,3c07678b-082b-4c23-878f-6720715dabed,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
+35,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
+36,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
+37,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/
+38,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
+39,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+40,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
+41,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
+42,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+43,d39d1eb3-878d-4597-a06a-a85c50dfccee,No version
+44,d39d1eb3-878d-4597-a06a-a85c50dfccee,"Metadata mismatch: title CKAN='Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016' | DataCite='Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada'"
+45,d39d1eb3-878d-4597-a06a-a85c50dfccee,Metadata mismatch: creator 'Allison Oliver' in DataCite not found in CKAN record
+46,d39d1eb3-878d-4597-a06a-a85c50dfccee,Metadata mismatch: author 'A. A. Oliver' in CKAN record not found in DataCite
+47,d39d1eb3-878d-4597-a06a-a85c50dfccee,Metadata mismatch: related identifier 'https://doi.org/10.1002/lno.11538' (IsSupplementedBy) in DataCite not found in CKAN
+48,0ca4de0c-62a4-4349-a780-a07dc17bfe38,Metadata mismatch: related work 'https://drive.google.com/file/d/1tbyg1zmw0kxaidpbzglweav8cxp-h8an/view?usp=sharing' in CKAN not found in DataCite
+49,0ca4de0c-62a4-4349-a780-a07dc17bfe38,Metadata mismatch: related identifier 'https://drive.google.com/file/d/1JUAdsck-dNSgC7BrRB-Eif7fs5JbBnOC/view?usp=sharing' (HasMetadata) in DataCite not found in CKAN
+50,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+51,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
+52,ed19c0b0-2a18-4380-a281-953fd769de92,No projects associated
+53,ed19c0b0-2a18-4380-a281-953fd769de92,No version
+54,ed19c0b0-2a18-4380-a281-953fd769de92,No funder
+55,ed19c0b0-2a18-4380-a281-953fd769de92,Metadata mismatch: author 'Emily Haughton' in CKAN record not found in DataCite
+56,ed19c0b0-2a18-4380-a281-953fd769de92,Metadata mismatch: related identifier '10.21966/wbg6-7z68' (IsNewVersionOf) in DataCite not found in CKAN
+57,b01f58f7-1518-4829-aff6-ac4a8f2c0616,Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/
+58,ab883f0c-0f7c-4ef1-a8a4-c67e82020e0b,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
+59,806312b3-91f8-4651-8980-044a0ad52698,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
+60,d39d1eb3-878d-4597-a06a-a85c50dfccee,Duplicate DOI shared with another record: 10.21966/66x5-a210
+61,3c4cc294-1e9a-410e-81b0-0d9461e4b1c9,Duplicate DOI shared with another record: 10.21966/n0h9-cq15
+62,41e0fbeb-9e27-429c-84ea-7bb1be3f2a0d,Duplicate DOI shared with another record: 10.21966/66x5-a210
+63,f51d96b5-1827-4aab-b1ce-575faff1fd03,Duplicate DOI shared with another record: 10.21966/rf3y-8j78
+64,9001b91c-b03a-45e0-a4ba-ac6e301b515b,"Contact missing ORCID: Holmes, Keith"
+65,9001b91c-b03a-45e0-a4ba-ac6e301b515b,"Contact missing ORCID: Burt, Jenn"
+66,d39d1eb3-878d-4597-a06a-a85c50dfccee,"Contact missing affiliation: St. Pierre, Kyra"
+67,d39d1eb3-878d-4597-a06a-a85c50dfccee,"Contact missing affiliation: Tank, Suzanne"
+68,d39d1eb3-878d-4597-a06a-a85c50dfccee,"Contact missing affiliation: Jackson, Jennifer"
+69,d39d1eb3-878d-4597-a06a-a85c50dfccee,"Contact missing affiliation: Lertzman, Ken"
+70,d39d1eb3-878d-4597-a06a-a85c50dfccee,"Contact missing affiliation: Floyd, William"
+71,d39d1eb3-878d-4597-a06a-a85c50dfccee,"Contact missing affiliation: Korver, Maartje C."
+72,ed19c0b0-2a18-4380-a281-953fd769de92,"Contact missing ORCID: Haughton, Emily"
+73,ed19c0b0-2a18-4380-a281-953fd769de92,"Contact missing ORCID: Giesbrecht, Ian"

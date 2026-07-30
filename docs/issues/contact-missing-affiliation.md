@@ -16,14 +16,34 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-17</td>
-      <td>Seastar & Macroinvertebrate Dynamics - BC Central Coast - 2016-2017</td>
-      <td>Contact missing affiliation: Acharya-patel, Neha</td>
+      <td>2024-07-23</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>Contact missing affiliation: Floyd, William</td>
     </tr>
     <tr>
-      <td>2026-07-17</td>
-      <td>Mussel Dynamics - Length & Bed Depth - BC Central Coast</td>
-      <td>Contact missing affiliation: Acharya-patel, Neha</td>
+      <td>2024-07-23</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>Contact missing affiliation: Jackson, Jennifer</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>Contact missing affiliation: Korver, Maartje C.</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>Contact missing affiliation: Lertzman, Ken</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>Contact missing affiliation: St. Pierre, Kyra</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>Contact missing affiliation: Tank, Suzanne</td>
     </tr>
   </tbody>
 </table>

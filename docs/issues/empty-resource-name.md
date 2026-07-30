@@ -16,8 +16,13 @@ This page present the list of all the records associated with the issue: **Empty
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-22</td>
-      <td>Kelp extent for the McNaughton Group Islands (2017), Manley Island (2017), and Serpent Group Islands (2016), British Columbia, Canada</td>
+      <td>2024-07-23</td>
+      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
+      <td>Empty resource name</td>
+    </tr>
+    <tr>
+      <td>2024-07-23</td>
+      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
       <td>Empty resource name</td>
     </tr>
   </tbody>
