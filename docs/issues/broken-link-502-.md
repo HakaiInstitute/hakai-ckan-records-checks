@@ -2,9 +2,9 @@
 hide:
   - toc
 ---
-# No funder
+# Broken link (502)
 
-This page present the list of all the records associated with the issue: **No funder**.
+This page present the list of all the records associated with the issue: **Broken link (502)**.
 
 <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues_table">
   <thead>
@@ -16,14 +16,9 @@ This page present the list of all the records associated with the issue: **No fu
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-22</td>
-      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-06-09</td>
-      <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
-      <td>No funder</td>
+      <td>2026-01-27</td>
+      <td>Gitga'at Territory Coastal Mapping Project</td>
+      <td>Broken link (502): https://doi.org/10.21966/0xex-r023</td>
     </tr>
   </tbody>
 </table>

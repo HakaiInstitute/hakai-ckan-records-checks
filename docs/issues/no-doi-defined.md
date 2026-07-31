@@ -25,16 +25,6 @@ This page present the list of all the records associated with the issue: **No DO
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No DOI defined</td>
     </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>No DOI defined</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Nearshore substrate classification - Northwest Calvert Island, BC (2015-2017)</td>
-      <td>No DOI defined</td>
-    </tr>
   </tbody>
 </table>
 
