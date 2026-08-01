@@ -1,27 +1,26 @@
 ---
-title: Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0
+title: Nereocystis kelp canopy productivity data from BC Central Coast
 hide:
   - navigation
   - toc
 ---
 
-# Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0
+# Nereocystis kelp canopy productivity data from BC Central Coast
 
-View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f</a>
+<div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2rem;">
+  <a href="https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f" target="_blank" rel="noopener noreferrer" style="flex:1;min-width:200px;padding:1rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-decoration:none;border-left:4px solid var(--md-primary-fg-color);box-shadow:0 1px 4px rgba(0,0,0,.08);display:flex;align-items:center;">
+    <span style="font-weight:600;color:var(--md-typeset-color);">View Record in Hakai Catalogue</span>
+  </a>
+  
+  <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/df5J7W5Hk4e0p4yvlOAI0qcU9Gs2/-MtG8b48aDAEdJoqNT6N" target="_blank" rel="noopener noreferrer" style="flex:1;min-width:200px;padding:1rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-decoration:none;border-left:4px solid var(--md-primary-fg-color);box-shadow:0 1px 4px rgba(0,0,0,.08);display:flex;align-items:center;">
+    <span style="font-weight:600;color:var(--md-typeset-color);">Resolve Issues in Metadata Entry Form</span>
+  </a>
+  
+</div>
 
-| Issue                                                                            |
-|:---------------------------------------------------------------------------------|
-| No version                                                                       |
-| No funder                                                                        |
-| No publisher                                                                     |
-| Metadata mismatch: creator 'Daniel Okamoto' in DataCite not found in CKAN record |
-| Metadata mismatch: author 'D. Okamoto' in CKAN record not found in DataCite      |
-| Contact missing ORCID: Pontier, Ondine                                           |
-| Contact missing ORCID: Hessing-Lewis, Margot                                     |
-
-
-<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/df5J7W5Hk4e0p4yvlOAI0qcU9Gs2/-MtG8b48aDAEdJoqNT6N" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
-
+| Issue                                                      |
+|:-----------------------------------------------------------|
+| Metadata mismatch: version CKAN='1.2.0' | DataCite='1.3.0' |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
@@ -33,7 +32,7 @@ View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-
     var geojsonFeature = {
         "type": "Feature",
         "properties": {
-            "name" : "Nereocystis kelp canopy productivity data from BC Central Coast, v1.2.0"
+            "name" : "Nereocystis kelp canopy productivity data from BC Central Coast"
         },
         "geometry": {'type': 'Polygon', 'coordinates': [[[-128.6, 51.19], [-127.1, 51.19], [-127.1, 52.28], [-128.6, 52.28], [-128.6, 51.19]]]}
     }
