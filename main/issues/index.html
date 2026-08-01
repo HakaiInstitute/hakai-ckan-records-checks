@@ -400,7 +400,7 @@
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 2.0, 3.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 2, 3, 8], "xaxis": "x", "y": ["Broken link (502)", "Broken link (404)", "No funder", "No DOI defined", "Broken link (202)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [2.0, 2.0, 2.0, 2.0, 3.0, 7.0], "textposition": "outside", "x": [2, 2, 2, 2, 3, 7], "xaxis": "x", "y": ["Broken link (404)", "Metadata mismatch", "No funder", "No DOI defined", "Broken link (202)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -690,7 +690,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_b5f0f854-efe1-4132-808d-074244d813e1">Gitga'at Territory Coastal Mapping Project</a></td>
 <td>2025-11-12</td>
 <td>2026-01-27</td>
-<td><a href="../records/0074861a-39f2-42c1-ae71-abef4f78fd78" title="0074861a-39f2-42c1-ae71-abef4f78fd78">1</a></td>
+<td></td>
 </tr>
 <tr>
 <th>230</th>
@@ -725,7 +725,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548">Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
 <td>2025-10-18</td>
 <td>2026-07-17</td>
-<td><a href="../records/44bdc298-1329-400a-bc02-4d35d251865d" title="44bdc298-1329-400a-bc02-4d35d251865d">1</a></td>
+<td></td>
 </tr>
 <tr>
 <th>226</th>
@@ -865,7 +865,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026">Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</a></td>
 <td>2025-01-28</td>
 <td>2026-06-26</td>
-<td></td>
+<td><a href="../records/4a949e26-fe94-4f63-a3c6-a62e19301102" title="4a949e26-fe94-4f63-a3c6-a62e19301102">1</a></td>
 </tr>
 <tr>
 <th>206</th>
@@ -1337,14 +1337,14 @@
 <td></td>
 </tr>
 <tr>
-<th>118</th>
+<th>119</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373">Stream temperature time-series – Calvert Island – 2013 - 2019</a></td>
 <td>2022-03-29</td>
 <td>2026-07-17</td>
 <td></td>
 </tr>
 <tr>
-<th>119</th>
+<th>118</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df">LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-07-17</td>
@@ -1407,14 +1407,14 @@
 <td></td>
 </tr>
 <tr>
-<th>128</th>
+<th>129</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef">Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-07-17</td>
 <td></td>
 </tr>
 <tr>
-<th>129</th>
+<th>128</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324">Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
 <td>2022-03-29</td>
 <td>2026-06-04</td>
@@ -1442,7 +1442,7 @@
 <td></td>
 </tr>
 <tr>
-<th>136</th>
+<th>138</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef">LiDAR-based Ecosystem Classification for Calvert Island</a></td>
 <td>2022-03-29</td>
 <td>2026-07-28</td>
@@ -1470,14 +1470,14 @@
 <td></td>
 </tr>
 <tr>
-<th>137</th>
+<th>136</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_cb13f042-bf47-4874-86e6-4728aa9380d4">Groundwater sampling in the Kwakshua Watersheds of Calvert and Hecate Islands, BC (2016-2019)</a></td>
 <td>2022-03-29</td>
 <td>2026-06-22</td>
 <td></td>
 </tr>
 <tr>
-<th>138</th>
+<th>137</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_d05df775-4295-4b9f-b3b3-29fe891d9ed9">LIDAR Derived Forest Metrics - Calvert Island - British Columbia - Canada</a></td>
 <td>2022-03-29</td>
 <td>2026-07-07</td>
@@ -1883,14 +1883,14 @@
 <td></td>
 </tr>
 <tr>
-<th>47</th>
+<th>46</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0">Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
 <td>2022-01-24</td>
 <td>2026-06-12</td>
 <td></td>
 </tr>
 <tr>
-<th>46</th>
+<th>47</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0">Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</a></td>
 <td>2022-01-24</td>
 <td>2026-06-26</td>
@@ -1925,14 +1925,14 @@
 <td></td>
 </tr>
 <tr>
-<th>53</th>
+<th>52</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9">Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
 <td>2022-01-24</td>
 <td>2026-02-20</td>
 <td></td>
 </tr>
 <tr>
-<th>52</th>
+<th>53</th>
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342">Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
 <td>2022-01-24</td>
 <td>2026-05-14</td>
@@ -2027,7 +2027,7 @@
 <td><a href="https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f">Nereocystis kelp canopy productivity data from BC Central Coast</a></td>
 <td>2022-01-21</td>
 <td>2026-05-19</td>
-<td></td>
+<td><a href="../records/7a9adcca-b0dc-462f-aa3f-9bb9209158be" title="7a9adcca-b0dc-462f-aa3f-9bb9209158be">1</a></td>
 </tr>
 <tr>
 <th>40</th>
@@ -2342,13 +2342,13 @@
 </tr>
 <tr>
 <td>2026-07-17</td>
-<td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
-<td>Invalid Resource URL: http://www.ncbi.nlm.nih.gov/bioproject/1049344 returned status_code=500</td>
-</tr>
-<tr>
-<td>2026-07-17</td>
 <td>Stream Event Sampling - Calvert Island</td>
 <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
+</tr>
+<tr>
+<td>2026-06-26</td>
+<td>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</td>
+<td>Metadata mismatch: version CKAN='1.3.0' | DataCite='1.4.0'</td>
 </tr>
 <tr>
 <td>2026-06-22</td>
@@ -2411,6 +2411,11 @@
 <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>
 </tr>
 <tr>
+<td>2026-05-19</td>
+<td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
+<td>Metadata mismatch: version CKAN='1.2.0' | DataCite='1.3.0'</td>
+</tr>
+<tr>
 <td>2026-05-08</td>
 <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
 <td>Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194</td>
@@ -2419,11 +2424,6 @@
 <td>2026-05-08</td>
 <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
 <td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
-</tr>
-<tr>
-<td>2026-01-27</td>
-<td>Gitga'at Territory Coastal Mapping Project</td>
-<td>Broken link (502): https://doi.org/10.21966/0xex-r023</td>
 </tr>
 <tr>
 <td>2025-05-16</td>
@@ -2479,7 +2479,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 31, 2026 04:09:24 UTC">July 31, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 1, 2026 04:08:23 UTC">August 1, 2026</span>
   </span>
 
     
@@ -2489,7 +2489,7 @@
     <span class="md-icon" title="Created">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 30, 2026 15:41:09 UTC">July 30, 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="July 31, 2026 04:09:24 UTC">July 31, 2026</span>
   </span>
 
     

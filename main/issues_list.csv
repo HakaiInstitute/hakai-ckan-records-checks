@@ -2,9 +2,10 @@
 0,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
 1,646dd927-3248-4fc9-970c-abea15f7d304,No funder
 0,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
-0,44bdc298-1329-400a-bc02-4d35d251865d,Invalid Resource URL: http://www.ncbi.nlm.nih.gov/bioproject/1049344 returned status_code=500
 0,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
 0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+0,4a949e26-fe94-4f63-a3c6-a62e19301102,Metadata mismatch: version CKAN='1.3.0' | DataCite='1.4.0'
+0,7a9adcca-b0dc-462f-aa3f-9bb9209158be,Metadata mismatch: version CKAN='1.2.0' | DataCite='1.3.0'
 0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
 0,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
 0,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
@@ -14,7 +15,6 @@
 1,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
 0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
 1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-0,0074861a-39f2-42c1-ae71-abef4f78fd78,Broken link (502): https://doi.org/10.21966/0xex-r023
 0,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
 1,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
 0,b01f58f7-1518-4829-aff6-ac4a8f2c0616,Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/
