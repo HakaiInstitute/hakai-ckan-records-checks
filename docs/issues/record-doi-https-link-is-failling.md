@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-24</td>
-      <td>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/XNH1-TP28 status_code=502</td>
+      <td>2026-06-22</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/54tw-kh93 status_code=502</td>
     </tr>
   </tbody>
 </table>
