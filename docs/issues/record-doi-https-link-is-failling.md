@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-22</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/54tw-kh93 status_code=502</td>
+      <td>2026-07-03</td>
+      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/36b8-hq30 status_code=502</td>
     </tr>
   </tbody>
 </table>
