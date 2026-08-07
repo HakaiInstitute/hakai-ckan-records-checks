@@ -21,6 +21,11 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-06-22</td>
+      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
+      <td>Invalid Resource URL: https://zenodo.org/uploads/15344675 returned status_code=504</td>
+    </tr>
+    <tr>
       <td>2026-06-17</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
