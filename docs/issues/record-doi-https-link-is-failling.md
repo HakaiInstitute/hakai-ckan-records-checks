@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-03</td>
-      <td>McMullin Group Kelp Extent - Based on UAS Imagery - 2017</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/36b8-hq30 status_code=502</td>
+      <td>2026-06-22</td>
+      <td>Namu British Columbia - 2021 - Hakai Institute - Airborne Coastal Observatory</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/6gqj-ef81 status_code=502</td>
     </tr>
   </tbody>
 </table>
