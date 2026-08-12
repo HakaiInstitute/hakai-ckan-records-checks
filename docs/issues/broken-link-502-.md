@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-01-27</td>
-      <td>Gitga'at Territory Coastal Mapping Project</td>
-      <td>Broken link (502): https://doi.org/10.21966/0xex-r023</td>
+      <td>2026-06-09</td>
+      <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
+      <td>Broken link (502): https://doi.org/10.21966/faz2-0m37</td>
     </tr>
   </tbody>
 </table>

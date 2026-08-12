@@ -18,7 +18,12 @@ This page present the list of all the records associated with the issue: **Metad
     <tr>
       <td>2026-08-04</td>
       <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
-      <td>Metadata mismatch: related work 'https://drive.google.com/drive/u/1/folders/14ewu0zy1prkykoxglimxtnjuht6xyyta' in CKAN not found in DataCite</td>
+      <td>Metadata mismatch: author 'J. Burt' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-08-04</td>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
+      <td>Metadata mismatch: creator 'Jenn Burt' in DataCite not found in CKAN record</td>
     </tr>
   </tbody>
 </table>
