@@ -5,9 +5,9 @@
 0,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
 0,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
 0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
-0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
 0,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: creator 'Jenn Burt' in DataCite not found in CKAN record
 1,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: author 'J. Burt' in CKAN record not found in DataCite
+0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
 0,0f19ac6e-dc86-445b-b2da-7b61a389222e,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
 0,13dc3c6c-9dd4-47a4-92ad-681c653d3565,Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf
 0,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
@@ -18,7 +18,6 @@
 1,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
 0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
 1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-2,49967494-a7b6-4128-b336-671971d1e2c6,Broken link (502): https://doi.org/10.21966/faz2-0m37
 0,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
 0,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
 1,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
