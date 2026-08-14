@@ -2,9 +2,9 @@
 hide:
   - toc
 ---
-# Record DOI HTTPS link is failling
+# Broken link (connection error)
 
-This page present the list of all the records associated with the issue: **Record DOI HTTPS link is failling**.
+This page present the list of all the records associated with the issue: **Broken link (connection error)**.
 
 <table border="1" class="dataframe table table-striped table-hover table-sm" id="issues_table">
   <thead>
@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-03</td>
-      <td>LiDAR Derived Watersheds with Metrics - Calvert Island</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/1.15311 status_code=502</td>
+      <td>2026-07-28</td>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
     </tr>
   </tbody>
 </table>
