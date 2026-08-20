@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 3.0, 4.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 3, 4, 8], "xaxis": "x", "y": ["Metadata mismatch", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 3.0, 5.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 3, 5, 8], "xaxis": "x", "y": ["Metadata mismatch", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -471,7 +471,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>209</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e'>Understory kelp biomass data from BC Central Coast</a></td>
       <td>2025-02-14</td>
-      <td>2026-07-17</td>
+      <td>2026-08-19</td>
       <td></td>
     </tr>
     <tr>
@@ -485,7 +485,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>207</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026'>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</a></td>
       <td>2025-01-28</td>
-      <td>2026-07-31</td>
+      <td>2026-08-19</td>
       <td></td>
     </tr>
     <tr>
@@ -1119,14 +1119,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>116</th>
+      <th>115</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
       <td>2022-03-25</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>115</th>
+      <th>116</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
@@ -1612,7 +1612,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>61</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33'>Data on invasion of Calvert Island by Orthione griffenis</a></td>
       <td>2022-01-24</td>
-      <td>2026-07-10</td>
+      <td>2026-08-19</td>
       <td></td>
     </tr>
     <tr>
@@ -1648,7 +1648,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f'>Nereocystis kelp canopy productivity data from BC Central Coast</a></td>
       <td>2022-01-21</td>
       <td>2026-08-04</td>
-      <td><a title='4b04cbfe-71f4-47b4-b028-3fcd24e7cff2' href='../records/4b04cbfe-71f4-47b4-b028-3fcd24e7cff2'>2</a></td>
+      <td><a title='4b04cbfe-71f4-47b4-b028-3fcd24e7cff2' href='../records/4b04cbfe-71f4-47b4-b028-3fcd24e7cff2'>3</a></td>
     </tr>
     <tr>
       <th>40</th>
@@ -1661,7 +1661,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>41</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7d3f525a-6ba2-494b-893a-147e2a812306'>Macrocystis kelp canopy productivity data from BC Central Coast</a></td>
       <td>2022-01-21</td>
-      <td>2026-06-29</td>
+      <td>2026-08-19</td>
       <td></td>
     </tr>
     <tr>
@@ -1697,7 +1697,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
       <td>2022-01-19</td>
       <td>2026-06-17</td>
-      <td></td>
+      <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835'>1</a></td>
     </tr>
     <tr>
       <th>31</th>
@@ -1979,6 +1979,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Metadata mismatch: creator 'Jenn Burt' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
+      <td>2026-08-04</td>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.25607/OBP-2068' (IsSupplementedBy) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
       <td>2026-07-28</td>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
       <td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
@@ -2007,6 +2012,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-22</td>
       <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/</td>
     </tr>
     <tr>
       <td>2026-06-17</td>

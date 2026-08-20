@@ -25,6 +25,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
       <td>Metadata mismatch: creator 'Jenn Burt' in DataCite not found in CKAN record</td>
     </tr>
+    <tr>
+      <td>2026-08-04</td>
+      <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.25607/OBP-2068' (IsSupplementedBy) in DataCite not found in CKAN</td>
+    </tr>
   </tbody>
 </table>
 
