@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 3.0, 5.0, 9.0], "textposition": "outside", "x": [1, 1, 2, 2, 3, 5, 9], "xaxis": "x", "y": ["Broken link (connection error)", "Metadata mismatch", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 5.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 2, 3, 5, 9], "xaxis": "x", "y": ["Broken link (502)", "Broken link (429)", "Metadata mismatch", "Broken link (connection error)", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -353,7 +353,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e9c97a3-4bf1-4852-81b6-d74cedf2c94c'>Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
       <td>2025-10-28</td>
       <td>2026-06-15</td>
-      <td><a title='c5e60545-c6f2-4945-af0a-21812ba5f0d9' href='../records/c5e60545-c6f2-4945-af0a-21812ba5f0d9'>1</a></td>
+      <td><a title='c5e60545-c6f2-4945-af0a-21812ba5f0d9' href='../records/c5e60545-c6f2-4945-af0a-21812ba5f0d9'>2</a></td>
     </tr>
     <tr>
       <th>227</th>
@@ -563,7 +563,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
       <td>2024-11-21</td>
       <td>2026-06-22</td>
-      <td></td>
+      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae'>1</a></td>
     </tr>
     <tr>
       <th>197</th>
@@ -776,14 +776,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>167</th>
+      <th>166</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></td>
       <td>2023-03-03</td>
       <td>2026-07-03</td>
       <td></td>
     </tr>
     <tr>
-      <th>166</th>
+      <th>167</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_251aef08-4017-4493-b9d8-c4583913b511'>Remotely-Piloted Aerial Systems Imagery, Terrain Data, and Derivates - 100 Islands Project, Central Coast, BC, Canada</a></td>
       <td>2023-03-03</td>
       <td>2026-06-29</td>
@@ -2033,6 +2033,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
     </tr>
     <tr>
+      <td>2026-06-22</td>
+      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
+      <td>Broken link (502): https://doi.org/10.21966/xp9x-m243</td>
+    </tr>
+    <tr>
       <td>2026-06-17</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/</td>
@@ -2051,6 +2056,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-15</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/</td>
+    </tr>
+    <tr>
+      <td>2026-06-15</td>
+      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
+      <td>Broken link (429): https://genomegapp.weebly.com</td>
     </tr>
     <tr>
       <td>2026-06-09</td>
