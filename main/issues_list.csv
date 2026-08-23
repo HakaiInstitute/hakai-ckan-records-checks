@@ -14,17 +14,14 @@
 0,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
 0,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
 0,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/
-1,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Broken link (429): https://genomegapp.weebly.com
 0,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
 0,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
 1,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
 0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
 1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-0,18911dee-9ca0-408b-8999-28da3e3dde7a,Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater
 0,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
-0,45a45b5d-e45c-453c-9d36-036f69d533ae,Broken link (502): https://doi.org/10.21966/xp9x-m243
+0,d3c4dde5-38b2-480d-a4e7-228bde9eb537,Record DOI HTTPS link is failling: https://doi.org/10.21966/abh1-kk96 status_code=502
 0,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
 1,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
 0,b01f58f7-1518-4829-aff6-ac4a8f2c0616,Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/
 0,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
-0,8882a149-fabd-4ecd-98d3-68a2a88aee38,Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout
