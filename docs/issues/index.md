@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 5.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 2, 3, 5, 9], "xaxis": "x", "y": ["Broken link (502)", "Broken link (429)", "Metadata mismatch", "Broken link (connection error)", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 3.0, 5.0, 8.0], "textposition": "outside", "x": [1, 1, 2, 2, 3, 5, 8], "xaxis": "x", "y": ["Metadata mismatch", "Record DOI HTTPS link is failling", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -353,7 +353,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e9c97a3-4bf1-4852-81b6-d74cedf2c94c'>Environmental DNA survey of Calvert Island, British Columbia, 2021</a></td>
       <td>2025-10-28</td>
       <td>2026-06-15</td>
-      <td><a title='c5e60545-c6f2-4945-af0a-21812ba5f0d9' href='../records/c5e60545-c6f2-4945-af0a-21812ba5f0d9'>2</a></td>
+      <td><a title='c5e60545-c6f2-4945-af0a-21812ba5f0d9' href='../records/c5e60545-c6f2-4945-af0a-21812ba5f0d9'>1</a></td>
     </tr>
     <tr>
       <th>227</th>
@@ -563,7 +563,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c513de71-ac9d-43fa-b693-8f865de4b137'>Fraser River Landslide Project - 2022-2024 - Drone Data</a></td>
       <td>2024-11-21</td>
       <td>2026-06-22</td>
-      <td><a title='45a45b5d-e45c-453c-9d36-036f69d533ae' href='../records/45a45b5d-e45c-453c-9d36-036f69d533ae'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>197</th>
@@ -675,7 +675,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
       <td>2024-07-12</td>
       <td>2026-05-08</td>
-      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>181</th>
@@ -927,7 +927,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c1b9801b-742b-41b6-a69b-5e7ae6f09bce'>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</a></td>
       <td>2022-09-01</td>
       <td>2026-06-29</td>
-      <td></td>
+      <td><a title='d3c4dde5-38b2-480d-a4e7-228bde9eb537' href='../records/d3c4dde5-38b2-480d-a4e7-228bde9eb537'>1</a></td>
     </tr>
     <tr>
       <th>145</th>
@@ -1077,14 +1077,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>133</th>
+      <th>134</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-28</td>
-      <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='../records/18911dee-9ca0-408b-8999-28da3e3dde7a'>1</a></td>
+      <td></td>
     </tr>
     <tr>
-      <th>134</th>
+      <th>133</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018'>Stage-Discharge Time Series - Calvert Island - Archived</a></td>
       <td>2022-03-29</td>
       <td>2026-06-15</td>
@@ -1371,14 +1371,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>74</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
       <td></td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>73</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-15</td>
@@ -1560,14 +1560,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>53</th>
+      <th>52</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
       <td>2022-01-24</td>
       <td>2026-02-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>52</th>
+      <th>53</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td>2022-01-24</td>
       <td>2026-05-14</td>
@@ -2003,11 +2003,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
     </tr>
     <tr>
-      <td>2026-07-28</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
-    </tr>
-    <tr>
       <td>2026-07-17</td>
       <td>Stream Event Sampling - Calvert Island</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
@@ -2023,6 +2018,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-06-29</td>
+      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/abh1-kk96 status_code=502</td>
+    </tr>
+    <tr>
       <td>2026-06-26</td>
       <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf</td>
@@ -2031,11 +2031,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-22</td>
       <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-      <td>Broken link (502): https://doi.org/10.21966/xp9x-m243</td>
     </tr>
     <tr>
       <td>2026-06-17</td>
@@ -2056,11 +2051,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-15</td>
       <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
       <td>Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/</td>
-    </tr>
-    <tr>
-      <td>2026-06-15</td>
-      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
-      <td>Broken link (429): https://genomegapp.weebly.com</td>
     </tr>
     <tr>
       <td>2026-06-09</td>
@@ -2101,11 +2091,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-05-08</td>
       <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
       <td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
-      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
     </tr>
     <tr>
       <td>2025-05-16</td>
