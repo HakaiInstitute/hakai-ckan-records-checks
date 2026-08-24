@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-29</td>
-      <td>Cryosphere LiDAR Mapping - 2020 - Airborne Coastal Observatory -British Columbia - Canada</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/abh1-kk96 status_code=502</td>
+      <td>2026-06-22</td>
+      <td>Discharge Time Series (2013-2017) – Calvert Island</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/sbyc-d030 status_code=502</td>
     </tr>
   </tbody>
 </table>
