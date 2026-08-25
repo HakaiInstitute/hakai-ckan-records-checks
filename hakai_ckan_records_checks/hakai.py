@@ -187,6 +187,11 @@ def test_record_requirements(record) -> pd.DataFrame:
             status_code in accepted,
             f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
+        if is_github_repo_url:
+            _test(
+                resource["url"].startswith("https://github.com/HakaiInstitute/"),
+                f"Resource GitHub repository is not under the HakaiInstitute organization: {resource['url']}",
+            )
 
     # Spatial
     _test("spatial" in record, "No spatial information available")
