@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 3.0, 5.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 3, 5, 8], "xaxis": "x", "y": ["Metadata mismatch", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 2.0, 3.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 2, 2, 2, 3, 4, 9], "xaxis": "x", "y": ["Broken link (connection error)", "Metadata mismatch", "No DOI defined", "No funder", "Resource GitHub repository is not under the HakaiInstitute organization", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -40,6 +40,13 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>273</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_53189107-9df5-426b-acb4-f903468554fe'>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</a></td>
+      <td>2026-08-25</td>
+      <td>2026-08-25</td>
+      <td><a title='c4932b55-1dd8-4f2f-89da-5822056ecc37' href='../records/c4932b55-1dd8-4f2f-89da-5822056ecc37'>1</a></td>
+    </tr>
     <tr>
       <th>271</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0219e1d6-8dfc-4718-b89b-ea3dff06a70d'>Modeled Eelgrass Extent, British Columbia, Canada</a></td>
@@ -780,7 +787,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_12f951d4-4155-4c05-969d-a7158412f579'>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</a></td>
       <td>2023-03-03</td>
       <td>2026-07-03</td>
-      <td></td>
+      <td><a title='79ace68f-f5a9-4224-8615-20fa255cb6d4' href='../records/79ace68f-f5a9-4224-8615-20fa255cb6d4'>2</a></td>
     </tr>
     <tr>
       <th>167</th>
@@ -948,7 +955,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_5eda02a9-36b6-4875-91c9-989e9e06c5ad'>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</a></td>
       <td>2022-05-05</td>
       <td>2026-06-26</td>
-      <td></td>
+      <td><a title='b47e53cd-74dd-4580-80d0-260860064f4b' href='../records/b47e53cd-74dd-4580-80d0-260860064f4b'>1</a></td>
     </tr>
     <tr>
       <th>142</th>
@@ -986,14 +993,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>121</th>
+      <th>120</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_184b2f81-d87f-4615-a026-15b87930d15c'>Aquatic carbon flux data package for Oliver et al. 2017</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>120</th>
+      <th>121</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_23bc8c35-2e4e-4382-9296-a52d5ea49889'>Discharge Time Series (2013-2017) – Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-06-22</td>
@@ -1042,14 +1049,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>128</th>
+      <th>129</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>129</th>
+      <th>128</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td>2022-03-29</td>
       <td>2026-06-04</td>
@@ -1081,7 +1088,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-28</td>
-      <td></td>
+      <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='../records/18911dee-9ca0-408b-8999-28da3e3dde7a'>1</a></td>
     </tr>
     <tr>
       <th>134</th>
@@ -1210,21 +1217,21 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>99</th>
+      <th>101</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4034f474-4d52-4a9e-9650-f3c6bd5011e0'>Kelp Canopy Extent 2006 - NW Calvert Island</a></td>
       <td>2022-03-11</td>
       <td>2026-05-25</td>
-      <td><a title='0f19ac6e-dc86-445b-b2da-7b61a389222e' href='../records/0f19ac6e-dc86-445b-b2da-7b61a389222e'>1</a></td>
+      <td></td>
     </tr>
     <tr>
-      <th>101</th>
+      <th>100</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_4fac74c8-f58c-46b0-87dc-ab70ce756880'>Discovery Islands LiDAR Dataset&nbsp;&nbsp;- 2014 - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-06-22</td>
       <td></td>
     </tr>
     <tr>
-      <th>100</th>
+      <th>99</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_51171738-7556-48f1-8757-658d99fa25dd'>Eelgrass Extent 2014 - Central Coast</a></td>
       <td>2022-03-11</td>
       <td>2026-06-22</td>
@@ -1245,14 +1252,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>104</th>
+      <th>105</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_abb8e676-dfcf-4eb5-bc39-4e7887fad163'>Geomorphology - Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-06-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>105</th>
+      <th>104</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bef293d6-8721-4214-b8f5-03b5ffb28e1c'>Jellyfish Monitoring UAV Imagery - Pruth Bay - Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-07-07</td>
@@ -1518,14 +1525,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>46</th>
+      <th>47</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
       <td>2022-01-24</td>
       <td>2026-06-12</td>
       <td></td>
     </tr>
     <tr>
-      <th>47</th>
+      <th>46</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0'>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</a></td>
       <td>2022-01-24</td>
       <td>2026-06-26</td>
@@ -1707,35 +1714,35 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>30</th>
+      <th>34</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
       <td>2022-01-19</td>
       <td>2026-06-17</td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='../records/b6621a3c-1700-4015-a359-56b6c7155835'>1</a></td>
     </tr>
     <tr>
-      <th>31</th>
+      <th>30</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_15caa6c8-be9b-4f19-81ae-bb82321eafd6'>Mean Tidal Current - Coastal British Columbia - Canada</a></td>
       <td>2022-01-19</td>
       <td>2026-08-17</td>
       <td><a title='646dd927-3248-4fc9-970c-abea15f7d304' href='../records/646dd927-3248-4fc9-970c-abea15f7d304'>2</a></td>
     </tr>
     <tr>
-      <th>32</th>
+      <th>31</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3dc0d46c-7afe-4379-901d-37a787c1c204'>Snow Depth Measurements from Remotely Piloted Aerial Systems - Mt. Cain - 2018 - British Columbia - Canada</a></td>
       <td>2022-01-19</td>
       <td>2026-06-16</td>
       <td></td>
     </tr>
     <tr>
-      <th>33</th>
+      <th>32</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e8c8ed7d-51fa-45e0-b4eb-d21ddc55526a'>Clam Garden Geospatial Data - Quadra Island - 2016</a></td>
       <td>2022-01-19</td>
       <td>2026-06-01</td>
       <td></td>
     </tr>
     <tr>
-      <th>34</th>
+      <th>33</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f68be641-0017-4311-b4de-5d0aed9e2b57'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
       <td>2022-01-19</td>
       <td>2026-06-17</td>
@@ -1952,7 +1959,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>273</th>
+      <th>274</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td></td>
       <td>2025-04-02</td>
@@ -1972,6 +1979,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2026-08-25</td>
+      <td>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</td>
+      <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
+    </tr>
     <tr>
       <td>2026-08-17</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
@@ -2003,6 +2015,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
     </tr>
     <tr>
+      <td>2026-07-28</td>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
+    </tr>
+    <tr>
       <td>2026-07-17</td>
       <td>Stream Event Sampling - Calvert Island</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
@@ -2018,9 +2035,24 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-07-03</td>
+      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
+      <td>Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/avian-sib</td>
+    </tr>
+    <tr>
+      <td>2026-07-03</td>
+      <td>Avian and paired Vegetation data from 100 Islands Project (BC Central Coast) Hakai Institute - 2015-2017</td>
+      <td>Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/subsidized_isl_bird_communities</td>
+    </tr>
+    <tr>
       <td>2026-06-26</td>
       <td>Water Property Measurements from Conductivity-Temperature-Depth Profiles, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf</td>
+    </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Island Food Web Study - Central Coast Islands (100 Islands Project) - April to July 2015, 2016, & 2017</td>
+      <td>Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/food-web-ibt</td>
     </tr>
     <tr>
       <td>2026-06-22</td>
@@ -2030,7 +2062,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     <tr>
       <td>2026-06-17</td>
       <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/</td>
+      <td>Invalid Resource URL: http://catalogue.data.gov.bc.ca/dataset/trim-text-annotation returned status_code=timeout</td>
     </tr>
     <tr>
       <td>2026-06-17</td>
@@ -2066,11 +2098,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-05-26</td>
       <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
       <td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
-    </tr>
-    <tr>
-      <td>2026-05-25</td>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf</td>
     </tr>
     <tr>
       <td>2026-05-25</td>

@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
+      <td>2026-08-25</td>
+      <td>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</td>
+      <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
+    </tr>
+    <tr>
       <td>2026-07-28</td>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
       <td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
@@ -29,16 +34,6 @@ This page present the list of all the records associated with the issue: **Broke
       <td>2026-06-22</td>
       <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/</td>
-    </tr>
-    <tr>
-      <td>2026-05-25</td>
-      <td>Kelp Canopy Extent 2006 - NW Calvert Island</td>
-      <td>Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf</td>
     </tr>
   </tbody>
 </table>
