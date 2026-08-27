@@ -111,6 +111,16 @@ def compare_datacite_metadata(ckan_record, datacite_metadata):
             f"Metadata mismatch: version CKAN='{ckan_version}' | DataCite='{dc_version}'"
         )
 
+    # Publication year
+    dc_pub_year = attrs.get("publicationYear")
+    ckan_issued = ckan_citation.get("issued") or []
+    ckan_date_parts = ckan_issued[0].get("date-parts", []) if ckan_issued else []
+    ckan_pub_year = ckan_date_parts[0] if ckan_date_parts else None
+    if dc_pub_year and ckan_pub_year and str(dc_pub_year) != str(ckan_pub_year):
+        issues.append(
+            f"Metadata mismatch: publication year CKAN='{ckan_pub_year}' | DataCite='{dc_pub_year}'"
+        )
+
     # Authors / Creators — compare DataCite creators against citation authors only
     dc_creators = attrs.get("creators", [])
     dc_creator_names = []
