@@ -17,8 +17,8 @@ This page present the list of all the records associated with the issue: **Recor
   <tbody>
     <tr>
       <td>2026-06-22</td>
-      <td>Discharge Time Series (2013-2017) – Calvert Island</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/sbyc-d030 status_code=502</td>
+      <td>30m Digital Elevation Model - Calvert Island - British Columbia - Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/nwf1-8x95 status_code=502</td>
     </tr>
   </tbody>
 </table>
