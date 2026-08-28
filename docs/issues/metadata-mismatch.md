@@ -30,6 +30,26 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.25607/OBP-2068' (IsSupplementedBy) in DataCite not found in CKAN</td>
     </tr>
+    <tr>
+      <td>2026-06-26</td>
+      <td>Seagrass Site-Level Production on BC Central Coast</td>
+      <td>Metadata mismatch: publication year CKAN='2022' | DataCite='2019'</td>
+    </tr>
+    <tr>
+      <td>2026-06-22</td>
+      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
+      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2022'</td>
+    </tr>
+    <tr>
+      <td>2026-05-08</td>
+      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
+      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2024'</td>
+    </tr>
+    <tr>
+      <td>2026-03-27</td>
+      <td>Seagrass fish and macroinvertebrate swaths BC Central Coast</td>
+      <td>Metadata mismatch: publication year CKAN='2025' | DataCite='2022'</td>
+    </tr>
   </tbody>
 </table>
 
