@@ -16,6 +16,41 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-08-31</td>
+      <td>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-08-31</td>
+      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-08-31</td>
+      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-08-31</td>
+      <td>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-08-31</td>
+      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-08-31</td>
+      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
+      <td>2026-08-31</td>
+      <td>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</td>
+      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2020'</td>
+    </tr>
+    <tr>
       <td>2026-08-04</td>
       <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
       <td>Metadata mismatch: author 'J. Burt' in CKAN record not found in DataCite</td>

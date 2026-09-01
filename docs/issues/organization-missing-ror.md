@@ -16,19 +16,9 @@ This page present the list of all the records associated with the issue: **Organ
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-27</td>
-      <td>Observations from the 2018 Hakai Terrestrial Bioblitz</td>
+      <td>2026-08-31</td>
+      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
       <td>Organization missing ROR: Hakai Institute</td>
-    </tr>
-    <tr>
-      <td>2026-07-27</td>
-      <td>Observations from the 2018 Hakai Terrestrial Bioblitz</td>
-      <td>Organization missing ROR: Simon Fraser Univeristy</td>
-    </tr>
-    <tr>
-      <td>2026-07-27</td>
-      <td>Observations from the 2018 Hakai Terrestrial Bioblitz</td>
-      <td>Organization missing ROR: University of Victoria</td>
     </tr>
   </tbody>
 </table>

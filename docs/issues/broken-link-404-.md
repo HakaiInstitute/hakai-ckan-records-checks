@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
+      <td>2026-08-31</td>
+      <td>Kelp Canopy Extent 2012 - NW Calvert Island</td>
+      <td>Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf</td>
+    </tr>
+    <tr>
       <td>2026-08-25</td>
       <td>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</td>
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
