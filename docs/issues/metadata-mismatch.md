@@ -51,6 +51,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2020'</td>
     </tr>
     <tr>
+      <td>2026-08-10</td>
+      <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
+      <td>Metadata mismatch: related identifier 'dx.doi.org/10.17504/protocols.io.eq2lywxwpvx9/v1' (IsSupplementedBy) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
       <td>2026-08-04</td>
       <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
       <td>Metadata mismatch: author 'J. Burt' in CKAN record not found in DataCite</td>

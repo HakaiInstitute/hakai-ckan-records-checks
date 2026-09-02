@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 2.0, 3.0, 7.0, 8.0, 8.0], "textposition": "outside", "x": [1, 2, 2, 2, 3, 7, 8, 8], "xaxis": "x", "y": ["Organization missing ROR", "Resource GitHub repository is not under the HakaiInstitute organization", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 2.0, 2.0, 2.0, 3.0, 7.0, 8.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 2, 2, 2, 3, 7, 8, 9], "xaxis": "x", "y": ["Contact missing affiliation", "Organization missing ROR", "Record DOI HTTPS link is failling", "No DOI defined", "Resource GitHub repository is not under the HakaiInstitute organization", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -40,6 +40,13 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>277</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52e97374-bee5-4b1a-9b85-7170a5df8d6b'>Biomass and density of Pycnopodia helianthoides from the central coast of BC</a></td>
+      <td>2026-09-01</td>
+      <td>2026-09-01</td>
+      <td><a title='f7433c1a-3aad-4761-81c4-c191a5e6ac92' href='../records/f7433c1a-3aad-4761-81c4-c191a5e6ac92'>2</a></td>
+    </tr>
     <tr>
       <th>274</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
@@ -227,7 +234,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d1bef0b7-4d15-4bc1-bf34-faca6352891f'>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
       <td>2026-04-15</td>
       <td>2026-05-26</td>
-      <td><a title='caf810f0-228a-4827-856c-f9b07a2377af' href='../records/caf810f0-228a-4827-856c-f9b07a2377af'>2</a></td>
+      <td><a title='caf810f0-228a-4827-856c-f9b07a2377af' href='../records/caf810f0-228a-4827-856c-f9b07a2377af'>3</a></td>
     </tr>
     <tr>
       <th>248</th>
@@ -388,7 +395,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_012164c6-28dd-4078-b702-f0c2ce63d548'>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</a></td>
       <td>2025-10-18</td>
       <td>2026-08-10</td>
-      <td></td>
+      <td><a title='44bdc298-1329-400a-bc02-4d35d251865d' href='../records/44bdc298-1329-400a-bc02-4d35d251865d'>1</a></td>
     </tr>
     <tr>
       <th>226</th>
@@ -1161,14 +1168,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>116</th>
+      <th>115</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
       <td>2022-03-25</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>115</th>
+      <th>116</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
@@ -1588,14 +1595,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>52</th>
+      <th>53</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
       <td>2022-01-24</td>
       <td>2026-02-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>53</th>
+      <th>52</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td>2022-01-24</td>
       <td>2026-05-14</td>
@@ -1980,7 +1987,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>277</th>
+      <th>278</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td></td>
       <td>2025-04-02</td>
@@ -2000,6 +2007,16 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2026-09-01</td>
+      <td>Biomass and density of Pycnopodia helianthoides from the central coast of BC</td>
+      <td>Contact missing affiliation: Jackson, Jennifer</td>
+    </tr>
+    <tr>
+      <td>2026-09-01</td>
+      <td>Biomass and density of Pycnopodia helianthoides from the central coast of BC</td>
+      <td>Contact missing affiliation: VanMaanen, Derek</td>
+    </tr>
     <tr>
       <td>2026-08-31</td>
       <td>Kelp Canopy Extent 2012 - NW Calvert Island</td>
@@ -2064,6 +2081,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-08-17</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-08-10</td>
+      <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
+      <td>Metadata mismatch: related identifier 'dx.doi.org/10.17504/protocols.io.eq2lywxwpvx9/v1' (IsSupplementedBy) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2026-08-04</td>
@@ -2169,6 +2191,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-05-26</td>
       <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
       <td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
+    </tr>
+    <tr>
+      <td>2026-05-26</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/dveq-bt48 status_code=502</td>
     </tr>
     <tr>
       <td>2026-05-25</td>

@@ -16,34 +16,14 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Contact missing affiliation: Floyd, William</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
+      <td>2026-09-01</td>
+      <td>Biomass and density of Pycnopodia helianthoides from the central coast of BC</td>
       <td>Contact missing affiliation: Jackson, Jennifer</td>
     </tr>
     <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Contact missing affiliation: Korver, Maartje C.</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Contact missing affiliation: Lertzman, Ken</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Contact missing affiliation: St. Pierre, Kyra</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Organic Carbon at Land-Ocean Interface - Calvert Island - 2014-2016</td>
-      <td>Contact missing affiliation: Tank, Suzanne</td>
+      <td>2026-09-01</td>
+      <td>Biomass and density of Pycnopodia helianthoides from the central coast of BC</td>
+      <td>Contact missing affiliation: VanMaanen, Derek</td>
     </tr>
   </tbody>
 </table>
