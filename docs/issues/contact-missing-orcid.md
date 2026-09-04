@@ -16,24 +16,9 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Burt, Jenn</td>
-    </tr>
-    <tr>
-      <td>2024-07-24</td>
-      <td>Kelp Canopy Extent - Calvert Island - 2006-2016 - British Columbia - Canada</td>
-      <td>Contact missing ORCID: Holmes, Keith</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Koeye River stream temperature, stage, and conductivity time-series version 2</td>
-      <td>Contact missing ORCID: Giesbrecht, Ian</td>
-    </tr>
-    <tr>
-      <td>2024-07-23</td>
-      <td>Koeye River stream temperature, stage, and conductivity time-series version 2</td>
-      <td>Contact missing ORCID: Haughton, Emily</td>
+      <td>2026-09-03</td>
+      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
+      <td>Contact missing ORCID: Pollock, Lydia</td>
     </tr>
   </tbody>
 </table>

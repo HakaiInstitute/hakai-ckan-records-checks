@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-09-03</td>
+      <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
+      <td>Metadata mismatch: related work '10.1016/j.ecss.2020.107103' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-09-03</td>
+      <td>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</td>
+      <td>Metadata mismatch: related work '10.1016/j.pocean.2022.102843' in CKAN not found in DataCite</td>
+    </tr>
+    <tr>
       <td>2026-08-31</td>
       <td>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
