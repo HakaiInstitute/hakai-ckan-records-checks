@@ -1112,14 +1112,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>133</th>
+      <th>134</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-28</td>
       <td></td>
     </tr>
     <tr>
-      <th>134</th>
+      <th>133</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a242acd4-e3c7-46e0-8f43-f428fb824018'>Stage-Discharge Time Series - Calvert Island - Archived</a></td>
       <td>2022-03-29</td>
       <td>2026-06-15</td>
