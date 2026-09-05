@@ -17,9 +17,9 @@
 15,9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f,Metadata mismatch: publication year CKAN='2022' | DataCite='2019'
 16,b47e53cd-74dd-4580-80d0-260860064f4b,Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/food-web-ibt
 17,13dc3c6c-9dd4-47a4-92ad-681c653d3565,Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf
-18,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
-19,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
-20,33bb67af-4d61-4b15-93a9-f3ab2498430b,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
+18,33bb67af-4d61-4b15-93a9-f3ab2498430b,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
+19,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
+20,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
 21,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: publication year CKAN='2026' | DataCite='2020'
 22,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 23,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
