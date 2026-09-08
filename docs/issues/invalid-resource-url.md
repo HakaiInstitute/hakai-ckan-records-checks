@@ -31,6 +31,16 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-06-22</td>
+      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
+      <td>Invalid Resource URL: https://doi.org/10.5281/zenodo.4005400 returned status_code=504</td>
+    </tr>
+    <tr>
+      <td>2026-06-22</td>
+      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
+      <td>Invalid Resource URL: https://zenodo.org/uploads/15344675 returned status_code=504</td>
+    </tr>
+    <tr>
       <td>2026-06-17</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
