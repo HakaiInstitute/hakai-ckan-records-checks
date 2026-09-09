@@ -1,54 +1,44 @@
 ,record_id,message
 0,b6621a3c-1700-4015-a359-56b6c7155835,Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/
-1,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
-2,646dd927-3248-4fc9-970c-abea15f7d304,No funder
-3,44bdc298-1329-400a-bc02-4d35d251865d,Metadata mismatch: related identifier 'dx.doi.org/10.17504/protocols.io.eq2lywxwpvx9/v1' (IsSupplementedBy) in DataCite not found in CKAN
-4,79ace68f-f5a9-4224-8615-20fa255cb6d4,Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/avian-sib
-5,79ace68f-f5a9-4224-8615-20fa255cb6d4,Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/subsidized_isl_bird_communities
-6,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
-7,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
-8,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
-9,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
-10,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: creator 'Jenn Burt' in DataCite not found in CKAN record
-11,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: author 'J. Burt' in CKAN record not found in DataCite
-12,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: related identifier 'https://doi.org/10.25607/OBP-2068' (IsSupplementedBy) in DataCite not found in CKAN
-13,0f19ac6e-dc86-445b-b2da-7b61a389222e,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
-14,c4932b55-1dd8-4f2f-89da-5822056ecc37,Broken link (404): https://doi.org/10.21966/ekwk-r335
-15,b47e53cd-74dd-4580-80d0-260860064f4b,Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/food-web-ibt
-16,13dc3c6c-9dd4-47a4-92ad-681c653d3565,Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf
-17,2709d7b1-22e1-4268-bcda-dc0c79f2878e,Invalid Resource URL: https://doi.org/10.5281/zenodo.4005400 returned status_code=504
-18,33bb67af-4d61-4b15-93a9-f3ab2498430b,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
-19,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
-20,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
-21,9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f,Metadata mismatch: publication year CKAN='2022' | DataCite='2019'
-22,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: publication year CKAN='2026' | DataCite='2020'
-23,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-24,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-25,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,Metadata mismatch: related work '10.1016/j.ecss.2020.107103' in CKAN not found in DataCite
-26,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/
-27,9c581481-f2ee-4353-b1ab-c5bf242945fe,Metadata mismatch: publication year CKAN='2026' | DataCite='2022'
-28,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
-29,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
-30,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
-31,bc1133da-5601-4f92-bc53-41be547c936b,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-32,bc1133da-5601-4f92-bc53-41be547c936b,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-33,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
-34,49967494-a7b6-4128-b336-671971d1e2c6,No funder
-35,7b1120bc-4a2c-432c-9e54-879d66751a59,Metadata mismatch: publication year CKAN='2025' | DataCite='2022'
-36,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
-37,39818579-9692-4256-9810-d8b80e9821aa,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
-38,39818579-9692-4256-9810-d8b80e9821aa,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
-39,d70bcd3d-dc07-479f-856f-ad70d11c51f1,Invalid Resource URL: https://zenodo.org/uploads/15344675 returned status_code=504
-40,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
-41,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
-42,8882a149-fabd-4ecd-98d3-68a2a88aee38,Metadata mismatch: publication year CKAN='2026' | DataCite='2024'
-43,3fbbd892-55cd-4c96-9669-cecefe726b3f,Metadata mismatch: related work '10.1016/j.pocean.2022.102843' in CKAN not found in DataCite
-44,b01f58f7-1518-4829-aff6-ac4a8f2c0616,Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/
-45,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
-46,f7433c1a-3aad-4761-81c4-c191a5e6ac92,"Contact missing affiliation: VanMaanen, Derek"
-47,f7433c1a-3aad-4761-81c4-c191a5e6ac92,"Contact missing affiliation: Jackson, Jennifer"
-48,c68b9ec8-9f26-4fb0-9333-79730f4ea1ca,Organization missing ROR: Hakai Institute
-49,3f883dc6-56ac-42f5-a1d4-6de554a9e63d,Organization missing ROR: Hakai Institute
-50,bc1133da-5601-4f92-bc53-41be547c936b,Organization missing ROR: Hakai Institute
-51,79433a1f-ec07-4cd5-a31a-8c2c53069085,Organization missing ROR: Hakai Institute
-52,79433a1f-ec07-4cd5-a31a-8c2c53069085,"Contact missing ORCID: Pollock, Lydia"
+0,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
+1,646dd927-3248-4fc9-970c-abea15f7d304,No funder
+0,44bdc298-1329-400a-bc02-4d35d251865d,Metadata mismatch: related identifier 'dx.doi.org/10.17504/protocols.io.eq2lywxwpvx9/v1' (IsSupplementedBy) in DataCite not found in CKAN
+0,79ace68f-f5a9-4224-8615-20fa255cb6d4,Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/avian-sib
+1,79ace68f-f5a9-4224-8615-20fa255cb6d4,Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/subsidized_isl_bird_communities
+0,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
+0,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
+0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
+0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
+0,0f19ac6e-dc86-445b-b2da-7b61a389222e,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
+0,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: creator 'Jenn Burt' in DataCite not found in CKAN record
+1,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: author 'J. Burt' in CKAN record not found in DataCite
+2,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: related identifier 'https://doi.org/10.25607/OBP-2068' (IsSupplementedBy) in DataCite not found in CKAN
+0,c4932b55-1dd8-4f2f-89da-5822056ecc37,Broken link (404): https://doi.org/10.21966/ekwk-r335
+0,b47e53cd-74dd-4580-80d0-260860064f4b,Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/debobrist/food-web-ibt
+0,13dc3c6c-9dd4-47a4-92ad-681c653d3565,Broken link (404): https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf
+0,2709d7b1-22e1-4268-bcda-dc0c79f2878e,Invalid Resource URL: https://doi.org/10.5281/zenodo.4005400 returned status_code=504
+0,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
+0,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
+0,33bb67af-4d61-4b15-93a9-f3ab2498430b,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
+0,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: publication year CKAN='2026' | DataCite='2020'
+1,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+2,70f29525-f17b-4bc7-ae7f-d1e7205ba16c,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+0,d3ed88cb-4f38-4c2e-a966-3dd49c9cafec,Metadata mismatch: related work '10.1016/j.ecss.2020.107103' in CKAN not found in DataCite
+0,c5e60545-c6f2-4945-af0a-21812ba5f0d9,Broken link (202): https://jakelawlor.shinyapps.io/optimize_ProdVersion/
+0,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
+0,bc1133da-5601-4f92-bc53-41be547c936b,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+1,bc1133da-5601-4f92-bc53-41be547c936b,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+0,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
+1,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+0,d70bcd3d-dc07-479f-856f-ad70d11c51f1,Invalid Resource URL: https://zenodo.org/uploads/15344675 returned status_code=504
+0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
+1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+0,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
+0,39818579-9692-4256-9810-d8b80e9821aa,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
+1,39818579-9692-4256-9810-d8b80e9821aa,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
+0,caf810f0-228a-4827-856c-f9b07a2377af,Record DOI HTTPS link is failling: https://doi.org/10.21966/dveq-bt48 status_code=502
+1,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
+2,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+0,3fbbd892-55cd-4c96-9669-cecefe726b3f,Metadata mismatch: related work '10.1016/j.pocean.2022.102843' in CKAN not found in DataCite
+0,b01f58f7-1518-4829-aff6-ac4a8f2c0616,Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/
+0,acd6c43f-6cbd-43c8-9bff-7d9ae6630295,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404

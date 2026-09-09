@@ -16,6 +16,16 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
+      <td>2026-09-08</td>
+      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-09-08</td>
+      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
+      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+    </tr>
+    <tr>
       <td>2026-09-03</td>
       <td>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</td>
       <td>Metadata mismatch: related work '10.1016/j.ecss.2020.107103' in CKAN not found in DataCite</td>
@@ -32,22 +42,12 @@ This page present the list of all the records associated with the issue: **Metad
     </tr>
     <tr>
       <td>2026-08-31</td>
-      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-08-31</td>
       <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
       <td>2026-08-31</td>
       <td>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-08-31</td>
-      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
@@ -79,26 +79,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>2026-08-04</td>
       <td>Nereocystis kelp canopy productivity data from BC Central Coast</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.25607/OBP-2068' (IsSupplementedBy) in DataCite not found in CKAN</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
-      <td>Seagrass Site-Level Production on BC Central Coast</td>
-      <td>Metadata mismatch: publication year CKAN='2022' | DataCite='2019'</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</td>
-      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2022'</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
-      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2024'</td>
-    </tr>
-    <tr>
-      <td>2026-03-27</td>
-      <td>Seagrass fish and macroinvertebrate swaths BC Central Coast</td>
-      <td>Metadata mismatch: publication year CKAN='2025' | DataCite='2022'</td>
     </tr>
   </tbody>
 </table>

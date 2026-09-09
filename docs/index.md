@@ -6,7 +6,7 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-09-08*
+*Last updated: 2026-09-09*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
@@ -15,17 +15,17 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-07</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-08</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">39</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">31</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+1 since 2026-09-07</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-8 since 2026-09-08</div>
   
   
 </div>
@@ -35,7 +35,7 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-07</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-08</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 2.0, 3.0, 4.0, 7.0, 10.0, 11.0], "textposition": "outside", "x": [1, 1, 2, 2, 2, 3, 4, 7, 10, 11], "xaxis": "x", "y": ["Contact missing affiliation", "Contact missing ORCID", "No DOI defined", "No funder", "Resource GitHub repository is not under the HakaiInstitute organization", "Broken link (202)", "Organization missing ROR", "Broken link (404)", "Invalid Resource URL", "Metadata mismatch"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 2.0, 3.0, 7.0, 7.0, 10.0], "textposition": "outside", "x": [1, 2, 2, 2, 3, 7, 7, 10], "xaxis": "x", "y": ["Record DOI HTTPS link is failling", "Resource GitHub repository is not under the HakaiInstitute organization", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -76,12 +76,6 @@ hide:
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_52e97374-bee5-4b1a-9b85-7170a5df8d6b'>Biomass and density of Pycnopodia helianthoides from the central coast of BC</a></td>
-      <td><a title='f7433c1a-3aad-4761-81c4-c191a5e6ac92' href='records/f7433c1a-3aad-4761-81c4-c191a5e6ac92'>2</a></td>
-      <td>Oceanography, Nearshore</td>
-      <td>2026-09-01</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
       <td><a title='33bb67af-4d61-4b15-93a9-f3ab2498430b' href='records/33bb67af-4d61-4b15-93a9-f3ab2498430b'>1</a></td>
       <td>Geospatial</td>
@@ -89,9 +83,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_940218ef-d7f8-4f3f-9e69-52150ecdbec5'>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</a></td>
-      <td><a title='bc1133da-5601-4f92-bc53-41be547c936b' href='records/bc1133da-5601-4f92-bc53-41be547c936b'>3</a></td>
+      <td><a title='bc1133da-5601-4f92-bc53-41be547c936b' href='records/bc1133da-5601-4f92-bc53-41be547c936b'>2</a></td>
       <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-08-31</td>
+      <td>2026-09-08</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c7466354-bacc-4781-acdc-543dd03d1eab'>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</a></td>
@@ -113,7 +107,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d1bef0b7-4d15-4bc1-bf34-faca6352891f'>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</a></td>
-      <td><a title='caf810f0-228a-4827-856c-f9b07a2377af' href='records/caf810f0-228a-4827-856c-f9b07a2377af'>2</a></td>
+      <td><a title='caf810f0-228a-4827-856c-f9b07a2377af' href='records/caf810f0-228a-4827-856c-f9b07a2377af'>3</a></td>
       <td>Oceanography</td>
       <td>2026-05-26</td>
     </tr>
@@ -122,12 +116,6 @@ hide:
       <td><a title='613ba2f9-b21d-445f-8eaa-f42950c9350b' href='records/613ba2f9-b21d-445f-8eaa-f42950c9350b'>1</a></td>
       <td>Oceanography, Nearshore, Watersheds, Juvenile Salmon Program</td>
       <td>2026-09-03</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b2b18171-35b6-4345-b81b-497a90c2e7c5'>Seagrass fish and macroinvertebrate swaths BC Central Coast</a></td>
-      <td><a title='7b1120bc-4a2c-432c-9e54-879d66751a59' href='records/7b1120bc-4a2c-432c-9e54-879d66751a59'>1</a></td>
-      <td>Nearshore</td>
-      <td>2026-03-27</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f815a700-c943-4d6f-afeb-a4854ad10cfc'>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</a></td>
@@ -190,18 +178,6 @@ hide:
       <td>2026-09-03</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
-      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='records/8882a149-fabd-4ecd-98d3-68a2a88aee38'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-05-08</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_59b33373-ae4a-4719-a3df-0e36a08187d8'>Seagrass Site-Level Production on BC Central Coast</a></td>
-      <td><a title='9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f' href='records/9df42f88-b8d8-4e2d-97bb-ad5ba49f6f1f'>1</a></td>
-      <td>Nearshore</td>
-      <td>2026-06-26</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</a></td>
       <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295'>1</a></td>
       <td>Juvenile Salmon Program</td>
@@ -250,12 +226,6 @@ hide:
       <td>2026-09-03</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_87a845e3-e71a-43cc-a75f-ec6a3b812a0e'>Acoustic Doppler Current Profiler Time Series from Fixed Platform on the British Columbia Central Coast (Provisional)</a></td>
-      <td><a title='9c581481-f2ee-4353-b1ab-c5bf242945fe' href='records/9c581481-f2ee-4353-b1ab-c5bf242945fe'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-06-22</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f'>Nereocystis kelp canopy productivity data from BC Central Coast</a></td>
       <td><a title='4b04cbfe-71f4-47b4-b028-3fcd24e7cff2' href='records/4b04cbfe-71f4-47b4-b028-3fcd24e7cff2'>3</a></td>
       <td>Nearshore</td>
@@ -290,24 +260,6 @@ hide:
       <td><a title='f409100d-95e4-4933-a927-fdf8d3b83204' href='records/f409100d-95e4-4933-a927-fdf8d3b83204'>1</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2026-05-25</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_763f3e59-49fe-420a-91da-a046b4690bea'>Surface Seawater and Marine Boundary Layer CO2 Time Series from the Kwakshua Channel (KC) Buoy, Central Coast, BC, Canada (Provisional)</a></td>
-      <td><a title='c68b9ec8-9f26-4fb0-9333-79730f4ea1ca' href='records/c68b9ec8-9f26-4fb0-9333-79730f4ea1ca'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-09-03</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45'>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</a></td>
-      <td><a title='3f883dc6-56ac-42f5-a1d4-6de554a9e63d' href='records/3f883dc6-56ac-42f5-a1d4-6de554a9e63d'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-09-03</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fe76ef4c-254a-44fe-87bc-052cd3aa9663'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</a></td>
-      <td><a title='79433a1f-ec07-4cd5-a31a-8c2c53069085' href='records/79433a1f-ec07-4cd5-a31a-8c2c53069085'>2</a></td>
-      <td>Oceanography</td>
-      <td>2026-09-03</td>
     </tr>
   </tbody>
 </table>
