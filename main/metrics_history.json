@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-07-21",
-    "total_records": 267,
-    "records_with_issues": 16,
-    "pct_with_doi": 97.0
-  },
-  {
     "date": "2026-07-22",
     "total_records": 267,
     "records_with_issues": 25,
@@ -308,6 +302,12 @@
   {
     "date": "2026-09-09",
     "total_records": 279,
+    "records_with_issues": 31,
+    "pct_with_doi": 96.8
+  },
+  {
+    "date": "2026-09-10",
+    "total_records": 280,
     "records_with_issues": 31,
     "pct_with_doi": 96.8
   }
