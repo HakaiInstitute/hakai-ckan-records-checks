@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 4.0, 7.0, 7.0, 10.0], "textposition": "outside", "x": [1, 2, 2, 4, 7, 7, 10], "xaxis": "x", "y": ["Broken link (connection error)", "No DOI defined", "No funder", "Broken link (202)", "Metadata mismatch", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 3.0, 4.0, 7.0, 7.0, 8.0], "textposition": "outside", "x": [1, 2, 3, 4, 7, 7, 8], "xaxis": "x", "y": ["No version", "No funder", "No DOI defined", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -40,6 +40,20 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>279</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1f1774ff-7398-4099-b89f-59df7ef0749e'>Surface underway seawater and marine boundary layer observations of partial pressure of carbon dioxide (pCO2), water temperature, salinity and other parameters made during the M/V Seaspan Royal cruises in the coastal waters of British Columbia, Canada from 2022-07-01 to 2022-12-20</a></td>
+      <td>2026-09-10</td>
+      <td>2026-09-10</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>280</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a787372d-e6f0-4128-bd08-7e9f5e667e1d'>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</a></td>
+      <td>2026-09-10</td>
+      <td>2026-09-10</td>
+      <td><a title='c1e0447b-a06c-44c8-abd0-3108b2f00b7a' href='../records/c1e0447b-a06c-44c8-abd0-3108b2f00b7a'>2</a></td>
+    </tr>
     <tr>
       <th>278</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4844ae2-d9c1-42f2-ae4d-a8f994c395a0'>Putting fjord biodiversity on the map for Britsh Columbia conservation planning</a></td>
@@ -93,7 +107,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>272</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d43a79c1-a6ba-4e37-8dc2-6ced6312828e'>Data from Manuscript: Parasites of the hermit crab Pagurus hirsutiusculus; distribution, prevalence, and thermal ecology</a></td>
       <td>2026-08-19</td>
-      <td>2026-08-19</td>
+      <td>2026-09-10</td>
       <td></td>
     </tr>
     <tr>
@@ -472,7 +486,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_47d8bdd4-c815-4e8d-8d75-53a9db4ae46a'>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</a></td>
       <td>2025-05-09</td>
       <td>2026-06-22</td>
-      <td><a title='d70bcd3d-dc07-479f-856f-ad70d11c51f1' href='../records/d70bcd3d-dc07-479f-856f-ad70d11c51f1'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>214</th>
@@ -804,14 +818,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>169</th>
+      <th>168</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_24f1c230-6c37-470c-907d-25b9b022f5c2'>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</a></td>
       <td>2023-03-13</td>
       <td>2026-06-22</td>
-      <td><a title='2709d7b1-22e1-4268-bcda-dc0c79f2878e' href='../records/2709d7b1-22e1-4268-bcda-dc0c79f2878e'>1</a></td>
+      <td></td>
     </tr>
     <tr>
-      <th>168</th>
+      <th>169</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
       <td>2023-03-13</td>
       <td>2026-06-05</td>
@@ -1413,14 +1427,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>74</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
       <td></td>
     </tr>
     <tr>
-      <th>74</th>
+      <th>73</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-15</td>
@@ -1455,14 +1469,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>80</th>
+      <th>79</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3958106-fc49-44bd-8227-bfc3e8bcb58c'>Moore Island Archaeology Survey - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-10</td>
       <td></td>
     </tr>
     <tr>
-      <th>79</th>
+      <th>80</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3eff62f-bcee-4faa-a7e1-7b9380d94e74'>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-10</td>
@@ -1560,14 +1574,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>46</th>
+      <th>47</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
       <td>2022-01-24</td>
       <td>2026-06-12</td>
       <td></td>
     </tr>
     <tr>
-      <th>47</th>
+      <th>46</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1c9b7bcd-d3cc-4856-9428-df7abb2149f0'>Mobile Invertebrate Rocky Intertidal Surveys - BC Central Coast - 2016-2018</a></td>
       <td>2022-01-24</td>
       <td>2026-06-26</td>
@@ -1669,7 +1683,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_fcb4dfb6-606b-4b4b-bdcb-90f3f480fc33'>Data on invasion of Calvert Island by Orthione griffenis</a></td>
       <td>2022-01-24</td>
       <td>2026-08-19</td>
-      <td><a title='ad032cd1-86cc-47cc-ac01-fce09e4cf8d9' href='../records/ad032cd1-86cc-47cc-ac01-fce09e4cf8d9'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>45</th>
@@ -1994,7 +2008,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>279</th>
+      <th>281</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td></td>
       <td>2025-04-02</td>
@@ -2014,6 +2028,16 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>2026-09-10</td>
+      <td>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
+      <td>2026-09-10</td>
+      <td>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</td>
+      <td>No version</td>
+    </tr>
     <tr>
       <td>2026-09-09</td>
       <td>Putting fjord biodiversity on the map for Britsh Columbia conservation planning</td>
@@ -2085,11 +2109,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
     </tr>
     <tr>
-      <td>2026-08-19</td>
-      <td>Data on invasion of Calvert Island by Orthione griffenis</td>
-      <td>Broken link (connection error): https://doi.org/10.3391/bir.2020.9.3.09</td>
-    </tr>
-    <tr>
       <td>2026-08-17</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>No DOI defined</td>
@@ -2138,16 +2157,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-22</td>
       <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Invalid Resource URL: https://doi.org/10.5281/zenodo.4005400 returned status_code=504</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
-      <td>Invalid Resource URL: https://zenodo.org/uploads/15344675 returned status_code=504</td>
     </tr>
     <tr>
       <td>2026-06-17</td>

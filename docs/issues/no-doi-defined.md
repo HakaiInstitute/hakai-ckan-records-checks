@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No DO
   </thead>
   <tbody>
     <tr>
+      <td>2026-09-10</td>
+      <td>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</td>
+      <td>No DOI defined</td>
+    </tr>
+    <tr>
       <td>2026-08-17</td>
       <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
       <td>No DOI defined</td>
