@@ -16,7 +16,7 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-03</td>
+      <td>2026-09-11</td>
       <td>Water Property Measurements from Conductivity-Temperature-Depth Profilers, BC, Canada (Research)</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>

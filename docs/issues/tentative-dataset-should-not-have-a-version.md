@@ -16,18 +16,8 @@ This page present the list of all the records associated with the issue: **Tenta
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-07</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Provisional)</td>
-      <td>Tentative dataset should not have a version</td>
-    </tr>
-    <tr>
-      <td>2026-07-07</td>
-      <td>Water Level and Weather Station Time Series, Pruth Bay, Kwakshua Channel, Central Coast, BC, Canada (Provisional)</td>
-      <td>Tentative dataset should not have a version</td>
-    </tr>
-    <tr>
-      <td>2026-07-07</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</td>
+      <td>2026-09-11</td>
+      <td>BC Estuary Water Quality Monitoring Data - Chemainus River Estuary (Provisional)</td>
       <td>Tentative dataset should not have a version</td>
     </tr>
   </tbody>
