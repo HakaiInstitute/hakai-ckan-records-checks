@@ -2,10 +2,10 @@
 0,b6621a3c-1700-4015-a359-56b6c7155835,Broken link (404): http://geobc.gov.bc.ca/base-mapping/atlas/trim/
 0,646dd927-3248-4fc9-970c-abea15f7d304,No DOI defined
 1,646dd927-3248-4fc9-970c-abea15f7d304,No funder
+0,44bdc298-1329-400a-bc02-4d35d251865d,Metadata mismatch: related identifier 'dx.doi.org/10.17504/protocols.io.eq2lywxwpvx9/v1' (IsSupplementedBy) in DataCite not found in CKAN
 0,bd461764-55b0-4c63-935a-5e9d1d5a6fed,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-itracksept2023 returned status_code=404
 0,da040f55-984d-490d-b917-a67856de4bac,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404
 0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
-0,44bdc298-1329-400a-bc02-4d35d251865d,Metadata mismatch: related identifier 'dx.doi.org/10.17504/protocols.io.eq2lywxwpvx9/v1' (IsSupplementedBy) in DataCite not found in CKAN
 0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
 0,0f19ac6e-dc86-445b-b2da-7b61a389222e,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
 0,4b04cbfe-71f4-47b4-b028-3fcd24e7cff2,Metadata mismatch: creator 'Jenn Burt' in DataCite not found in CKAN record
@@ -31,6 +31,8 @@
 0,c7a168e8-f15e-446f-a49d-0b4a1f043ac2,Broken link (202): https://fjedna.shinyapps.io/census-app1/
 0,c1e0447b-a06c-44c8-abd0-3108b2f00b7a,No version
 1,c1e0447b-a06c-44c8-abd0-3108b2f00b7a,No DOI defined
+0,b7638e0b-e734-4a96-97af-9e7729b61831,Tentative dataset should not have a version
+1,b7638e0b-e734-4a96-97af-9e7729b61831,No funder
 0,613ba2f9-b21d-445f-8eaa-f42950c9350b,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404
 0,39818579-9692-4256-9810-d8b80e9821aa,Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record
 1,39818579-9692-4256-9810-d8b80e9821aa,Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite
