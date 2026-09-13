@@ -31,11 +31,6 @@ This page present the list of all the records associated with the issue: **Broke
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
     </tr>
     <tr>
-      <td>2026-07-28</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
-      <td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
-    </tr>
-    <tr>
       <td>2026-06-22</td>
       <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
       <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
