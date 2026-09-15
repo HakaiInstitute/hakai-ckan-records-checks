@@ -15,7 +15,9 @@ ORGANIZATIONS = [
 DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_REPO_URL_RE = re.compile(r"^https?://github\.com/([^/]+)/([^/]+?)(?:/.*)?$")
+ERDDAP_RESOURCE_URL_RE = re.compile(r"^(https?://[^/]+/erddap)/(?:tabledap|griddap|info)/([^./]+)")
 _github_session = requests.Session()
+_erddap_session = requests.Session()
 
 _SKIP_URL_PREFIXES = (
     "https://cioos.ca/translation_method",
@@ -74,6 +76,21 @@ def _get_latest_github_release_date(owner, repo):
             return None
         return date.fromisoformat(response.json()["published_at"][:10])
     except (requests.exceptions.RequestException, KeyError, ValueError):
+        return None
+
+
+@functools.cache
+def _get_erddap_date_modified(erddap_base, dataset_id):
+    """Fetch the date_modified NC_GLOBAL attribute for an ERDDAP dataset, or None if unavailable."""
+    try:
+        response = _erddap_session.get(f"{erddap_base}/info/{dataset_id}/index.json", timeout=15)
+        if response.status_code != 200:
+            return None
+        for row in response.json()["table"]["rows"]:
+            if row[0] == "attribute" and row[1] == "NC_GLOBAL" and row[2] == "date_modified":
+                return date.fromisoformat(row[4][:10])
+        return None
+    except (requests.exceptions.RequestException, KeyError, IndexError, ValueError):
         return None
 
 
@@ -257,6 +274,22 @@ def test_record_requirements(record) -> pd.DataFrame:
                         abs((release_date - reference_date).days) <= 1,
                         f"GitHub release date ({release_date.isoformat()}) differs by more than 1 day from "
                         f"data reference date ({reference_date_label}: {reference_date.isoformat()}): {resource['url']}",
+                    )
+
+        erddap_match = ERDDAP_RESOURCE_URL_RE.match(resource["url"])
+        if erddap_match and not is_tentative:
+            erddap_modified = _get_erddap_date_modified(*erddap_match.groups())
+            if erddap_modified is not None:
+                _test(
+                    bool(data_revision_date_str),
+                    f"ERDDAP dataset has a date_modified ({erddap_modified.isoformat()}) but the record has no "
+                    f"Data Reference Date (Revision): {resource['url']}",
+                )
+                if data_revision_date_str:
+                    _test(
+                        abs((erddap_modified - reference_date).days) <= 1,
+                        f"ERDDAP date_modified ({erddap_modified.isoformat()}) differs by more than 1 day from "
+                        f"data reference date (revision: {reference_date.isoformat()}): {resource['url']}",
                     )
 
     # Spatial
