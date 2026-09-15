@@ -16,7 +16,7 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-11</td>
+      <td>2026-09-14</td>
       <td>Water Property Measurements from Conductivity-Temperature-Depth Profilers, BC, Canada (Research)</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
@@ -29,16 +29,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2026-07-17</td>
       <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Differential infestation of juvenile Pacific salmon by parasitic sea lice in British Columbia, Canada</td>
-      <td>Invalid Resource URL: https://doi.org/10.5281/zenodo.4005400 returned status_code=504</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Glaciers in Western North America Mass Loss Geospatial Data (2021-2024)</td>
-      <td>Invalid Resource URL: https://zenodo.org/uploads/15344675 returned status_code=504</td>
     </tr>
     <tr>
       <td>2026-06-17</td>

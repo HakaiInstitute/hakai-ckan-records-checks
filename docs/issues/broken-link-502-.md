@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-22</td>
-      <td>Fraser River Landslide Project - 2022-2024 - Drone Data</td>
-      <td>Broken link (502): https://doi.org/10.21966/xp9x-m243</td>
+      <td>2026-07-17</td>
+      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
+      <td>Broken link (502): https://doi.org/10.21966/ywbk-5h57</td>
     </tr>
   </tbody>
 </table>
