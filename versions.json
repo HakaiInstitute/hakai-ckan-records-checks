@@ -15,6 +15,11 @@
     "aliases": []
   },
   {
+    "version": "revision-date",
+    "title": "revision-date",
+    "aliases": []
+  },
+  {
     "version": "repository-check",
     "title": "repository-check",
     "aliases": []
