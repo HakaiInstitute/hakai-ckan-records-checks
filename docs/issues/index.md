@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 1.0, 3.0, 3.0, 4.0, 7.0, 7.0, 8.0], "textposition": "outside", "x": [1, 1, 1, 1, 1, 3, 3, 4, 7, 7, 8], "xaxis": "x", "y": ["Broken link (502)", "Broken link (500)", "Broken link (connection error)", "No version", "Tentative dataset should not have a version", "No funder", "No DOI defined", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 3.0, 4.0, 7.0, 7.0, 8.0, 19.0], "textposition": "outside", "x": [1, 1, 3, 4, 7, 7, 8, 19], "xaxis": "x", "y": ["No version", "Tentative dataset should not have a version", "No DOI defined", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL", "No funder"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -42,10 +42,122 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
   <tbody>
     <tr>
       <th>281</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_05c75bd9-1953-4ab9-8573-878845854662'>BC Estuary Water Quality Monitoring Data - Glendale River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='97677e6b-1d06-4466-8849-043df22984c1' href='../records/97677e6b-1d06-4466-8849-043df22984c1'>1</a></td>
+    </tr>
+    <tr>
+      <th>282</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e50f5a3-6100-4f1a-b184-ba327def9f3a'>BC Estuary Water Quality Monitoring Data - Kaouk River estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='c428c9ff-19ed-40ec-82e0-40ab10960364' href='../records/c428c9ff-19ed-40ec-82e0-40ab10960364'>1</a></td>
+    </tr>
+    <tr>
+      <th>283</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2ba57f02-c88b-42b8-8f8c-07cfdeab45d3'>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='2de5b0d2-71b1-4041-bd01-118e9c529dac' href='../records/2de5b0d2-71b1-4041-bd01-118e9c529dac'>2</a></td>
+    </tr>
+    <tr>
+      <th>284</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_354b5b83-e752-4ffb-a740-d1cdc02ac8c6'>BC Estuary Water Quality Monitoring Data - Dtlaxsiwè River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='0ce3ee5b-425b-4eb0-a201-96bdfb795a3f' href='../records/0ce3ee5b-425b-4eb0-a201-96bdfb795a3f'>1</a></td>
+    </tr>
+    <tr>
+      <th>285</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_58a5140a-0b2c-4186-a648-53d9f58e5226'>BC Estuary Water Quality Monitoring Data - Kvai River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='1a2aa5c8-9a83-46f7-967d-1127436c2084' href='../records/1a2aa5c8-9a83-46f7-967d-1127436c2084'>1</a></td>
+    </tr>
+    <tr>
+      <th>286</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7fbc28f7-ee87-4361-bbee-0ed8ce24522d'>BC Estuary Water Quality Monitoring Data - Gwa'dzi River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='c035b81c-0fc3-446e-bec5-8b8933ae874b' href='../records/c035b81c-0fc3-446e-bec5-8b8933ae874b'>1</a></td>
+    </tr>
+    <tr>
+      <th>287</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_81883927-2334-45eb-b1c5-f6deb7add791'>BC Estuary Water Quality Monitoring Data - Conuma River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='ddf1f914-89b7-41fe-8e72-e5217476fc09' href='../records/ddf1f914-89b7-41fe-8e72-e5217476fc09'>1</a></td>
+    </tr>
+    <tr>
+      <th>288</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_83a949b4-99be-4a36-a910-0c81946a9bf6'>BC Estuary Water Quality Monitoring Data - Muuyaḥi River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='5216f7f5-a569-4f76-9cab-171f1e847498' href='../records/5216f7f5-a569-4f76-9cab-171f1e847498'>1</a></td>
+    </tr>
+    <tr>
+      <th>289</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86f1dd95-27a0-4c52-97e4-15be649ce73a'>BC Estuary Water Quality Monitoring Data - Xwésam River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='1f4b5991-bbcb-416b-807c-ed8ca5f4d9f4' href='../records/1f4b5991-bbcb-416b-807c-ed8ca5f4d9f4'>1</a></td>
+    </tr>
+    <tr>
+      <th>290</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ae7e017c-9211-4f98-b56e-90a4bbac161c'>BC Estuary Water Quality Monitoring Data - Snuneymuxw River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='1af6a43a-e73b-4774-8e10-b9f2928ab133' href='../records/1af6a43a-e73b-4774-8e10-b9f2928ab133'>1</a></td>
+    </tr>
+    <tr>
+      <th>291</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b922699f-69b6-4d63-b538-7c290086a408'>BC Estuary Water Quality Monitoring Data - Quw'utsun/Xwulqw'selu River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='d320d90e-96bf-4993-81c5-f1f57886b0e6' href='../records/d320d90e-96bf-4993-81c5-f1f57886b0e6'>1</a></td>
+    </tr>
+    <tr>
+      <th>292</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bea3da72-dafe-4e25-b5b2-0176e0ffba44'>BC Estuary Water Quality Monitoring Data - Chemainus River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='b7638e0b-e734-4a96-97af-9e7729b61831' href='../records/b7638e0b-e734-4a96-97af-9e7729b61831'>1</a></td>
+    </tr>
+    <tr>
+      <th>293</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d6e2bb44-2cad-4008-8af8-268054f5dfc6'>BC Estuary Water Quality Monitoring Data - Asiixw River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
-      <td><a title='b7638e0b-e734-4a96-97af-9e7729b61831' href='../records/b7638e0b-e734-4a96-97af-9e7729b61831'>2</a></td>
+      <td>2026-09-15</td>
+      <td><a title='879a98f9-7e86-46dc-9449-e05cbf720b1e' href='../records/879a98f9-7e86-46dc-9449-e05cbf720b1e'>1</a></td>
+    </tr>
+    <tr>
+      <th>294</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dce15b7b-3772-4106-ab20-c3979c4c3f57'>BC Estuary Water Quality Monitoring Data - Fulmore River - Shoal Creek Estuary Complex (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='4c7b7347-767d-45e4-b3ad-7e0133b31e1c' href='../records/4c7b7347-767d-45e4-b3ad-7e0133b31e1c'>1</a></td>
+    </tr>
+    <tr>
+      <th>295</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfb93c87-300e-4843-91f9-7c51bc59422e'>BC Estuary Water Quality Monitoring Data - Little Qualicum River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='8dadb6a8-8eb2-44ea-9d2d-c4332e4c544b' href='../records/8dadb6a8-8eb2-44ea-9d2d-c4332e4c544b'>1</a></td>
+    </tr>
+    <tr>
+      <th>296</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e9b72149-8cf1-4000-ae3e-6b29ad60b078'>BC Estuary Water Quality Monitoring Data - Malksope River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='35245eae-e508-47da-bcf7-54346cda086a' href='../records/35245eae-e508-47da-bcf7-54346cda086a'>1</a></td>
+    </tr>
+    <tr>
+      <th>297</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed84df74-5a2d-4a7d-87c8-a7b93f11088e'>BC Estuary Water Quality Monitoring Data - Nalaxdlala River Estuary (Provisional)</a></td>
+      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td><a title='5177d019-598e-4415-b778-9688403652c8' href='../records/5177d019-598e-4415-b778-9688403652c8'>1</a></td>
     </tr>
     <tr>
       <th>279</th>
@@ -94,7 +206,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c7466354-bacc-4781-acdc-543dd03d1eab'>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</a></td>
       <td>2026-08-31</td>
       <td>2026-08-31</td>
-      <td><a title='39818579-9692-4256-9810-d8b80e9821aa' href='../records/39818579-9692-4256-9810-d8b80e9821aa'>3</a></td>
+      <td><a title='39818579-9692-4256-9810-d8b80e9821aa' href='../records/39818579-9692-4256-9810-d8b80e9821aa'>2</a></td>
     </tr>
     <tr>
       <th>273</th>
@@ -965,14 +1077,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>148</th>
+      <th>149</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c89e35df-8a16-4efc-ae29-15f4e3da8a55'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</a></td>
       <td>2022-10-08</td>
       <td>2026-07-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>149</th>
+      <th>148</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cec3dcef-8dba-4d91-aee6-b60ce416497c'>Mussel Dynamics - Point Intercepts - BC Central Coast</a></td>
       <td>2022-10-08</td>
       <td>2026-07-17</td>
@@ -1032,17 +1144,17 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_de9b2a6d-9ba0-4384-9adf-22abc0eb061f'>Stream Event Sampling - Calvert Island - 2015-2018</a></td>
       <td>2022-03-30</td>
       <td>2026-07-17</td>
-      <td><a title='324c5ae3-b0ac-4302-b701-598ebbb25870' href='../records/324c5ae3-b0ac-4302-b701-598ebbb25870'>1</a></td>
+      <td></td>
     </tr>
     <tr>
-      <th>118</th>
+      <th>119</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373'>Stream temperature time-series – Calvert Island – 2013 - 2019</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>119</th>
+      <th>118</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
@@ -1144,7 +1256,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-28</td>
-      <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='../records/18911dee-9ca0-408b-8999-28da3e3dde7a'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>134</th>
@@ -1196,14 +1308,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>116</th>
+      <th>115</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
       <td>2022-03-25</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>115</th>
+      <th>116</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
@@ -1623,14 +1735,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>53</th>
+      <th>52</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
       <td>2022-01-24</td>
       <td>2026-02-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>52</th>
+      <th>53</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td>2022-01-24</td>
       <td>2026-05-14</td>
@@ -2015,7 +2127,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>282</th>
+      <th>298</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td></td>
       <td>2025-04-02</td>
@@ -2036,19 +2148,99 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-14</td>
-      <td>Water Property Measurements from Conductivity-Temperature-Depth Profilers, BC, Canada (Research)</td>
-      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Glendale River Estuary (Provisional)</td>
+      <td>No funder</td>
     </tr>
     <tr>
-      <td>2026-09-11</td>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Kaouk River estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Dtlaxsiwè River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Kvai River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Gwa'dzi River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Conuma River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Muuyaḥi River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Xwésam River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Snuneymuxw River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Quw'utsun/Xwulqw'selu River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
       <td>BC Estuary Water Quality Monitoring Data - Chemainus River Estuary (Provisional)</td>
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2026-09-11</td>
-      <td>BC Estuary Water Quality Monitoring Data - Chemainus River Estuary (Provisional)</td>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Asiixw River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Fulmore River - Shoal Creek Estuary Complex (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Little Qualicum River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Malksope River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Nalaxdlala River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</td>
       <td>Tentative dataset should not have a version</td>
+    </tr>
+    <tr>
+      <td>2026-09-14</td>
+      <td>Water Property Measurements from Conductivity-Temperature-Depth Profilers, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
       <td>2026-09-10</td>
@@ -2094,11 +2286,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-08-31</td>
       <td>Kelp Canopy Extent 2012 - NW Calvert Island</td>
       <td>Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf</td>
-    </tr>
-    <tr>
-      <td>2026-08-31</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
-      <td>Broken link (500): https://drive.google.com/file/d/1tBYG1Zmw0kxAidpBZglweAv8CXp-H8an/view?usp=sharing</td>
     </tr>
     <tr>
       <td>2026-08-31</td>
@@ -2164,16 +2351,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-07-28</td>
       <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
       <td>Broken link (404): https://hakai-segmentation.readthedocs.io/en/latest/</td>
-    </tr>
-    <tr>
-      <td>2026-07-28</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
-    </tr>
-    <tr>
-      <td>2026-07-17</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
-      <td>Broken link (502): https://doi.org/10.21966/ywbk-5h57</td>
     </tr>
     <tr>
       <td>2026-07-17</td>
