@@ -80,16 +80,16 @@ def _get_latest_github_release_date(owner, repo):
 
 
 @functools.cache
-def _get_erddap_date_modified(erddap_base, dataset_id):
-    """Fetch the date_modified NC_GLOBAL attribute for an ERDDAP dataset, or None if unavailable."""
+def _get_erddap_last_data_date(erddap_base, dataset_id):
+    """Fetch the date of the most recent 'time' data point in an ERDDAP tabledap dataset, or None if unavailable."""
     try:
-        response = _erddap_session.get(f"{erddap_base}/info/{dataset_id}/index.json", timeout=15)
+        response = _erddap_session.get(
+            f'{erddap_base}/tabledap/{dataset_id}.json?time&orderByMax(%22time%22)',
+            timeout=60,
+        )
         if response.status_code != 200:
             return None
-        for row in response.json()["table"]["rows"]:
-            if row[0] == "attribute" and row[1] == "NC_GLOBAL" and row[2] == "date_modified":
-                return date.fromisoformat(row[4][:10])
-        return None
+        return date.fromisoformat(response.json()["table"]["rows"][0][0][:10])
     except (requests.exceptions.RequestException, KeyError, IndexError, ValueError):
         return None
 
@@ -222,6 +222,13 @@ def test_record_requirements(record) -> pd.DataFrame:
             reference_date = date.fromisoformat(reference_date_str)
         except ValueError:
             pass
+    reference_years = set()
+    for date_str in (data_revision_date_str, data_publication_date_str):
+        if date_str:
+            try:
+                reference_years.add(date.fromisoformat(date_str).year)
+            except ValueError:
+                pass
     published_over_6_months = True
     if pub_date_str:
         try:
@@ -271,25 +278,25 @@ def test_record_requirements(record) -> pd.DataFrame:
                 release_date = _get_latest_github_release_date(*owner_repo)
                 if release_date is not None:
                     _test(
-                        abs((release_date - reference_date).days) <= 1,
-                        f"GitHub release date ({release_date.isoformat()}) differs by more than 1 day from "
+                        release_date.year == reference_date.year,
+                        f"GitHub release date ({release_date.isoformat()}) is not in the same year as the "
                         f"data reference date ({reference_date_label}: {reference_date.isoformat()}): {resource['url']}",
                     )
 
         erddap_match = ERDDAP_RESOURCE_URL_RE.match(resource["url"])
         if erddap_match and not is_tentative:
-            erddap_modified = _get_erddap_date_modified(*erddap_match.groups())
-            if erddap_modified is not None:
+            last_data_date = _get_erddap_last_data_date(*erddap_match.groups())
+            if last_data_date is not None:
                 _test(
-                    bool(data_revision_date_str),
-                    f"ERDDAP dataset has a date_modified ({erddap_modified.isoformat()}) but the record has no "
-                    f"Data Reference Date (Revision): {resource['url']}",
+                    bool(reference_years),
+                    f"ERDDAP dataset has data through {last_data_date.isoformat()} but the record has no "
+                    f"Data Reference Date (Publication or Revision): {resource['url']}",
                 )
-                if data_revision_date_str:
+                if reference_years:
                     _test(
-                        abs((erddap_modified - reference_date).days) <= 1,
-                        f"ERDDAP date_modified ({erddap_modified.isoformat()}) differs by more than 1 day from "
-                        f"data reference date (revision: {reference_date.isoformat()}): {resource['url']}",
+                        last_data_date.year <= max(reference_years),
+                        f"ERDDAP last data point year ({last_data_date.year}) is later than the metadata "
+                        f"Data Reference Date year(s) ({sorted(reference_years)}): {resource['url']}",
                     )
 
     # Spatial
