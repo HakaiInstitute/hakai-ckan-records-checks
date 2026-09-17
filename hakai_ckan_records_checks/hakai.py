@@ -1,5 +1,7 @@
 import difflib
+import functools
 import json
+import os
 import re
 from datetime import date
 
@@ -11,6 +13,11 @@ ORGANIZATIONS = [
     "Hakai Institute",
 ]
 DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_REPO_URL_RE = re.compile(r"^https?://github\.com/([^/]+)/([^/]+?)(?:/.*)?$")
+ERDDAP_RESOURCE_URL_RE = re.compile(r"^(https?://[^/]+/erddap)/(?:tabledap|griddap|info)/([^./]+)")
+_github_session = requests.Session()
+_erddap_session = requests.Session()
 
 _SKIP_URL_PREFIXES = (
     "https://cioos.ca/translation_method",
@@ -42,6 +49,49 @@ def _fuzzy_match(a, b, threshold=0.85):
     if not (a and b):
         return False
     return difflib.SequenceMatcher(None, _normalize_name(a.lower()), _normalize_name(b.lower())).ratio() >= threshold
+
+
+def _github_owner_repo(match):
+    """Extract a lowercased (owner, repo) tuple from a GITHUB_REPO_URL_RE match, or None."""
+    return (match.group(1).lower(), match.group(2).lower()) if match else None
+
+
+def _date_by_type(entries, date_type):
+    return next((d["value"] for d in entries if d.get("type") == date_type), None)
+
+
+@functools.cache
+def _get_latest_github_release_date(owner, repo):
+    """Fetch the published date of a GitHub repo's latest release, or None if unavailable."""
+    headers = {"Accept": "application/vnd.github+json"}
+    if GITHUB_TOKEN:
+        headers["Authorization"] = f"Bearer {GITHUB_TOKEN}"
+    try:
+        response = _github_session.get(
+            f"https://api.github.com/repos/{owner}/{repo}/releases/latest",
+            headers=headers,
+            timeout=15,
+        )
+        if response.status_code != 200:
+            return None
+        return date.fromisoformat(response.json()["published_at"][:10])
+    except (requests.exceptions.RequestException, KeyError, ValueError):
+        return None
+
+
+@functools.cache
+def _get_erddap_last_data_date(erddap_base, dataset_id):
+    """Fetch the date of the most recent 'time' data point in an ERDDAP tabledap dataset, or None if unavailable."""
+    try:
+        response = _erddap_session.get(
+            f'{erddap_base}/tabledap/{dataset_id}.json?time&orderByMax(%22time%22)',
+            timeout=60,
+        )
+        if response.status_code != 200:
+            return None
+        return date.fromisoformat(response.json()["table"]["rows"][0][0][:10])
+    except (requests.exceptions.RequestException, KeyError, IndexError, ValueError):
+        return None
 
 
 @logger.catch(default=pd.DataFrame())
@@ -122,12 +172,19 @@ def test_record_requirements(record) -> pd.DataFrame:
                 )
 
     # Related Works — flag malformed DOI URLs (https://10.x instead of https://doi.org/10.x)
+    related_work_github_repos = set()
+    related_work_codes = set()
     for agg in record.get("aggregation-info", []):
         code = agg.get("aggregate-dataset-identifier_code", "")
         _test(
             not re.match(r"https?://10\.", code, re.IGNORECASE),
             f"Malformed related work identifier (missing doi.org): {code}",
         )
+        if code:
+            related_work_codes.add(code.rstrip("/").lower())
+        agg_owner_repo = _github_owner_repo(GITHUB_REPO_URL_RE.match(code))
+        if agg_owner_repo:
+            related_work_github_repos.add(agg_owner_repo)
 
     # Contacts
     contacts = record.get("cited-responsible-party", []) + record.get(
@@ -153,10 +210,25 @@ def test_record_requirements(record) -> pd.DataFrame:
         )
 
     # Determine whether the record has been published for 6+ months
-    pub_date_str = next(
-        (d["value"] for d in record.get("metadata-reference-date", []) if d.get("type") == "publication"),
-        None,
-    )
+    pub_date_str = _date_by_type(record.get("metadata-reference-date", []), "publication")
+    dataset_dates = record.get("dataset-reference-date", [])
+    data_revision_date_str = _date_by_type(dataset_dates, "revision")
+    data_publication_date_str = _date_by_type(dataset_dates, "publication")
+    reference_date_str = data_revision_date_str or data_publication_date_str
+    reference_date_label = "revision" if data_revision_date_str else "publication"
+    reference_date = None
+    if reference_date_str:
+        try:
+            reference_date = date.fromisoformat(reference_date_str)
+        except ValueError:
+            pass
+    reference_years = set()
+    for date_str in (data_revision_date_str, data_publication_date_str):
+        if date_str:
+            try:
+                reference_years.add(date.fromisoformat(date_str).year)
+            except ValueError:
+                pass
     published_over_6_months = True
     if pub_date_str:
         try:
@@ -175,12 +247,21 @@ def test_record_requirements(record) -> pd.DataFrame:
         _test(resource["name"] != "", "Empty resource name")
         _test(resource["url"] != "", "Empty resource url")
         _test(resource["format"] != "", "Empty resource format")
+        github_match = GITHUB_REPO_URL_RE.match(resource["url"])
+        owner_repo = _github_owner_repo(github_match)
+        is_github_repo_url = bool(github_match)
+        is_related_work_url = resource["url"].rstrip("/").lower() in related_work_codes
+        if owner_repo:
+            is_related_work_url = is_related_work_url or owner_repo in related_work_github_repos
+        _test(
+            not is_related_work_url,
+            f"Resource is also listed as a Related Work: {resource['url']}",
+        )
         try:
             status_code = int(requests.get(resource["url"]).status_code)
         except requests.exceptions.Timeout:
             status_code = "timeout"
         accepted = {200, 201, 401, 403, 418, 503}
-        is_github_repo_url = bool(re.match(r"^https?://github\.com/[^/]+/[^/]+/?$", resource["url"]))
         if (not published_over_6_months) and is_github_repo_url:
             accepted.add(404)
         _test(
@@ -188,10 +269,35 @@ def test_record_requirements(record) -> pd.DataFrame:
             f"Invalid Resource URL: {resource['url']} returned status_code={status_code}",
         )
         if is_github_repo_url:
+            is_hakai_org_repo = resource["url"].startswith("https://github.com/HakaiInstitute/")
             _test(
-                resource["url"].startswith("https://github.com/HakaiInstitute/"),
+                is_hakai_org_repo,
                 f"Resource GitHub repository is not under the HakaiInstitute organization: {resource['url']}",
             )
+            if is_hakai_org_repo and reference_date and not is_related_work_url:
+                release_date = _get_latest_github_release_date(*owner_repo)
+                if release_date is not None:
+                    _test(
+                        release_date.year == reference_date.year,
+                        f"GitHub release date ({release_date.isoformat()}) is not in the same year as the "
+                        f"data reference date ({reference_date_label}: {reference_date.isoformat()}): {resource['url']}",
+                    )
+
+        erddap_match = ERDDAP_RESOURCE_URL_RE.match(resource["url"])
+        if erddap_match and not is_tentative:
+            last_data_date = _get_erddap_last_data_date(*erddap_match.groups())
+            if last_data_date is not None:
+                _test(
+                    bool(reference_years),
+                    f"ERDDAP dataset has data through {last_data_date.isoformat()} but the record has no "
+                    f"Data Reference Date (Publication or Revision): {resource['url']}",
+                )
+                if reference_years:
+                    _test(
+                        last_data_date.year <= max(reference_years),
+                        f"ERDDAP last data point year ({last_data_date.year}) is later than the metadata "
+                        f"Data Reference Date year(s) ({sorted(reference_years)}): {resource['url']}",
+                    )
 
     # Spatial
     _test("spatial" in record, "No spatial information available")
