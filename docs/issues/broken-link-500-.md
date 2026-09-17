@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-08-31</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
-      <td>Broken link (500): https://drive.google.com/file/d/1tBYG1Zmw0kxAidpBZglweAv8CXp-H8an/view?usp=sharing</td>
+      <td>2026-07-10</td>
+      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
+      <td>Broken link (500): https://drive.google.com/file/d/1Q_vZwbxk2djrf0uf0YCCQv_NPcBMxFLO/view?usp=drive_link</td>
     </tr>
   </tbody>
 </table>

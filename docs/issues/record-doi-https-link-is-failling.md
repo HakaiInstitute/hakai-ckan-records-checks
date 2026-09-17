@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-05-26</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/dveq-bt48 status_code=502</td>
+      <td>2026-09-15</td>
+      <td>BC Estuary Water Quality Monitoring Data - Muuyaḥi River Estuary (Provisional)</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/9a97-2j48 status_code=502</td>
     </tr>
   </tbody>
 </table>
