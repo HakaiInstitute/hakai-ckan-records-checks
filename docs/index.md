@@ -6,26 +6,26 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-09-17*
+*Last updated: 2026-09-18*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">299</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">300</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-16</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+1 since 2026-09-17</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">48</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">47</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+2 since 2026-09-16</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-1 since 2026-09-17</div>
   
   
 </div>
@@ -35,7 +35,7 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-16</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-17</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 3.0, 4.0, 7.0, 7.0, 9.0, 19.0], "textposition": "outside", "x": [1, 1, 1, 1, 3, 4, 7, 7, 9, 19], "xaxis": "x", "y": ["Broken link (500)", "No version", "Tentative dataset should not have a version", "Record DOI HTTPS link is failling", "No DOI defined", "Broken link (202)", "Metadata mismatch", "Broken link (404)", "Invalid Resource URL", "No funder"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 4.0, 7.0, 7.0, 8.0, 19.0], "textposition": "outside", "x": [1, 1, 1, 3, 4, 7, 7, 8, 19], "xaxis": "x", "y": ["No version", "Record DOI HTTPS link is failling", "Tentative dataset should not have a version", "No DOI defined", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL", "No funder"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -119,7 +119,7 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_83a949b4-99be-4a36-a910-0c81946a9bf6'>BC Estuary Water Quality Monitoring Data - Muuyaḥi River Estuary (Provisional)</a></td>
-      <td><a title='5216f7f5-a569-4f76-9cab-171f1e847498' href='records/5216f7f5-a569-4f76-9cab-171f1e847498'>2</a></td>
+      <td><a title='5216f7f5-a569-4f76-9cab-171f1e847498' href='records/5216f7f5-a569-4f76-9cab-171f1e847498'>1</a></td>
       <td>Estuary Resilience</td>
       <td>2026-09-15</td>
     </tr>
@@ -178,12 +178,6 @@ hide:
       <td>2026-09-15</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_1f1774ff-7398-4099-b89f-59df7ef0749e'>Surface underway seawater and marine boundary layer observations of partial pressure of carbon dioxide (pCO2), water temperature, salinity and other parameters made during the M/V Seaspan Royal cruises in the coastal waters of British Columbia, Canada from 2022-07-01 to 2022-12-20</a></td>
-      <td><a title='58d56d16-6350-4b01-a062-6bdb2d9f89b4' href='records/58d56d16-6350-4b01-a062-6bdb2d9f89b4'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-09-10</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a787372d-e6f0-4128-bd08-7e9f5e667e1d'>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</a></td>
       <td><a title='c1e0447b-a06c-44c8-abd0-3108b2f00b7a' href='records/c1e0447b-a06c-44c8-abd0-3108b2f00b7a'>2</a></td>
       <td>Oceanography</td>
@@ -193,7 +187,7 @@ hide:
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b4844ae2-d9c1-42f2-ae4d-a8f994c395a0'>Putting fjord biodiversity on the map for Britsh Columbia conservation planning</a></td>
       <td><a title='c7a168e8-f15e-446f-a49d-0b4a1f043ac2' href='records/c7a168e8-f15e-446f-a49d-0b4a1f043ac2'>1</a></td>
       <td>Genomics, Oceanography</td>
-      <td>2026-09-09</td>
+      <td>2026-09-17</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_73abfecf-d35c-4f9c-a991-eee5cece08ea'>Kelp Canopy Extent 2012 - NW Calvert Island</a></td>
@@ -286,10 +280,10 @@ hide:
       <td>2026-06-09</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_33a367c1-2706-4301-af99-4455fbe189a0'>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</a></td>
-      <td><a title='6a28454e-107a-4059-9b7d-e43bf8ee693b' href='records/6a28454e-107a-4059-9b7d-e43bf8ee693b'>1</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-07-10</td>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af344fb9-4901-470c-a441-41f11ee2ccd7'>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</a></td>
+      <td><a title='0781c19a-7efb-4680-92fd-8cd5faf0cfe4' href='records/0781c19a-7efb-4680-92fd-8cd5faf0cfe4'>1</a></td>
+      <td>Wet Lab</td>
+      <td>2024-12-19</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63'>Water Property Measurements from Conductivity-Temperature-Depth Profilers, BC, Canada (Provisional)</a></td>

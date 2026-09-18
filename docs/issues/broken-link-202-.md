@@ -16,7 +16,7 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-09</td>
+      <td>2026-09-17</td>
       <td>Putting fjord biodiversity on the map for Britsh Columbia conservation planning</td>
       <td>Broken link (202): https://fjedna.shinyapps.io/census-app1/</td>
     </tr>
