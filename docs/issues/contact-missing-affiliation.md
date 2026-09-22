@@ -16,14 +16,9 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-01</td>
-      <td>Biomass and density of Pycnopodia helianthoides from the central coast of BC</td>
-      <td>Contact missing affiliation: Jackson, Jennifer</td>
-    </tr>
-    <tr>
-      <td>2026-09-01</td>
-      <td>Biomass and density of Pycnopodia helianthoides from the central coast of BC</td>
-      <td>Contact missing affiliation: VanMaanen, Derek</td>
+      <td>2026-08-19</td>
+      <td>Understory kelp biomass data from BC Central Coast</td>
+      <td>Contact missing affiliation: Okamoto, Daniel</td>
     </tr>
   </tbody>
 </table>

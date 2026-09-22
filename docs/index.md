@@ -6,26 +6,26 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-09-21*
+*Last updated: 2026-09-22*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">300</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">301</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-20</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">+1 since 2026-09-21</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">48</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">42</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-20</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-6 since 2026-09-21</div>
   
   
 </div>
@@ -35,7 +35,7 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-20</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-21</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 3.0, 4.0, 7.0, 8.0, 9.0, 19.0], "textposition": "outside", "x": [1, 1, 3, 4, 7, 8, 9, 19], "xaxis": "x", "y": ["No version", "Tentative dataset should not have a version", "No DOI defined", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL", "No funder"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 4.0, 7.0, 9.0, 19.0], "textposition": "outside", "x": [1, 1, 1, 3, 4, 7, 9, 19], "xaxis": "x", "y": ["Contact missing affiliation", "Metadata mismatch", "No version", "No DOI defined", "Broken link (202)", "Broken link (404)", "Invalid Resource URL", "No funder"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -89,9 +89,9 @@ hide:
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2ba57f02-c88b-42b8-8f8c-07cfdeab45d3'>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</a></td>
-      <td><a title='2de5b0d2-71b1-4041-bd01-118e9c529dac' href='records/2de5b0d2-71b1-4041-bd01-118e9c529dac'>2</a></td>
+      <td><a title='2de5b0d2-71b1-4041-bd01-118e9c529dac' href='records/2de5b0d2-71b1-4041-bd01-118e9c529dac'>1</a></td>
       <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
+      <td>2026-09-21</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_354b5b83-e752-4ffb-a740-d1cdc02ac8c6'>BC Estuary Water Quality Monitoring Data - Dtlaxsiwè River Estuary (Provisional)</a></td>
@@ -196,18 +196,6 @@ hide:
       <td>2026-08-31</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_940218ef-d7f8-4f3f-9e69-52150ecdbec5'>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</a></td>
-      <td><a title='bc1133da-5601-4f92-bc53-41be547c936b' href='records/bc1133da-5601-4f92-bc53-41be547c936b'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-09-08</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c7466354-bacc-4781-acdc-543dd03d1eab'>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</a></td>
-      <td><a title='39818579-9692-4256-9810-d8b80e9821aa' href='records/39818579-9692-4256-9810-d8b80e9821aa'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-08-31</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_53189107-9df5-426b-acb4-f903468554fe'>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</a></td>
       <td><a title='c4932b55-1dd8-4f2f-89da-5822056ecc37' href='records/c4932b55-1dd8-4f2f-89da-5822056ecc37'>1</a></td>
       <td>Sentinels of Change, Genomics</td>
@@ -280,16 +268,16 @@ hide:
       <td>2025-05-08</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_314a0846-0fe9-4c2e-81e2-d2b24ac98b6e'>Understory kelp biomass data from BC Central Coast</a></td>
+      <td><a title='5576c279-6d3a-4323-8104-0e1040d9906c' href='records/5576c279-6d3a-4323-8104-0e1040d9906c'>1</a></td>
+      <td>Nearshore</td>
+      <td>2026-08-19</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9fafb4c8-e61f-4372-ac71-c1ddbe57d80c'>Data record does not exist anymore: Geomorphology - Calvert Island</a></td>
       <td><a title='49967494-a7b6-4128-b336-671971d1e2c6' href='records/49967494-a7b6-4128-b336-671971d1e2c6'>2</a></td>
       <td>Airborne Coastal Observatory</td>
       <td>2026-06-09</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0507a738-cd65-4ba4-943e-42b9d022b637'>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</a></td>
-      <td><a title='52d607c9-46cd-4be9-a752-1b5446272f32' href='records/52d607c9-46cd-4be9-a752-1b5446272f32'>2</a></td>
-      <td>Airborne Coastal Observatory, Geospatial</td>
-      <td>2026-09-18</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63'>Water Property Measurements from Conductivity-Temperature-Depth Profilers, BC, Canada (Provisional)</a></td>
@@ -316,24 +304,6 @@ hide:
       <td>2026-05-25</td>
     </tr>
     <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc'>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</a></td>
-      <td><a title='70f29525-f17b-4bc7-ae7f-d1e7205ba16c' href='records/70f29525-f17b-4bc7-ae7f-d1e7205ba16c'>3</a></td>
-      <td>Geospatial, Nearshore</td>
-      <td>2026-08-31</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
-      <td><a title='d3ed88cb-4f38-4c2e-a966-3dd49c9cafec' href='records/d3ed88cb-4f38-4c2e-a966-3dd49c9cafec'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-09-03</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3f40326a-23f9-4e30-a16a-f332ace14e2f'>Nereocystis kelp canopy productivity data from BC Central Coast</a></td>
-      <td><a title='4b04cbfe-71f4-47b4-b028-3fcd24e7cff2' href='records/4b04cbfe-71f4-47b4-b028-3fcd24e7cff2'>3</a></td>
-      <td>Nearshore</td>
-      <td>2026-08-04</td>
-    </tr>
-    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
       <td><a title='b6621a3c-1700-4015-a359-56b6c7155835' href='records/b6621a3c-1700-4015-a359-56b6c7155835'>1</a></td>
       <td>Geospatial, Airborne Coastal Observatory</td>
@@ -344,12 +314,6 @@ hide:
       <td><a title='646dd927-3248-4fc9-970c-abea15f7d304' href='records/646dd927-3248-4fc9-970c-abea15f7d304'>2</a></td>
       <td>Geospatial, Oceanography</td>
       <td>2026-08-17</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ee2791c3-3d99-41e5-8cdf-fa5d1d19944d'>Fatty acids of particulate matter collected from 2015 to 2018 near Quadra Island, British Columbia, Canada</a></td>
-      <td><a title='3fbbd892-55cd-4c96-9669-cecefe726b3f' href='records/3fbbd892-55cd-4c96-9669-cecefe726b3f'>1</a></td>
-      <td>Oceanography</td>
-      <td>2026-09-03</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7ddae37a-e706-45d2-8060-8306300a98c8'>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</a></td>

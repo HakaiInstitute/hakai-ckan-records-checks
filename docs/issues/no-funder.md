@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **No fu
   </thead>
   <tbody>
     <tr>
+      <td>2026-09-21</td>
+      <td>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
       <td>2026-09-15</td>
       <td>BC Estuary Water Quality Monitoring Data - Glendale River Estuary (Provisional)</td>
       <td>No funder</td>
@@ -23,11 +28,6 @@ This page present the list of all the records associated with the issue: **No fu
     <tr>
       <td>2026-09-15</td>
       <td>BC Estuary Water Quality Monitoring Data - Kaouk River estuary (Provisional)</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-09-15</td>
-      <td>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</td>
       <td>No funder</td>
     </tr>
     <tr>
