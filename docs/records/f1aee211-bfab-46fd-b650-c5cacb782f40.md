@@ -18,9 +18,10 @@ hide:
   
 </div>
 
-| Issue                                                                                 |
-|:--------------------------------------------------------------------------------------|
-| Record DOI HTTPS link is failling: https://doi.org/10.21966/e4b8-vp48 status_code=502 |
+| Issue                                                                             |
+|:----------------------------------------------------------------------------------|
+| Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record |
+| Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

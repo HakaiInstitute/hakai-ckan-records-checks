@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-10</td>
-      <td>Cryosphere Snow Surveys Southwest British Columbia - Airborne Coastal Observatory</td>
-      <td>Broken link (500): https://drive.google.com/file/d/1Q_vZwbxk2djrf0uf0YCCQv_NPcBMxFLO/view?usp=drive_link</td>
+      <td>2026-06-12</td>
+      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
+      <td>Broken link (500): https://www.pmel.noaa.gov/co2/story/2016+West+Coast+Ocean+Acidification+Cruise</td>
     </tr>
   </tbody>
 </table>

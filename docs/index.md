@@ -6,7 +6,7 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-09-23*
+*Last updated: 2026-09-24*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
@@ -15,17 +15,17 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-22</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-23</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">42</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">27</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-22</div>
+  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-15 since 2026-09-23</div>
   
   
 </div>
@@ -35,7 +35,7 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-22</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-09-23</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 4.0, 7.0, 9.0, 19.0], "textposition": "outside", "x": [1, 1, 1, 3, 4, 7, 9, 19], "xaxis": "x", "y": ["Contact missing affiliation", "Metadata mismatch", "No version", "No DOI defined", "Broken link (202)", "Broken link (404)", "Invalid Resource URL", "No funder"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 4.0, 7.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 2, 2, 3, 4, 7, 9], "xaxis": "x", "y": ["Contact missing affiliation", "Broken link (500)", "No version", "No funder", "Metadata mismatch", "No DOI defined", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -75,108 +75,6 @@ hide:
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_05c75bd9-1953-4ab9-8573-878845854662'>BC Estuary Water Quality Monitoring Data - Glendale River Estuary (Provisional)</a></td>
-      <td><a title='97677e6b-1d06-4466-8849-043df22984c1' href='records/97677e6b-1d06-4466-8849-043df22984c1'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e50f5a3-6100-4f1a-b184-ba327def9f3a'>BC Estuary Water Quality Monitoring Data - Kaouk River estuary (Provisional)</a></td>
-      <td><a title='c428c9ff-19ed-40ec-82e0-40ab10960364' href='records/c428c9ff-19ed-40ec-82e0-40ab10960364'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2ba57f02-c88b-42b8-8f8c-07cfdeab45d3'>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</a></td>
-      <td><a title='2de5b0d2-71b1-4041-bd01-118e9c529dac' href='records/2de5b0d2-71b1-4041-bd01-118e9c529dac'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-21</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_354b5b83-e752-4ffb-a740-d1cdc02ac8c6'>BC Estuary Water Quality Monitoring Data - Dtlaxsiwè River Estuary (Provisional)</a></td>
-      <td><a title='0ce3ee5b-425b-4eb0-a201-96bdfb795a3f' href='records/0ce3ee5b-425b-4eb0-a201-96bdfb795a3f'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_58a5140a-0b2c-4186-a648-53d9f58e5226'>BC Estuary Water Quality Monitoring Data - Kvai River Estuary (Provisional)</a></td>
-      <td><a title='1a2aa5c8-9a83-46f7-967d-1127436c2084' href='records/1a2aa5c8-9a83-46f7-967d-1127436c2084'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7fbc28f7-ee87-4361-bbee-0ed8ce24522d'>BC Estuary Water Quality Monitoring Data - Gwa'dzi River Estuary (Provisional)</a></td>
-      <td><a title='c035b81c-0fc3-446e-bec5-8b8933ae874b' href='records/c035b81c-0fc3-446e-bec5-8b8933ae874b'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_81883927-2334-45eb-b1c5-f6deb7add791'>BC Estuary Water Quality Monitoring Data - Conuma River Estuary (Provisional)</a></td>
-      <td><a title='ddf1f914-89b7-41fe-8e72-e5217476fc09' href='records/ddf1f914-89b7-41fe-8e72-e5217476fc09'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_83a949b4-99be-4a36-a910-0c81946a9bf6'>BC Estuary Water Quality Monitoring Data - Muuyaḥi River Estuary (Provisional)</a></td>
-      <td><a title='5216f7f5-a569-4f76-9cab-171f1e847498' href='records/5216f7f5-a569-4f76-9cab-171f1e847498'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86f1dd95-27a0-4c52-97e4-15be649ce73a'>BC Estuary Water Quality Monitoring Data - Xwésam River Estuary (Provisional)</a></td>
-      <td><a title='1f4b5991-bbcb-416b-807c-ed8ca5f4d9f4' href='records/1f4b5991-bbcb-416b-807c-ed8ca5f4d9f4'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ae7e017c-9211-4f98-b56e-90a4bbac161c'>BC Estuary Water Quality Monitoring Data - Snuneymuxw River Estuary (Provisional)</a></td>
-      <td><a title='1af6a43a-e73b-4774-8e10-b9f2928ab133' href='records/1af6a43a-e73b-4774-8e10-b9f2928ab133'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b922699f-69b6-4d63-b538-7c290086a408'>BC Estuary Water Quality Monitoring Data - Quw'utsun/Xwulqw'selu River Estuary (Provisional)</a></td>
-      <td><a title='d320d90e-96bf-4993-81c5-f1f57886b0e6' href='records/d320d90e-96bf-4993-81c5-f1f57886b0e6'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_bea3da72-dafe-4e25-b5b2-0176e0ffba44'>BC Estuary Water Quality Monitoring Data - Chemainus River Estuary (Provisional)</a></td>
-      <td><a title='b7638e0b-e734-4a96-97af-9e7729b61831' href='records/b7638e0b-e734-4a96-97af-9e7729b61831'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d6e2bb44-2cad-4008-8af8-268054f5dfc6'>BC Estuary Water Quality Monitoring Data - Asiixw River Estuary (Provisional)</a></td>
-      <td><a title='879a98f9-7e86-46dc-9449-e05cbf720b1e' href='records/879a98f9-7e86-46dc-9449-e05cbf720b1e'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dce15b7b-3772-4106-ab20-c3979c4c3f57'>BC Estuary Water Quality Monitoring Data - Fulmore River - Shoal Creek Estuary Complex (Provisional)</a></td>
-      <td><a title='4c7b7347-767d-45e4-b3ad-7e0133b31e1c' href='records/4c7b7347-767d-45e4-b3ad-7e0133b31e1c'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfb93c87-300e-4843-91f9-7c51bc59422e'>BC Estuary Water Quality Monitoring Data - Little Qualicum River Estuary (Provisional)</a></td>
-      <td><a title='8dadb6a8-8eb2-44ea-9d2d-c4332e4c544b' href='records/8dadb6a8-8eb2-44ea-9d2d-c4332e4c544b'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e9b72149-8cf1-4000-ae3e-6b29ad60b078'>BC Estuary Water Quality Monitoring Data - Malksope River Estuary (Provisional)</a></td>
-      <td><a title='35245eae-e508-47da-bcf7-54346cda086a' href='records/35245eae-e508-47da-bcf7-54346cda086a'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
-    <tr>
-      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed84df74-5a2d-4a7d-87c8-a7b93f11088e'>BC Estuary Water Quality Monitoring Data - Nalaxdlala River Estuary (Provisional)</a></td>
-      <td><a title='5177d019-598e-4415-b778-9688403652c8' href='records/5177d019-598e-4415-b778-9688403652c8'>1</a></td>
-      <td>Estuary Resilience</td>
-      <td>2026-09-15</td>
-    </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a787372d-e6f0-4128-bd08-7e9f5e667e1d'>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</a></td>
       <td><a title='c1e0447b-a06c-44c8-abd0-3108b2f00b7a' href='records/c1e0447b-a06c-44c8-abd0-3108b2f00b7a'>2</a></td>
@@ -280,6 +178,12 @@ hide:
       <td>2026-06-09</td>
     </tr>
     <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3efdccb0-08ef-4e90-ac91-72969f94a99a'>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</a></td>
+      <td><a title='f1aee211-bfab-46fd-b650-c5cacb782f40' href='records/f1aee211-bfab-46fd-b650-c5cacb782f40'>2</a></td>
+      <td>Airborne Coastal Observatory, Geospatial</td>
+      <td>2026-07-06</td>
+    </tr>
+    <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6143028b-028d-46c7-a67d-f3a513435e63'>Water Property Measurements from Conductivity-Temperature-Depth Profilers, BC, Canada (Provisional)</a></td>
       <td><a title='13dc3c6c-9dd4-47a4-92ad-681c653d3565' href='records/13dc3c6c-9dd4-47a4-92ad-681c653d3565'>1</a></td>
       <td>Juvenile Salmon Program, Oceanography, Nearshore</td>
@@ -302,6 +206,12 @@ hide:
       <td><a title='0f19ac6e-dc86-445b-b2da-7b61a389222e' href='records/0f19ac6e-dc86-445b-b2da-7b61a389222e'>1</a></td>
       <td>Geospatial, Nearshore</td>
       <td>2026-05-25</td>
+    </tr>
+    <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
+      <td><a title='1bba6c8a-b99c-4fbd-8eae-7c8b771a841d' href='records/1bba6c8a-b99c-4fbd-8eae-7c8b771a841d'>1</a></td>
+      <td>Oceanography</td>
+      <td>2026-06-12</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0a8ff4c9-158a-4a46-9bb0-9d480ff40466'>Hakai Place Names Service - Coastal British Columbia - Canada</a></td>
