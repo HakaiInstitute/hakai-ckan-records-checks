@@ -21,9 +21,9 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-datasets/raw/development/datasets_documents/HakaiWaterPropertiesProfiles/Hakai_Water_Properties_Processing_and_QAQC_Procedure_20210331.pdf returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-09-10</td>
-      <td>Surface underway seawater and marine boundary layer observations of partial pressure of carbon dioxide (pCO2), water temperature, salinity and other parameters made during the M/V Seaspan Royal cruises in the coastal waters of British Columbia, Canada from 2022-07-01 to 2022-12-20</td>
-      <td>Invalid Resource URL: https://www.ncei.noaa.gov/data/oceans/ncei/ocads/data/0276518/ returned status_code=502</td>
+      <td>2026-09-08</td>
+      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
     </tr>
     <tr>
       <td>2026-07-17</td>
