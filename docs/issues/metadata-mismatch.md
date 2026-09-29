@@ -16,73 +16,23 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-24</td>
-      <td>Farwell Canyon Airborne Surveys - 2024 - Airborne Coastal Observatory</td>
+      <td>2026-09-28</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Metadata mismatch: author 'GeoBC Branch' in CKAN record not found in DataCite</td>
+    </tr>
+    <tr>
+      <td>2026-09-28</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
-      <td>2026-09-24</td>
-      <td>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
+      <td>2026-09-28</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
+      <td>Metadata mismatch: creator 'Government of British Columbia' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2026-09-24</td>
-      <td>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Gitga'at Territory Coastal Mapping Project</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Mystery Creek Aerial Photo and LiDAR Survey - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Bowhead Whale Drone Data Collection - Cumberland Sound - Nunavut</td>
-      <td>Metadata mismatch: author 'Whale Ecology & Conservation Lab' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Bowhead Whale Drone Data Collection - Cumberland Sound - Nunavut</td>
-      <td>Metadata mismatch: creator 'Dalhousie College' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Farwell Canyon Airborne Surveys - 2024 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Glacier and Ice Aerial Surveys in British Columbia - 2023-2024 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Gitga'at Territory Coastal Mapping Project</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Mystery Creek Aerial Photo and LiDAR Survey - 2025 - Airborne Coastal Observatory</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Nanwakolas LiDAR Surveys - Airborne Coastal Observatory</td>
+      <td>2026-09-28</td>
+      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
       <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
     </tr>
   </tbody>
