@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-12</td>
-      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
-      <td>Broken link (500): https://www.pmel.noaa.gov/co2/story/2016+West+Coast+Ocean+Acidification+Cruise</td>
+      <td>2026-09-21</td>
+      <td>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</td>
+      <td>Broken link (500): https://drive.google.com/file/d/1SXXmpGLEPS6wgxvcZXvnENneqFk5KuvJ/view?usp=drive_link</td>
     </tr>
   </tbody>
 </table>
