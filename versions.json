@@ -35,6 +35,11 @@
     "aliases": []
   },
   {
+    "version": "minor-update",
+    "title": "minor-update",
+    "aliases": []
+  },
+  {
     "version": "metadata-mismatch",
     "title": "metadata-mismatch",
     "aliases": []
