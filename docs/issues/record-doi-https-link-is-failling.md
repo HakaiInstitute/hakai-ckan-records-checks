@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-19</td>
-      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/pvy6-nw38 status_code=502</td>
+      <td>2026-06-29</td>
+      <td>Nuchatlaht Survey - Hakai Airborne Coastal Observatory Imagery and Topography Data - Nootka Island British Columbia - 2023</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/kp87-sf64 status_code=502</td>
     </tr>
   </tbody>
 </table>
