@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-17</td>
-      <td>Stream Event Sampling - Calvert Island - 2015-2018</td>
-      <td>Broken link (502): https://doi.org/10.21966/ywbk-5h57</td>
+      <td>2026-09-08</td>
+      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
+      <td>Broken link (502): https://doi.org/10.21966/ntdg-e790</td>
     </tr>
   </tbody>
 </table>
