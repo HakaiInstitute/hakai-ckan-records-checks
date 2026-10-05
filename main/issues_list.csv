@@ -6,15 +6,18 @@
 0,f409100d-95e4-4933-a927-fdf8d3b83204,Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404
 0,139df6dd-772b-424f-b830-30a5ba6abfc6,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404
 0,c4932b55-1dd8-4f2f-89da-5822056ecc37,Broken link (404): https://doi.org/10.21966/ekwk-r335
+0,33bb67af-4d61-4b15-93a9-f3ab2498430b,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
 0,e4038a43-060b-474e-b6f2-ea68d0081053,Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404
 0,7c2b8668-75a3-4fc8-bff3-bdae5d95f52d,Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data
-0,33bb67af-4d61-4b15-93a9-f3ab2498430b,Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf
 0,0e92249d-74e1-4253-a8a5-876d08a8ff65,Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404
+0,6338c2fa-3d4d-42dc-9c91-31761365e11e,Invalid Resource URL: https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view returned status_code=500
 0,def2a409-2319-4e8c-a584-9a467f044ada,Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404
-0,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
-1,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+0,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+1,185462b6-5d10-43d8-91b2-b92010e80ff4,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
 0,49967494-a7b6-4128-b336-671971d1e2c6,No DOI defined
 1,49967494-a7b6-4128-b336-671971d1e2c6,No funder
+0,c1e0447b-a06c-44c8-abd0-3108b2f00b7a,Broken link (502): https://doi.org/10.21966/yk87-4x24
 0,c7a168e8-f15e-446f-a49d-0b4a1f043ac2,Broken link (202): https://fjedna.shinyapps.io/census-app1/
-0,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
-1,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+0,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194
+1,caf810f0-228a-4827-856c-f9b07a2377af,Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053
+0,a8d40002-d393-40da-882c-73c0ad8ca7e6,Invalid Resource URL: https://drive.google.com/file/d/1w7TLX1RIP6F6S_inRKU3x-A27srXzFSa/view?usp=sharing returned status_code=500
