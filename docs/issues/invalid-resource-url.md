@@ -36,6 +36,16 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
     </tr>
     <tr>
+      <td>2026-06-10</td>
+      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
+      <td>Invalid Resource URL: https://drive.google.com/file/d/1w7TLX1RIP6F6S_inRKU3x-A27srXzFSa/view?usp=sharing returned status_code=500</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
+      <td>Invalid Resource URL: https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view returned status_code=500</td>
+    </tr>
+    <tr>
       <td>2026-05-25</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>

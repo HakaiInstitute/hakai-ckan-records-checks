@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-08</td>
-      <td>North Vancouver Island Aerial Survey - 2024 - Airborne Coastal Observatory</td>
-      <td>Broken link (502): https://doi.org/10.21966/ntdg-e790</td>
+      <td>2026-09-24</td>
+      <td>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</td>
+      <td>Broken link (502): https://doi.org/10.21966/yk87-4x24</td>
     </tr>
   </tbody>
 </table>
