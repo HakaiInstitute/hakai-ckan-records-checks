@@ -16,24 +16,9 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-28</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Metadata mismatch: author 'GeoBC Branch' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-09-28</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite</td>
-    </tr>
-    <tr>
-      <td>2026-09-28</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Government of British Columbia' in DataCite not found in CKAN record</td>
-    </tr>
-    <tr>
-      <td>2026-09-28</td>
-      <td>Hakai Place Names Service - Coastal British Columbia - Canada</td>
-      <td>Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record</td>
+      <td>2024-12-19</td>
+      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1002/edn3.70158' (IsPublishedIn) in DataCite not found in CKAN</td>
     </tr>
   </tbody>
 </table>

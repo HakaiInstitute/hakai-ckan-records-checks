@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 3.0, 3.0, 9.0], "textposition": "outside", "x": [1, 2, 2, 3, 3, 9], "xaxis": "x", "y": ["Broken link (502)", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 3.0, 3.0, 7.0], "textposition": "outside", "x": [1, 2, 2, 3, 3, 7], "xaxis": "x", "y": ["Metadata mismatch", "No DOI defined", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -62,21 +62,21 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>281</th>
+      <th>282</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_05c75bd9-1953-4ab9-8573-878845854662'>BC Estuary Water Quality Monitoring Data - Glendale River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
       <td></td>
     </tr>
     <tr>
-      <th>282</th>
+      <th>283</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e50f5a3-6100-4f1a-b184-ba327def9f3a'>BC Estuary Water Quality Monitoring Data - Kaouk River estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
       <td></td>
     </tr>
     <tr>
-      <th>283</th>
+      <th>281</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_2ba57f02-c88b-42b8-8f8c-07cfdeab45d3'>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
@@ -104,21 +104,21 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>287</th>
+      <th>289</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_81883927-2334-45eb-b1c5-f6deb7add791'>BC Estuary Water Quality Monitoring Data - Conuma River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
       <td></td>
     </tr>
     <tr>
-      <th>288</th>
+      <th>287</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_83a949b4-99be-4a36-a910-0c81946a9bf6'>BC Estuary Water Quality Monitoring Data - Muuyaḥi River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
       <td></td>
     </tr>
     <tr>
-      <th>289</th>
+      <th>288</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86f1dd95-27a0-4c52-97e4-15be649ce73a'>BC Estuary Water Quality Monitoring Data - Xwésam River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
@@ -139,7 +139,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>292</th>
+      <th>294</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d6e2bb44-2cad-4008-8af8-268054f5dfc6'>BC Estuary Water Quality Monitoring Data - Asiixw River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
@@ -153,7 +153,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>294</th>
+      <th>292</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_dfb93c87-300e-4843-91f9-7c51bc59422e'>BC Estuary Water Quality Monitoring Data - Little Qualicum River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
@@ -185,7 +185,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a787372d-e6f0-4128-bd08-7e9f5e667e1d'>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</a></td>
       <td>2026-09-10</td>
       <td>2026-09-24</td>
-      <td><a title='c1e0447b-a06c-44c8-abd0-3108b2f00b7a' href='../records/c1e0447b-a06c-44c8-abd0-3108b2f00b7a'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>278</th>
@@ -717,7 +717,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af344fb9-4901-470c-a441-41f11ee2ccd7'>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</a></td>
       <td>2024-12-19</td>
       <td>2024-12-19</td>
-      <td></td>
+      <td><a title='0781c19a-7efb-4680-92fd-8cd5faf0cfe4' href='../records/0781c19a-7efb-4680-92fd-8cd5faf0cfe4'>1</a></td>
     </tr>
     <tr>
       <th>202</th>
@@ -1329,14 +1329,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>115</th>
+      <th>114</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
       <td>2022-03-25</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>114</th>
+      <th>115</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
@@ -1553,28 +1553,28 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>86</th>
+      <th>85</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6ae1b131-d903-44ca-92a9-64cf6487ddc2'>Geology - Calvert Island</a></td>
       <td>2022-03-02</td>
       <td>2026-06-03</td>
       <td></td>
     </tr>
     <tr>
-      <th>85</th>
+      <th>86</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_94cdfcba-bbd4-4053-8976-75de69460c14'>Sea wrack wet to dry biomass calibrations for macroalgae of the Central Coast of British Columbia - 2018</a></td>
       <td>2022-03-02</td>
       <td>2026-07-03</td>
       <td></td>
     </tr>
     <tr>
-      <th>73</th>
+      <th>72</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
       <td></td>
     </tr>
     <tr>
-      <th>72</th>
+      <th>73</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-15</td>
@@ -1616,14 +1616,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>80</th>
+      <th>79</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c3eff62f-bcee-4faa-a7e1-7b9380d94e74'>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-10</td>
-      <td><a title='a8d40002-d393-40da-882c-73c0ad8ca7e6' href='../records/a8d40002-d393-40da-882c-73c0ad8ca7e6'>1</a></td>
+      <td></td>
     </tr>
     <tr>
-      <th>79</th>
+      <th>80</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d2e83e40-9e95-4a47-a899-b37c744be3ab'>Fin Island & K'yel - 2020 - Airborne Coastal Observatory Data</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
@@ -1637,14 +1637,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>70</th>
+      <th>69</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_77a256cd-baf7-434e-9f62-53ba809e48cb'>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</a></td>
       <td>2022-02-04</td>
       <td>2026-06-03</td>
-      <td><a title='6338c2fa-3d4d-42dc-9c91-31761365e11e' href='../records/6338c2fa-3d4d-42dc-9c91-31761365e11e'>1</a></td>
+      <td></td>
     </tr>
     <tr>
-      <th>69</th>
+      <th>70</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_804b5b42-5550-4620-b789-7c2fe9572c03'>Zooplankton - Taxonomy – Northern Strait of Georgia, Discovery Islands, Johnstone Strait, and Queen Charlotte Strait – April to July 2015 and 2016</a></td>
       <td>2022-02-04</td>
       <td>2026-09-21</td>
@@ -2177,11 +2177,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Broken link (202): https://fjedna.shinyapps.io/census-app1/</td>
     </tr>
     <tr>
-      <td>2026-09-24</td>
-      <td>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</td>
-      <td>Broken link (502): https://doi.org/10.21966/yk87-4x24</td>
-    </tr>
-    <tr>
       <td>2026-08-31</td>
       <td>Kelp Canopy Extent 2012 - NW Calvert Island</td>
       <td>Broken link (404): http://www.env.gov.bc.ca/omfd/reports/Kelp2007-HakaiPass.pdf</td>
@@ -2227,11 +2222,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-06-10</td>
-      <td>Ancient Forest Wetlands, BC - Upper Fraser River - 2019 - Airborne Coastal Observatory</td>
-      <td>Invalid Resource URL: https://drive.google.com/file/d/1w7TLX1RIP6F6S_inRKU3x-A27srXzFSa/view?usp=sharing returned status_code=500</td>
-    </tr>
-    <tr>
       <td>2026-06-09</td>
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No DOI defined</td>
@@ -2240,11 +2230,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-09</td>
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No funder</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>High-resolution record of 8-m seawater CO2 content entering Fanny Bay Oysters in Baynes Sound, British Columbia, Canada from March 2017 to November 2017</td>
-      <td>Invalid Resource URL: https://drive.google.com/file/d/12FLUjCgtid772zCGwf322CIGkoNbReug/view returned status_code=500</td>
     </tr>
     <tr>
       <td>2026-05-26</td>
@@ -2270,6 +2255,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2025-05-08</td>
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2024-12-19</td>
+      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1002/edn3.70158' (IsPublishedIn) in DataCite not found in CKAN</td>
     </tr>
   </tbody>
 </table>
