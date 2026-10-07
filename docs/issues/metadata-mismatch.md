@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2024-12-19</td>
+      <td>2026-10-05</td>
       <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.1002/edn3.70158' (IsPublishedIn) in DataCite not found in CKAN</td>
+      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2024'</td>
     </tr>
   </tbody>
 </table>

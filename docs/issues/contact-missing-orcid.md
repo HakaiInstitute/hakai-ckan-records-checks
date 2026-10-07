@@ -16,9 +16,14 @@ This page present the list of all the records associated with the issue: **Conta
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-03</td>
-      <td>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Research)</td>
-      <td>Contact missing ORCID: Pollock, Lydia</td>
+      <td>2026-10-05</td>
+      <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
+      <td>Contact missing ORCID: Sheridan, Kate</td>
+    </tr>
+    <tr>
+      <td>2026-10-05</td>
+      <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
+      <td>Contact missing ORCID: Sunday, Jennifer</td>
     </tr>
   </tbody>
 </table>
