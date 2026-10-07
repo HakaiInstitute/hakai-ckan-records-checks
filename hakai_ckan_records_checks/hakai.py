@@ -190,7 +190,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         )
         if is_github_repo_url:
             _test(
-                resource["url"].startswith("https://github.com/HakaiInstitute/"),
+                resource["url"].lower().startswith("https://github.com/hakaiinstitute/"),
                 f"Resource GitHub repository is not under the HakaiInstitute organization: {resource['url']}",
             )
 
