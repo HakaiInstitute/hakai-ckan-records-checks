@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 2.0, 2.0, 3.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 2, 2, 3, 9], "xaxis": "x", "y": ["Contact missing ORCID", "Broken link (connection error)", "Metadata mismatch", "Resource GitHub repository is not under the HakaiInstitute organization", "No funder", "No DOI defined", "Broken link (404)", "Broken link (202)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 2.0, 2.0, 3.0, 3.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 2, 2, 3, 3, 9], "xaxis": "x", "y": ["Broken link (connection error)", "Broken link (502)", "Contact missing ORCID", "Broken link (404)", "No DOI defined", "Broken link (202)", "No funder", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -41,18 +41,25 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
   </thead>
   <tbody>
     <tr>
+      <th>302</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_741bd412-6387-4dcd-8d61-7046b949f406'>Global Eutrophication Monitoring Dataset of Trinidad and Tobago</a></td>
+      <td>2026-10-06</td>
+      <td>2026-10-06</td>
+      <td><a title='1e13d2ee-580f-4785-838b-908a449781a3' href='../records/1e13d2ee-580f-4785-838b-908a449781a3'>2</a></td>
+    </tr>
+    <tr>
       <th>300</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_da232383-781d-4852-8542-cf0cb8aa5f26'>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</a></td>
       <td>2026-10-05</td>
       <td>2026-10-05</td>
-      <td><a title='d269f354-8527-4e94-bb32-9de4fe3fabdf' href='../records/d269f354-8527-4e94-bb32-9de4fe3fabdf'>3</a></td>
+      <td><a title='d269f354-8527-4e94-bb32-9de4fe3fabdf' href='../records/d269f354-8527-4e94-bb32-9de4fe3fabdf'>2</a></td>
     </tr>
     <tr>
       <th>301</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e5e61f93-db9b-48d0-b779-45e73fabfd0a'>High Resolution Coastal Carbon Monitoring in the Northeast Pacific</a></td>
       <td>2026-10-05</td>
       <td>2026-10-05</td>
-      <td></td>
+      <td><a title='098c52a1-6dde-4e64-8b27-5a34e40870e6' href='../records/098c52a1-6dde-4e64-8b27-5a34e40870e6'>1</a></td>
     </tr>
     <tr>
       <th>299</th>
@@ -118,14 +125,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>287</th>
+      <th>288</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_81883927-2334-45eb-b1c5-f6deb7add791'>BC Estuary Water Quality Monitoring Data - Conuma River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
       <td></td>
     </tr>
     <tr>
-      <th>288</th>
+      <th>287</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_83a949b4-99be-4a36-a910-0c81946a9bf6'>BC Estuary Water Quality Monitoring Data - Muuyaḥi River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
@@ -730,8 +737,8 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <th>203</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_af344fb9-4901-470c-a441-41f11ee2ccd7'>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</a></td>
       <td>2024-12-19</td>
-      <td>2026-10-05</td>
-      <td><a title='0781c19a-7efb-4680-92fd-8cd5faf0cfe4' href='../records/0781c19a-7efb-4680-92fd-8cd5faf0cfe4'>1</a></td>
+      <td>2026-10-06</td>
+      <td></td>
     </tr>
     <tr>
       <th>202</th>
@@ -885,7 +892,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
       <td>2024-07-12</td>
       <td>2026-09-08</td>
-      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>180</th>
@@ -955,7 +962,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</a></td>
       <td>2023-08-29</td>
       <td>2026-09-28</td>
-      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='../records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>170</th>
@@ -1182,14 +1189,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>118</th>
+      <th>117</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373'>Stream temperature time-series – Calvert Island – 2013 - 2019</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>117</th>
+      <th>118</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
@@ -1252,14 +1259,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>127</th>
+      <th>128</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>128</th>
+      <th>127</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td>2022-03-29</td>
       <td>2026-06-04</td>
@@ -2110,7 +2117,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
       <td>2021-09-23</td>
       <td>2026-07-10</td>
-      <td></td>
+      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da'>1</a></td>
     </tr>
     <tr>
       <th>5</th>
@@ -2155,7 +2162,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>302</th>
+      <th>303</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td></td>
       <td>2025-04-02</td>
@@ -2176,6 +2183,21 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
   </thead>
   <tbody>
     <tr>
+      <td>2026-10-06</td>
+      <td>Global Eutrophication Monitoring Dataset of Trinidad and Tobago</td>
+      <td>Invalid Resource URL: https://github.com/HakaiInstitute/GEM-Kit10-repository/tree/main returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-10-06</td>
+      <td>Global Eutrophication Monitoring Dataset of Trinidad and Tobago</td>
+      <td>No funder</td>
+    </tr>
+    <tr>
+      <td>2026-10-05</td>
+      <td>High Resolution Coastal Carbon Monitoring in the Northeast Pacific</td>
+      <td>Broken link (502): https://doi.org/10.21966/pk18-z035</td>
+    </tr>
+    <tr>
       <td>2026-10-05</td>
       <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
       <td>Contact missing ORCID: Sheridan, Kate</td>
@@ -2184,16 +2206,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-10-05</td>
       <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
       <td>Contact missing ORCID: Sunday, Jennifer</td>
-    </tr>
-    <tr>
-      <td>2026-10-05</td>
-      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
-      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2024'</td>
-    </tr>
-    <tr>
-      <td>2026-10-05</td>
-      <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
-      <td>Resource GitHub repository is not under the HakaiInstitute organization: https://github.com/hakaiInstitute/trawl_eDNA_methods</td>
     </tr>
     <tr>
       <td>2026-09-28</td>
@@ -2209,16 +2221,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-09-28</td>
       <td>Putting fjord biodiversity on the map for British Columbia conservation planning</td>
       <td>Broken link (202): https://fjedna.shinyapps.io/census-app1/</td>
-    </tr>
-    <tr>
-      <td>2026-09-28</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</td>
-      <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.nc?work_area%2Ccruise%2Chakai_id%2Cvessel%2Coperators%2Ccomments%2Cdevice_model%2Cdevice_sn%2Cdevice_firmware%2Ccast_processing_stage%2Cstation%2Clatitude%2Clongitude%2Cprecise_latitude%2Cprecise_longitude%2Ctime%2Cbottom_date_time%2Cend_date_time%2Cmeasurement_date_time%2Cbottom_depth%2Ctarget_depth%2Cdrop_speed%2Cdirection_flag%2Cdescent_rate%2Cdepth%2Cdepth_UQL%2Cdepth_flag_description%2Cpressure%2Cpressure_UQL%2Cpressure_flag_description%2Cconductivity%2Cconductivity_UQL%2Cconductivity_flag_description%2Ctemperature%2Ctemperature_UQL%2Ctemperature_flag_description%2Csalinity%2Csalinity_UQL%2Csalinity_flag_description%2Cdissolved_oxygen_ml_l%2Cdissolved_oxygen_ml_l_UQL%2Cdissolved_oxygen_ml_l_flag_description%2Crinko_do_ml_l%2Crinko_do_ml_l_UQL%2Crinko_do_ml_l_flag_description%2Cflc%2Cflc_UQL%2Cflc_flag_description%2Cturbidity%2Cturbidity_UQL%2Cturbidity_flag_description%2Cpar%2Cpar_UQL%2Cpar_flag_description%2Cc_star_at%2Cc_star_at_UQL%2Cc_star_at_flag_description%2Cph%2Cph_UQL%2Ccph_flag_description%2Cbackscatter_beta%2Cbackscatter_beta_UQL%2Cbackscatter_beta_flag_description%2Ccdom_ppb%2Ccdom_ppb_UQL%2Ccdom_flag_description&work_area=~%22QUADRA%7CJOHNSTONE%20STRAIT%22&cruise=~%22JS%7CJS%20C%7CJS1%7CJS12%7CJSA1%7CJSA2%7CJSB%7CJSC%7CJSSOCKEYE%7COTHER%2CJSSOCKEYE%7CDI_C%2CDISOCKEYE%7CDI_W%2CDISOCKEYE%7CDISOCKEYE%22 returned status_code=502</td>
-    </tr>
-    <tr>
-      <td>2026-09-08</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
-      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
     </tr>
     <tr>
       <td>2026-08-25</td>
@@ -2244,6 +2246,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-07-17</td>
       <td>Stream Event Sampling - Calvert Island</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-07-10</td>
+      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
+      <td>Invalid Resource URL: https://drive.google.com/open?id=14Bgz48Ypo3Tt6W5sXHruSdvgC7HmrN5X returned status_code=500</td>
     </tr>
     <tr>
       <td>2026-06-22</td>
