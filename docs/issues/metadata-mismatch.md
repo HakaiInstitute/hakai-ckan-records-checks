@@ -16,9 +16,19 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-10-05</td>
-      <td>iTrack Oysters February 2023 Experiment - Environmental and Oyster Health Data</td>
-      <td>Metadata mismatch: publication year CKAN='2026' | DataCite='2024'</td>
+      <td>2026-09-29</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+      <td>Metadata mismatch: publication year CKAN='2024' | DataCite='2026'</td>
+    </tr>
+    <tr>
+      <td>2026-09-29</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.3389/fmars.2024.1458677' (IsPublishedIn) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
+      <td>2026-09-29</td>
+      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
+      <td>Metadata mismatch: version CKAN='1.4' | DataCite='1.5'</td>
     </tr>
   </tbody>
 </table>
