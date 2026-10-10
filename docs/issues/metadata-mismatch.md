@@ -16,19 +16,19 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-29</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: publication year CKAN='2024' | DataCite='2026'</td>
+      <td>2026-09-24</td>
+      <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
+      <td>Metadata mismatch: creator 'Jon Bergshoeff' in DataCite not found in CKAN record</td>
     </tr>
     <tr>
-      <td>2026-09-29</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: related identifier 'https://doi.org/10.3389/fmars.2024.1458677' (IsPublishedIn) in DataCite not found in CKAN</td>
+      <td>2026-09-24</td>
+      <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
+      <td>Metadata mismatch: publication year CKAN='2025' | DataCite='2026'</td>
     </tr>
     <tr>
-      <td>2026-09-29</td>
-      <td>Protistan plankton time series from the northern Salish Sea and Central Coast, British Columbia, Canada</td>
-      <td>Metadata mismatch: version CKAN='1.4' | DataCite='1.5'</td>
+      <td>2026-09-24</td>
+      <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
+      <td>Metadata mismatch: version CKAN='1.0' | DataCite='1.1'</td>
     </tr>
   </tbody>
 </table>
