@@ -16,11 +16,6 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2026-10-08</td>
-      <td>Freezing seawater samples alters eDNA community composition and richness</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA937254/ returned status_code=500</td>
-    </tr>
-    <tr>
       <td>2026-10-07</td>
       <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
       <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1037528/ returned status_code=500</td>
@@ -36,11 +31,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/1269473 returned status_code=500</td>
     </tr>
     <tr>
-      <td>2026-09-28</td>
-      <td>Putting fjord biodiversity on the map for British Columbia conservation planning</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/?term=1289220 returned status_code=500</td>
-    </tr>
-    <tr>
       <td>2026-09-24</td>
       <td>Biodiversity and Oceanographic data from the False Creek Bioblitz, 2022</td>
       <td>Invalid Resource URL: http://www.ncbi.nlm.nih.gov/bioproject/1049344 returned status_code=500</td>
@@ -54,11 +44,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2026-06-26</td>
       <td>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</td>
       <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/1232168/ returned status_code=500</td>
-    </tr>
-    <tr>
-      <td>2026-06-26</td>
-      <td>Data from: Prentice et al. 2025. Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1195080 returned status_code=500</td>
     </tr>
     <tr>
       <td>2026-06-26</td>
