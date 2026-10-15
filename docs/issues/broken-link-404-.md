@@ -20,6 +20,11 @@ This page present the list of all the records associated with the issue: **Broke
       <td>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</td>
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
     </tr>
+    <tr>
+      <td>2026-06-22</td>
+      <td>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</td>
+      <td>Broken link (404): https://github.com/HakaiInstitute/hakai-qu5-mooring-data</td>
+    </tr>
   </tbody>
 </table>
 
