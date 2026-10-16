@@ -16,14 +16,24 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
+      <td>2026-10-13</td>
+      <td>The Integrated Coastal Observatory 1.0</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1538264 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-10-08</td>
+      <td>Freezing seawater samples alters eDNA community composition and richness</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA937254/ returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-10-07</td>
+      <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1037528/ returned status_code=404</td>
+    </tr>
+    <tr>
       <td>2026-10-06</td>
       <td>Global Eutrophication Monitoring Dataset of Trinidad and Tobago</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/GEM-Kit10-repository/tree/main returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-09-28</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</td>
-      <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.nc?work_area%2Ccruise%2Chakai_id%2Cvessel%2Coperators%2Ccomments%2Cdevice_model%2Cdevice_sn%2Cdevice_firmware%2Ccast_processing_stage%2Cstation%2Clatitude%2Clongitude%2Cprecise_latitude%2Cprecise_longitude%2Ctime%2Cbottom_date_time%2Cend_date_time%2Cmeasurement_date_time%2Cbottom_depth%2Ctarget_depth%2Cdrop_speed%2Cdirection_flag%2Cdescent_rate%2Cdepth%2Cdepth_UQL%2Cdepth_flag_description%2Cpressure%2Cpressure_UQL%2Cpressure_flag_description%2Cconductivity%2Cconductivity_UQL%2Cconductivity_flag_description%2Ctemperature%2Ctemperature_UQL%2Ctemperature_flag_description%2Csalinity%2Csalinity_UQL%2Csalinity_flag_description%2Cdissolved_oxygen_ml_l%2Cdissolved_oxygen_ml_l_UQL%2Cdissolved_oxygen_ml_l_flag_description%2Crinko_do_ml_l%2Crinko_do_ml_l_UQL%2Crinko_do_ml_l_flag_description%2Cflc%2Cflc_UQL%2Cflc_flag_description%2Cturbidity%2Cturbidity_UQL%2Cturbidity_flag_description%2Cpar%2Cpar_UQL%2Cpar_flag_description%2Cc_star_at%2Cc_star_at_UQL%2Cc_star_at_flag_description%2Cph%2Cph_UQL%2Ccph_flag_description%2Cbackscatter_beta%2Cbackscatter_beta_UQL%2Cbackscatter_beta_flag_description%2Ccdom_ppb%2Ccdom_ppb_UQL%2Ccdom_flag_description&work_area=~%22QUADRA%7CJOHNSTONE%20STRAIT%22&cruise=~%22JS%7CJS%20C%7CJS1%7CJS12%7CJSA1%7CJSA2%7CJSB%7CJSC%7CJSSOCKEYE%7COTHER%2CJSSOCKEYE%7CDI_C%2CDISOCKEYE%7CDI_W%2CDISOCKEYE%7CDISOCKEYE%22 returned status_code=502</td>
     </tr>
     <tr>
       <td>2026-07-17</td>
@@ -32,13 +42,18 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2026-06-26</td>
-      <td>USGS Glacier Mapping - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>Invalid Resource URL: https://drive.google.com/file/d/1darjhrdMVVZESNy0D_8aRbos95RkUfjR/view?usp=drive_link returned status_code=500</td>
+      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA865652/ returned status_code=404</td>
     </tr>
     <tr>
       <td>2026-06-22</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-06-22</td>
+      <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1456220 returned status_code=404</td>
     </tr>
     <tr>
       <td>2026-06-17</td>
@@ -51,14 +66,14 @@ This page present the list of all the records associated with the issue: **Inval
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-06-08</td>
-      <td>Nanwakolas Watershed Surveys - Knight Inlet - 2019 - Hakai Airborne Coastal Observatory</td>
-      <td>Invalid Resource URL: https://drive.google.com/file/d/1rJ4YH9pCDXLh60BI0vVaRYDyB3jrdcnp/view?usp=sharing returned status_code=500</td>
-    </tr>
-    <tr>
       <td>2026-05-25</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-05-08</td>
+      <td>DNA metabarcoding data from Autonomous Reef Monitoring Structures (ARMS) deployed around Calvert Island British Columbia</td>
+      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1269471 returned status_code=404</td>
     </tr>
     <tr>
       <td>2025-05-16</td>
