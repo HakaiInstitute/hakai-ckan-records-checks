@@ -112,7 +112,7 @@ def test_record_requirements(record) -> pd.DataFrame:
         for doi in dois:
             response = requests.get(doi.get("code"), allow_redirects=True)
             _test(
-                response.status_code in (200, 201, 403, 418, 503),
+                response.status_code in (200, 201, 202, 403, 418, 503),
                 f"Record DOI HTTPS link is failling: {doi.get('code')} status_code={response.status_code}",
             )
             if doi.get("code") not in related_work_dois:
@@ -180,7 +180,7 @@ def test_record_requirements(record) -> pd.DataFrame:
             status_code = int(requests.get(resource["url"]).status_code)
         except requests.exceptions.Timeout:
             status_code = "timeout"
-        accepted = {200, 201, 401, 403, 418, 503}
+        accepted = {200, 201, 202, 401, 403, 418, 503}
         is_github_repo_url = bool(re.match(r"^https?://github\.com/[^/]+/[^/]+/?$", resource["url"]))
         if (not published_over_6_months) and is_github_repo_url:
             accepted.add(404)
@@ -260,8 +260,10 @@ def check_record_links(record) -> list:
     the lychee link checker).
     """
     results = []
-    # 401/403 mean auth-required (resource exists), 418/503 are transient/intentional
-    ok_statuses = {200, 201, 301, 302, 307, 308, 401, 403, 418, 503}
+    # 401/403 mean auth-required (resource exists), 418/503 are transient/intentional,
+    # 202 is served by some publishers' bot-challenge pages (e.g. AWS WAF) to non-browser
+    # clients even though the link resolves fine for a human
+    ok_statuses = {200, 201, 202, 301, 302, 307, 308, 401, 403, 418, 503}
     for url in _extract_record_links(record):
         if _should_skip_url(url):
             continue
