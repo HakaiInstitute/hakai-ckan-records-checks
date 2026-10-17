@@ -18,10 +18,9 @@ hide:
   
 </div>
 
-| Issue                                                                             |
-|:----------------------------------------------------------------------------------|
-| Metadata mismatch: creator 'Hakai Institute' in DataCite not found in CKAN record |
-| Metadata mismatch: author 'Hakai Geospatial' in CKAN record not found in DataCite |
+| Issue                                                                                                    |
+|:---------------------------------------------------------------------------------------------------------|
+| Broken link (500): https://drive.google.com/file/d/1MT2v_uv78afJP5z_LHi1GU52BqwkO4ms/view?usp=drive_link |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {

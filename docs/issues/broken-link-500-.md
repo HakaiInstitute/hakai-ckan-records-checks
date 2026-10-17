@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-21</td>
-      <td>Fraser River Airborne Surveys - 2021 - Hakai Airborne Coastal Observatory</td>
-      <td>Broken link (500): https://drive.google.com/file/d/1SXXmpGLEPS6wgxvcZXvnENneqFk5KuvJ/view?usp=drive_link</td>
+      <td>2026-09-24</td>
+      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
+      <td>Broken link (500): https://drive.google.com/file/d/1MT2v_uv78afJP5z_LHi1GU52BqwkO4ms/view?usp=drive_link</td>
     </tr>
   </tbody>
 </table>
