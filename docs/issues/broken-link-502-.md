@@ -16,9 +16,14 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-10-05</td>
-      <td>High Resolution Coastal Carbon Monitoring in the Northeast Pacific</td>
-      <td>Broken link (502): https://doi.org/10.21966/pk18-z035</td>
+      <td>2026-08-19</td>
+      <td>Rocky Subtidal Fish and Invertebrate Community Surveys from the Central Coast of BC</td>
+      <td>Broken link (502): https://obis.org/dataset/80afee46-3e18-4669-ad1b-00f71b0544f5</td>
+    </tr>
+    <tr>
+      <td>2026-06-30</td>
+      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
+      <td>Broken link (502): https://dspace.library.uvic.ca/handle/1828/9312</td>
     </tr>
   </tbody>
 </table>

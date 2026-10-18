@@ -16,24 +16,14 @@ This page present the list of all the records associated with the issue: **Inval
   </thead>
   <tbody>
     <tr>
-      <td>2026-10-13</td>
-      <td>The Integrated Coastal Observatory 1.0</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1538264 returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-10-08</td>
-      <td>Freezing seawater samples alters eDNA community composition and richness</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA937254/ returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-10-07</td>
-      <td>Data for Paper: Detection differences between eDNA and mid-water trawls are driven by fish biomass and habitat preferences</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1037528/ returned status_code=404</td>
-    </tr>
-    <tr>
       <td>2026-10-06</td>
       <td>Global Eutrophication Monitoring Dataset of Trinidad and Tobago</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/GEM-Kit10-repository/tree/main returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2026-09-08</td>
+      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
     </tr>
     <tr>
       <td>2026-07-17</td>
@@ -42,18 +32,13 @@ This page present the list of all the records associated with the issue: **Inval
     </tr>
     <tr>
       <td>2026-06-26</td>
-      <td>Biodiversity Surveys of the Gwaxdlala/Nalaxdlala Indigenous Protected and Conserved Area (IPCA) in Knight Inlet, British Columbia</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA865652/ returned status_code=404</td>
+      <td>Underwater Video Transects - Calvert Island - 2016</td>
+      <td>Invalid Resource URL: https://drive.google.com/file/d/1NdD_GW7ImI5Z3_y92TXp03ZcX2PhrQxQ/view?usp=sharing returned status_code=500</td>
     </tr>
     <tr>
       <td>2026-06-22</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-06-22</td>
-      <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1456220 returned status_code=404</td>
     </tr>
     <tr>
       <td>2026-06-17</td>
@@ -69,11 +54,6 @@ This page present the list of all the records associated with the issue: **Inval
       <td>2026-05-25</td>
       <td>Nearshore substrates of the McMullin Group Islands - British Columbia - 2017</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=12Spn0fnOC91dLOahgcf94_lrELHvXFX6 returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-05-08</td>
-      <td>DNA metabarcoding data from Autonomous Reef Monitoring Structures (ARMS) deployed around Calvert Island British Columbia</td>
-      <td>Invalid Resource URL: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1269471 returned status_code=404</td>
     </tr>
     <tr>
       <td>2025-05-16</td>

@@ -21,11 +21,6 @@ This page present the list of all the records associated with the issue: **No fu
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2026-08-17</td>
-      <td>Mean Tidal Current - Coastal British Columbia - Canada</td>
-      <td>No funder</td>
-    </tr>
-    <tr>
       <td>2026-06-09</td>
       <td>Data record does not exist anymore: Geomorphology - Calvert Island</td>
       <td>No funder</td>

@@ -20,6 +20,11 @@ This page present the list of all the records associated with the issue: **Broke
       <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
       <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
     </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>High-resolution time series of surface seawater CO2 content from the OceansAlaska Shellfish Hatchery in Ketchikan, Alaska, USA</td>
+      <td>Broken link (connection error): https://doi.org/10.25921/kmam-ct93</td>
+    </tr>
   </tbody>
 </table>
 
