@@ -6,26 +6,26 @@ hide:
 
 <style>.md-content__inner > h1 { display: none; }</style>
 
-*Last updated: 2026-10-19*
+*Last updated: 2026-10-20*
 
 <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2.5rem;">
 
 <div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid gray;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">307</div>
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">305</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Total Records</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-10-18</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">-2 since 2026-10-19</div>
   
   
 </div>
 
-<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid green;box-shadow:0 1px 4px rgba(0,0,0,.08);">
-  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">15</div>
+<div style="flex:1;min-width:150px;padding:1.25rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-align:center;border-top:3px solid red;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+  <div style="font-size:2.2rem;font-weight:700;line-height:1.1;letter-spacing:-0.02em;">16</div>
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">Records with Issues</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:green;margin-top:0.5rem;">-5 since 2026-10-18</div>
+  <div style="font-size:0.8rem;font-weight:600;color:red;margin-top:0.5rem;">+1 since 2026-10-19</div>
   
   
 </div>
@@ -35,7 +35,7 @@ hide:
   <div style="font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;opacity:0.55;margin-top:0.5rem;">% Records with DOI</div>
   
   
-  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-10-18</div>
+  <div style="font-size:0.8rem;font-weight:600;color:gray;margin-top:0.5rem;">No change since 2026-10-19</div>
   
   
 </div>
@@ -48,7 +48,7 @@ hide:
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 2.0, 2.0, 3.0, 9.0], "textposition": "outside", "x": [1, 2, 2, 3, 9], "xaxis": "x", "y": ["No DOI defined", "Broken link (404)", "No funder", "Broken link (202)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 2.0, 3.0, 9.0], "textposition": "outside", "x": [1, 1, 2, 2, 3, 9], "xaxis": "x", "y": ["Broken link (410)", "No DOI defined", "No funder", "Broken link (404)", "Broken link (202)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -152,6 +152,12 @@ hide:
       <td><a title='def2a409-2319-4e8c-a584-9a467f044ada' href='records/def2a409-2319-4e8c-a584-9a467f044ada'>1</a></td>
       <td>Watersheds, Geospatial</td>
       <td>2026-07-17</td>
+    </tr>
+    <tr>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95'>Watersheds of the northern Pacific coastal temperate rainforest margin</a></td>
+      <td><a title='30560220-bc44-4020-b424-0abf617d1c00' href='records/30560220-bc44-4020-b424-0abf617d1c00'>1</a></td>
+      <td>Watersheds</td>
+      <td>2026-06-03</td>
     </tr>
     <tr>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7ddae37a-e706-45d2-8060-8306300a98c8'>Oceanographic Mooring Time Series, Hyacinthe Bay, BC, Canada (Provisional)</a></td>
