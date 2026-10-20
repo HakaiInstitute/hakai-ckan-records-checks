@@ -11,6 +11,7 @@ ORGANIZATIONS = [
     "Hakai Institute",
 ]
 DOI_CODE_FORMAT = r"https\:\/\/doi\.org"
+TOMBSTONE_TITLE_PREFIX = "Data record does not exist anymore:"
 
 _SKIP_URL_PREFIXES = (
     "https://cioos.ca/translation_method",
@@ -53,6 +54,9 @@ def test_record_requirements(record) -> pd.DataFrame:
 
     results = []
     logger.debug("Review Record {}", record["id"])
+
+    if (record.get("title") or "").startswith(TOMBSTONE_TITLE_PREFIX):
+        return results
 
     # Organization
     _test("organization" in record, "No organization")
