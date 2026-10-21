@@ -16,9 +16,14 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-24</td>
-      <td>Bute Inlet Geohazard - Topography Surveys - 2023 - Hakai Airborne Coastal Observatory</td>
-      <td>Broken link (500): https://drive.google.com/file/d/1MT2v_uv78afJP5z_LHi1GU52BqwkO4ms/view?usp=drive_link</td>
+      <td>2026-09-28</td>
+      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
+      <td>Broken link (500): https://drive.google.com/file/d/1AvIuDRR06KE-z70reZmNMMbkYOU1Hzgo/view</td>
+    </tr>
+    <tr>
+      <td>2025-04-02</td>
+      <td>Mount Robson Aerial Photo and LiDAR Survey</td>
+      <td>Broken link (500): https://drive.google.com/file/d/10DXaHVFkhdYlkpgrMBW7Ie4wXWmScNZb/view?usp=drive_link</td>
     </tr>
   </tbody>
 </table>
