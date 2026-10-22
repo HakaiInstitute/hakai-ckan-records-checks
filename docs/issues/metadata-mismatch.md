@@ -16,19 +16,14 @@ This page present the list of all the records associated with the issue: **Metad
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-24</td>
+      <td>2026-10-09</td>
       <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
-      <td>Metadata mismatch: creator 'Jon Bergshoeff' in DataCite not found in CKAN record</td>
+      <td>Metadata mismatch: author 'Jon Bergshoeff' in CKAN record not found in DataCite</td>
     </tr>
     <tr>
-      <td>2026-09-24</td>
+      <td>2026-10-09</td>
       <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
-      <td>Metadata mismatch: publication year CKAN='2025' | DataCite='2026'</td>
-    </tr>
-    <tr>
-      <td>2026-09-24</td>
-      <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
-      <td>Metadata mismatch: version CKAN='1.0' | DataCite='1.1'</td>
+      <td>Metadata mismatch: creator 'Jonathan Bergshoeff' in DataCite not found in CKAN record</td>
     </tr>
   </tbody>
 </table>
