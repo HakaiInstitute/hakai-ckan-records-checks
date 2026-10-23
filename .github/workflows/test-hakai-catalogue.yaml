@@ -50,6 +50,8 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git fetch origin gh-pages
+          # mike rejects slashes in version names, so flatten them to match cleanup-PR.yaml
+          VERSION="${VERSION//\//-}"
           uv run mike deploy "${VERSION}"
           uv run mike set-default main
           git push origin gh-pages --force

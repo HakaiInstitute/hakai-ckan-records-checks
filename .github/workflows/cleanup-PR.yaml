@@ -34,4 +34,6 @@ jobs:
         run: |
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          # mike rejects slashes in version names, so flatten them to match the deploy step
+          VERSION="${VERSION//\//-}"
           uv run mike delete "${VERSION}" --push
