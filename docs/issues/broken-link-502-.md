@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-30</td>
-      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
-      <td>Broken link (502): https://dspace.library.uvic.ca/handle/1828/9312</td>
+      <td>2026-10-09</td>
+      <td>Discrete water chemistry measurements of the carbon dioxide system, nutrients, and organic carbon in fresh and marine waters of the Northeast Pacific coast of North America</td>
+      <td>Broken link (502): https://doi.org/10.21966/1.715784</td>
     </tr>
   </tbody>
 </table>
