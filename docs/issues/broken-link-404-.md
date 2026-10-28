@@ -16,6 +16,11 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
+      <td>2026-10-26</td>
+      <td>Genetic evidence for the presence of Maritrema gratiosum in the Northeast Pacific</td>
+      <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
+    </tr>
+    <tr>
       <td>2026-08-25</td>
       <td>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</td>
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
