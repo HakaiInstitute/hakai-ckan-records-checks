@@ -16,8 +16,8 @@ This page present the list of all the records associated with the issue: **Tenta
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-15</td>
-      <td>BC Estuary Water Quality Monitoring Data - Kw'a'luxw River Estuary (Provisional)</td>
+      <td>2026-10-27</td>
+      <td>Parasitism of an intertidal foundation species: Allometric scaling and environmental constraints on trematode distribution in barnacles across biological scales</td>
       <td>Tentative dataset should not have a version</td>
     </tr>
   </tbody>
