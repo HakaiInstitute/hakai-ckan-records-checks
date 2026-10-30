@@ -18,9 +18,9 @@ hide:
   
 </div>
 
-| Issue                                                                                      |
-|:-------------------------------------------------------------------------------------------|
-| Metadata mismatch: related work '10.1016/j.ecss.2020.107103' in CKAN not found in DataCite |
+| Issue                                                                                                                                                              |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Metadata mismatch: related identifier 'https://catalogue.hakai.org/dataset/ca-cioos_a8f45d4f-6e6b-4cce-a92d-28e8924148b7' (IsPartOf) in DataCite not found in CKAN |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
