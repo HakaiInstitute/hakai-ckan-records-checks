@@ -16,7 +16,7 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-10-28</td>
+      <td>2026-10-29</td>
       <td>Parasitism of an intertidal foundation species: Allometric scaling and environmental constraints on trematode distribution in barnacles across biological scales</td>
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
     </tr>

@@ -16,29 +16,29 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-28</td>
+      <td>2026-10-29</td>
       <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
       <td>Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194</td>
     </tr>
     <tr>
-      <td>2026-09-28</td>
+      <td>2026-10-29</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194</td>
+    </tr>
+    <tr>
+      <td>2026-10-29</td>
       <td>Sentinel 3A and 3B Chlorophyll and Suspended Matter Concentrations for Coastal British Columbia and Southeast Alaska, 8-Day Average (Research)</td>
+      <td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
+    </tr>
+    <tr>
+      <td>2026-10-29</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
       <td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
     </tr>
     <tr>
       <td>2026-09-28</td>
       <td>Putting fjord biodiversity on the map for British Columbia conservation planning</td>
       <td>Broken link (202): https://fjedna.shinyapps.io/census-app1/</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Broken link (202): https://doi.org/10.1109/IGARSS.2012.6351194</td>
-    </tr>
-    <tr>
-      <td>2026-05-26</td>
-      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
-      <td>Broken link (202): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
     </tr>
   </tbody>
 </table>
