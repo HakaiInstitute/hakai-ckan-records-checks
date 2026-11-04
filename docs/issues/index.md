@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 3.0, 4.0, 10.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 3, 4, 10], "xaxis": "x", "y": ["Broken link (connection error)", "Broken link (410)", "No funder", "Metadata mismatch", "Record DOI HTTPS link is failling", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 3, 4, 9], "xaxis": "x", "y": ["Broken link (410)", "Metadata mismatch", "No funder", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -955,7 +955,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_d55021c3-a142-4e14-8208-36c9826c1893'>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</a></td>
       <td>2024-07-12</td>
       <td>2026-10-29</td>
-      <td><a title='8882a149-fabd-4ecd-98d3-68a2a88aee38' href='../records/8882a149-fabd-4ecd-98d3-68a2a88aee38'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>179</th>
@@ -1053,7 +1053,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_476204a7-0714-4755-953d-61fa3c5df497'>Hakai Institute Nutrients (Dosser et al., 2021)</a></td>
       <td>2023-03-13</td>
       <td>2026-06-05</td>
-      <td><a title='75b60436-da51-4ccf-b14a-27f45f782b2b' href='../records/75b60436-da51-4ccf-b14a-27f45f782b2b'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>164</th>
@@ -1361,7 +1361,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-28</td>
-      <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='../records/18911dee-9ca0-408b-8999-28da3e3dde7a'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>132</th>
@@ -1413,14 +1413,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>113</th>
+      <th>114</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
       <td>2022-03-25</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>114</th>
+      <th>113</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
@@ -1840,14 +1840,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>50</th>
+      <th>51</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
       <td>2022-01-24</td>
       <td>2026-02-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>51</th>
+      <th>50</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td>2022-01-24</td>
       <td>2026-05-14</td>
@@ -2173,7 +2173,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cf7a6149-b34a-404c-88e1-c556bf361408'>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</a></td>
       <td>2021-09-23</td>
       <td>2026-07-10</td>
-      <td><a title='c83b5cbf-cc8c-4676-823c-77e28c0ec9da' href='../records/c83b5cbf-cc8c-4676-823c-77e28c0ec9da'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>5</th>
@@ -2272,11 +2272,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
     <tr>
       <td>2026-10-29</td>
-      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
-      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
-    </tr>
-    <tr>
-      <td>2026-10-29</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
     </tr>
@@ -2316,19 +2311,9 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
     </tr>
     <tr>
-      <td>2026-07-28</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
-    </tr>
-    <tr>
       <td>2026-07-17</td>
       <td>Stream Event Sampling - Calvert Island</td>
       <td>Invalid Resource URL: https://drive.google.com/open?id=0B3dfJwMwT2k4RzNYOGFUcFNpUms returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-07-10</td>
-      <td>Northwest Calvert sea wrack temporal data, Central Coast, British Columbia (2016-2017)</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/r603-b338 status_code=502</td>
     </tr>
     <tr>
       <td>2026-06-22</td>
@@ -2344,11 +2329,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-16</td>
       <td>Sea Stars 2024 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-06-05</td>
-      <td>Hakai Institute Nutrients (Dosser et al., 2021)</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/j3j5-wt70 status_code=502</td>
     </tr>
     <tr>
       <td>2026-06-03</td>
