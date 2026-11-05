@@ -244,14 +244,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>294</th>
+      <th>295</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e9b72149-8cf1-4000-ae3e-6b29ad60b078'>BC Estuary Water Quality Monitoring Data - Malksope River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
       <td></td>
     </tr>
     <tr>
-      <th>295</th>
+      <th>294</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed84df74-5a2d-4a7d-87c8-a7b93f11088e'>BC Estuary Water Quality Monitoring Data - Nalaxdlala River Estuary (Provisional)</a></td>
       <td>2026-09-11</td>
       <td>2026-09-23</td>
@@ -1413,14 +1413,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>114</th>
+      <th>113</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ed3c5cb4-e6b0-4c8a-808e-3583a9a6cfde'>Observed stream flow from seven small coastal watersheds in British Columbia, Canada, Sept 2013 – April 2019</a></td>
       <td>2022-03-25</td>
       <td>2026-06-15</td>
       <td></td>
     </tr>
     <tr>
-      <th>113</th>
+      <th>114</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_ef59cc12-5031-4c65-b379-7ca03ad76d34'>Precipitation time-series – Central Coast and Quadra Island – 2013 - 2019 Version 1.0</a></td>
       <td>2022-03-25</td>
       <td>2024-07-24</td>
@@ -1651,14 +1651,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>71</th>
+      <th>72</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
       <td></td>
     </tr>
     <tr>
-      <th>72</th>
+      <th>71</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-15</td>
