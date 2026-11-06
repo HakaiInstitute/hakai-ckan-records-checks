@@ -17,6 +17,11 @@ This page present the list of all the records associated with the issue: **Inval
   <tbody>
     <tr>
       <td>2026-10-29</td>
+      <td>Bulk and Size-Fractionated Chlorophyll and Phaeopigment Concentrations Collected by Niskin Bottle, BC, Canada (Research)</td>
+      <td>Invalid Resource URL: http://docs.turnerdesigns.com/t2/doc/manuals/998-7210.pdf returned status_code=timeout</td>
+    </tr>
+    <tr>
+      <td>2026-10-29</td>
       <td>Zooplankton taxonomic abundance and biomass along the BC Coast</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
     </tr>
