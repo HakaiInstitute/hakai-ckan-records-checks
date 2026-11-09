@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-15</td>
-      <td>Environmental DNA survey of Calvert Island, British Columbia, 2021</td>
-      <td>Broken link (429): https://genomegapp.weebly.com</td>
+      <td>2026-10-19</td>
+      <td>Observations from the 2024 Hakai Quadra Island Bioblitz</td>
+      <td>Broken link (429): https://www.youtube.com/watch?v=1Jq7LHuBDN4</td>
     </tr>
   </tbody>
 </table>
