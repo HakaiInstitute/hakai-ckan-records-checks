@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-28</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
+      <td>2026-08-19</td>
+      <td>Data on invasion of Calvert Island by Orthione griffenis</td>
+      <td>Broken link (connection error): https://doi.org/10.3391/bir.2020.9.3.09</td>
     </tr>
   </tbody>
 </table>
