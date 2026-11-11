@@ -16,14 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-28</td>
-      <td>Spatial extent of surface canopy kelp derived from fixed-wing surveys (2024), North Vancouver Island, British Columbia, Canada</td>
-      <td>Broken link (500): https://drive.google.com/file/d/1AvIuDRR06KE-z70reZmNMMbkYOU1Hzgo/view</td>
-    </tr>
-    <tr>
-      <td>2025-04-02</td>
-      <td>Mount Robson Aerial Photo and LiDAR Survey</td>
-      <td>Broken link (500): https://drive.google.com/file/d/10DXaHVFkhdYlkpgrMBW7Ie4wXWmScNZb/view?usp=drive_link</td>
+      <td>2026-06-12</td>
+      <td>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</td>
+      <td>Broken link (500): https://www.pmel.noaa.gov/co2/story/2016+West+Coast+Ocean+Acidification+Cruise</td>
     </tr>
   </tbody>
 </table>
