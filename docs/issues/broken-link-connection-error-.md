@@ -16,9 +16,14 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-07-28</td>
-      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
-      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
+      <td>2026-10-29</td>
+      <td>Daily satellite (Sentinel 3A and 3B) chlorophyll and suspended matter concentrations for coastal British Columbia and southeast Alaska</td>
+      <td>Broken link (connection error): https://doi.org/10.1109/PACRIM47961.2019.8985053</td>
+    </tr>
+    <tr>
+      <td>2026-06-17</td>
+      <td>Fraser River Landslide Project - Sites of Concern 2024</td>
+      <td>Broken link (connection error): https://arcg.is/1eau010</td>
     </tr>
   </tbody>
 </table>
