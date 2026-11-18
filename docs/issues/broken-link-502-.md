@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-06-30</td>
-      <td>100 Islands Research Program Terrestrial Vegetation Data - BC Central Coast - 2015, 2016, 2017</td>
-      <td>Broken link (502): https://dspace.library.uvic.ca/handle/1828/9312</td>
+      <td>2026-10-28</td>
+      <td>Phytoplankton and zooplankton observations from coastal British Columbia, Canada, and Southeast Alaska, United States</td>
+      <td>Broken link (502): https://doi.org/10.21966/tcp2-mm86</td>
     </tr>
   </tbody>
 </table>

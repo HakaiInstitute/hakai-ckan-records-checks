@@ -20,6 +20,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
       <td>Metadata mismatch: related identifier 'https://catalogue.hakai.org/dataset/ca-cioos_a8f45d4f-6e6b-4cce-a92d-28e8924148b7' (IsPartOf) in DataCite not found in CKAN</td>
     </tr>
+    <tr>
+      <td>2026-10-16</td>
+      <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.24200975' (IsIdenticalTo) in DataCite not found in CKAN</td>
+    </tr>
   </tbody>
 </table>
 

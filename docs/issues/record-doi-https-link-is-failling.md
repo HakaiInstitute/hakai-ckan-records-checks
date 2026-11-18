@@ -16,9 +16,9 @@ This page present the list of all the records associated with the issue: **Recor
   </thead>
   <tbody>
     <tr>
-      <td>2026-09-24</td>
-      <td>Glacier and Ice Aerial Surveys in British Columbia - 2022 - Hakai Airborne Coastal Observatory</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/n3b4-d226 status_code=502</td>
+      <td>2026-06-17</td>
+      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/gsbw-bz85 status_code=502</td>
     </tr>
   </tbody>
 </table>
