@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 1.0, 2.0, 3.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 1, 2, 3, 4, 9], "xaxis": "x", "y": ["Broken link (502)", "Broken link (410)", "No funder", "Record DOI HTTPS link is failling", "Metadata mismatch", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 3.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 2, 3, 4, 9], "xaxis": "x", "y": ["Broken link (410)", "No funder", "Metadata mismatch", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -59,7 +59,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a8f45d4f-6e6b-4cce-a92d-28e8924148b7'>Phytoplankton and zooplankton observations from coastal British Columbia, Canada, and Southeast Alaska, United States</a></td>
       <td>2026-10-28</td>
       <td>2026-10-28</td>
-      <td><a title='36ae3efb-4eec-4cbc-8556-3d81976abc22' href='../records/36ae3efb-4eec-4cbc-8556-3d81976abc22'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>307</th>
@@ -1182,14 +1182,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>147</th>
+      <th>146</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_c89e35df-8a16-4efc-ae29-15f4e3da8a55'>Surfgrass Communities - Motile Invertebrate Surveys - BC Central Coast</a></td>
       <td>2022-10-08</td>
       <td>2026-07-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>146</th>
+      <th>147</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_cec3dcef-8dba-4d91-aee6-b60ce416497c'>Mussel Dynamics - Point Intercepts - BC Central Coast</a></td>
       <td>2022-10-08</td>
       <td>2026-07-17</td>
@@ -1511,14 +1511,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>101</th>
+      <th>100</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc'>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-09-21</td>
       <td></td>
     </tr>
     <tr>
-      <th>100</th>
+      <th>101</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td>2022-03-11</td>
       <td>2026-06-15</td>
@@ -2005,7 +2005,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_f68be641-0017-4311-b4de-5d0aed9e2b57'>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</a></td>
       <td>2022-01-19</td>
       <td>2026-06-17</td>
-      <td><a title='d576481a-4f51-40eb-85e9-fb95933f94cd' href='../records/d576481a-4f51-40eb-85e9-fb95933f94cd'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>27</th>
@@ -2276,11 +2276,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-zooplankton-microscopy-dataset returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-10-28</td>
-      <td>Phytoplankton and zooplankton observations from coastal British Columbia, Canada, and Southeast Alaska, United States</td>
-      <td>Broken link (502): https://doi.org/10.21966/tcp2-mm86</td>
-    </tr>
-    <tr>
       <td>2026-10-27</td>
       <td>Size-fractionated zooplankton biomass and isotopes along the BC coast</td>
       <td>Metadata mismatch: related identifier 'https://catalogue.hakai.org/dataset/ca-cioos_a8f45d4f-6e6b-4cce-a92d-28e8924148b7' (IsPartOf) in DataCite not found in CKAN</td>
@@ -2334,11 +2329,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-22</td>
       <td>Biogeochemical Sampling of 28 Streams on Vancouver Island</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/Biogeochemical-Sampling-of-28-Streams-on-Vancouver-Island returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2026-06-17</td>
-      <td>100 Islands Project - Island Spatial Data -2017 - Coastal British Columbia - Canada</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/gsbw-bz85 status_code=502</td>
     </tr>
     <tr>
       <td>2026-06-16</td>
