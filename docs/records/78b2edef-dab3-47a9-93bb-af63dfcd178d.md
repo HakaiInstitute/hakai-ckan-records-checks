@@ -7,15 +7,20 @@ hide:
 
 # Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at Sitka Harbor, Sitka, Alaska, USA (Research)
 
-View Record in Hakai Catalogue: <a href="https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6" target="_blank">https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6</a>
+<div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1.5rem 0 2rem;">
+  <a href="https://catalogue.hakai.org/dataset/ca-cioos_d049351d-b806-461f-85fb-451f100fd7d6" target="_blank" rel="noopener noreferrer" style="flex:1;min-width:200px;padding:1rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-decoration:none;border-left:4px solid var(--md-primary-fg-color);box-shadow:0 1px 4px rgba(0,0,0,.08);display:flex;align-items:center;">
+    <span style="font-weight:600;color:var(--md-typeset-color);">View Record in Hakai Catalogue</span>
+  </a>
+  
+  <a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-NHZwyY9Qlk5leV5vMEV" target="_blank" rel="noopener noreferrer" style="flex:1;min-width:200px;padding:1rem 1.5rem;border-radius:8px;background:var(--md-code-bg-color);text-decoration:none;border-left:4px solid var(--md-primary-fg-color);box-shadow:0 1px 4px rgba(0,0,0,.08);display:flex;align-items:center;">
+    <span style="font-weight:600;color:var(--md-typeset-color);">Resolve Issues in Metadata Entry Form</span>
+  </a>
+  
+</div>
 
-| Issue      |
-|:-----------|
-| No version |
-
-
-<a href="https://hakaiinstitute.github.io/hakai-metadata-entry-form#/en/hakai/tV5qE0aUgaOjSVmgPgiZ6MyHuSy1/-NHZwyY9Qlk5leV5vMEV" target="_blank">Click here to resolve these issues in the Metadata Entry Form</a>
-
+| Issue                                                                                                                 |
+|:----------------------------------------------------------------------------------------------------------------------|
+| Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiSitkaBoLResearch.html returned status_code=429 |
 
 <script>
    document.addEventListener("DOMContentLoaded", function() {
