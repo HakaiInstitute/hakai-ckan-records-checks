@@ -25,6 +25,16 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Sea star microbiome data from 16S amplicon sequencing associated with rocky intertidal sites on Calvert and Quadra Islands</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.24200975' (IsIdenticalTo) in DataCite not found in CKAN</td>
     </tr>
+    <tr>
+      <td>2026-07-28</td>
+      <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
+      <td>Metadata mismatch: publication year CKAN='2025' | DataCite='2026'</td>
+    </tr>
+    <tr>
+      <td>2026-07-28</td>
+      <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
+      <td>Metadata mismatch: version CKAN='1.0' | DataCite='1.1'</td>
+    </tr>
   </tbody>
 </table>
 
