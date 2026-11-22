@@ -16,9 +16,14 @@ This page present the list of all the records associated with the issue: **Broke
   </thead>
   <tbody>
     <tr>
-      <td>2026-10-28</td>
-      <td>Phytoplankton and zooplankton observations from coastal British Columbia, Canada, and Southeast Alaska, United States</td>
-      <td>Broken link (502): https://doi.org/10.21966/tcp2-mm86</td>
+      <td>2026-10-05</td>
+      <td>High Resolution Coastal Carbon Monitoring in the Northeast Pacific</td>
+      <td>Broken link (502): https://doi.org/10.21966/1.715693</td>
+    </tr>
+    <tr>
+      <td>2026-06-03</td>
+      <td>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</td>
+      <td>Broken link (502): https://doi.org/10.21966/8mpe-h081</td>
     </tr>
   </tbody>
 </table>
