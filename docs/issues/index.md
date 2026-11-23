@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 2.0, 3.0, 3.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 2, 3, 3, 4, 9], "xaxis": "x", "y": ["Broken link (410)", "No funder", "Broken link (502)", "Broken link (202)", "Metadata mismatch", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 3.0, 3.0, 4.0, 8.0], "textposition": "outside", "x": [1, 1, 3, 3, 4, 8], "xaxis": "x", "y": ["Broken link (410)", "No funder", "Metadata mismatch", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -122,7 +122,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_e5e61f93-db9b-48d0-b779-45e73fabfd0a'>High Resolution Coastal Carbon Monitoring in the Northeast Pacific</a></td>
       <td>2026-10-05</td>
       <td>2026-10-05</td>
-      <td><a title='098c52a1-6dde-4e64-8b27-5a34e40870e6' href='../records/098c52a1-6dde-4e64-8b27-5a34e40870e6'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>298</th>
@@ -857,7 +857,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6e947d50-8392-42ce-bff9-24b126c7cab7'>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</a></td>
       <td>2024-11-06</td>
       <td>2026-06-03</td>
-      <td><a title='9d1749f8-9be2-468c-946e-965f92fcdc67' href='../records/9d1749f8-9be2-468c-946e-965f92fcdc67'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>193</th>
@@ -1025,7 +1025,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</a></td>
       <td>2023-08-29</td>
       <td>2026-09-28</td>
-      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='../records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>169</th>
@@ -1840,14 +1840,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>50</th>
+      <th>51</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
       <td>2022-01-24</td>
       <td>2026-02-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>51</th>
+      <th>50</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td>2022-01-24</td>
       <td>2026-05-14</td>
@@ -2301,19 +2301,9 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>No funder</td>
     </tr>
     <tr>
-      <td>2026-10-05</td>
-      <td>High Resolution Coastal Carbon Monitoring in the Northeast Pacific</td>
-      <td>Broken link (502): https://doi.org/10.21966/1.715693</td>
-    </tr>
-    <tr>
       <td>2026-09-28</td>
       <td>Putting fjord biodiversity on the map for British Columbia conservation planning</td>
       <td>Broken link (202): https://fjedna.shinyapps.io/census-app1/</td>
-    </tr>
-    <tr>
-      <td>2026-09-28</td>
-      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</td>
-      <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.nc?work_area%2Ccruise%2Chakai_id%2Cvessel%2Coperators%2Ccomments%2Cdevice_model%2Cdevice_sn%2Cdevice_firmware%2Ccast_processing_stage%2Cstation%2Clatitude%2Clongitude%2Cprecise_latitude%2Cprecise_longitude%2Ctime%2Cbottom_date_time%2Cend_date_time%2Cmeasurement_date_time%2Cbottom_depth%2Ctarget_depth%2Cdrop_speed%2Cdirection_flag%2Cdescent_rate%2Cdepth%2Cdepth_UQL%2Cdepth_flag_description%2Cpressure%2Cpressure_UQL%2Cpressure_flag_description%2Cconductivity%2Cconductivity_UQL%2Cconductivity_flag_description%2Ctemperature%2Ctemperature_UQL%2Ctemperature_flag_description%2Csalinity%2Csalinity_UQL%2Csalinity_flag_description%2Cdissolved_oxygen_ml_l%2Cdissolved_oxygen_ml_l_UQL%2Cdissolved_oxygen_ml_l_flag_description%2Crinko_do_ml_l%2Crinko_do_ml_l_UQL%2Crinko_do_ml_l_flag_description%2Cflc%2Cflc_UQL%2Cflc_flag_description%2Cturbidity%2Cturbidity_UQL%2Cturbidity_flag_description%2Cpar%2Cpar_UQL%2Cpar_flag_description%2Cc_star_at%2Cc_star_at_UQL%2Cc_star_at_flag_description%2Cph%2Cph_UQL%2Ccph_flag_description%2Cbackscatter_beta%2Cbackscatter_beta_UQL%2Cbackscatter_beta_flag_description%2Ccdom_ppb%2Ccdom_ppb_UQL%2Ccdom_flag_description&work_area=~%22QUADRA%7CJOHNSTONE%20STRAIT%22&cruise=~%22JS%7CJS%20C%7CJS1%7CJS12%7CJSA1%7CJSA2%7CJSB%7CJSC%7CJSSOCKEYE%7COTHER%2CJSSOCKEYE%7CDI_C%2CDISOCKEYE%7CDI_W%2CDISOCKEYE%7CDISOCKEYE%22 returned status_code=502</td>
     </tr>
     <tr>
       <td>2026-08-25</td>
@@ -2354,11 +2344,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-06-03</td>
       <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
       <td>Broken link (410): https://coastalmarginsnetwork.org/</td>
-    </tr>
-    <tr>
-      <td>2026-06-03</td>
-      <td>Spatial extent of eelgrass (Zostera marina) beds from monitoring sites within the greater park ecosystem of Pacific Rim National Park Reserve (2017, 2018)</td>
-      <td>Broken link (502): https://doi.org/10.21966/8mpe-h081</td>
     </tr>
     <tr>
       <td>2026-05-25</td>
