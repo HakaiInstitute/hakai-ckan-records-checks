@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 3.0, 3.0, 4.0, 8.0], "textposition": "outside", "x": [1, 1, 3, 3, 4, 8], "xaxis": "x", "y": ["Broken link (410)", "No funder", "Metadata mismatch", "Broken link (202)", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 4.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 3, 4, 4, 9], "xaxis": "x", "y": ["Broken link (connection error)", "Broken link (410)", "No funder", "Broken link (202)", "Broken link (404)", "Metadata mismatch", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -94,7 +94,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_290a0bb2-ddcb-4150-be33-0c0eaa2fa243'>Freezing seawater samples alters eDNA community composition and richness</a></td>
       <td>2026-10-08</td>
       <td>2026-10-16</td>
-      <td></td>
+      <td><a title='2de051d0-4deb-4d0a-ad22-96fd660e6276' href='../records/2de051d0-4deb-4d0a-ad22-96fd660e6276'>1</a></td>
     </tr>
     <tr>
       <th>303</th>
@@ -1025,7 +1025,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_86343dd1-28d0-4d02-8eaf-402d51a7fef7'>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</a></td>
       <td>2023-08-29</td>
       <td>2026-09-28</td>
-      <td></td>
+      <td><a title='acd6c43f-6cbd-43c8-9bff-7d9ae6630295' href='../records/acd6c43f-6cbd-43c8-9bff-7d9ae6630295'>1</a></td>
     </tr>
     <tr>
       <th>169</th>
@@ -1252,14 +1252,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>117</th>
+      <th>116</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e446321-34f3-4d5a-8c7d-79c89eb76373'>Stream temperature time-series – Calvert Island – 2013 - 2019</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>116</th>
+      <th>117</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0e4f324c-6498-4c89-9e19-f2f9f474a1df'>LiDAR-derived Drainage Network for Calvert Island - British Columbia - Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
@@ -1322,14 +1322,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>126</th>
+      <th>127</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_74f47ab6-a1ca-4aef-9115-cf2baaf87bef'>Dissolved and particulate organic carbon chemistry for freshwater and marine stations from 2014 through 2016 on Calvert and Hecate Islands, British Columbia, Canada</a></td>
       <td>2022-03-29</td>
       <td>2026-07-17</td>
       <td></td>
     </tr>
     <tr>
-      <th>127</th>
+      <th>126</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_765d00bb-beec-486c-bd00-e27f972b7324'>Microbial activity and carbon fluxes in rainforest soil – Tsunami Hill, Calvert Island – June 2015 - April 2016</a></td>
       <td>2022-03-29</td>
       <td>2026-06-04</td>
@@ -1361,7 +1361,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_9e61819e-8385-41d2-a5c5-0e2f37c522ef'>LiDAR-based Ecosystem Classification for Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-28</td>
-      <td></td>
+      <td><a title='18911dee-9ca0-408b-8999-28da3e3dde7a' href='../records/18911dee-9ca0-408b-8999-28da3e3dde7a'>1</a></td>
     </tr>
     <tr>
       <th>132</th>
@@ -1651,14 +1651,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>71</th>
+      <th>72</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0ebfdd89-61d6-453c-870a-83167617b26a'>Glacier and Icefield Mapping - British Columbia - 2019 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-09</td>
       <td></td>
     </tr>
     <tr>
-      <th>72</th>
+      <th>71</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_0f524f76-a88b-4e0a-9c3c-ee83114c3679'>Gitanyow Archaeology, Cranberry Junction - 2020 - Airborne Coastal Observatory</a></td>
       <td>2022-03-01</td>
       <td>2026-06-15</td>
@@ -1840,14 +1840,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>51</th>
+      <th>50</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6c0697e9-7776-4d36-8219-b21ce72fbcc9'>Surface water CO2 parameters collected by Alaskan citizens around the northern Gulf of Alaska from April 2015 to August 2017. Version 1.0.</a></td>
       <td>2022-01-24</td>
       <td>2026-02-20</td>
       <td></td>
     </tr>
     <tr>
-      <th>50</th>
+      <th>51</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6d779012-e236-4a03-b11a-a5915f0f4342'>Underway surface seawater and marine boundary layer observations made from the Alaska Marine Highway System M/V Columbia from October 2017 to October 2018</a></td>
       <td>2022-01-24</td>
       <td>2026-05-14</td>
@@ -2291,6 +2291,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Metadata mismatch: related identifier 'https://doi.org/10.5281/zenodo.24200975' (IsIdenticalTo) in DataCite not found in CKAN</td>
     </tr>
     <tr>
+      <td>2026-10-16</td>
+      <td>Freezing seawater samples alters eDNA community composition and richness</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.64898/2026.11.13.764904' (IsPublishedIn) in DataCite not found in CKAN</td>
+    </tr>
+    <tr>
       <td>2026-10-06</td>
       <td>Global Eutrophication Monitoring Dataset of Trinidad and Tobago</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/GEM-Kit10-repository/tree/main returned status_code=404</td>
@@ -2306,9 +2311,19 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Broken link (202): https://fjedna.shinyapps.io/census-app1/</td>
     </tr>
     <tr>
+      <td>2026-09-28</td>
+      <td>Vertical Water Properties Profiles (CTD) from the Hakai Institute Juvenile Salmon Program (Provisional)</td>
+      <td>Invalid Resource URL: https://catalogue.hakai.org/erddap/tabledap/HakaiWaterPropertiesInstrumentProfileProvisional.nc?work_area%2Ccruise%2Chakai_id%2Cvessel%2Coperators%2Ccomments%2Cdevice_model%2Cdevice_sn%2Cdevice_firmware%2Ccast_processing_stage%2Cstation%2Clatitude%2Clongitude%2Cprecise_latitude%2Cprecise_longitude%2Ctime%2Cbottom_date_time%2Cend_date_time%2Cmeasurement_date_time%2Cbottom_depth%2Ctarget_depth%2Cdrop_speed%2Cdirection_flag%2Cdescent_rate%2Cdepth%2Cdepth_UQL%2Cdepth_flag_description%2Cpressure%2Cpressure_UQL%2Cpressure_flag_description%2Cconductivity%2Cconductivity_UQL%2Cconductivity_flag_description%2Ctemperature%2Ctemperature_UQL%2Ctemperature_flag_description%2Csalinity%2Csalinity_UQL%2Csalinity_flag_description%2Cdissolved_oxygen_ml_l%2Cdissolved_oxygen_ml_l_UQL%2Cdissolved_oxygen_ml_l_flag_description%2Crinko_do_ml_l%2Crinko_do_ml_l_UQL%2Crinko_do_ml_l_flag_description%2Cflc%2Cflc_UQL%2Cflc_flag_description%2Cturbidity%2Cturbidity_UQL%2Cturbidity_flag_description%2Cpar%2Cpar_UQL%2Cpar_flag_description%2Cc_star_at%2Cc_star_at_UQL%2Cc_star_at_flag_description%2Cph%2Cph_UQL%2Ccph_flag_description%2Cbackscatter_beta%2Cbackscatter_beta_UQL%2Cbackscatter_beta_flag_description%2Ccdom_ppb%2Ccdom_ppb_UQL%2Ccdom_flag_description&work_area=~%22QUADRA%7CJOHNSTONE%20STRAIT%22&cruise=~%22JS%7CJS%20C%7CJS1%7CJS12%7CJSA1%7CJSA2%7CJSB%7CJSC%7CJSSOCKEYE%7COTHER%2CJSSOCKEYE%7CDI_C%2CDISOCKEYE%7CDI_W%2CDISOCKEYE%7CDISOCKEYE%22 returned status_code=502</td>
+    </tr>
+    <tr>
       <td>2026-08-25</td>
       <td>Comparing invertebrate and seaweed diversity in kelp forests and urchin barrens in Owen Bay, British Columbia, using Autonomous Reef Monitoring Structures (ARMS)</td>
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
+    </tr>
+    <tr>
+      <td>2026-07-28</td>
+      <td>LiDAR-based Ecosystem Classification for Calvert Island</td>
+      <td>Broken link (connection error): https://www2.gov.bc.ca/gov/content/data/geographic-data-services/topographic-data/freshwater</td>
     </tr>
     <tr>
       <td>2026-07-28</td>
