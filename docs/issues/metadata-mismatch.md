@@ -30,16 +30,6 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Freezing seawater samples alters eDNA community composition and richness</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.64898/2026.11.13.764904' (IsPublishedIn) in DataCite not found in CKAN</td>
     </tr>
-    <tr>
-      <td>2026-07-28</td>
-      <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
-      <td>Metadata mismatch: publication year CKAN='2025' | DataCite='2026'</td>
-    </tr>
-    <tr>
-      <td>2026-07-28</td>
-      <td>Time series of surface kelp canopy area derived from remotely piloted aerial systems (RPAS, or drone) surveys, Central Coast, British Columbia</td>
-      <td>Metadata mismatch: version CKAN='1.0' | DataCite='1.1'</td>
-    </tr>
   </tbody>
 </table>
 
