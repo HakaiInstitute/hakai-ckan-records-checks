@@ -30,6 +30,11 @@ This page present the list of all the records associated with the issue: **Metad
       <td>Freezing seawater samples alters eDNA community composition and richness</td>
       <td>Metadata mismatch: related identifier 'https://doi.org/10.64898/2026.11.13.764904' (IsPublishedIn) in DataCite not found in CKAN</td>
     </tr>
+    <tr>
+      <td>2026-06-16</td>
+      <td>Sea Stars 2024 Experiment - Environmental Data</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1242/jeb.252683' (IsPublishedIn) in DataCite not found in CKAN</td>
+    </tr>
   </tbody>
 </table>
 

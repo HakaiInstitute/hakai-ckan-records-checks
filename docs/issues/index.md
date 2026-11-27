@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 3.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 3, 3, 4, 9], "xaxis": "x", "y": ["Broken link (429)", "Broken link (410)", "No funder", "Broken link (202)", "Metadata mismatch", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 4.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 3, 4, 4, 9], "xaxis": "x", "y": ["Broken link (429)", "No funder", "Record DOI HTTPS link is failling", "Broken link (202)", "Metadata mismatch", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -703,7 +703,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_31ac855d-bf15-42d8-b20d-754638202c66'>Sea Stars 2024 Experiment - Environmental Data</a></td>
       <td>2025-05-16</td>
       <td>2026-06-16</td>
-      <td><a title='da040f55-984d-490d-b917-a67856de4bac' href='../records/da040f55-984d-490d-b917-a67856de4bac'>1</a></td>
+      <td><a title='da040f55-984d-490d-b917-a67856de4bac' href='../records/da040f55-984d-490d-b917-a67856de4bac'>2</a></td>
     </tr>
     <tr>
       <th>215</th>
@@ -717,7 +717,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e'>Calliarthron 2023 Experiment - Environmental Data</a></td>
       <td>2025-05-08</td>
       <td>2025-05-08</td>
-      <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053'>1</a></td>
+      <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053'>2</a></td>
     </tr>
     <tr>
       <th>213</th>
@@ -1284,7 +1284,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_25674e9b-1d49-4270-b917-cfe6cdc30f95'>Watersheds of the northern Pacific coastal temperate rainforest margin</a></td>
       <td>2022-03-29</td>
       <td>2026-06-03</td>
-      <td><a title='30560220-bc44-4020-b424-0abf617d1c00' href='../records/30560220-bc44-4020-b424-0abf617d1c00'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>120</th>
@@ -1511,14 +1511,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>100</th>
+      <th>101</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7de69ca8-b3f3-4761-b441-dfc9e63b1fbc'>Rocky Intertidal RPAS Mapping Project - BC Central Coast - Canada</a></td>
       <td>2022-03-11</td>
       <td>2026-09-21</td>
       <td></td>
     </tr>
     <tr>
-      <th>101</th>
+      <th>100</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_7e0f0bbc-507a-4ca0-bafc-1cc3e56db028'>Hakai physical plan and utility lines – Calvert Island Field Station - 2006</a></td>
       <td>2022-03-11</td>
       <td>2026-06-15</td>
@@ -2197,14 +2197,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>2</th>
+      <th>1</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_8b069feb-57fc-4d57-bf5c-761fd7cf0b45'>Surface Seawater and Marine Boundary Layer CO2 Observations from the Kwakshua Channel (KC) Buoy on the Central Coast of British Columbia (Research)</a></td>
       <td>2021-03-31</td>
       <td>2026-09-08</td>
       <td></td>
     </tr>
     <tr>
-      <th>1</th>
+      <th>2</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_b62c3aaa-c3b8-41cb-b035-4da16209f26a'>Seawater Carbon Dioxide (CO2) Content from the Burke-o-Lator pCO2/TCO2 analyzer located at the Hakai Institute’s Quadra Island Field Station, Hyacinthe Bay, BC, Canada (Provisional)</a></td>
       <td>2021-03-31</td>
       <td>2026-06-23</td>
@@ -2346,9 +2346,9 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-seastars2024 returned status_code=404</td>
     </tr>
     <tr>
-      <td>2026-06-03</td>
-      <td>Watersheds of the northern Pacific coastal temperate rainforest margin</td>
-      <td>Broken link (410): https://coastalmarginsnetwork.org/</td>
+      <td>2026-06-16</td>
+      <td>Sea Stars 2024 Experiment - Environmental Data</td>
+      <td>Metadata mismatch: related identifier 'https://doi.org/10.1242/jeb.252683' (IsPublishedIn) in DataCite not found in CKAN</td>
     </tr>
     <tr>
       <td>2026-05-25</td>
@@ -2364,6 +2364,11 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2025-05-08</td>
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
+    </tr>
+    <tr>
+      <td>2025-05-08</td>
+      <td>Calliarthron 2023 Experiment - Environmental Data</td>
+      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/7nwn-bj60 status_code=502</td>
     </tr>
   </tbody>
 </table>
