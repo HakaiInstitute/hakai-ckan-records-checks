@@ -12,7 +12,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
 <script>
 (function waitForPlotly() {
   if (typeof Plotly !== 'undefined') {
-    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 1.0, 1.0, 3.0, 4.0, 4.0, 9.0], "textposition": "outside", "x": [1, 1, 1, 3, 4, 4, 9], "xaxis": "x", "y": ["Broken link (429)", "No funder", "Record DOI HTTPS link is failling", "Broken link (202)", "Metadata mismatch", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
+    var fig = {"data": [{"hovertemplate": "Number of Records with Issue=%{text}<br>message=%{y}<extra></extra>", "legendgroup": "", "marker": {"color": "#AA2026", "pattern": {"shape": ""}}, "name": "", "orientation": "h", "showlegend": false, "text": [1.0, 3.0, 4.0, 4.0, 9.0], "textposition": "outside", "x": [1, 3, 4, 4, 9], "xaxis": "x", "y": ["No funder", "Broken link (202)", "Metadata mismatch", "Broken link (404)", "Invalid Resource URL"], "yaxis": "y", "type": "bar", "cliponaxis": false}], "layout": {"template": {"data": {"scatter": [{"type": "scatter"}]}}, "xaxis": {"anchor": "y", "domain": [0.0, 1.0], "title": {"text": "Number of Records with Issue"}, "tickformat": "d"}, "yaxis": {"anchor": "x", "domain": [0.0, 1.0], "title": {}, "tickfont": {"size": 10}, "linecolor": "black", "automargin": true}, "legend": {"tracegroupgap": 0}, "margin": {"t": 20, "l": 0, "r": 60, "b": 40}, "barmode": "relative", "plot_bgcolor": "rgba(0,0,0,0)", "paper_bgcolor": "rgba(0,0,0,0)", "showlegend": false}};
     var el = document.getElementById('issue-distribution-chart');
     Plotly.newPlot(el, fig.data, fig.layout, {responsive: true}).then(function() {
       el.on('plotly_click', function(data) {
@@ -40,6 +40,20 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <th>311</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_59b61363-6283-428f-bcad-27553fdb3549'>Pacific eDNA Coastal Observatory (PECO)</a></td>
+      <td>2026-11-26</td>
+      <td>2026-11-26</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>312</th>
+      <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_789a8909-d7de-45d7-987e-0de1f4186dfd'>Data for Paper: Effect of environmental DNA sampling resolution in detecting nearshore fish biodiversity compared to capture surveys</a></td>
+      <td>2026-11-26</td>
+      <td>2026-11-26</td>
+      <td></td>
+    </tr>
     <tr>
       <th>308</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_244b5915-0ccf-4fab-9720-d2ac9394a27b'>LiDAR Dataset - Calvert Island - 2012 & 2014 - British Columbia - Canada</a></td>
@@ -80,7 +94,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_6795d6e1-cca7-484c-b5f3-0eff351b91df'>Observations from the 2024 Hakai Quadra Island Bioblitz</a></td>
       <td>2026-10-19</td>
       <td>2026-10-19</td>
-      <td><a title='c2718aaa-a372-4133-bcea-074d4f1ccbea' href='../records/c2718aaa-a372-4133-bcea-074d4f1ccbea'>1</a></td>
+      <td></td>
     </tr>
     <tr>
       <th>304</th>
@@ -717,7 +731,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_78818ed7-ec26-4004-afa1-137741ddda1e'>Calliarthron 2023 Experiment - Environmental Data</a></td>
       <td>2025-05-08</td>
       <td>2025-05-08</td>
-      <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053'>2</a></td>
+      <td><a title='e4038a43-060b-474e-b6f2-ea68d0081053' href='../records/e4038a43-060b-474e-b6f2-ea68d0081053'>1</a></td>
     </tr>
     <tr>
       <th>213</th>
@@ -1273,7 +1287,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>119</th>
+      <th>120</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_23bc8c35-2e4e-4382-9296-a52d5ea49889'>Discharge Time Series (2013-2017) – Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-06-22</td>
@@ -1287,7 +1301,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>120</th>
+      <th>119</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_26443ab2-964f-4031-a53b-f132434573e8'>Ecosystem Comparison Plots - Calvert Island</a></td>
       <td>2022-03-29</td>
       <td>2026-07-22</td>
@@ -1798,7 +1812,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>47</th>
+      <th>46</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_17396d02-88ff-4240-837b-5d3a45e70ea0'>Water column CO2 system measurements collected during the 2016 National Oceanic and Atmospheric Administration West Coast Ocean Acidification survey (NOAA WCOA2016) from California to British Columbia</a></td>
       <td>2022-01-24</td>
       <td>2026-06-12</td>
@@ -1819,7 +1833,7 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>46</th>
+      <th>47</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_3d7d93d0-73be-4c1b-af09-307e60a3576d'>Water column carbonate system measurements from the Pacific Salmon Foundation Citizen Science Program stations from July 2016 to October 2017 in the northern Salish Sea, British Columbia, Canada</a></td>
       <td>2022-01-24</td>
       <td>2026-06-15</td>
@@ -2218,14 +2232,14 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td></td>
     </tr>
     <tr>
-      <th>311</th>
+      <th>313</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_66fbb7f5-3644-471a-95ee-f8d3758e888b'>Mount Robson Aerial Photo and LiDAR Survey</a></td>
       <td></td>
       <td>2025-04-02</td>
       <td></td>
     </tr>
     <tr>
-      <th>312</th>
+      <th>314</th>
       <td><a href='https://catalogue.hakai.org/dataset/ca-cioos_a161a9c2-6d65-4a0a-aca0-97fe36e6aac9'>Late Pleistocene and early Holocene pollen data from northern Vancouver Island, Canada</a></td>
       <td></td>
       <td>2026-10-09</td>
@@ -2284,11 +2298,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2026-10-26</td>
       <td>Genetic evidence for the presence of Maritrema gratiosum in the Northeast Pacific</td>
       <td>Broken link (404): https://doi.org/10.21966/ekwk-r335</td>
-    </tr>
-    <tr>
-      <td>2026-10-19</td>
-      <td>Observations from the 2024 Hakai Quadra Island Bioblitz</td>
-      <td>Broken link (429): https://www.youtube.com/watch?v=1Jq7LHuBDN4</td>
     </tr>
     <tr>
       <td>2026-10-16</td>
@@ -2364,11 +2373,6 @@ This page present a summary of issues detected on the [Hakai Catalogue]().
       <td>2025-05-08</td>
       <td>Calliarthron 2023 Experiment - Environmental Data</td>
       <td>Invalid Resource URL: https://github.com/HakaiInstitute/hakai-wetlab-calliarthron2023 returned status_code=404</td>
-    </tr>
-    <tr>
-      <td>2025-05-08</td>
-      <td>Calliarthron 2023 Experiment - Environmental Data</td>
-      <td>Record DOI HTTPS link is failling: https://doi.org/10.21966/7nwn-bj60 status_code=502</td>
     </tr>
   </tbody>
 </table>
